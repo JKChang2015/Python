@@ -1,2 +1,3 @@
-# Python
-python practices
+# Python practices
+---
+![Alt text](/CJK/python.jpg)
