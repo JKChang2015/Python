@@ -10,7 +10,7 @@ print student [2] #print the element of tuple
 print student # print all
 # student2[0] = "AA", error, because tuple doese not support assignment
 
-print ("\n\n\n\n")
+print ("\n\n")
 
 #SET
 studentName1 = set('abcdeeffaade')
@@ -22,7 +22,7 @@ print studentName1 - studentName2
 new = set(studentName1)
 print new
 
-print ("\n\n\n\n")
+print ("\n\n")
 
 #DICTIONARY
 st1 = {'name':"David", "Chinese": 123, "Math": 13}
