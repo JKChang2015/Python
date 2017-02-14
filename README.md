@@ -1,3 +1,3 @@
 # Python practices
 ---
-![Alt text](/CJK/resources/python.jpg)
+![Alt text](/Kids programming/resources/python.jpg)
