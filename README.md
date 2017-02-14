@@ -1,3 +1,3 @@
 # Python practices
 ---
-![Alt text](/CJK/python.jpg)
+![Alt text](/CJK/resources/python.jpg)
