@@ -10,3 +10,4 @@ for dog in [0 , 1]:
                     print '#', count, '\t',
                     print dog, "\t\t", bun, "\t\t", ketchup, "\t\t\t", mustard, '\t\t\t', onions
                     count +=1
+
