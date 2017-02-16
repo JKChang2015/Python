@@ -1,5 +1,6 @@
 import copy
 
+#shallow copy
 will = ["Will", 28, ["Python", "C#", "JavaScript"]]
 wilber = copy.copy(will)
 
