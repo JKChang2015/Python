@@ -13,3 +13,4 @@ my_price = float(raw_input('pls input a price: '))
 totalPrice = calTax(my_price, 0.06)
 
 print str(totalPrice)
+
