@@ -10,5 +10,4 @@ def printMyAddress():
     print 'PR18TL'
     print
 
-
 printMyAddress()
