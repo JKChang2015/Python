@@ -1,20 +1,22 @@
-# L14_cl
+# L14_cls2
 # Created by JKChang
-# 21/02/2017, 09:41
-# Description: simple ball class
+# 21/02/2017, 15:21
+# Description: __init()__
 
 class Ball:
+    'I have something to say'
+
+    def __init__(self, color, size, direction):
+        self.color = color
+        self.size = size
+        self.direction = direction
+
     def bounce(self):
         if self.direction == 'down':
             self.direction = 'up'
 
 
-myBall = Ball()  # make a instance
-# set attribute
-myBall.direction = 'down'
-myBall.color = "red"
-myBall.size = 'small'
-
+myBall = Ball('red', 'small', 'down')
 # print attributes
 print 'I just creat a ball.'
 print 'Size of the ball is ', myBall.size
@@ -26,3 +28,4 @@ print
 # Method
 myBall.bounce()
 print 'now the direction is: ', myBall.direction
+print
