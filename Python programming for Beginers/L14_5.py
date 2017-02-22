@@ -6,7 +6,7 @@
 class Hotdog:
     def __init__(self):
         self.cooked_level = 0
-        self.cooked_string = 'raw'
+        self.cooked_string = 'Raw'
         self.condiments = []
 
     def __str__(self):
@@ -16,7 +16,7 @@ class Hotdog:
         for i in self.condiments:
             msg = msg + i + ', '
         msg = msg.strip(', ')
-        msg = self.cooked_string + ' ' + msg + ' .'
+        msg = self.cooked_string + ' ' + msg + '.'
         return msg
 
     def cook(self, time):
@@ -30,9 +30,21 @@ class Hotdog:
         else:
             self.cooked_string = 'raw'
 
+    def addCondiment(self, condiment):
+        self.condiments.append(condiment)
 
 myDog = Hotdog()
 print myDog
 
+print '\ncooking hot for 4 minutes'
 myDog.cook(4)
+print myDog
+
+print '\ncooking hot for 3 more minutes'
+myDog.cook(3)
+print myDog
+
+print '\nNow, adding some stuff on my hot dog'
+myDog.addCondiment('ketchup')
+myDog.addCondiment('Mustard')
 print myDog
