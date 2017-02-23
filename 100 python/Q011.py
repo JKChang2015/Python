@@ -9,5 +9,6 @@
 # 0100,0011,1010,1001
 # Then the output should be:
 # 1010
-#
+
+
 
