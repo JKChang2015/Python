@@ -10,5 +10,10 @@
 # Then the output should be:
 # 1010
 
-
-
+res = []
+items = [x for x in raw_input('pls input binary numbers: ').split(',')]
+for p in items:
+    dec_p = int(p, 2)
+    if not dec_p % 5:
+        res.append(p)
+print ','.join(res)
