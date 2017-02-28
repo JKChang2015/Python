@@ -14,4 +14,24 @@
 # Then, the output should be:
 # 500
 
+import sys
 
+res = 0
+
+while True:
+    s = raw_input(" 'D' for deposit and 'W' for withdrawal: ")
+    if not s:
+        break
+
+    values = s.split(" ")
+    operation = values[0]
+    amount = int(values[1])
+
+    if operation == "D":
+        res += amount
+    elif operation == "W":
+        res -= amount
+    else:
+        pass
+
+print res

@@ -20,4 +20,25 @@
 # Then, the output of the program should be:
 # ABd1234@1
 
+import re
 
+while True:
+    s = raw_input('Please input your password: ',)
+    if not s:
+        break
+
+    if len(s) < 6 or len(s) > 12:
+        print 'ERROR: length should between 6 to 12 '
+        continue
+    if not re.search("[a-z]", s):
+        print 'ERROR: should at least contain a lower case'
+        continue
+    if not re.search("[A-Z]", s):
+        print 'ERROR: should at least contain a upper case'
+        continue
+    if not re.search("[$#@]", s):
+        print 'ERROR: should at least contain a character case'
+        continue
+    else:
+        print "Well done! your password is: ", s
+        break
