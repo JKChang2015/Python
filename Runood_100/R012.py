@@ -21,7 +21,6 @@ for num in range(101, 201):
 print '\n\n\n'
 
 h = 0
-
 for nums in range(101, 500):
     leap = True
     k = int(sqrt(nums + 1))
