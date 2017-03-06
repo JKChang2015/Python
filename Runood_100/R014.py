@@ -6,7 +6,8 @@
 
 
 def pFact(n):
-    print '{} = '.format(100)
     if not isinstance(n, int) or n <= 0:
         print 'Please input a integer'
         exit(0)
+    elif n in [1]:
+        print
