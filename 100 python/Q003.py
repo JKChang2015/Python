@@ -10,9 +10,10 @@
 # Then, the output should be:
 # {1: 1, 2: 4, 3: 9, 4: 16, 5: 25, 6: 36, 7: 49, 8: 64}
 
-n = int(raw_input())
+n = int(raw_input('pls input a number'))
 d = dict()
-for i in range(1, n + 1):
+
+for i in range (1, n+1):
     d[i] = i * i
 
 print d
