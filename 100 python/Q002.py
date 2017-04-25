@@ -10,12 +10,10 @@
 # Then, the output should be:
 # 40320
 
-
 def fact(x):
     if x == 0:
-        return 1;
-    return x * fact(x - 1)
-
+        return 1
+    return fact(x - 1) * x
 
 x = int(raw_input('pls input a number: '))
 print fact(x)
