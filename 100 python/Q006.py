@@ -18,22 +18,9 @@ c = 50
 h = 30
 
 res = []
-input = [raw_input('pls input numbers split by "," : ').split((','))]
+items = [x for x in raw_input('pls input numbsers split with "," : ').split(',')]
 
-for d in input:
-    res.append(int(round(math.sqrt(2 * c * float(d) / h))))
+for d in items:
+    res.append(str(int(round(math.sqrt(2 * c * float(d)/h)))))
 
-print ','.join(str(res))
-
-# import math
-# c = 50
-# h = 30
-#
-# res = []
-# input = [raw_input(' pls input numbers split by "," :  ').split(',')]
-#
-# for d in input:
-#     res.append(int(round(math.sqrt( 2 * c * float(d)/h))))
-#
-# print ','.join(str(res))
-#
+print ','.join(res)
