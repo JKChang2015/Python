@@ -12,16 +12,28 @@
 #              The output of the program should be:
 #              18,22,24
 
-
 import math
+
 c = 50
 h = 30
 
 res = []
-input = [raw_input(' pls input numbers split by "," :  ').split(',')]
+input = [raw_input('pls input numbers split by "," : ').split((','))]
 
 for d in input:
-    res.append(int(round(math.sqrt( 2 * c * float(d)/h))))
+    res.append(int(round(math.sqrt(2 * c * float(d) / h))))
 
 print ','.join(str(res))
 
+# import math
+# c = 50
+# h = 30
+#
+# res = []
+# input = [raw_input(' pls input numbers split by "," :  ').split(',')]
+#
+# for d in input:
+#     res.append(int(round(math.sqrt( 2 * c * float(d)/h))))
+#
+# print ','.join(str(res))
+#
