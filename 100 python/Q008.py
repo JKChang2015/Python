@@ -10,6 +10,10 @@
 #          bag,hello,without,world
 
 
-terms = [term.strip(" ") for term in raw_input().split(',')]
-terms.sort()
-print(",".join(terms))
+
+
+
+
+# terms = [term.strip(" ") for term in raw_input().split(',')]
+# terms.sort()
+# print(",".join(terms))
