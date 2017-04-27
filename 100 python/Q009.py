@@ -12,6 +12,7 @@
 # PRACTICE MAKES PERFECT
 
 lines = []
+
 while True:
     s = raw_input()
     if s:
@@ -19,5 +20,6 @@ while True:
     else:
         break
 
-for an in lines:
-    print an
+for p in lines:
+    print p
+
