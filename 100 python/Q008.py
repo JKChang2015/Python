@@ -9,11 +9,6 @@
 #          Then, the output should be:
 #          bag,hello,without,world
 
-
-
-
-
-
-# terms = [term.strip(" ") for term in raw_input().split(',')]
-# terms.sort()
-# print(",".join(terms))
+items = [x for x in raw_input().split(',')]
+items.sort()
+print ','.join(items)
