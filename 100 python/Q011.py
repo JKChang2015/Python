@@ -10,6 +10,7 @@
 # Then the output should be:
 # 1010
 
+
 res = []
 items = [x for x in raw_input('pls input binary numbers: ').split(',')]
 for p in items:

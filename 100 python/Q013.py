@@ -10,15 +10,15 @@
 #          DIGITS 3
 
 s = raw_input('please input sequence of text')
-d = {"DIGITS": 0, "LETTERS": 0}
+d = {'DIGITS': 0, 'LETTERS': 0}
 
 for c in s:
     if c.isdigit():
-        d["DIGITS"] += 1
-    if c.isalpha():
-        d["LETTERS"] += 1
+        d['DIGITS'] += 1
+    elif c.isalpha():
+        d['LETTERS'] += 1
     else:
         pass
 
-print "LETTERS", d["LETTERS"]
-print "DIGITS", d["DIGITS"]
+print "LETTERS: ", d['LETTERS']
+print "DIGITS: ", d['DIGITS']
