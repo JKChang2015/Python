@@ -9,16 +9,16 @@
 #           UPPER CASE 1
 #           LOWER CASE 9
 
-s = raw_input('pls input something:  ')
-d = {"UPPER": 0, "LOWER": 0}
+s = raw_input('please input a sequence of terms: ')
+d = {'LOWER': 0, 'UPPER': 0}
 
 for c in s:
     if c.islower():
-        d["LOWER"] += 1
-    if c.isupper():
-        d["UPPER"] += 1
+        d['LOWER'] += 1
+    elif c.isupper():
+        d['UPPER'] += 1
     else:
         pass
 
-print "UPPER", d["UPPER"]
-print "LOWER", d["LOWER"]
+print 'UPPER: ', d['UPPER']
+print 'LOWER: ', d['LOWER']

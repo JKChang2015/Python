@@ -9,7 +9,9 @@
 #           Then, the output should be:
 #           1,3,5,7,9
 
-s = raw_input('please input a sequence of numbers')
-numbers = [x for x in s.split(',')
-           if int(x) % 2 != 0]
-print ",".join(numbers)
+nums = [x for x in raw_input().split(',')
+        if int(x) % 2 != 0 ]
+
+print ','.join(nums)
+
+
