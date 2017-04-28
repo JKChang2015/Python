@@ -1,7 +1,7 @@
-# inherit
+# overwrite
 # Created by JKChang
-# 28/04/2017, 11:49
-# Description: Inherit
+# 28/04/2017, 12:02
+# Description: test overwrite
 
 class Person(object):
     def __init__(self,name, sex):
@@ -17,6 +17,12 @@ class Person(object):
             pass
 
 class Child(Person):
+    def __init__(self, name, sex, mother, father):
+        Person.__init__(self,name,sex)
+        self.mother = mother
+        self.father = father
+
+
     def print_title(self):
         if self.sex == 'male':
             print 'boy', self.name
@@ -24,6 +30,7 @@ class Child(Person):
             print 'girl', self.name
         else:
             pass
+
 
 May = Child('May','female')
 David = Person('David', 'male')
