@@ -6,7 +6,7 @@
 
 from Q033 import creatDict
 
-print creatDict(21)
+print creatDict(20)
 
 
 

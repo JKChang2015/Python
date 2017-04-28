@@ -11,4 +11,4 @@ def creatDict(num):
 
     return d
 
-print creatDict(5)
+# print creatDict(5)
