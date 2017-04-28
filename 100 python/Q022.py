@@ -18,3 +18,14 @@
 # or:2
 # to:1
 
+freq = {}
+line = raw_input()
+
+for x in line.split(' '):
+    freq[x] = freq.get(x,0) + 1 #add 1, if not existed, creat one and add 1
+
+words = freq.keys()
+words.sort()
+
+for word in words:
+    print word, freq[word]
