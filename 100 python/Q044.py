@@ -9,5 +9,3 @@ if x.upper() == "YES":
     print x.lower().capitalize()
 else:
     print "No"
-
-
