@@ -5,4 +5,6 @@ import os
 # IMG2GIF
 # Created by JKChang
 # 17/02/2017, 10:13
-# Description:
+# Description: convert sequence of image to a GIF format
+
+
