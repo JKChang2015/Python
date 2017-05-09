@@ -14,8 +14,9 @@
 # In case of input data being supplied to the question, it should be assumed to be a console input.
 
 import re
-emailAddress = raw_input()
-pat2 = "(\w+)@((\w+\.)+(com))"
-r2 = re.match(pat2,emailAddress)
-# print r2.group(1)
-print type(r2)
+
+email = raw_input('Pls input your email address: ')
+pat = "(\w+)@((\w+\.)+(com))"
+res = re.match(pat, email)
+print res.group(1)
+
