@@ -1,4 +1,4 @@
-# Q60
+ # Q60
 # Created by JKChang
 # 05/05/2017, 09:46
 # Description: Write a program which accepts a sequence of words separated by whitespace as input to print the words
@@ -18,4 +18,3 @@
 import re
 s = raw_input()
 print re.findall('\d+', s)
-
