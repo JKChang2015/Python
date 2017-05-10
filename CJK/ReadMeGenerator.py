@@ -8,4 +8,5 @@
 # Markov format
 
 class ReadMeGenerator(object):
+    pass
 

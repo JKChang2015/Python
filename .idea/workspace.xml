@@ -3,33 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q060.py" afterPath="$PROJECT_DIR$/100 python/Q060.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q076.py" afterPath="$PROJECT_DIR$/100 python/Q076.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q077.py" afterPath="$PROJECT_DIR$/100 python/Q077.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q078.py" afterPath="$PROJECT_DIR$/100 python/Q078.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q079.py" afterPath="$PROJECT_DIR$/100 python/Q079.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q080.py" afterPath="$PROJECT_DIR$/100 python/Q080.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q081.py" afterPath="$PROJECT_DIR$/100 python/Q081.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q082.py" afterPath="$PROJECT_DIR$/100 python/Q082.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q083.py" afterPath="$PROJECT_DIR$/100 python/Q083.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q084.py" afterPath="$PROJECT_DIR$/100 python/Q084.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q085.py" afterPath="$PROJECT_DIR$/100 python/Q085.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q086.py" afterPath="$PROJECT_DIR$/100 python/Q086.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q087.py" afterPath="$PROJECT_DIR$/100 python/Q087.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q088.py" afterPath="$PROJECT_DIR$/100 python/Q088.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q089.py" afterPath="$PROJECT_DIR$/100 python/Q089.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q090.py" afterPath="$PROJECT_DIR$/100 python/Q090.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q091.py" afterPath="$PROJECT_DIR$/100 python/Q091.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q092.py" afterPath="$PROJECT_DIR$/100 python/Q092.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q093.py" afterPath="$PROJECT_DIR$/100 python/Q093.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q094.py" afterPath="$PROJECT_DIR$/100 python/Q094.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q095.py" afterPath="$PROJECT_DIR$/100 python/Q095.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q096.py" afterPath="$PROJECT_DIR$/100 python/Q096.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q097.py" afterPath="$PROJECT_DIR$/100 python/Q097.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q098.py" afterPath="$PROJECT_DIR$/100 python/Q098.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q099.py" afterPath="$PROJECT_DIR$/100 python/Q099.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q100.py" afterPath="$PROJECT_DIR$/100 python/Q100.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/tr.py" afterPath="$PROJECT_DIR$/100 python/tr.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/ReadMeGenerator.py" afterPath="$PROJECT_DIR$/CJK/ReadMeGenerator.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -266,8 +239,8 @@
       <file leaf-file-name="ReadMeGenerator.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state relative-caret-position="180">
+              <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1078,11 +1051,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24922119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24922119" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24894157" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.326324" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.326324" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33956388" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1506,8 +1479,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state relative-caret-position="180">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding />
         </state>
       </provider>
