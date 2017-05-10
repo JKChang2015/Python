@@ -3,6 +3,7 @@
 # 17/02/2017, 09:17
 # Description: automatic link the path to the content of the questions for markov file
 
+# 1. Load/write file
 # path of the directions
 # sorted fileName
 # Markov format
