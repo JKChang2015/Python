@@ -16,7 +16,8 @@
 import re
 
 email = raw_input('Pls input your email address: ')
-pat = "(\w+)@((\w+\.)+(com))"
+pat = "(\w+)@(\w+\.)(com)"
 res = re.match(pat, email)
+print type(res)
 print res.group(1)
 
