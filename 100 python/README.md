@@ -1,5 +1,5 @@
 100 Python
 ---
-|#|title|tag|language|
+|#|title|language|tag|
 |--|--|--|--|
 |01|[Q001](/Users/jkchang/Github/Python/100 python/)|Python|range|
