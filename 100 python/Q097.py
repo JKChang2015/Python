@@ -1,4 +1,4 @@
-# Q71
+# Q097
 # Created by JKChang
 # 09/05/2017, 15:37
 # Description: Please write a program which prints all permutations of [1,2,3]

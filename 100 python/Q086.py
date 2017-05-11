@@ -1,4 +1,4 @@
-# Q71
+# Q086
 # Created by JKChang
 # 09/05/2017, 15:37
 # Description: By using list comprehension, please write a program to print the list after removing delete numbers

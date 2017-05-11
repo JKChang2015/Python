@@ -1,4 +1,4 @@
-# Q71
+# Q073
 # Created by JKChang
 # 09/05/2017, 15:37
 # Description: Please generate a random float where the value is between 10 and 100 using Python math module.

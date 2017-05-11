@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Q0100
+# Q100
 # Created by JKChang
 # 09/05/2017, 15:37
 # Description: term frequency counter

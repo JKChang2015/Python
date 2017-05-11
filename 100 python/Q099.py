@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-# Q71
+# Q099
 # Created by JKChang
 # 09/05/2017, 15:37
 # Description: 使用列表实现循环数据结构

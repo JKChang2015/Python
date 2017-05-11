@@ -1,4 +1,4 @@
-# Q73
+# Q072
 # Created by JKChang
 # 09/05/2017, 15:37
 # Description: Please write a binary search function which searches an item in a sorted
