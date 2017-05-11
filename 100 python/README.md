@@ -1,5 +1,5 @@
 100 Python
 ---
-| #              |Hints|Language | 
-|----------------|-----| ------- | 
-|[001](./Q001.py)|range|Python|
+|#|title|tag|language|
+|--|--|--|--|
+|01|[Q001](/Users/jkchang/Github/Python/100 python/)|Python|range|
