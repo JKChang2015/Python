@@ -1,7 +1,7 @@
 # Q006
-# Tag: math
 # Created by JKChang
 # 22/02/2017, 11:41
+# Tag: math
 # Description: Write a program that calculates and prints the value according to the given formula:
 #                       Q = Square root of [(2 * C * D)/H]
 #              Following are the fixed values of C and H: C is 50. H is 30.
