@@ -1,4 +1,5 @@
 # Q005
+# Flag: class
 # Created by JKChang
 # 17/02/2017, 09:00
 # # Description: Define a class which has at least two methods:
@@ -18,5 +19,3 @@ class InputOutputString(object):
 test = InputOutputString()
 test.getString()
 test.printString()
-
-

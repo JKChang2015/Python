@@ -1,4 +1,5 @@
 # Q002
+# Tag: recursion
 # Created by JKChang
 # 16/02/2017, 21:16
 # Description: Write a program which can compute the factorial of a given numbers.

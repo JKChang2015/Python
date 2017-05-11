@@ -1,4 +1,5 @@
 # Q006
+# Tag: math
 # Created by JKChang
 # 22/02/2017, 11:41
 # Description: Write a program that calculates and prints the value according to the given formula:

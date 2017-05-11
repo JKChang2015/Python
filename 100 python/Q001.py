@@ -1,4 +1,5 @@
 # Q001
+# Tag: Range
 # Created by JKChang
 # 16/02/2017, 21:16
 # Description: Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5,
