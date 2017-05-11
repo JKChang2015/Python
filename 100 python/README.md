@@ -3,16 +3,11 @@
 
 |#|title|language|tag|
 |--|--|--|--|
-<type 'str'>
 |1|[Q001](./Q001.py)|Python|Range|
-<type 'str'>
 |2|[Q002](./Q002.py)|Python|recursion|
-<type 'str'>
 |3|[Q003](./Q003.py)|Python|dictionary|
-<type 'str'>
 |4|[Q004](./Q004.py)|Python|tuple|
 |5|[Q005](./Q005.py)|Python|-|
-<type 'str'>
 |6|[Q006](./Q006.py)|Python|math|
 |7|[Q007](./Q007.py)|Python|-|
 |8|[Q008](./Q008.py)|Python|-|
@@ -109,4 +104,3 @@
 |99|[Q099](./Q099.py)|Python|-|
 |100|[Q100](./Q100.py)|Python|-|
 |101|[tr](./tr.py)|Python|-|
-
