@@ -4,11 +4,11 @@
 |#|title|language|tag|
 |--|--|--|--|
 |1|[Q001](./Q001.py)|Python|Range|
-|2|[Q002](./Q002.py)|Python|recursion|
-|3|[Q003](./Q003.py)|Python|dictionary|
-|4|[Q004](./Q004.py)|Python|tuple|
+|2|[Q002](./Q002.py)|Python|Recursion|
+|3|[Q003](./Q003.py)|Python|Dictionary|
+|4|[Q004](./Q004.py)|Python|Tuple|
 |5|[Q005](./Q005.py)|Python|-|
-|6|[Q006](./Q006.py)|Python|math|
+|6|[Q006](./Q006.py)|Python|Math|
 |7|[Q007](./Q007.py)|Python|-|
 |8|[Q008](./Q008.py)|Python|-|
 |9|[Q009](./Q009.py)|Python|-|
