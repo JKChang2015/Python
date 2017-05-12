@@ -1,4 +1,3 @@
-# -*- coding: UTF-8 -*-
 # ReadMeGenerator
 # Created by JKChang
 # 10/05/2017, 19:59
@@ -37,7 +36,7 @@ def wMarkovTableHead(listofHead):
 # folderPath = r'/Users/jkchang/Github/Testfolder/'
 
 folderPath = '/Users/jkchang/Github/Python/Runood_100/'
-rmPath = '/Users/jkchang/Github/Python/Runood_100/README.md'
+rmPath = folderPath + '/README.md'
 title = ['#', 'title', 'language', 'tag']
 
 # ----------- For each file----------------------
@@ -71,5 +70,5 @@ header = wMarkovTableHead(title)
 body = '\n'.join(body)
 print header + '\n' + body
 
-with io.open(rmPath, 'w', encoding="utf-8") as f:
-    f.write(unicode(header + '\n' + body))
+# with io.open(rmPath, 'w', encoding="utf-8") as f:
+#      f.write(unicode(header + '\n' + body))
