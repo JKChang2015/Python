@@ -1,7 +1,7 @@
 # Q009
 # Created by JKChang
 # 23/02/2017, 14:39
-# Tag: 
+# Tag: capitalized
 # Description: Write a program that accepts sequence of lines as input and prints the lines after making all
 #              characters in the sentence capitalized.
 #

@@ -1,7 +1,7 @@
 # Q008
 # Created by JKChang
 # 23/02/2017, 14:28
-# Tag: 
+# Tag: split, sorting
 # Description: Write a program that accepts a comma separated sequence of words as input and prints the words in a
 #              comma-separated sequence after sorting them alphabetically.
 #
