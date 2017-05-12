@@ -4,6 +4,7 @@
 # 10/05/2017, 19:59
 # Description:
 
+import io
 import os
 
 
@@ -18,7 +19,6 @@ def mappingFormat(filepath):
         pass
 
 
-# number # [name](link) #language # tag
 def wMarkovTable(number, name, link, language, tag):
     return '|' + number + \
            '|[' + name + ']' + '(' + link + ')|' + \
@@ -36,13 +36,13 @@ def wMarkovTableHead(listofHead):
 
 # folderPath = r'/Users/jkchang/Github/Testfolder/'
 
-folderPath = '/Users/jkchang/Github/Python/100 python/'
-rmPath = '/Users/jkchang/Github/Python/100 python/README.md'
-head = ['#', 'title', 'language', 'tag']
-print wMarkovTableHead(head)
+folderPath = '/Users/jkchang/Github/Python/Runood_100/'
+rmPath = '/Users/jkchang/Github/Python/Runood_100/README.md'
+title = ['#', 'title', 'language', 'tag']
 
 # ----------- For each file----------------------
 pathList = []
+body = []
 number = 0
 
 for path, subdirs, files in os.walk(folderPath):
@@ -55,11 +55,21 @@ for path, subdirs, files in os.walk(folderPath):
             language = mappingFormat(filename)
 
             # -- tag --
-            tag = '-'
+            tag = ''
             with open(filePath) as f:
                 line = f.readlines()
                 for content in line:
                     if 'Tag' in content:
                         tag = content[content.index(':') + 1:].strip().capitalize()
 
-            print wMarkovTable(str(number), name, link, language, tag)
+            body.append(wMarkovTable(str(number), name, link, language, tag))
+
+# ----------- For each file----------------------
+
+
+header = wMarkovTableHead(title)
+body = '\n'.join(body)
+print header + '\n' + body
+
+with io.open(rmPath, 'w', encoding="utf-8") as f:
+    f.write(unicode(header + '\n' + body))
