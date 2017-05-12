@@ -1,6 +1,7 @@
  # Q60
 # Created by JKChang
 # 05/05/2017, 09:46
+# Tag: 
 # Description: Write a program which accepts a sequence of words separated by whitespace as input to print the words
 #              composed of digits only.
 

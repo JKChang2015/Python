@@ -1,6 +1,7 @@
 # Q022
 # Created by JKChang
 # 27/04/2017, 16:11
+# Tag: 
 # Description: Write a program to compute the frequency of the words from the input. The output should output after
 #              sorting the key alphanumerically.
 # Suppose the following input is supplied to the program:

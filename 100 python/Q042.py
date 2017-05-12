@@ -1,6 +1,7 @@
 # Q042
 # Created by JKChang
 # 28/04/2017, 14:59
+# Tag: 
 # Description: With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line
 #              and the last half values in one line.
 

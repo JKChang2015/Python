@@ -1,6 +1,7 @@
 # Q065
 # Created by JKChang
 # 09/05/2017, 14:32
+# Tag: 
 # Description: Write a program to compute:
 
 # f(n)=f(n-1)+100 when n>0

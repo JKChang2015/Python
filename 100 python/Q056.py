@@ -1,6 +1,7 @@
 # Q056
 # Created by JKChang
 # 05/05/2017, 09:45
+# Tag: 
 # Description: Write a function to compute 5/0 and use try/except to catch the exceptions.
 
 def throws():

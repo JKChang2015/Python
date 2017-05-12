@@ -1,6 +1,7 @@
 # -*- coding: UTF-8 -*-
 # Q025
 # Created by JKChang
+# Tag: 
 # 28/04/2017, 11:16
 # Description:  Define a class, which have a class parameter and have a same instance parameter.
 

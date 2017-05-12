@@ -1,6 +1,7 @@
 # Q023
 # Created by JKChang
 # 28/04/2017, 09:08
+# Tag: 
 # Description: Write a method which can calculate square value of number
 
 def square(n):

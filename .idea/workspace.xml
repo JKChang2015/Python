@@ -2,8 +2,106 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q001.py" afterPath="$PROJECT_DIR$/100 python/Q001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q002.py" afterPath="$PROJECT_DIR$/100 python/Q002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q003.py" afterPath="$PROJECT_DIR$/100 python/Q003.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q004.py" afterPath="$PROJECT_DIR$/100 python/Q004.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q005.py" afterPath="$PROJECT_DIR$/100 python/Q005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q006.py" afterPath="$PROJECT_DIR$/100 python/Q006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q007.py" afterPath="$PROJECT_DIR$/100 python/Q007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q008.py" afterPath="$PROJECT_DIR$/100 python/Q008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q009.py" afterPath="$PROJECT_DIR$/100 python/Q009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q010.py" afterPath="$PROJECT_DIR$/100 python/Q010.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q011.py" afterPath="$PROJECT_DIR$/100 python/Q011.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q012.py" afterPath="$PROJECT_DIR$/100 python/Q012.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q013.py" afterPath="$PROJECT_DIR$/100 python/Q013.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q014.py" afterPath="$PROJECT_DIR$/100 python/Q014.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q015.py" afterPath="$PROJECT_DIR$/100 python/Q015.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q016.py" afterPath="$PROJECT_DIR$/100 python/Q016.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q017.py" afterPath="$PROJECT_DIR$/100 python/Q017.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q018.py" afterPath="$PROJECT_DIR$/100 python/Q018.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q019.py" afterPath="$PROJECT_DIR$/100 python/Q019.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q020.py" afterPath="$PROJECT_DIR$/100 python/Q020.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q021.py" afterPath="$PROJECT_DIR$/100 python/Q021.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q022.py" afterPath="$PROJECT_DIR$/100 python/Q022.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q023.py" afterPath="$PROJECT_DIR$/100 python/Q023.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q024.py" afterPath="$PROJECT_DIR$/100 python/Q024.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q025.py" afterPath="$PROJECT_DIR$/100 python/Q025.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q026.py" afterPath="$PROJECT_DIR$/100 python/Q026.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q027.py" afterPath="$PROJECT_DIR$/100 python/Q027.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q028.py" afterPath="$PROJECT_DIR$/100 python/Q028.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q029.py" afterPath="$PROJECT_DIR$/100 python/Q029.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q030.py" afterPath="$PROJECT_DIR$/100 python/Q030.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q031.py" afterPath="$PROJECT_DIR$/100 python/Q031.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q032.py" afterPath="$PROJECT_DIR$/100 python/Q032.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q033.py" afterPath="$PROJECT_DIR$/100 python/Q033.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q034.py" afterPath="$PROJECT_DIR$/100 python/Q034.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q035.py" afterPath="$PROJECT_DIR$/100 python/Q035.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q036.py" afterPath="$PROJECT_DIR$/100 python/Q036.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q037.py" afterPath="$PROJECT_DIR$/100 python/Q037.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q038.py" afterPath="$PROJECT_DIR$/100 python/Q038.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q039.py" afterPath="$PROJECT_DIR$/100 python/Q039.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q040.py" afterPath="$PROJECT_DIR$/100 python/Q040.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q041.py" afterPath="$PROJECT_DIR$/100 python/Q041.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q042.py" afterPath="$PROJECT_DIR$/100 python/Q042.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q043.py" afterPath="$PROJECT_DIR$/100 python/Q043.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q044.py" afterPath="$PROJECT_DIR$/100 python/Q044.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q045.py" afterPath="$PROJECT_DIR$/100 python/Q045.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q046.py" afterPath="$PROJECT_DIR$/100 python/Q046.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q047.py" afterPath="$PROJECT_DIR$/100 python/Q047.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q048.py" afterPath="$PROJECT_DIR$/100 python/Q048.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q049.py" afterPath="$PROJECT_DIR$/100 python/Q049.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q050.py" afterPath="$PROJECT_DIR$/100 python/Q050.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q051.py" afterPath="$PROJECT_DIR$/100 python/Q051.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q052.py" afterPath="$PROJECT_DIR$/100 python/Q052.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q053.py" afterPath="$PROJECT_DIR$/100 python/Q053.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q054.py" afterPath="$PROJECT_DIR$/100 python/Q054.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q055.py" afterPath="$PROJECT_DIR$/100 python/Q055.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q056.py" afterPath="$PROJECT_DIR$/100 python/Q056.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q057.py" afterPath="$PROJECT_DIR$/100 python/Q057.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q058.py" afterPath="$PROJECT_DIR$/100 python/Q058.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q059.py" afterPath="$PROJECT_DIR$/100 python/Q059.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q060.py" afterPath="$PROJECT_DIR$/100 python/Q060.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q061.py" afterPath="$PROJECT_DIR$/100 python/Q061.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q062.py" afterPath="$PROJECT_DIR$/100 python/Q062.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q063.py" afterPath="$PROJECT_DIR$/100 python/Q063.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q064.py" afterPath="$PROJECT_DIR$/100 python/Q064.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q065.py" afterPath="$PROJECT_DIR$/100 python/Q065.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q066.py" afterPath="$PROJECT_DIR$/100 python/Q066.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q067.py" afterPath="$PROJECT_DIR$/100 python/Q067.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q068.py" afterPath="$PROJECT_DIR$/100 python/Q068.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q069.py" afterPath="$PROJECT_DIR$/100 python/Q069.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q070.py" afterPath="$PROJECT_DIR$/100 python/Q070.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q071.py" afterPath="$PROJECT_DIR$/100 python/Q071.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q072.py" afterPath="$PROJECT_DIR$/100 python/Q072.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q073.py" afterPath="$PROJECT_DIR$/100 python/Q073.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q074.py" afterPath="$PROJECT_DIR$/100 python/Q074.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q075.py" afterPath="$PROJECT_DIR$/100 python/Q075.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q076.py" afterPath="$PROJECT_DIR$/100 python/Q076.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q077.py" afterPath="$PROJECT_DIR$/100 python/Q077.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q078.py" afterPath="$PROJECT_DIR$/100 python/Q078.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q079.py" afterPath="$PROJECT_DIR$/100 python/Q079.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q080.py" afterPath="$PROJECT_DIR$/100 python/Q080.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q081.py" afterPath="$PROJECT_DIR$/100 python/Q081.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q082.py" afterPath="$PROJECT_DIR$/100 python/Q082.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q083.py" afterPath="$PROJECT_DIR$/100 python/Q083.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q084.py" afterPath="$PROJECT_DIR$/100 python/Q084.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q085.py" afterPath="$PROJECT_DIR$/100 python/Q085.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q086.py" afterPath="$PROJECT_DIR$/100 python/Q086.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q087.py" afterPath="$PROJECT_DIR$/100 python/Q087.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q088.py" afterPath="$PROJECT_DIR$/100 python/Q088.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q089.py" afterPath="$PROJECT_DIR$/100 python/Q089.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q090.py" afterPath="$PROJECT_DIR$/100 python/Q090.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q091.py" afterPath="$PROJECT_DIR$/100 python/Q091.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q092.py" afterPath="$PROJECT_DIR$/100 python/Q092.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q093.py" afterPath="$PROJECT_DIR$/100 python/Q093.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q094.py" afterPath="$PROJECT_DIR$/100 python/Q094.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q095.py" afterPath="$PROJECT_DIR$/100 python/Q095.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q096.py" afterPath="$PROJECT_DIR$/100 python/Q096.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q097.py" afterPath="$PROJECT_DIR$/100 python/Q097.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q098.py" afterPath="$PROJECT_DIR$/100 python/Q098.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q099.py" afterPath="$PROJECT_DIR$/100 python/Q099.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q100.py" afterPath="$PROJECT_DIR$/100 python/Q100.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -104,7 +202,7 @@
     <SUITE FILE_PATH="coverage/Python$Q008.coverage" NAME="Q008 Coverage Results" MODIFIED="1493289591655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q100.coverage" NAME="Q100 Coverage Results" MODIFIED="1494427766696" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$L13_4__1_.coverage" NAME="L13_4 (1) Coverage Results" MODIFIED="1487603791655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
-    <SUITE FILE_PATH="coverage/Python$AddContent.coverage" NAME="AddContent Coverage Results" MODIFIED="1494578240573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
+    <SUITE FILE_PATH="coverage/Python$AddContent.coverage" NAME="AddContent Coverage Results" MODIFIED="1494578418479" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$Q040.coverage" NAME="Q040 Coverage Results" MODIFIED="1493387906266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q022.coverage" NAME="Q022 Coverage Results" MODIFIED="1493308623445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q026.coverage" NAME="Q026 Coverage Results" MODIFIED="1493383019281" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
@@ -175,8 +273,8 @@
       <file leaf-file-name="AddContent.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/CJK/AddContent.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="504">
-              <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+            <state relative-caret-position="378">
+              <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -185,8 +283,8 @@
       <file leaf-file-name="ReadMeGenerator.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="107">
-              <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="51" />
+            <state relative-caret-position="603">
+              <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="51" />
               <folding />
             </state>
           </provider>
@@ -270,8 +368,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="661" />
-    <option name="y" value="170" />
+    <option name="x" value="524" />
+    <option name="y" value="25" />
     <option name="width" value="2560" />
     <option name="height" value="1375" />
   </component>
@@ -962,14 +1060,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="661" y="170" width="2560" height="1375" extended-state="0" />
+    <frame x="524" y="25" width="2560" height="1375" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13621922" sideWeight="0.49667618" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17926735" sideWeight="0.5015886" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.17926735" sideWeight="0.49841145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34294623" sideWeight="0.49841145" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3281493" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24894157" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1375,16 +1473,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="107">
-          <caret line="36" column="2" lean-forward="false" selection-start-line="36" selection-start-column="2" selection-end-line="36" selection-end-column="51" />
+        <state relative-caret-position="603">
+          <caret line="52" column="51" lean-forward="false" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="51" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/AddContent.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="31" lean-forward="true" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+        <state relative-caret-position="378">
+          <caret line="18" column="21" lean-forward="false" selection-start-line="18" selection-start-column="21" selection-end-line="18" selection-end-column="21" />
           <folding />
         </state>
       </provider>

@@ -1,6 +1,7 @@
 # Q016
 # Created by JKChang
 # 28/02/2017, 11:32
+# Tag: 
 # Description: Use a list comprehension to square each odd number in a list. The list is input by a sequence of
 #              comma-separated numbers.
 #

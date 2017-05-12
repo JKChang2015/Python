@@ -1,6 +1,7 @@
 # Q082
 # Created by JKChang
 # 09/05/2017, 15:37
+# Tag: 
 # Description: Please write a program to print the running time of execution of "1+1" for 100 times.
 
 from timeit import Timer

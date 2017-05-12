@@ -1,6 +1,7 @@
 # Q021
 # Created by JKChang
 # 27/04/2017, 15:44
+# Tag: 
 # Description: The numbers after the direction are steps. Please write a program to compute the distance from current
 #              position after a sequence of movement and original point. If the distance is a float, then just print
 #              the nearest integer.

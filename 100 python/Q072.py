@@ -1,6 +1,7 @@
 # Q072
 # Created by JKChang
 # 09/05/2017, 15:37
+# Tag: 
 # Description: Please write a binary search function which searches an item in a sorted
 #              list. The function should return the index of element to be searched in the list.
 

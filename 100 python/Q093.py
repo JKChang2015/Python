@@ -1,6 +1,7 @@
 # Q093
 # Created by JKChang
 # 09/05/2017, 15:37
+# Tag: 
 # Description: Define a class Person and its two child classes: Male and Female. All classes have a method "getGender"
 #              which can print "Male" for Male class and "Female" for Female class.
 
