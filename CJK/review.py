@@ -121,32 +121,65 @@
 # Description: Write a program that accepts sequence of lines as input and prints the lines after making all
 #              characters in the sentence capitalized.
 
-line = []
-while True:
-    s = raw_input()
-    if s:
-        line.append(s.upper())
-    else:
-        break
-
-for p in line:
-    print p
+# line = []
+# while True:
+#     s = raw_input()
+#     if s:
+#         line.append(s.upper())
+#     else:
+#         break
+#
+# for p in line:
+#     print p
 
 # ----------------Q010-----------------
+# Description: Write a program that accepts a sequence of whitespace separated words as input and prints the words
+#              after removing all duplicate words and sorting them alphanumerically.
 
-
+# li = [x for x in raw_input().split(' ')]
+# li = sorted(list(set(li)))
+# print ' '.join(li)
 
 # ----------------Q011-----------------
+# Description: Write a program which accepts a sequence of comma separated 4 digit binary numbers as its input and
+#              then check whether they are divisible by 5 or not. The numbers that are divisible by 5 are to be
+#              printed in a comma separated sequence.
 
-
+# li = [x for x in raw_input().split(',')]
+# res = []
+#
+# for x in li:
+#     dec_x = int(x, 2)
+#     if not dec_x % 5:
+#         res.append(x)
+# print ','.join(res)
 
 # ----------------Q012-----------------
+# Description: Write a program, which will find all such numbers between 1000 and 3000 (both included) such that each
+#              digit of the number is an even number. The numbers obtained should be printed in a comma-separated
+#              sequence on a single line.
 
-
+# res = []
+# for i in range(1000, 3001):
+#     s = str(i)
+#     if int(s[0]) % 2 == 0 and int(s[1]) % 2 == 0 and int(s[2]) % 2 == 0 and int(s[3]) % 2 == 0:
+#         res.append(s)
+# print ','.join(res)
 
 # ----------------Q013-----------------
-
-
+# Description: Write a program that accepts a sentence and calculate the number of letters and digits.
+# s = raw_input('please input sequence of text:')
+# d = {'DIGITS': 0, 'LETTERS': 0}
+#
+# for char in s:
+#     if char.isdigit():
+#         d['DIGITS'] += 1
+#     if char.isalpha():
+#         d['LETTERS'] += 1
+#     else:
+#         pass
+# print "LETTERS: ", d['LETTERS']
+# print "DIGITS: ", d['DIGITS']
 
 # ----------------Q014-----------------
 
