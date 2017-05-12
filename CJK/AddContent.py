@@ -26,4 +26,4 @@ for path, subdirs, files in os.walk(folderPath):
     for filename in files:
         if filename.endswith(('.txt', '.py', '.java')):
             filePath = os.path.join(path, filename)
-            addContent(filePath, index, t)
+            # addContent(filePath, index, t)
