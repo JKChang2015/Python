@@ -1,8 +1,8 @@
-# creatNewFile
+# createNewFile
 # Created by JKChang
 # 12/05/2017, 10:48
 # Tag:
-# Description: 
+# Description: create new file with temples
 
 import io
 from datetime import datetime
