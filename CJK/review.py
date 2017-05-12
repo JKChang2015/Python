@@ -170,7 +170,7 @@
 # Description: Write a program that accepts a sentence and calculate the number of letters and digits.
 # s = raw_input('please input sequence of text:')
 # d = {'DIGITS': 0, 'LETTERS': 0}
-#
+
 # for char in s:
 #     if char.isdigit():
 #         d['DIGITS'] += 1
@@ -182,27 +182,129 @@
 # print "DIGITS: ", d['DIGITS']
 
 # ----------------Q014-----------------
+# Description: Write a program that accepts a sentence and calculate the number of upper case letters and lower case
+#              letters.
 
-
+# s = raw_input()
+# dict = {"LOWER": 0, "UPPER": 0}
+#
+# for char in s:
+#     if char.islower():
+#         dict['LOWER'] += 1
+#     elif char.isupper():
+#         dict['UPPER'] += 1
+#     else:
+#         pass
+#
+# print 'UPPER CASE:', dict['UPPER']
+# print 'LOWER CASE:', dict['LOWER']
 
 # ----------------Q015-----------------
+# Description: Write a program that computes the value of a+aa+aaa+aaaa with a given digit as the value of a.
 
-
+# a = str(raw_input())
+# aa = int('%s%s' % (a, a))
+# aaa = int('%s%s%s' % (a, a, a))
+# aaaa = int('%s%s%s%s' % (a, a, a, a))
+#
+# print int(a) + aa + aaa + aaaa
 
 # ----------------Q016-----------------
+# Description: Use a list comprehension to square each odd number in a list. The list is input by a sequence of
+#              comma-separated numbers.
 
-
+# nums = [x for x in raw_input().split(',') if int(x)%2 != 0]
+# print ','.join(nums)
 
 # ----------------Q017-----------------
+# Description: Write a program that computes the net amount of a bank account based a transaction log from console input.
+#              The transaction log format is shown as following:
+# D 100
+# W 200
+# D means deposit while W means withdrawal.
 
-
+# res = 0
+#
+# while True:
+#     s = raw_input('D:deposit and W:withdrawal \n')
+#     if not s:
+#         break
+#
+#     value = s.split(' ')
+#     operation = value[0]
+#     amount = value[1]
+#
+#     if operation == 'D':
+#         res += int(amount)
+#     elif operation == 'W':
+#         res -= int(amount)
+#     else:
+#         pass
+#
+# print res
 
 # ----------------Q018-----------------
+# Description: A website requires the users to input username and password to register. Write a program to check the
+#              validity of password input by users.
+#
+# Following are the criteria for checking the password:
+# 1. At least 1 letter between [a-z]
+# 2. At least 1 number between [0-9]
+# 1. At least 1 letter between [A-Z]
+# 3. At least 1 character from [$#@]
+# 4. Minimum length of transaction password: 6
+# 5. Maximum length of transaction password: 12
+# Your program should accept a sequence of comma separated passwords and will check them according to the above criteria.
+#     Passwords that match the criteria are to be printed, each separated by a comma.
 
-
+# import re
+#
+# while True:
+#     s = raw_input('Password: ')
+#     if not s:
+#         break
+#
+#     if not re.search('[a-z]', s):
+#         print 'At least 1 letter between [a-z]'
+#         continue
+#
+#     if not re.search('[0-9]', s):
+#         print 'At least 1 number between [0-9]'
+#         continue
+#
+#     if not re.search('[A-Z]', s):
+#         print 'At least 1 letter between [A-Z]'
+#         continue
+#
+#     if not re.search('[$#@]', s):
+#         print 'At least 1 symbol in [$#@]'
+#         continue
+#
+#     if len(s) < 6 or len(s) > 12:
+#         print 'length should between 6 to 12 '
+#         continue
+#     else:
+#         print "Well done! your password is: ", s
+#         break
 
 # ----------------Q019-----------------
+# Description: You are required to write a program to sort the (name, age, height) tuples by ascending order where name
+#              is string, age and height are numbers. The tuples are input by console. The sort criteria is:
+# 1: Sort based on name;
+# 2: Then sort based on age;
+# 3: Then sort by score.
+# The priority is that name > age > score.
 
+from operator import itemgetter
+
+l = []
+while True:
+    s = raw_input()
+    if not s:
+        break
+    l.append(tuple(s.split(',')))
+
+print l
 
 
 # ----------------Q020-----------------

@@ -38,7 +38,7 @@ def wMarkovTableHead(listofHead):
 # folderPath = '/Users/jkchang/Github/Python/Runood_100/'
 folderPath = '/Users/jkchang/Github/Python/100 Python/'
 rmPath = folderPath + '/README.md'
-title = ['#', 'title', 'language', 'tag']
+title = ['#', 'Title', 'Language', 'Description']
 
 # ----------- For each file----------------------
 pathList = []
@@ -71,5 +71,5 @@ header = wMarkovTableHead(title)
 body = '\n'.join(body)
 print header + '\n' + body
 
-with io.open(rmPath, 'w', encoding="utf-8") as f:
-     f.write(unicode(header + '\n' + body))
+# with io.open(rmPath, 'w', encoding="utf-8") as f:
+#      f.write(unicode(header + '\n' + body))

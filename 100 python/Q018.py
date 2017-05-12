@@ -1,7 +1,7 @@
 # Q018
 # Created by JKChang
 # 28/02/2017, 11:35
-# Tag: 
+# Tag: password checking
 # Description: A website requires the users to input username and password to register. Write a program to check the
 #              validity of password input by users.
 #
@@ -24,21 +24,28 @@
 import re
 
 while True:
-    s = raw_input('Please input your password: ',)
+    s = raw_input('Password: ')
     if not s:
         break
 
+    if not re.search('[a-z]', s):
+        print 'ERROR: At least 1 letter between [a-z]'
+        continue
+
+    if not re.search('[0-9]', s):
+        print 'ERROR: At least 1 number between [0-9]'
+        continue
+
+    if not re.search('[A-Z]', s):
+        print 'ERROR: At least 1 letter between [A-Z]'
+        continue
+
+    if not re.search('[$#@]', s):
+        print 'ERROR: At least 1 symbol in [$#@]'
+        continue
+
     if len(s) < 6 or len(s) > 12:
         print 'ERROR: length should between 6 to 12 '
-        continue
-    if not re.search("[a-z]", s):
-        print 'ERROR: should at least contain a lower case'
-        continue
-    if not re.search("[A-Z]", s):
-        print 'ERROR: should at least contain a upper case'
-        continue
-    if not re.search("[$#@]", s):
-        print 'ERROR: should at least contain a character case'
         continue
     else:
         print "Well done! your password is: ", s
