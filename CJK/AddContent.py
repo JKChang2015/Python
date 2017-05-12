@@ -5,7 +5,6 @@
 # Description: add a line to the certain place of the document
 
 import os
-git
 
 def addContent(filePath, index, content):
     with open(filePath, 'r') as f:
