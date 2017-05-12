@@ -5,26 +5,26 @@
 # Description: add a line to the certain place of the document
 
 import os
-
+git
 
 def addContent(filePath, index, content):
-    f = open(filePath, "r")
-    contents = f.readlines()
-    f.close()
+    with open(filePath, 'r') as f:
+        contents = f.readlines()
 
     contents.insert(index, content)
 
-    f = open(filePath, "w")
-    contents = "".join(contents)
-    f.write(contents)
-    f.close()
+    with open(filePath, 'w') as f:
+        contents = ''.join(contents)
+        f.write(contents)
 
 
+# filePath = folderPath = r'/Users/jkchang/Github/Testfolder/txt1.txt'
 index = 3
 t = "# Tag: \n"
+
 folderPath = '/Users/jkchang/Github/Python/100 python/'
 for path, subdirs, files in os.walk(folderPath):
     for filename in files:
         if filename.endswith(('.txt', '.py', '.java')):
             filePath = os.path.join(path, filename)
-            addContent(filePath,index,t)
+            addContent(filePath, index, t)
