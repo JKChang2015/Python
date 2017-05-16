@@ -302,9 +302,9 @@ while True:
     s = raw_input()
     if not s:
         break
-    l.append(tuple(s.split(',')))
+    l.append(tuple(s.split(",")))
 
-print l
+print sorted(l, key=itemgetter(0, 1, 2))
 
 
 # ----------------Q020-----------------
