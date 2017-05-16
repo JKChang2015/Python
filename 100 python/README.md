@@ -1,4 +1,4 @@
-|#|title|language|tag|
+|#|Title|Language|Description|
 |--|--|--|--|
 |1|[Q001](./Q001.py)|Python|Range|
 |2|[Q002](./Q002.py)|Python|Recursion|
@@ -13,14 +13,14 @@
 |11|[Q011](./Q011.py)|Python|Convert binary number|
 |12|[Q012](./Q012.py)|Python|Digit of number|
 |13|[Q013](./Q013.py)|Python|Count digits and letters|
-|14|[Q014](./Q014.py)|Python||
-|15|[Q015](./Q015.py)|Python||
-|16|[Q016](./Q016.py)|Python||
-|17|[Q017](./Q017.py)|Python||
-|18|[Q018](./Q018.py)|Python||
-|19|[Q019](./Q019.py)|Python||
-|20|[Q020](./Q020.py)|Python||
-|21|[Q021](./Q021.py)|Python||
+|14|[Q014](./Q014.py)|Python|Count lowers and uppers|
+|15|[Q015](./Q015.py)|Python|Formatting string a+aa+aaa|
+|16|[Q016](./Q016.py)|Python|Control flow in a list|
+|17|[Q017](./Q017.py)|Python|Bank system|
+|18|[Q018](./Q018.py)|Python|Password checking|
+|19|[Q019](./Q019.py)|Python|Priority sorting|
+|20|[Q020](./Q020.py)|Python|Yield|
+|21|[Q021](./Q021.py)|Python|Direction and steps|
 |22|[Q022](./Q022.py)|Python||
 |23|[Q023](./Q023.py)|Python||
 |24|[Q024](./Q024.py)|Python||

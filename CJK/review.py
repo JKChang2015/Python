@@ -295,24 +295,63 @@
 # 3: Then sort by score.
 # The priority is that name > age > score.
 
-from operator import itemgetter
+# from operator import itemgetter
+#
+# l = []
+# while True:
+#     s = raw_input()
+#     if not s:
+#         break
+#     l.append(tuple(s.split(",")))
+#
+# print sorted(l, key=itemgetter(0, 1, 2))
 
-l = []
+
+# ----------------Q020-----------------
+# Description: Define a class with a generator which can iterate the numbers, which are divisible by 7,
+#              between a given range 0 and n.
+#
+#     def Genert(n):
+#         i = 0
+#         while i < n:
+#             j = i
+#             i += 1
+#             if j % 7 == 0:
+#                 yield j
+#
+#     for i in Genert(100):
+#         print i
+
+# ----------------Q021-----------------
+# Description: The numbers after the direction are steps. Please write a program to compute the distance from current
+#              position after a sequence of movement and original point. If the distance is a float, then just print
+#              the nearest integer.
+
+
+import math
+
+pos = [0, 0]
+
 while True:
     s = raw_input()
     if not s:
         break
-    l.append(tuple(s.split(",")))
 
-print sorted(l, key=itemgetter(0, 1, 2))
+    move = s.split(' ')
+    direction = move[0]
+    step = int(move[1])
+    if direction.upper() == 'UP':
+        pos[1] += step
+    elif direction.upper() == 'DOWN':
+        pos[1] -= step
+    elif direction.upper() == 'LEFT':
+        pos[0] += step
+    elif direction.upper() == 'RIGHT':
+        pos[0] -= step
+    else:
+        pass
 
-
-# ----------------Q020-----------------
-
-
-
-# ----------------Q021-----------------
-
+    print 'Distance: ', int(round(math.sqrt(pos[0] ** 2 + pos[1] ** 2)))
 
 
 # ----------------Q022-----------------

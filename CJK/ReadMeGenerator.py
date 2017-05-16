@@ -70,6 +70,6 @@ for path, subdirs, files in os.walk(folderPath):
 header = wMarkovTableHead(title)
 body = '\n'.join(body)
 print header + '\n' + body
-
+#
 # with io.open(rmPath, 'w', encoding="utf-8") as f:
-#      f.write(unicode(header + '\n' + body))
+#     f.write(unicode(header + '\n' + body))
