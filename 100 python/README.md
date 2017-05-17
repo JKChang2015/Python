@@ -41,22 +41,22 @@
 |39|[Q039](./Q039.py)|Python|List subtraction|
 |40|[Q040](./Q040.py)|Python|List subtraction|
 |41|[Q041](./Q041.py)|Python|List to tuple|
-|42|[Q042](./Q042.py)|Python||
-|43|[Q043](./Q043.py)|Python||
-|44|[Q044](./Q044.py)|Python||
-|45|[Q045](./Q045.py)|Python||
-|46|[Q046](./Q046.py)|Python||
-|47|[Q047](./Q047.py)|Python||
-|48|[Q048](./Q048.py)|Python||
-|49|[Q049](./Q049.py)|Python||
-|50|[Q050](./Q050.py)|Python||
-|51|[Q051](./Q051.py)|Python||
-|52|[Q052](./Q052.py)|Python||
-|53|[Q053](./Q053.py)|Python||
-|54|[Q054](./Q054.py)|Python||
-|55|[Q055](./Q055.py)|Python||
-|56|[Q056](./Q056.py)|Python||
-|57|[Q057](./Q057.py)|Python||
+|42|[Q042](./Q042.py)|Python|Tuple subtraction|
+|43|[Q043](./Q043.py)|Python|Even elements|
+|44|[Q044](./Q044.py)|Python|Letter case convert|
+|45|[Q045](./Q045.py)|Python|Lambda|
+|46|[Q046](./Q046.py)|Python|Map|
+|47|[Q047](./Q047.py)|Python|Map, lambda, filter|
+|48|[Q048](./Q048.py)|Python|Filter, lambda and range|
+|49|[Q049](./Q049.py)|Python|Map, lambda and range|
+|50|[Q050](./Q050.py)|Python|Static method|
+|51|[Q051](./Q051.py)|Python|Class extends|
+|52|[Q052](./Q052.py)|Python|Class|
+|53|[Q053](./Q053.py)|Python|Class|
+|54|[Q054](./Q054.py)|Python|Class extends|
+|55|[Q055](./Q055.py)|Python|Raise runtimeerror|
+|56|[Q056](./Q056.py)|Python|Exception|
+|57|[Q057](./Q057.py)|Python|Custom exception|
 |58|[Q058](./Q058.py)|Python||
 |59|[Q059](./Q059.py)|Python||
 |60|[Q060](./Q060.py)|Python||

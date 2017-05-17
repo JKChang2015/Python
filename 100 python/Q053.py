@@ -1,7 +1,7 @@
 # Q053
 # Created by JKChang
 # 05/05/2017, 09:45
-# Tag: 
+# Tag: class
 # Description: Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has
 #              a method which can compute the area.
 

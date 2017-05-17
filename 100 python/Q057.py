@@ -1,7 +1,7 @@
 # Q057
 # Created by JKChang
 # 05/05/2017, 09:45
-# Tag: 
+# Tag: custom exception
 # Description: Define a custom exception class which takes a string message as attribute.
 
 class MyError(Exception):
@@ -15,5 +15,5 @@ class MyError(Exception):
         self.msg = msg
 
 
-error = MyError('somthing wrong')
+error = MyError('something wrong')
 print MyError

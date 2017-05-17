@@ -621,42 +621,134 @@
 # print filter(lambda x: x % 2 == 0, range(1, 21))
 
 # ----------------Q049-----------------
+# Description: Write a program which can map() to make a list whose elements are square of numbers between 1 and 20.
 
-
+# resNum = map(lambda x:x **2, range(1,21))
+# print resNum
 
 # ----------------Q050-----------------
-
-
+# Description: Define a class named American which has a static method called printNationality.
+# class American(object):
+#     @staticmethod
+#     def printNationality():
+#         print 'USA'
+#
+# am = American()
+# am.printNationality()
+# American.printNationality()
 
 # ----------------Q051-----------------
-
-
+# Description: Define a class named American and its subclass NewYorker.
+# class American(object):
+#     pass
+#
+#
+# class NewYorker(American):
+#     pass
 
 # ----------------Q052-----------------
+# Description: Define a class named Circle which can be constructed by a radius. The Circle class has a method which
+#              can compute the area.
 
-
+# class Circle(object):
+#     def __init__(self, radius):
+#         self.radius = radius
+#
+#     def area(self):
+#         return self.radius ** 2 * 3.14
+#
+#
+# aCircle = Circle(4)
+# print aCircle.area()
 
 # ----------------Q053-----------------
-
-
+# Description: Define a class named Rectangle which can be constructed by a length and width. The Rectangle class has
+#              a method which can compute the area.
+# class Rectangle:
+#     def __init__(self, l, w):
+#         self.length = l
+#         self.width = w
+#
+#     def area(self):
+#         return self.length * self.width
+#
+#
+# re = Rectangle(2,4)
+# print re.area()
 
 # ----------------Q054-----------------
-
-
+# Description: Define a class named Shape and its subclass Square. The Square class has an init function which takes
+#              a length as argument. Both classes have a area function which can print the area of the shape where
+#              Shape's area is 0 by default.
+#
+# class Shape(object):
+#     def __init__(self):
+#         pass
+#
+#     def area(self):
+#         print 0
+#
+#
+# class Square(Shape):
+#     def __init__(self, l):
+#         Shape.__init__(self)
+#         self.length = l
+#
+#     def area(self):
+#         return self.length ** 2
+#
+#
+# aSquare = Square(4)
+# print aSquare.area()
 
 # ----------------Q055-----------------
-
+# Description: Please raise a RuntimeError exception.
+#
+# raise RuntimeError('something wrong')
 
 
 # ----------------Q056-----------------
+# Description: Write a function to compute 5/0 and use try/except to catch the exceptions.
 
+# def throws():
+#     return 5/0
+#
+# try:
+#     throws()
+# except ZeroDivisionError:
+#     print 'division by 0'
+# except Exception,err:
+#     print 'something wrong'
+# finally:
+#     print 'done'
 
 
 # ----------------Q057-----------------
+# Description: Define a custom exception class which takes a string message as attribute.
 
-
+# class MyError(Exception):
+#     """My own exception class
+#
+#         Attributes:
+#         msg  -- explanation of the error
+#     """
+#
+#     def __init__(self,msg):
+#         self.msg = msg
+#
+#
+# error = MyError('something wrong')
+# print MyError
 
 # ----------------Q058-----------------
+# Description: Assuming that we have some email addresses in the "username@companyname.com" format, please write
+#              program to print the user name of a given email address. Both user names and company names are composed
+#              of letters only.
+
+import re
+email = raw_input('Please input your email address: ')
+
+
 
 
 
