@@ -327,114 +327,236 @@
 #              position after a sequence of movement and original point. If the distance is a float, then just print
 #              the nearest integer.
 
-
-import math
-
-pos = [0, 0]
-
-while True:
-    s = raw_input()
-    if not s:
-        break
-
-    move = s.split(' ')
-    direction = move[0]
-    step = int(move[1])
-    if direction.upper() == 'UP':
-        pos[1] += step
-    elif direction.upper() == 'DOWN':
-        pos[1] -= step
-    elif direction.upper() == 'LEFT':
-        pos[0] += step
-    elif direction.upper() == 'RIGHT':
-        pos[0] -= step
-    else:
-        pass
-
-    print 'Distance: ', int(round(math.sqrt(pos[0] ** 2 + pos[1] ** 2)))
-
+#
+# import math
+#
+# pos = [0, 0]
+#
+# while True:
+#     s = raw_input()
+#     if not s:
+#         break
+#
+#     move = s.split(' ')
+#     direction = move[0]
+#     step = int(move[1])
+#     if direction.upper() == 'UP':
+#         pos[1] += step
+#     elif direction.upper() == 'DOWN':
+#         pos[1] -= step
+#     elif direction.upper() == 'LEFT':
+#         pos[0] += step
+#     elif direction.upper() == 'RIGHT':
+#         pos[0] -= step
+#     else:
+#         pass
+#
+#     print 'Distance: ', int(round(math.sqrt(pos[0] ** 2 + pos[1] ** 2)))
 
 # ----------------Q022-----------------
+# Description: Write a program to compute the frequency of the words from the input. The output should output after
+#              sorting the key alphanumerically.
 
-
+# import operator
+#
+# freq = {}
+# line = raw_input()
+#
+# for word in line.split(" "):
+#     freq[word] = freq.get(word, 0) + 1
+#
+# print 'dictionary: ', freq
+# # sorted according to the term frequency (values)
+# freq1 = sorted(freq.items(), key=operator.itemgetter(1))
+# print type(freq1)
+#
+# print 'sorted according to the term frequency (values): ', freq1
+#
+# # sorted according to the alphabetical (keys)
+# freq2 = sorted(freq.items(), key=operator.itemgetter(0))
+# print 'sorted according to the alphabetical (keys) : ', freq2
 
 # ----------------Q023-----------------
-
-
+# Description: Write a method which can calculate square value of number
+#
+# def square(n):
+#     return n**2
+#
+# n = int(raw_input())
+# print square(n)
 
 # ----------------Q024-----------------
+# Description:  Python has many built-in functions, and if you do not know how to use it, you can read document online
+#               or find some books. But Python has a built-in document function for every built-in functions.
+#               Please write a program to print some Python built-in functions documents, such as abs(), int(),
+#               raw_input() And add document for your own function
 
+# def square(num):
+#     '''return the square value'''
+#     return num **2
+#
+# print square(3)
+# print square.__doc__
 
 
 # ----------------Q025-----------------
-
-
+# Description:  Define a class, which have a class parameter and have a same instance parameter.
+# class Person(object):
+#     name = 'someone'
+#
+#     def __init__(self, n=None):
+#         self.name = n
+#
+#
+# dav = Person('David')
+# print 'dav name:', dav.name
+# print 'Person name: ', Person.name
+#
+# Person.name = 'Chan'
+# print 'change Person name:', Person.name
+#
+# dove = Person('Dove')
+# print 'dove name: ', dove.name
+# print 'Person name: ', Person.name
 
 # ----------------Q026-----------------
-
-
+# Description: Define a function which can compute the sum of two numbers.
+# def sum(num1, num2):
+#     return num1+num2
+#
+# print sum(3,5)
 
 # ----------------Q027-----------------
-
+# Description: Define a function that can convert a integer into a string and print it in console.
+# def convert(num):
+#     return str(num)
+#
+# print convert(32)
 
 
 # ----------------Q028-----------------
-
+# Description: Define a function that can convert a string into a int and print it in console.
+# def ConvertorStr(str):
+#     return int(str)
+#
+# print ConvertorStr('11')
 
 
 # ----------------Q029-----------------
-
-
+# Description: Define a function that can receive two integral numbers in string form and compute their sum and then
+#              print it in console.
+#
+# def sum(num1,num2):
+#     return int(num1) + int(num2)
+#
+# print sum('2','5')
 
 # ----------------Q030-----------------
-
+# Description: Define a function that can accept two strings as input and concatenate them and then print it in console.
+# def printV(s1,s2):
+#     return s1+s2
+#
+# print printV('hello', 'world')
 
 
 # ----------------Q031-----------------
+# Description: Define a function that can accept two strings as input and print the string with maximum length in
+#              console. If two strings have the same length, then the function should print all strings line by line.
 
-
+# def printV(s1, s2):
+#     if (len(s1) > len(s2)):
+#         print s1
+#     elif (len(s1) < len(s2)):
+#         print s2
+#     else:
+#         print s1
+#         print s2
+#
+# printV('information', 'retrieval')
 
 # ----------------Q032-----------------
+# Description: Define a function that can accept an integer number as input and print the "It is an even number" if
+#              the number is even, otherwise print "It is an odd number".
 
-
+# def checkValue(num):
+#     if (num %2 ==0):
+#         print '%d is an even num' %num
+#     else:
+#         print '%d is an odd num' %num
+#
+# checkValue(100)
+# checkValue(101)
 
 # ----------------Q033-----------------
-
-
+# Description: Define a function which can print a dictionary where the keys are numbers between 1 and 3
+# def creatDict(num):
+#     d = {}
+#     for i in range(1, num + 1):
+#         d[i] = i ** 2
+#     return d
+#
+#
+# print creatDict(5)
 
 # ----------------Q034-----------------
 
+# Description: Define a function which can print a dictionary where the keys are numbers between 1 and 20
+#              (both included) and the values are square of keys.
 
+# d = creatDict(20)
 
 # ----------------Q035-----------------
+# Description: Define a function which can generate a dictionary where the keys are numbers between 1 and 20 (both
+#              included) and the values are square of keys. The function should just print the values only.
 
-
+# for key in d.keys():
+#     print d[key]
 
 # ----------------Q036-----------------
-
-
+# Description: Define a function which can generate a dictionary where the keys are numbers between 1 and 20
+#              (both included) and the values are square of keys. The function should just print the keys only.
+# d = creatDict(20)
+# print d.keys()
 
 # ----------------Q037-----------------
+# Description: Define a function which can generate and print a list where the values are square of numbers
+#              between 1 and 20 (both included).
 
-
+# d = creatDict(20)
+# li = []
+#
+# for key in d.keys():
+#     li.append(d[key])
+#
+# print li
 
 # ----------------Q038-----------------
+# Description: Define a function which can generate a list where the values are square of numbers between 1 and 20 (
+#              both included). Then the function needs to print the first 5 elements in the list.
 
-
+# print li[:5]
 
 # ----------------Q039-----------------
-
-
+# Description: Define a function which can generate a list where the values are square of numbers between 1 and 20
+#              (both included). Then the function needs to print the last 5 elements in the list.
+# print li[-5:]
 
 # ----------------Q040-----------------
+# Description: Define a function which can generate a list where the values are square of numbers between 1 and 20
+#              (both included). Then the function needs to print all values except the first 5 elements in the list.
 
-
+# print li[5:]
 
 # ----------------Q041-----------------
-
+# Description: Define a function which can generate and print a tuple where the value are square of numbers between 1
+#              and 20 (both included).
+#
+# print tuple(li)
 
 
 # ----------------Q042-----------------
+# Description: With a given tuple (1,2,3,4,5,6,7,8,9,10), write a program to print the first half values in one line
+#              and the last half values in one line.
 
 
 

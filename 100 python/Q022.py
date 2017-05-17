@@ -1,7 +1,7 @@
 # Q022
 # Created by JKChang
 # 27/04/2017, 16:11
-# Tag: 
+# Tag: sorting dictionary
 # Description: Write a program to compute the frequency of the words from the input. The output should output after
 #              sorting the key alphanumerically.
 # Suppose the following input is supplied to the program:
@@ -19,14 +19,21 @@
 # or:2
 # to:1
 
+import operator
+
 freq = {}
 line = raw_input()
 
-for x in line.split(' '):
-    freq[x] = freq.get(x,0) + 1 #add 1, if not existed, creat one and add 1
+for word in line.split(" "):
+    freq[word] = freq.get(word, 0) + 1  # add 1, if not existed, creat one and add 1
 
-words = freq.keys()
-words.sort()
+print 'dictionary: ', freq
+# sorted according to the term frequency (values)
+freq1 = sorted(freq.items(), key=operator.itemgetter(1))
+print type(freq1)
 
-for word in words:
-    print word, freq[word]
+print 'sorted according to the term frequency (values): ', freq1
+
+# sorted according to the alphabetical (keys)
+freq2 = sorted(freq.items(), key=operator.itemgetter(0))
+print 'sorted according to the alphabetical (keys) : ', freq2

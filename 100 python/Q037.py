@@ -1,7 +1,7 @@
 # Q037
 # Created by JKChang
 # 28/04/2017, 14:26
-# Tag: 
+# Tag: list of dict values
 # Description: Define a function which can generate and print a list where the values are square of numbers
 #              between 1 and 20 (both included).
 

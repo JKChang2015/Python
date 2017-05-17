@@ -6,7 +6,6 @@
 #              and the last half values in one line.
 
 def printValue(tu):
-    l = len(tu)
     print tu[:len(tu)/2]
     print tu[len(tu)/2:]
 

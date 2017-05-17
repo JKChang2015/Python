@@ -21,26 +21,26 @@
 |19|[Q019](./Q019.py)|Python|Priority sorting|
 |20|[Q020](./Q020.py)|Python|Yield|
 |21|[Q021](./Q021.py)|Python|Direction and steps|
-|22|[Q022](./Q022.py)|Python||
-|23|[Q023](./Q023.py)|Python||
-|24|[Q024](./Q024.py)|Python||
-|25|[Q025](./Q025.py)|Python||
-|26|[Q026](./Q026.py)|Python||
-|27|[Q027](./Q027.py)|Python||
-|28|[Q028](./Q028.py)|Python||
-|29|[Q029](./Q029.py)|Python||
-|30|[Q030](./Q030.py)|Python||
-|31|[Q031](./Q031.py)|Python||
-|32|[Q032](./Q032.py)|Python||
-|33|[Q033](./Q033.py)|Python||
-|34|[Q034](./Q034.py)|Python||
-|35|[Q035](./Q035.py)|Python||
-|36|[Q036](./Q036.py)|Python||
-|37|[Q037](./Q037.py)|Python||
-|38|[Q038](./Q038.py)|Python||
-|39|[Q039](./Q039.py)|Python||
-|40|[Q040](./Q040.py)|Python||
-|41|[Q041](./Q041.py)|Python||
+|22|[Q022](./Q022.py)|Python|Sorting dictionary|
+|23|[Q023](./Q023.py)|Python|Square value|
+|24|[Q024](./Q024.py)|Python|Function document|
+|25|[Q025](./Q025.py)|Python|Class parameter & instance parameter|
+|26|[Q026](./Q026.py)|Python|Function|
+|27|[Q027](./Q027.py)|Python|Convert integer to string|
+|28|[Q028](./Q028.py)|Python|Convert string to int|
+|29|[Q029](./Q029.py)|Python|Sum|
+|30|[Q030](./Q030.py)|Python|Concatenate strings|
+|31|[Q031](./Q031.py)|Python|Length of string|
+|32|[Q032](./Q032.py)|Python|Check odd or even|
+|33|[Q033](./Q033.py)|Python|Dictionary initialization|
+|34|[Q034](./Q034.py)|Python|Dictionary initialization|
+|35|[Q035](./Q035.py)|Python|Dictionary initialization|
+|36|[Q036](./Q036.py)|Python|Dictionary keys|
+|37|[Q037](./Q037.py)|Python|List of dict values|
+|38|[Q038](./Q038.py)|Python|List subtraction|
+|39|[Q039](./Q039.py)|Python|List subtraction|
+|40|[Q040](./Q040.py)|Python|List subtraction|
+|41|[Q041](./Q041.py)|Python|List to tuple|
 |42|[Q042](./Q042.py)|Python||
 |43|[Q043](./Q043.py)|Python||
 |44|[Q044](./Q044.py)|Python||
