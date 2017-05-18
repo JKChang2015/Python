@@ -1,7 +1,7 @@
 # Q069
 # Created by JKChang
 # 09/05/2017, 14:32
-# Tag: 
+# Tag: generator & yield
 # Description: Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0
 #              and n in comma separated form while n is input by console.
 
@@ -14,16 +14,19 @@
 #
 # 0,35,70
 
-def NumGenerato(n):
+def NumGenerator(n):
     for i in range(n + 1):
         if i % 5 == 0 and i % 7 == 0:
             yield i
 
 
-n = int(raw_input('pls input a integer: '))
-res = []
+print ','.join(str(x) for x in NumGenerator(int(raw_input())))
 
-for i in NumGenerato(n):
-    res.append(str(i))
-
-print ','.join(res)
+# Method 2
+# n = int(raw_input('pls input a integer: '))
+# res = []
+#
+# for i in NumGenerato(n):
+#     res.append(str(i))
+#
+# print ','.join(res)

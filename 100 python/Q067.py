@@ -1,7 +1,7 @@
 # Q067
 # Created by JKChang
 # 09/05/2017, 14:32
-# Tag: 
+# Tag: recursion
 # Description: The Fibonacci Sequence is computed based on the following formula:
 #
 #
@@ -33,9 +33,6 @@ def f(n):
 n = int(raw_input('Please input an integer'))
 res = []
 
-for i in range(n+1):
-    res.append(str(f(i)))
-# values = [str(f(x)) for x in range(0, n+1)]
-
+res = [str(f(x)) for x in range(int(raw_input()) +1)]
 print ','.join(res)
 

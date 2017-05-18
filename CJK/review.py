@@ -745,67 +745,158 @@
 #              program to print the user name of a given email address. Both user names and company names are composed
 #              of letters only.
 
-import re
-email = raw_input('Please input your email address: ')
-
-
-
-
+# import re
+# email = raw_input('Please input your email address: ')
+# pattern = '(\w+)@(\w+)\.(\w+)'
+# res = re.match(pattern, email)
+# print res.group(1)
 
 # ----------------Q059-----------------
+# Description: Assuming that we have some email addresses in the "username@companyname.com" format, please write
+#              program to print the company name of a given email address. Both user names and company names are
+#              composed of letters only
 
-
+# import re
+# email = raw_input('pls input your email address: ')
+# pat = '(\w+)@(\w+)\.(\w+)'
+# res = re.match(pat,email)
+# print res.group(2)
 
 # ----------------Q060-----------------
+# Description: Write a program which accepts a sequence of words separated by whitespace as input to print the words
+#              composed of digits only.
 
-
+# s = raw_input('Inputs: ')
+# res = [int(x) for x in s.split() if x.isdigit()]
+# print res
 
 # ----------------Q061-----------------
+# Description: Print a unicode string "hello world".
 
-
+# unicodeString =  u'hello world'
+# print unicodeString
 
 # ----------------Q062-----------------
+# Description: Write a program to read an ASCII string and to convert it to a unicode string encoded by utf-8.
 
-
+# u = unicode(raw_input(), "utf-8")
+# print u
 
 # ----------------Q063-----------------
+# Description: Write a special comment to indicate a Python source code file is in unicode.
 
-
+# -*- coding: utf-8 -*-
 
 # ----------------Q064-----------------
+# Description: Write a program to compute 1/2+2/3+3/4+...+n/n+1 with a given n input by console (n>0).
 
-
+# num = int(raw_input())
+# s = 0
+#
+# for i in range(1, num + 1):
+#     s += float(float(i) / (i + 1))
+#
+# print s
 
 # ----------------Q065-----------------
+# Description: Write a program to compute:
 
+# f(n)=f(n-1)+100 when n>0
+# and f(0)=1
+# with a given n input by console (n>0).
+
+# def f(n):
+#     if n == 0:
+#         return 1
+#     elif n > 0:
+#         return f(n - 1) + 100
+#     else:
+#         pass
+#
+#
+# n = int(raw_input())
+# print f(n)
 
 
 # ----------------Q066-----------------
+# Description: The Fibonacci Sequence is computed based on the following formula:
+# f(n)=0 if n=0
+# f(n)=1 if n=1
+# f(n)=f(n-1)+f(n-2) if n>1
+#
+# Please write a program to compute the value of f(n) with a given n input by console.
 
-
-
+# def f(n):
+#     if n < 0:
+#         pass
+#     elif n == 0:
+#         return 0
+#     elif n == 1:
+#         return 1
+#     else:
+#         return f(n - 1) + f(n - 2)
+#
+# print f(int(raw_input()))
 # ----------------Q067-----------------
+# Description: The Fibonacci Sequence is computed based on the following formula:
+# f(n)=0 if n=0
+# f(n)=1 if n=1
+# f(n)=f(n-1)+f(n-2) if n>1
+#
+# Please write a program using list comprehension to print the Fibonacci Sequence in comma separated form with a given
+# n input by console.
 
-
+# def f(n):
+#     if n < 0:
+#         pass
+#     elif n == 0:
+#         return 0
+#     elif n == 1:
+#         return 1
+#     else:
+#         return f(n - 1) + f(n - 2)
+#
+# res = [str(f(x)) for x in range(int(raw_input()) +1)]
+# print ','.join(res)
 
 # ----------------Q068-----------------
+# Description: Please write a program using generator to print the even numbers between 0 and n in comma separated
+#              form while n is input by console.
 
-
+# print ','.join([str(x) for x in range(int(raw_input()) + 1) if x % 2 == 0])
 
 # ----------------Q069-----------------
+# Description: Please write a program using generator to print the numbers which can be divisible by 5 and 7 between 0
+#              and n in comma separated form while n is input by console.
 
-
+# def Generator(n):
+#     for i in range(0, n + 1):
+#         if i % 5 == 0 and i % 7 == 0:
+#             yield i
+#
+# print ','.join(str(x) for x in Generator(int(raw_input())))
 
 # ----------------Q070-----------------
+# Description: Please write assert statements to verify that every number in the list [2,4,6,8] is even.
 
-
+# li = [2, 4, 6, 8]
+# for i in li:
+#     assert i % 2 == 0
 
 # ----------------Q071-----------------
+# Description: Please write a program which accepts basic mathematics expression from console and print the evaluation
+#              result.
 
-
+# print eval(raw_input())
 
 # ----------------Q072-----------------
+# Description: Please write a binary search function which searches an item in a sorted
+#              list. The function should return the index of element to be searched in the list.
 
+import math
+
+def search(list, ele):
+    pass
 
 
 # ----------------Q073-----------------
