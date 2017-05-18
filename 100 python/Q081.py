@@ -1,7 +1,7 @@
 # Q81
 # Created by JKChang
 # 09/05/2017, 15:37
-# Tag: 
+# Tag: compress and decompress
 # Description: Please write a program to compress and decompress the string "hello world!hello world!hello
 #              world!hello world!".
 

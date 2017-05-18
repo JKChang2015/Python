@@ -893,47 +893,101 @@
 # Description: Please write a binary search function which searches an item in a sorted
 #              list. The function should return the index of element to be searched in the list.
 
-import math
-
-def search(list, ele):
-    pass
-
+# import math
+#
+#
+# def search(list, ele):
+#     up = len(list)
+#     down = 0
+#     while (down <= up):
+#         index = int(math.floor((up + down) / 2.0))
+#         if ele == index:
+#             return index
+#         elif ele > index:
+#             down = index + 1
+#         else:
+#             up = index - 1
+#     return 'Sorry, Cant find it'
+#
+# li = [2, 5, 7, 9, 11, 17, 222]
+# print search(li, 2)
+# print search(li, 21)
 
 # ----------------Q073-----------------
+# Description: Please generate a random float where the value is between 10 and 100 using Python math module.
 
-
+# import random
+#
+# print random.uniform(10.0, 100.0)
+# print '%.2f' % random.uniform(10.0, 100.0)
 
 # ----------------Q074-----------------
+# Description: Please generate a random float where the value is between 5 and 95 using Python math module.
 
-
+# import random
+#
+# print random.uniform(5.0, 95.0)
 
 # ----------------Q075-----------------
+# Description: Please write a program to output a random even number between 0 and 10 inclusive using random module
+#              and list comprehension.
 
-
+# import random
+#
+# print random.choice([i for i in range(11) if i % 2 == 0])
 
 # ----------------Q076-----------------
+# Description: Please write a program to output a random number, which is divisible by 5 and 7, between 0 and 200
+#              inclusive using random module and list comprehension.
 
-
+# import random
+#
+# print random.choice([x for x in range(201) if x % 5 == 0 and x % 7 == 0])
 
 # ----------------Q077-----------------
+# Description: Please write a program to generate a list with 5 random numbers between 100 and 200 inclusive.
 
+# import random
+#
+# print random.sample(range(100,201), 5)
 
 
 # ----------------Q078-----------------
-
+# Description: Please write a program to randomly generate a list with 5 even numbers between 100 and 200 inclusive.
+# import random
+#
+# print random.sample([x for x in range(100, 200) if x % 2 == 0], 5)
 
 
 # ----------------Q079-----------------
-
-
+# Description: Please write a program to randomly generate a list with 5 numbers, which are divisible by 5 and 7 ,
+#              between 1 and 1000 inclusive.
+#
+# import random
+#
+# print random.sample([x for x in range(1, 1001) if x % 5 == 0 and x % 7 == 0], 5)
 
 # ----------------Q080-----------------
+# Description: Please write a program to randomly print a integer number between 7 and 15 inclusive.
 
+# import random
 
+# Use random.randrange() to a random integer in a given range.
+
+# print random.randrange(7,16)
+# or
+# print random.randint(7,15)
 
 # ----------------Q081-----------------
+# Description: Please write a program to compress and decompress the string "hello world!hello world!hello
+#              world!hello world!".
 
-
+# import zlib
+#
+# s = 'hello world!hello world!hello world!hello world!'
+# t = zlib.compress(s)
+# print t
+# print zlib.decompress(t)
 
 # ----------------Q082-----------------
 
