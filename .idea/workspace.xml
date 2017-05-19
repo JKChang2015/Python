@@ -2,16 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q073.py" afterPath="$PROJECT_DIR$/100 python/Q073.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q074.py" afterPath="$PROJECT_DIR$/100 python/Q074.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q075.py" afterPath="$PROJECT_DIR$/100 python/Q075.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q076.py" afterPath="$PROJECT_DIR$/100 python/Q076.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q077.py" afterPath="$PROJECT_DIR$/100 python/Q077.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q078.py" afterPath="$PROJECT_DIR$/100 python/Q078.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q079.py" afterPath="$PROJECT_DIR$/100 python/Q079.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q080.py" afterPath="$PROJECT_DIR$/100 python/Q080.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q081.py" afterPath="$PROJECT_DIR$/100 python/Q081.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q082.py" afterPath="$PROJECT_DIR$/100 python/Q082.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/review.py" afterPath="$PROJECT_DIR$/CJK/review.py" />
     </list>
@@ -212,8 +202,8 @@
           <file leaf-file-name="Q082.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/100 python/Q082.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="63">
-                  <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+                <state relative-caret-position="189">
+                  <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
                   <folding />
                 </state>
               </provider>
@@ -226,10 +216,10 @@
           <file leaf-file-name="review.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CJK/review.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="594">
-                  <caret line="984" column="0" lean-forward="false" selection-start-line="984" selection-start-column="2" selection-end-line="989" selection-end-column="26" />
+                <state relative-caret-position="442">
+                  <caret line="993" column="0" lean-forward="true" selection-start-line="993" selection-start-column="0" selection-end-line="993" selection-end-column="0" />
                   <folding>
-                    <marker date="1495115107000" expanded="true" signature="3732:3809" ph="..." />
+                    <marker date="1495118126000" expanded="true" signature="3732:3809" ph="..." />
                   </folding>
                 </state>
               </provider>
@@ -312,8 +302,8 @@
         <option value="$PROJECT_DIR$/100 python/Q079.py" />
         <option value="$PROJECT_DIR$/100 python/Q078.py" />
         <option value="$PROJECT_DIR$/100 python/Q080.py" />
-        <option value="$PROJECT_DIR$/CJK/review.py" />
         <option value="$PROJECT_DIR$/100 python/Q081.py" />
+        <option value="$PROJECT_DIR$/CJK/review.py" />
         <option value="$PROJECT_DIR$/100 python/Q082.py" />
       </list>
     </option>
@@ -1037,11 +1027,11 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.17926735" sideWeight="0.5015886" order="6" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.49841145" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.49841145" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32788163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32866043" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24894157" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32320872" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32320872" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3364486" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.13463067" sideWeight="0.50332385" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1452,16 +1442,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/review.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="984" column="0" lean-forward="false" selection-start-line="984" selection-start-column="2" selection-end-line="989" selection-end-column="26" />
-          <folding>
-            <marker date="1495115107000" expanded="true" signature="3732:3809" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/100 python/Q081.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="147">
@@ -1472,9 +1452,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/100 python/Q082.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="12" lean-forward="false" selection-start-line="3" selection-start-column="12" selection-end-line="3" selection-end-column="12" />
+        <state relative-caret-position="189">
+          <caret line="9" column="16" lean-forward="true" selection-start-line="9" selection-start-column="16" selection-end-line="9" selection-end-column="16" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/review.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="993" column="0" lean-forward="true" selection-start-line="993" selection-start-column="0" selection-end-line="993" selection-end-column="0" />
+          <folding>
+            <marker date="1495118126000" expanded="true" signature="3732:3809" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
