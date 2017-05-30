@@ -95,8 +95,8 @@
 |93|[Q093](./Q093.py)|Python|Class and inherent|
 |94|[Q094](./Q094.py)|Python|Count character|
 |95|[Q095](./Q095.py)|Python|Reverse|
-|96|[Q096](./Q096.py)|Python||
-|97|[Q097](./Q097.py)|Python|Combination|
-|98|[Q098](./Q098.py)|Python||
-|99|[Q099](./Q099.py)|Python||
-|100|[Q100](./Q100.py)|Python||
+|96|[Q096](./Q096.py)|Python|Even elements of list|
+|97|[Q097](./Q097.py)|Python|Permutation|
+|98|[Q098](./Q098.py)|Python|Head & leg problem|
+|99|[Q099](./Q099.py)|Python|Ring|
+|100|[Q100](./Q100.py)|Python|Term counter|

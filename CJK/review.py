@@ -1125,17 +1125,95 @@
 # print s[::2]
 
 # ----------------Q097-----------------
-import itertools
-
-print list(itertools.permutations([1,2,3]))
+# Description: Please write a program which prints all permutations of [1,2,3]
+# import itertools
+#
+# print list(itertools.permutations([1,2,3]))
 
 
 # ----------------Q098-----------------
+# Description: Write a program to solve a classic ancient Chinese puzzle:
+#              We count 35 heads and 94 legs among the chickens and rabbits in a farm. How many rabbits and how many
+#              chickens do we have?
 
-
+# def solve(numheads, numlegs):
+#     for i in range(numheads + 1):
+#         j = numheads - i
+#         if 2 * i + 4 * j == numlegs:
+#             return i, j
+#     return 'No solutions!'
+#
+#
+# numheads = 35
+# numlegs = 94
+# solutions = solve(numheads, numlegs)
+# print solutions
 
 # ----------------Q099-----------------
+# Description: ????????????
 
+# class Ring(object):
+#     def __init__(self, l):
+#         if not len(l):
+#             raise "ring must have at least one element"
+#         self._data = l
+#
+#     def __repr__(self):
+#         return repr(self._data)
+#
+#     def __len__(self):
+#         return len(self._data)
+#
+#     def __getitem__(self, i):
+#         return self._data[i]
+#
+#     def turn(self):
+#         last = self._data.pop(-1)
+#         self._data.insert(0, last)
+#
+#     def first(self):
+#         return self._data[0]
+#
+#     def last(self):
+#         return self._data[-1]
+#
+# l = [{1:1}, {2:2}, {3:3}]
+# r = Ring(l)
+#
+# print r.first()
+# print r.last()
+# print r.__getitem__(len(r)-2)
 
 
 # ----------------Q100-----------------
+# Description: term frequency counter
+import operator
+import string
+
+
+class Counter():
+    def __init__(self):
+        self.dict = {}
+
+    def add(self, item):
+        self.dict[item] = self.dict.get(item, 0) + 1
+
+    def counts(self):
+        # sort dictionary according to the values
+        result = sorted(self.dict.items(), key=operator.itemgetter(1), reverse=True)
+        return result
+
+
+c = Counter()
+s = "Hello there this is a test. hello there this was a test, but now it is not."
+replace_punctuation = string.maketrans(string.punctuation, ' ' * len(string.punctuation))
+text = s.lower().translate(replace_punctuation)
+words = text.split()
+
+for i in words:
+    c.add(i)
+res = c.counts()
+
+for i in res:
+    print '%s: %s' % (i[0], i[1])
+

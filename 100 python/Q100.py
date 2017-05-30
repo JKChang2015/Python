@@ -1,25 +1,43 @@
 # -*- coding: utf-8 -*-
 # Q100
 # Created by JKChang
-# Tag: 
+# Tag: term Counter
 # 09/05/2017, 15:37
-# Description: term frequency counter
+# Description: term counter,remove punctuation
 
-class Counter(object):
+# from collections import Counter
+# sentence = "Hello there this is a test.a Hello there this this was a test, but now it is not."
+# words = sentence.split(' ')
+# counts = Counter(words)
+# print counts
+
+
+import operator
+import string
+
+
+class Counter():
     def __init__(self):
         self.dict = {}
 
     def add(self, item):
-        dict[item] = dict.get(item, 0) + 1  # 返回指定键的值，如果值不在字典中返回default值
+        self.dict[item] = self.dict.get(item, 0) + 1
 
-    def counts(self, desc=None):
-        result = [[val, key] for (key, val) in self.dict.items()]
-        result.sort()
-        if desc:
-            result.reverse()
+    def counts(self):
+        # sort dictionary according to the values
+        result = sorted(self.dict.items(), key=operator.itemgetter(1), reverse=True)
         return result
 
-if __name__ == '__main__':
-    sentence = "Hello there this is a test.  Hello there this was a test, but now it is not."
-    words = sentence.split(' ')
-    print words
+
+c = Counter()
+s = "Hello there this is a test. hello there this was a test, but now it is not."
+replace_punctuation = string.maketrans(string.punctuation, ' ' * len(string.punctuation))
+text = s.lower().translate(replace_punctuation)
+words = text.split()
+
+for i in words:
+    c.add(i)
+res = c.counts()
+
+for i in res:
+    print '%s: %s' % (i[0], i[1])
