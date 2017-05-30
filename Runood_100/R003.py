@@ -2,6 +2,7 @@
 # R003
 # Created by JKChang
 # 01/03/2017, 09:53
+# Tag: conditional
 # Description: 一个整数，它加上100和加上268后都是一个完全平方数，请问该数是多少？
 
 import math

@@ -1,6 +1,7 @@
 # R004
 # Created by JKChang
 # 01/03/2017, 10:31
+# Tag: Date count
 # Description: Count the days for a certain date.
 
 def monthDay(month):
