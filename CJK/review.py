@@ -992,65 +992,142 @@
 # ----------------Q082-----------------
 # Description: Please write a program to print the running time of execution of "1+1" for 100 times.
 
-
+# from timeit import Timer
+#
+# t = Timer('for i in range(100): 1+1')
+# print t.timeit()
 # ----------------Q083-----------------
+# Description: Please write a program to shuffle and print the list [3,6,7,8].
 
-
+# from random import shuffle
+#
+# li = [2,3,4,5,6,9]
+# shuffle(li)
+# print li
 
 # ----------------Q084-----------------
+# Description: Please write a program to generate all sentences where subject is in ["I", "You"] and verb is in ["Play"
+#              , "Love"] and the object is in ["Hockey","Football"].
 
-
+# subjects = ['I', 'You']
+# verbs = ['Play', 'Love']
+# objects = ['Hockey', 'Football']
+#
+# for i in range(len(subjects)):
+#     for j in range(len(verbs)):
+#         for k in range(len(objects)):
+#             sentence = "%s %s %s." % (subjects[i], verbs[j], objects[k])
+#             print sentence
 
 # ----------------Q085-----------------
-
-
+# Description: Please write a program to print the list after removing delete even numbers in [5,6,77,45,22,12,24].
+# li = [5, 6, 77, 45, 22, 12, 24]
+# l = [x for x in li if x % 2 != 0]
+# print l
 
 # ----------------Q086-----------------
+# Description: By using list comprehension, please write a program to print the list after removing delete numbers
+#              which are divisible by 5 and 7 in [12,24,35,70,88,120,155].
 
-
+# li = [12, 24, 35, 70, 88, 120, 155]
+# l = [x for x in li if x % 5 == 0 and x % 7 == 0]
+# print l
 
 # ----------------Q087-----------------
-
-
+# Description: By using list comprehension, please write a program to print the list after removing the
+#              0th, 2nd, 4th,6th numbers in [12,24,35,70,88,120,155].
+# li = [12, 24, 35, 70, 88, 120, 155]
+# l = [x for (i, x) in enumerate(li) if i % 2 != 0]
+# print l
 
 # ----------------Q088-----------------
+# Description: By using list comprehension, please write a program generate a 3*5*8 3D array whose each element is 0.
 
-
+# ary = [[[0 for col in range(8)] for co in range(5)] for c in range(3)]
+# print ary
 
 # ----------------Q089-----------------
+# Description: By using list comprehension, please write a program to print the list after removing the 0th,4th,5th
+#              numbers in [12,24,35,70,88,120,155].
 
-
+# li = [12,24,35,70,88,120,155]
+# l = [x for (i,x) in enumerate(li) if i not in (0,4,5)]
+# print l
 
 # ----------------Q090-----------------
+# Description: By using list comprehension, please write a program to print the list after removing the value 24 in
+#              [12,24,35,24,88,120,155].
 
-
+# li = [12, 24, 35, 24, 88, 120, 155]
+# l = [x for x in li if x != 24]
+# print l
 
 # ----------------Q091-----------------
+# Description: With two given lists [1,3,6,78,35,55] and [12,24,35,24,88,120,155], write a program to make a list
+#              whose elements are intersection of the above given lists.
 
-
+# l1 = [1, 3, 6, 78, 35, 55]
+# l2 = [12, 24, 35, 24, 88, 120, 155]
+# li = [ x for x in l1 if x in l2]
+# print li
 
 # ----------------Q092-----------------
+# Description: With a given list [12,24,35,24,88,120,155,88,120,155], write a program to print this list after removing
+#              all duplicate values with original order reserved.[12,24,35,24,88,120,155,88,120,155]
 
-
+# li = [12, 24, 35, 24, 88, 120, 155, 88, 120, 155]
+# l = [li[0]]
+# for x in li:
+#     if x not in l:
+#         l.append(x)
+# print l[::-1]
 
 # ----------------Q093-----------------
+# Description: Define a class Person and its two child classes: Male and Female. All classes have a method "getGender"
+#              which can print "Male" for Male class and "Female" for Female class.
 
-
-
+# class Person(object):
+#     def getGender(self):
+#         return 'unknown'
+#
+# class Male(Person):
+#     def getGender(self):
+#         return 'male'
+#
+# class Female(Person):
+#     def getGender(self):
+#         return 'female'
+#
+# aMale = Male()
+# aFemale = Female()
+# print aMale.getGender()
+# print aFemale.getGender()
 # ----------------Q094-----------------
-
-
+# Description: Please write a program which count and print the numbers of each character in a string input by console.
+# s = raw_input().strip()
+# dict = {}
+#
+# for i in s:
+#     dict[i] = dict.get(i,0) + 1
+#
+# print '\n'.join(['%s,%s' % (k, v) for k, v in dict.items()])
 
 # ----------------Q095-----------------
+# Description: Please write a program which accepts a string from console and print it in reverse order.
 
-
+# s = raw_input('please input something: ')
+# s = s[::-1]
+# print s
 
 # ----------------Q096-----------------
-
-
+# Description: Please write a program which accepts a string from console and print the characters that have even indexes.
+# s = raw_input()
+# print s[::2]
 
 # ----------------Q097-----------------
+import itertools
 
+print list(itertools.permutations([1,2,3]))
 
 
 # ----------------Q098-----------------

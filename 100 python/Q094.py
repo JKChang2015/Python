@@ -1,7 +1,7 @@
 # -*- coding:UTF-8 -*-
 # Q094
 # Created by JKChang
-# Tag: 
+# Tag: count character
 # 09/05/2017, 15:37
 # Description: Please write a program which count and print the numbers of each character in a string input by console.
 

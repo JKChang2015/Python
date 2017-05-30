@@ -57,46 +57,46 @@
 |55|[Q055](./Q055.py)|Python|Raise runtimeerror|
 |56|[Q056](./Q056.py)|Python|Exception|
 |57|[Q057](./Q057.py)|Python|Custom exception|
-|58|[Q058](./Q058.py)|Python||
-|59|[Q059](./Q059.py)|Python||
-|60|[Q060](./Q060.py)|Python||
-|61|[Q061](./Q061.py)|Python||
-|62|[Q062](./Q062.py)|Python||
-|63|[Q063](./Q063.py)|Python||
-|64|[Q064](./Q064.py)|Python||
-|65|[Q065](./Q065.py)|Python||
-|66|[Q066](./Q066.py)|Python||
-|67|[Q067](./Q067.py)|Python||
-|68|[Q068](./Q068.py)|Python||
-|69|[Q069](./Q069.py)|Python||
-|70|[Q070](./Q070.py)|Python||
-|71|[Q071](./Q071.py)|Python||
-|72|[Q072](./Q072.py)|Python||
-|73|[Q073](./Q073.py)|Python||
-|74|[Q074](./Q074.py)|Python||
-|75|[Q075](./Q075.py)|Python||
-|76|[Q076](./Q076.py)|Python||
-|77|[Q077](./Q077.py)|Python||
-|78|[Q078](./Q078.py)|Python||
-|79|[Q079](./Q079.py)|Python||
-|80|[Q080](./Q080.py)|Python||
-|81|[Q081](./Q081.py)|Python||
-|82|[Q082](./Q082.py)|Python||
-|83|[Q083](./Q083.py)|Python||
-|84|[Q084](./Q084.py)|Python||
-|85|[Q085](./Q085.py)|Python||
-|86|[Q086](./Q086.py)|Python||
-|87|[Q087](./Q087.py)|Python||
-|88|[Q088](./Q088.py)|Python||
-|89|[Q089](./Q089.py)|Python||
-|90|[Q090](./Q090.py)|Python||
-|91|[Q091](./Q091.py)|Python||
-|92|[Q092](./Q092.py)|Python||
-|93|[Q093](./Q093.py)|Python||
-|94|[Q094](./Q094.py)|Python||
-|95|[Q095](./Q095.py)|Python||
+|58|[Q058](./Q058.py)|Python|Regular expression match|
+|59|[Q059](./Q059.py)|Python|Regular expression match|
+|60|[Q060](./Q060.py)|Python|Re.findall (extract numbers from string)|
+|61|[Q061](./Q061.py)|Python|Unicodestring|
+|62|[Q062](./Q062.py)|Python|Ascii to utf-8|
+|63|[Q063](./Q063.py)|Python|Utf-8 comment|
+|64|[Q064](./Q064.py)|Python|Math|
+|65|[Q065](./Q065.py)|Python|Recursion|
+|66|[Q066](./Q066.py)|Python|Recursion|
+|67|[Q067](./Q067.py)|Python|Recursion|
+|68|[Q068](./Q068.py)|Python|Generator & yield|
+|69|[Q069](./Q069.py)|Python|Generator & yield|
+|70|[Q070](./Q070.py)|Python|Assert|
+|71|[Q071](./Q071.py)|Python|Eval|
+|72|[Q072](./Q072.py)|Python|Binary search|
+|73|[Q073](./Q073.py)|Python|Random float|
+|74|[Q074](./Q074.py)|Python|Random float|
+|75|[Q075](./Q075.py)|Python|Random number from list|
+|76|[Q076](./Q076.py)|Python|Choice random number under certain condition|
+|77|[Q077](./Q077.py)|Python|Set of random number(sample)|
+|78|[Q078](./Q078.py)|Python|Random sample sets|
+|79|[Q079](./Q079.py)|Python|Random sample set|
+|80|[Q080](./Q080.py)|Python|Random integer|
+|81|[Q081](./Q081.py)|Python|Compress and decompress|
+|82|[Q082](./Q082.py)|Python|Timer|
+|83|[Q083](./Q083.py)|Python|Shuffle|
+|84|[Q084](./Q084.py)|Python|Combinations|
+|85|[Q085](./Q085.py)|Python|Conditional list|
+|86|[Q086](./Q086.py)|Python|Conditional list|
+|87|[Q087](./Q087.py)|Python|Enumerate(index, value)|
+|88|[Q088](./Q088.py)|Python|Multi-dimensional array|
+|89|[Q089](./Q089.py)|Python|Enumerate(index, value)|
+|90|[Q090](./Q090.py)|Python|Remove particular element|
+|91|[Q091](./Q091.py)|Python|Intersection|
+|92|[Q092](./Q092.py)|Python|Remove duplicate & reversed|
+|93|[Q093](./Q093.py)|Python|Class and inherent|
+|94|[Q094](./Q094.py)|Python|Count character|
+|95|[Q095](./Q095.py)|Python|Reverse|
 |96|[Q096](./Q096.py)|Python||
-|97|[Q097](./Q097.py)|Python||
+|97|[Q097](./Q097.py)|Python|Combination|
 |98|[Q098](./Q098.py)|Python||
 |99|[Q099](./Q099.py)|Python||
 |100|[Q100](./Q100.py)|Python||
