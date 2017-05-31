@@ -2,10 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/w3resource/basic/__init__.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/webExtractor.py" afterPath="$PROJECT_DIR$/CJK/webExtractor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q001.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q002.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q004.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q005.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q006.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q007.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q008.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q009.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q010.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q010.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -41,8 +50,8 @@
     <SUITE FILE_PATH="coverage/Python$R010.coverage" NAME="R010 Coverage Results" MODIFIED="1488370632326" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
     <SUITE FILE_PATH="coverage/Python$traverse.coverage" NAME="traverse Coverage Results" MODIFIED="1494364253252" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$Q038.coverage" NAME="Q038 Coverage Results" MODIFIED="1493387747953" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$Q010.coverage" NAME="Q010 Coverage Results" MODIFIED="1493290612227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q068.coverage" NAME="Q068 Coverage Results" MODIFIED="1495102723759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q010.coverage" NAME="Q010 Coverage Results" MODIFIED="1496246321312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$Q062.coverage" NAME="Q062 Coverage Results" MODIFIED="1494337188732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$inherit.coverage" NAME="inherit Coverage Results" MODIFIED="1493377319748" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
     <SUITE FILE_PATH="coverage/Python$Q033.coverage" NAME="Q033 Coverage Results" MODIFIED="1493385925039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
@@ -53,8 +62,8 @@
     <SUITE FILE_PATH="coverage/Python$Q059.coverage" NAME="Q059 Coverage Results" MODIFIED="1494336293236" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q035.coverage" NAME="Q035 Coverage Results" MODIFIED="1493387369425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q032.coverage" NAME="Q032 Coverage Results" MODIFIED="1493384304646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$Q007.coverage" NAME="Q007 Coverage Results" MODIFIED="1493220356462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q041.coverage" NAME="Q041 Coverage Results" MODIFIED="1493388582820" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q007.coverage" NAME="Q007 Coverage Results" MODIFIED="1496245963166" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$R007.coverage" NAME="R007 Coverage Results" MODIFIED="1488367898743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
     <SUITE FILE_PATH="coverage/Python$Q087.coverage" NAME="Q087 Coverage Results" MODIFIED="1494415395664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$L13_global.coverage" NAME="L13_global Coverage Results" MODIFIED="1487606823393" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
@@ -66,10 +75,10 @@
     <SUITE FILE_PATH="coverage/Python$Q093.coverage" NAME="Q093 Coverage Results" MODIFIED="1494425558130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q084.coverage" NAME="Q084 Coverage Results" MODIFIED="1496133248683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q011.coverage" NAME="Q011 Coverage Results" MODIFIED="1488284534668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$Q002.coverage" NAME="Q002 Coverage Results" MODIFIED="1493130675176" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q095.coverage" NAME="Q095 Coverage Results" MODIFIED="1494426060813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$Q005.coverage" NAME="Q005 Coverage Results" MODIFIED="1494596204670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q002.coverage" NAME="Q002 Coverage Results" MODIFIED="1496244341432" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$Q060.coverage" NAME="Q060 Coverage Results" MODIFIED="1495097833036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q005.coverage" NAME="Q005 Coverage Results" MODIFIED="1496245621492" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$R002.coverage" NAME="R002 Coverage Results" MODIFIED="1494409808501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
     <SUITE FILE_PATH="coverage/Python$Q089.coverage" NAME="Q089 Coverage Results" MODIFIED="1494415556258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q013.coverage" NAME="Q013 Coverage Results" MODIFIED="1493297273907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
@@ -92,8 +101,8 @@
     <SUITE FILE_PATH="coverage/Python$Q079.coverage" NAME="Q079 Coverage Results" MODIFIED="1494410146584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q027.coverage" NAME="Q027 Coverage Results" MODIFIED="1493383143233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q091.coverage" NAME="Q091 Coverage Results" MODIFIED="1496135305996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$Q003.coverage" NAME="Q003 Coverage Results" MODIFIED="1493130897040" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$R012.coverage" NAME="R012 Coverage Results" MODIFIED="1488378281617" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
+    <SUITE FILE_PATH="coverage/Python$Q003.coverage" NAME="Q003 Coverage Results" MODIFIED="1496245178396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$Q073.coverage" NAME="Q073 Coverage Results" MODIFIED="1495112603619" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$R003.coverage" NAME="R003 Coverage Results" MODIFIED="1496152790638" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
     <SUITE FILE_PATH="coverage/Python$Q082.coverage" NAME="Q082 Coverage Results" MODIFIED="1496132230290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
@@ -107,8 +116,8 @@
     <SUITE FILE_PATH="coverage/Python$Q098.coverage" NAME="Q098 Coverage Results" MODIFIED="1494426811165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q037.coverage" NAME="Q037 Coverage Results" MODIFIED="1495019349693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q092.coverage" NAME="Q092 Coverage Results" MODIFIED="1496137015152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$Q008.coverage" NAME="Q008 Coverage Results" MODIFIED="1493289591655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q100.coverage" NAME="Q100 Coverage Results" MODIFIED="1496150067567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q008.coverage" NAME="Q008 Coverage Results" MODIFIED="1496246039850" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$L13_4__1_.coverage" NAME="L13_4 (1) Coverage Results" MODIFIED="1487603791655" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
     <SUITE FILE_PATH="coverage/Python$AddContent.coverage" NAME="AddContent Coverage Results" MODIFIED="1494579555569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$Q040.coverage" NAME="Q040 Coverage Results" MODIFIED="1493387906266" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
@@ -117,7 +126,7 @@
     <SUITE FILE_PATH="coverage/Python$Q045.coverage" NAME="Q045 Coverage Results" MODIFIED="1493972436927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q074.coverage" NAME="Q074 Coverage Results" MODIFIED="1494358839582" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$R004.coverage" NAME="R004 Coverage Results" MODIFIED="1496152987074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
-    <SUITE FILE_PATH="coverage/Python$Q009.coverage" NAME="Q009 Coverage Results" MODIFIED="1493289826132" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q009.coverage" NAME="Q009 Coverage Results" MODIFIED="1496246189992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$L13_2.coverage" NAME="L13_2 Coverage Results" MODIFIED="1487331710554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Kids programming" />
     <SUITE FILE_PATH="coverage/Python$Q056.coverage" NAME="Q056 Coverage Results" MODIFIED="1493990601879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$R009.coverage" NAME="R009 Coverage Results" MODIFIED="1488368790338" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
@@ -129,10 +138,10 @@
     <SUITE FILE_PATH="coverage/Python$Q053.coverage" NAME="Q053 Coverage Results" MODIFIED="1495035213679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$ReadMeCol.coverage" NAME="ReadMeCol Coverage Results" MODIFIED="1494430949536" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$25April.coverage" NAME="25April Coverage Results" MODIFIED="1493127656957" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
-    <SUITE FILE_PATH="coverage/Python$Q004.coverage" NAME="Q004 Coverage Results" MODIFIED="1487326004760" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q004.coverage" NAME="Q004 Coverage Results" MODIFIED="1496245407405" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$Q050.coverage" NAME="Q050 Coverage Results" MODIFIED="1493973549095" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q099.coverage" NAME="Q099 Coverage Results" MODIFIED="1496139231566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
-    <SUITE FILE_PATH="coverage/Python$W3.coverage" NAME="W3 Coverage Results" MODIFIED="1496241125642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
+    <SUITE FILE_PATH="coverage/Python$W3.coverage" NAME="W3 Coverage Results" MODIFIED="1496241296708" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$Q020.coverage" NAME="Q020 Coverage Results" MODIFIED="1494948534759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q019.coverage" NAME="Q019 Coverage Results" MODIFIED="1493300045392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q023.coverage" NAME="Q023 Coverage Results" MODIFIED="1493366989365" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
@@ -155,14 +164,14 @@
     <SUITE FILE_PATH="coverage/Python$Q042.coverage" NAME="Q042 Coverage Results" MODIFIED="1493388796422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q077.coverage" NAME="Q077 Coverage Results" MODIFIED="1495113832747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$R006.coverage" NAME="R006 Coverage Results" MODIFIED="1496154119745" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
-    <SUITE FILE_PATH="coverage/Python$Q001.coverage" NAME="Q001 Coverage Results" MODIFIED="1494511561668" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Q036.coverage" NAME="Q036 Coverage Results" MODIFIED="1495019298984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q001.coverage" NAME="Q001 Coverage Results" MODIFIED="1496244081146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$Q094.coverage" NAME="Q094 Coverage Results" MODIFIED="1494425947449" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$Youdao.coverage" NAME="Youdao Coverage Results" MODIFIED="1496172513065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$cls.coverage" NAME="cls Coverage Results" MODIFIED="1493379082361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
     <SUITE FILE_PATH="coverage/Python$Q083.coverage" NAME="Q083 Coverage Results" MODIFIED="1494413245579" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
     <SUITE FILE_PATH="coverage/Python$R001.coverage" NAME="R001 Coverage Results" MODIFIED="1496152586425" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Runood_100" />
-    <SUITE FILE_PATH="coverage/Python$Q006.coverage" NAME="Q006 Coverage Results" MODIFIED="1493217949258" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
+    <SUITE FILE_PATH="coverage/Python$Q006.coverage" NAME="Q006 Coverage Results" MODIFIED="1496245803325" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$String_test.coverage" NAME="String_test Coverage Results" MODIFIED="1493284156391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Python programming for Beginers" />
     <SUITE FILE_PATH="coverage/Python$Q088.coverage" NAME="Q088 Coverage Results" MODIFIED="1494415446643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/100 python" />
   </component>
@@ -183,38 +192,104 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.8316953">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="webExtractor.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CJK/webExtractor.py">
+          <file leaf-file-name="Q001.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q001.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="420">
-                  <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
-                  <folding>
-                    <element signature="e#91#105#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="147">
+                  <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="W3.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/CJK/W3.py">
+          <file leaf-file-name="Q002.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q002.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="162">
-                  <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-                  <folding>
-                    <element signature="e#70#79#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="84">
+                  <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+                  <folding />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="ReadMeGenerator.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
+          <file leaf-file-name="Q003.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q003.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="522">
-                  <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
+                <state relative-caret-position="105">
+                  <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q004.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q004.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="84">
+                  <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q005.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q005.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="231">
+                  <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q006.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q006.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q007.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q007.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q008.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q008.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="126">
+                  <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q009.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q009.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="210">
+                  <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Q010.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/w3resource/basic/Q010.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="399">
+                  <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
                   <folding />
                 </state>
               </provider>
@@ -237,8 +312,8 @@
           <file leaf-file-name="createNewFile.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="707">
-                  <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="37" />
+                <state relative-caret-position="345">
+                  <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
                   <folding>
                     <element signature="e#109#118#0" expanded="true" />
                   </folding>
@@ -282,16 +357,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/100 python/Q064.py" />
-        <option value="$PROJECT_DIR$/100 python/Q065.py" />
-        <option value="$PROJECT_DIR$/100 python/Q066.py" />
-        <option value="$PROJECT_DIR$/100 python/Q067.py" />
-        <option value="$PROJECT_DIR$/100 python/Q068.py" />
-        <option value="$PROJECT_DIR$/100 python/Q069.py" />
-        <option value="$PROJECT_DIR$/100 python/Q070.py" />
-        <option value="$PROJECT_DIR$/100 python/Q071.py" />
-        <option value="$PROJECT_DIR$/100 python/Q072.py" />
-        <option value="$PROJECT_DIR$/100 python/Q073.py" />
         <option value="$PROJECT_DIR$/100 python/Q074.py" />
         <option value="$PROJECT_DIR$/100 python/Q075.py" />
         <option value="$PROJECT_DIR$/100 python/Q076.py" />
@@ -333,6 +398,16 @@
         <option value="$PROJECT_DIR$/CJK/Youdao.py" />
         <option value="$PROJECT_DIR$/CJK/webExtractor.py" />
         <option value="$PROJECT_DIR$/CJK/W3.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q001.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q002.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q003.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q004.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q005.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q006.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q007.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q008.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q009.py" />
+        <option value="$PROJECT_DIR$/w3resource/basic/Q010.py" />
       </list>
     </option>
   </component>
@@ -419,6 +494,24 @@
               <option name="myItemId" value="w3resource" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="basic" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Python" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="w3resource" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -441,20 +534,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="resources" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Python programming for Beginers" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -496,97 +575,97 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.W3">
-    <configuration default="false" name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.Q010">
+    <configuration default="false" name="Q006" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3resource" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3resource/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3resource/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3resource/basic/Q006.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Youdao" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Q007" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3resource/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/Youdao.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3resource/basic/Q007.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="Q058" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Q008" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/100 python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3resource/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/100 python/Q058.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3resource/basic/Q008.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="webExtractor" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Q009" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3resource/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/webExtractor.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3resource/basic/Q009.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
-    <configuration default="false" name="W3" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration default="false" name="Q010" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/w3resource/basic" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <module name="Python" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/W3.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/w3resource/basic/Q010.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -775,19 +854,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.hello" />
-      <item index="1" class="java.lang.String" itemvalue="Python.Youdao" />
-      <item index="2" class="java.lang.String" itemvalue="Python.Q058" />
-      <item index="3" class="java.lang.String" itemvalue="Python.webExtractor" />
-      <item index="4" class="java.lang.String" itemvalue="Python.W3" />
+      <item index="0" class="java.lang.String" itemvalue="Python.Q006" />
+      <item index="1" class="java.lang.String" itemvalue="Python.Q007" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Q008" />
+      <item index="3" class="java.lang.String" itemvalue="Python.Q009" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Q010" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.W3" />
-        <item index="1" class="java.lang.String" itemvalue="Python.webExtractor" />
-        <item index="2" class="java.lang.String" itemvalue="Python.Youdao" />
-        <item index="3" class="java.lang.String" itemvalue="Python.Q058" />
-        <item index="4" class="java.lang.String" itemvalue="Python.hello" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Q010" />
+        <item index="1" class="java.lang.String" itemvalue="Python.Q009" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Q008" />
+        <item index="3" class="java.lang.String" itemvalue="Python.Q007" />
+        <item index="4" class="java.lang.String" itemvalue="Python.Q006" />
       </list>
     </recent_temporary>
     <configuration default="true" type="tests" factoryName="Attests">
@@ -1087,8 +1166,8 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32788163" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23130842" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33489096" sideWeight="0.49841145" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23094867" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33437014" sideWeight="0.49841145" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16719618" sideWeight="0.507772" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1146,81 +1225,11 @@
           <properties exception="BaseException" />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/100 python/Q100.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="0" lean-forward="true" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q097.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="19" lean-forward="false" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q084.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q009.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q010.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q020.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q008.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="34" lean-forward="true" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q007.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="103" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="103" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q001.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/100 python/Q002.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/100 python/Q003.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1426,13 +1435,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/w3resource/basic/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/100 python/Q058.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="504">
@@ -1464,16 +1466,16 @@
     <entry file="file://$PROJECT_DIR$/CJK/webExtractor.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
-          <caret line="20" column="23" lean-forward="true" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="23" selection-end-line="20" selection-end-column="23" />
           <folding>
-            <element signature="e#91#105#0" expanded="true" />
+            <element signature="e#91#105#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
+        <state relative-caret-position="479">
           <caret line="45" column="10" lean-forward="false" selection-start-line="45" selection-start-column="10" selection-end-line="45" selection-end-column="10" />
           <folding />
         </state>
@@ -1487,23 +1489,111 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/W3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="334">
+          <caret line="20" column="45" lean-forward="false" selection-start-line="20" selection-start-column="45" selection-end-line="20" selection-end-column="45" />
+          <folding>
+            <element signature="e#70#79#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="15" lean-forward="false" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q001.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="54" lean-forward="false" selection-start-line="7" selection-start-column="54" selection-end-line="7" selection-end-column="54" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="707">
-          <caret line="35" column="37" lean-forward="false" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="37" />
+        <state relative-caret-position="345">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
           <folding>
             <element signature="e#109#118#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/W3.py">
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q002.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="8" column="29" lean-forward="true" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-          <folding>
-            <element signature="e#70#79#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="84">
+          <caret line="4" column="21" lean-forward="false" selection-start-line="4" selection-start-column="21" selection-end-line="4" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q003.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="17" lean-forward="true" selection-start-line="5" selection-start-column="17" selection-end-line="5" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q004.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="84">
+          <caret line="4" column="9" lean-forward="false" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q005.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="11" column="0" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q006.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="14" lean-forward="true" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q007.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q008.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="47" lean-forward="true" selection-start-line="6" selection-start-column="47" selection-end-line="6" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q009.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/w3resource/basic/Q010.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="19" column="18" lean-forward="true" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding />
         </state>
       </provider>
     </entry>
