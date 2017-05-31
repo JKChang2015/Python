@@ -1,0 +1,6 @@
+# -*- coding: UTF-8 -*-
+# Q138
+# Created by JKChang
+# Wed, 31/05/2017, 15:34
+# Tag: 
+# Description: Write a Python program to convert true to 1 and false to 0. 
