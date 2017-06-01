@@ -15,10 +15,10 @@ def creatFile(path, name, content):
 
 
 # folderpath = r'/Users/jkchang/Github/Testfolder/'
-folderpath = r'/Users/jkchang/Github/Python/w3resource/basic/'
+folderpath = r'/Users/jkchang/Github/Python/w3resource/String_/'
 
 # folderpath = r'/Users/jkchang/Github/Python/Runood_100/'
-quesPath = r'/Users/jkchang/Downloads/W3.txt'
+quesPath = r'/Users/jkchang/Downloads/1.txt'
 
 questions = []
 with open(quesPath) as f:
