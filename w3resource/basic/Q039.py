@@ -3,4 +3,6 @@
 # Created by JKChang
 # Wed, 31/05/2017, 15:34
 # Tag: 
-# Description: Write a Python program to compute the future value of a specified principal amount, rate of interest, and a number of years. 
+# Description: Write a Python program to compute the future value of a specified principal amount, rate of interest,
+#              and a number of years.
+
