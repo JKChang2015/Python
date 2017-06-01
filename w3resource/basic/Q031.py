@@ -9,7 +9,6 @@ def gcd(x, y):
         (x, y) = (y, x % y)
     return x
 
-
 # print gcd(4, 20)
 # print gcd(20, 4)
 # print gcd(3, 11)

@@ -14,4 +14,3 @@ numbers = [
 ]
 
 print [x for x in numbers[:numbers.index(237)] if x % 2 == 0]
-

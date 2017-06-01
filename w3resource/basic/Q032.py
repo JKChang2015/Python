@@ -7,7 +7,9 @@
 
 from Q031 import gcd
 
-def lcm(x,y):
-    return (x *y) / gcd(x,y)
 
-print lcm(54,24)
+def lcm(x, y):
+    return (x * y) / gcd(x, y)
+
+
+print lcm(54, 24)

@@ -11,5 +11,6 @@ def s(l):
     else:
         return sum(l)
 
-print s([1,2,3,4])
-print s([1,2,2])
+
+print s([1, 2, 3, 4])
+print s([1, 2, 2])
