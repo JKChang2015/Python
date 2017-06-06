@@ -13,7 +13,6 @@ for key, value in dict.items(flu):
     time.sleep(1)
 
 # backwards
-for i in range(10, 0 , -1):
+for i in range(10, 0, -1):
     print i
     time.sleep(1)
-

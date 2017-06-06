@@ -3,7 +3,6 @@
 # 10/05/2017, 19:59
 # Description:
 
-import io
 import os
 
 
@@ -34,7 +33,6 @@ def wMarkovTableHead(listofHead):
 
 
 # folderPath = r'/Users/jkchang/Github/Testfolder/'
-
 # folderPath = '/Users/jkchang/Github/Python/Runood_100/'
 folderPath = '/Users/jkchang/Github/Python/100 Python/'
 rmPath = folderPath + '/README.md'
