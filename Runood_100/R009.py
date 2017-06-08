@@ -1,6 +1,7 @@
 # R009
 # Created by JKChang
 # 01/03/2017, 11:41
+# Tag: pause one second
 # Description: pauses one second
 
 import time

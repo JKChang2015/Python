@@ -1,6 +1,7 @@
 # R010
 # Created by JKChang
 # 01/03/2017, 11:46
+# Tag: time date
 # Description: print current time
 
 import time

@@ -1,6 +1,7 @@
 # R012
 # Created by JKChang
 # 01/03/2017, 12:18
+# Tag: Prime number
 # Description: prime number (101,200)
 
 from math import sqrt
