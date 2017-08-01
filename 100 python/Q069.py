@@ -20,7 +20,7 @@ def NumGenerator(n):
             yield i
 
 
-print ','.join(str(x) for x in NumGenerator(int(raw_input())))
+print(','.join(str(x) for x in NumGenerator(int(input()))))
 
 # Method 2
 # n = int(raw_input('pls input a integer: '))

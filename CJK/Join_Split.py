@@ -4,11 +4,11 @@
 # Description: test join and Split
 
 list = ['a', 'b', 'c']
-print '-'.join(list)
+print('-'.join(list))
 
 seq = 'a-b-c-d-e'
 l = seq.split()
-print l
+print(l)
 
 l2 = seq.split('-')
-print l2
+print(l2)

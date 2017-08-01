@@ -23,5 +23,5 @@ def search(list, ele):
 
 
 li = [2, 5, 7, 9, 11, 17, 222]
-print search(li, 11)
-print search(li, 12)
+print(search(li, 11))
+print(search(li, 12))

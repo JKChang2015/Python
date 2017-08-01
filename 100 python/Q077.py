@@ -6,5 +6,5 @@
 
 import random
 
-num = random.sample(range(100,201),5)
-print num
+num = random.sample(list(range(100,201)),5)
+print(num)

@@ -16,4 +16,4 @@ import itertools
 per = list(itertools.permutations('1234', 3))
 for i in per:
     s = ''.join(i)
-    print int(s)
+    print(int(s))

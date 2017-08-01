@@ -5,5 +5,5 @@
 # Tag: string length
 # Description: Write a Python program to calculate the length of a string.
 
-s = raw_input()
-print len(s)
+s = input()
+print(len(s))

@@ -6,5 +6,5 @@
 
 a = [1,2,3,3]
 b = a[:]
-print b
+print(b)
 

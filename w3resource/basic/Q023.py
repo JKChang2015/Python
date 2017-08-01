@@ -13,5 +13,5 @@ def copy(st, num):
         return st[:2] * num
 
 
-print copy('hi', 5)
-print copy('hello', 4)
+print(copy('hi', 5))
+print(copy('hello', 4))

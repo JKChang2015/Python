@@ -24,29 +24,29 @@
 import re
 
 while True:
-    s = raw_input('Password: ')
+    s = input('Password: ')
     if not s:
         break
 
     if not re.search('[a-z]', s):
-        print 'ERROR: At least 1 letter between [a-z]'
+        print('ERROR: At least 1 letter between [a-z]')
         continue
 
     if not re.search('[0-9]', s):
-        print 'ERROR: At least 1 number between [0-9]'
+        print('ERROR: At least 1 number between [0-9]')
         continue
 
     if not re.search('[A-Z]', s):
-        print 'ERROR: At least 1 letter between [A-Z]'
+        print('ERROR: At least 1 letter between [A-Z]')
         continue
 
     if not re.search('[$#@]', s):
-        print 'ERROR: At least 1 symbol in [$#@]'
+        print('ERROR: At least 1 symbol in [$#@]')
         continue
 
     if len(s) < 6 or len(s) > 12:
-        print 'ERROR: length should between 6 to 12 '
+        print('ERROR: length should between 6 to 12 ')
         continue
     else:
-        print "Well done! your password is: ", s
+        print("Well done! your password is: ", s)
         break

@@ -8,8 +8,8 @@
 
 import re
 
-email = raw_input('Please input your email address: ')
+email = input('Please input your email address: ')
 pa = '(\w+)@(\w+)\.(\w+)'
 mat = re.match(pa, email)
-print 'name is: ', mat.group(1)
-print 'company name is: ', mat.group(2)
+print('name is: ', mat.group(1))
+print('company name is: ', mat.group(2))

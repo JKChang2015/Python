@@ -16,14 +16,14 @@
 
 
 from BeautifulSoup import BeautifulSoup
-import urllib2
-import urllib
+import urllib.request, urllib.error, urllib.parse
+import urllib.request, urllib.parse, urllib.error
 
 import re
 
-html_page = urllib2.urlopen("http://videos.yizhansou.com/210")
+html_page = urllib.request.urlopen("http://videos.yizhansou.com/210")
 soup = BeautifulSoup(html_page)
 for link in soup.findAll('a'):
-    print link.get('href').encode('utf-8')
+    print(link.get('href').encode('utf-8'))
 
-print '完事儿'
+print('完事儿')

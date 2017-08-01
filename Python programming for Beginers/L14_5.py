@@ -34,17 +34,17 @@ class Hotdog:
         self.condiments.append(condiment)
 
 myDog = Hotdog()
-print myDog
+print(myDog)
 
-print '\ncooking hot for 4 minutes'
+print('\ncooking hot for 4 minutes')
 myDog.cook(4)
-print myDog
+print(myDog)
 
-print '\ncooking hot for 3 more minutes'
+print('\ncooking hot for 3 more minutes')
 myDog.cook(3)
-print myDog
+print(myDog)
 
-print '\nNow, adding some stuff on my hot dog'
+print('\nNow, adding some stuff on my hot dog')
 myDog.addCondiment('ketchup')
 myDog.addCondiment('Mustard')
-print myDog
+print(myDog)

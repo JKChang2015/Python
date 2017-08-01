@@ -26,5 +26,5 @@ def f(n):
     else:
         return f(n-1) + 100
 
-n = int(raw_input('input: '))
-print f(n)
+n = int(input('input: '))
+print(f(n))

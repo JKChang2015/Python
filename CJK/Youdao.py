@@ -14,12 +14,12 @@ dict ={} #{english, chinese}
 with open(youdaoPath) as f:
     for line in f:
         if line[0].isdigit():
-            nextline = f.next()
+            nextline = next(f)
             pat = "(\d+)\,\s+(\w+)\s+(.*)"
             res = re.match(pat, line)
             dict[res.group(2).strip().capitalize()] = nextline.strip()
 
 with io.open('/Users/jkchang/Downloads/3.txt','w', encoding="utf-8") as f:
-    for key,value in dict.items():
+    for key,value in list(dict.items()):
         st = '%s\t%s\n' %(key,value)
-        f.write(unicode(st, 'utf-8'))
+        f.write(str(st, 'utf-8'))

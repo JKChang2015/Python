@@ -6,9 +6,9 @@
 
 import calendar
 
-y = int(raw_input('Year: '))
-m = int(raw_input('Month: '))
-print calendar.month(y,m)
+y = int(input('Year: '))
+m = int(input('Month: '))
+print(calendar.month(y,m))
 
 # for i in range (1,13):
 #     print calendar.month(y,i)

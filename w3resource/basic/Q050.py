@@ -11,4 +11,4 @@ import sys
 #    sys.stdout.write('a')
 
 for i in range(15):
-    print '\b*',
+    print('\b*', end=' ')

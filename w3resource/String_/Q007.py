@@ -20,4 +20,4 @@ def not_poor(str1):
     return str1
 
 
-print not_poor('The lyrics is not that poor!')
+print(not_poor('The lyrics is not that poor!'))

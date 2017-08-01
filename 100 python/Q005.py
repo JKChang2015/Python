@@ -11,10 +11,10 @@ class InputOutputString(object):
         self.s = ''
 
     def getString(self):
-        self.s = raw_input('input: ')
+        self.s = input('input: ')
 
     def printString(self):
-        print self.s.upper()
+        print(self.s.upper())
 
 test = InputOutputString()
 test.getString()

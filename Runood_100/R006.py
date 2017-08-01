@@ -12,7 +12,7 @@ def fib(n):
     return a
 
 
-print fib(10)
+print(fib(10))
 
 
 # -------------------Method 2---------------------
@@ -22,7 +22,7 @@ def fib(n):
     return fib(n - 1) + fib(n - 2)
 
 
-print fib(10)
+print(fib(10))
 
 
 def pfib(n):
@@ -37,4 +37,4 @@ def pfib(n):
     return fibs
 
 
-print pfib(42)
+print(pfib(42))

@@ -12,6 +12,6 @@ def s(a, b):
     return res
 
 
-print s(7, 9)
-print s(10, 3)
-print s(12, 43)
+print(s(7, 9))
+print(s(10, 3))
+print(s(12, 43))

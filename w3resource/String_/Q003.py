@@ -12,5 +12,5 @@ def func(s):
     return s[:2] + s[-2:]
 
 
-s = raw_input()
-print func(s)
+s = input()
+print(func(s))

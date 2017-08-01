@@ -1,5 +1,5 @@
-import urllib
+import urllib.request, urllib.parse, urllib.error
 
-file = urllib.urlopen('http://helloworldbook.com/data/message.txt')
+file = urllib.request.urlopen('http://helloworldbook.com/data/message.txt')
 message = file.read()
-print message
+print(message)

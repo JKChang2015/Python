@@ -19,7 +19,7 @@ import math
 pos = [0, 0]
 
 while True:
-    s = raw_input()
+    s = input()
     if not s:
         break
 
@@ -37,4 +37,4 @@ while True:
     else:
         pass
 
-    print 'Distance: ', int(round(math.sqrt(pos[0] ** 2 + pos[1] ** 2)))
+    print('Distance: ', int(round(math.sqrt(pos[0] ** 2 + pos[1] ** 2))))

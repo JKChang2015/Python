@@ -16,4 +16,4 @@ class Rectangle:
 
 
 aRectangle = Rectangle(2,4)
-print aRectangle.area()
+print(aRectangle.area())

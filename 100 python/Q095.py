@@ -4,6 +4,6 @@
 # Tag: reverse
 # Description: Please write a program which accepts a string from console and print it in reverse order.
 
-s = raw_input('please input something: ')
+s = input('please input something: ')
 s = s[::-1]
-print s
+print(s)

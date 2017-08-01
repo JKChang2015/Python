@@ -15,12 +15,12 @@ class Person(object):
 
 
 dav = Person('David')
-print 'dav name:', dav.name
-print 'Person name: ', Person.name
+print('dav name:', dav.name)
+print('Person name: ', Person.name)
 
 Person.name = 'Chan'
-print 'change Person name:', Person.name
+print('change Person name:', Person.name)
 
 dove = Person('Dove')
-print 'dove name: ', dove.name
-print 'Person name: ', Person.name
+print('dove name: ', dove.name)
+print('Person name: ', Person.name)

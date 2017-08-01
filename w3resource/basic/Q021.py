@@ -13,6 +13,6 @@ def check(num):
         return '%d is a odd number' % num
 
 
-print check(0)
-print check(2)
-print check(3)
+print(check(0))
+print(check(2))
+print(check(3))

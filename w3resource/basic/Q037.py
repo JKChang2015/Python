@@ -12,7 +12,7 @@ class Person(object):
         self.address = address
 
     def printInfo(self):
-        print 'name = %s\nage = %s\naddress = %s' %(self.name, self.age, self.address)
+        print('name = %s\nage = %s\naddress = %s' %(self.name, self.age, self.address))
 
 
 david = Person('David','12','longfellow')

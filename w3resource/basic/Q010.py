@@ -5,12 +5,12 @@
 # Tag: 
 # Description: Write a Python program that accepts an integer (n) and computes the value of n+nn+nnn. 
 
-n = raw_input()
+n = input()
 n1 = n
 n2 = n +n
 n3 = n+ n +n
 
-print int(n1)+int(n2)+int(n3)
+print(int(n1)+int(n2)+int(n3))
 
 
 # a = int(input("Input an integer : "))

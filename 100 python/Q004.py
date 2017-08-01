@@ -15,5 +15,5 @@ seq = '12,23,45,68,21,43,87'
 list = seq.split(',')
 tuple = tuple(list)
 
-print list
-print tuple
+print(list)
+print(tuple)

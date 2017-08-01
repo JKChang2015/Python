@@ -20,5 +20,5 @@ class Female(Person):
 
 aMale = Male()
 aFemale= Female()
-print aMale.getGender()
-print aFemale.getGender()
+print(aMale.getGender())
+print(aFemale.getGender())

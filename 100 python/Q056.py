@@ -11,8 +11,8 @@ def throws():
 try:
     throws()
 except ZeroDivisionError:
-    print 'division by 0'
-except Exception, err:
-    print 'something wrong'
+    print('division by 0')
+except Exception as err:
+    print('something wrong')
 finally:
-    print 'done'
+    print('done')

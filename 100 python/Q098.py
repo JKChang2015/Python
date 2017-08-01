@@ -17,4 +17,4 @@ def solve(numheads, numlegs):
 numheads = 35
 numlegs = 94
 solutions = solve(numheads, numlegs)
-print solutions
+print(solutions)

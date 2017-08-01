@@ -8,25 +8,25 @@ import operator
 a = ['a', 'b', 'c']
 aa = [1, 2, 3, 4, 5]
 b = operator.itemgetter(1)
-print b
-print b(a)  # 'b'
-print b(aa)
+print(b)
+print(b(a))  # 'b'
+print(b(aa))
 
 b = operator.itemgetter(2, 1)
-print b(a)
-print b(aa)
+print(b(a))
+print(b(aa))
 
 students = [{'name': 'fang', 'age': 24}, {'name': 'job', 'age': 20}, {'name': 'zen', 'age': 40}]
 b = operator.itemgetter('name', 'age')
 for i in students:
-    print b(i)
+    print(b(i))
 
 students = [{'jack':89}, {'rose':40},{'bils':70}, {'zend':30}]
-print
-print sorted(students)
+print()
+print(sorted(students))
 
-print
-print sorted(students, key = lambda x:x.keys())
+print()
+print(sorted(students, key = lambda x:list(x.keys())))
 
-print
-print sorted(students, key= lambda x:x.values())
+print()
+print(sorted(students, key= lambda x:list(x.values())))

@@ -7,4 +7,4 @@
 def ConvertorInt(num):
     return str(num)
 
-print ConvertorInt(32)
+print(ConvertorInt(32))

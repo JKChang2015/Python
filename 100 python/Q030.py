@@ -7,4 +7,4 @@
 def printValue(s1,s2):
     return s1+s2
 
-print printValue('Hello', 'World')
+print(printValue('Hello', 'World'))

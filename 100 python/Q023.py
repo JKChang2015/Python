@@ -7,6 +7,6 @@
 def square(n):
     return n**2
 
-num = int(raw_input('pls input a number'))
-print square(num)
+num = int(input('pls input a number'))
+print(square(num))
 

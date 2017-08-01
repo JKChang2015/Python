@@ -11,5 +11,5 @@
 # lambda is a quick def
 
 li = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
-squareNm = map(lambda x: x ** 2, li)
-print squareNm
+squareNm = [x ** 2 for x in li]
+print(squareNm)

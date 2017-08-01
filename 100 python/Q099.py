@@ -33,6 +33,6 @@ class Ring(object):
 l = [{1:1}, {2:2}, {3:3}]
 r = Ring(l)
 
-print r.first()
-print r.last()
-print r.__getitem__(len(r)-2)
+print(r.first())
+print(r.last())
+print(r.__getitem__(len(r)-2))

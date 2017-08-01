@@ -9,6 +9,6 @@
 # Sample String : 'restart'
 # Expected Result : 'resta$t'
 
-s = raw_input('please input something')
+s = input('please input something')
 res = s[1:].replace(s[0], '$')
-print res
+print(res)

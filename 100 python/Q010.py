@@ -13,10 +13,10 @@
 # In case of input data being supplied to the question, it should be assumed to be a console input.
 # We use set container to remove duplicated data automatically and then use sorted() to sort the data.
 
-temp = [x for x in raw_input().split(' ')]
+temp = [x for x in input().split(' ')]
 
-print 'origin:\t', " ".join(temp)
+print('origin:\t', " ".join(temp))
 
-print 'Seted:\t', " ".join(set(temp))
+print('Seted:\t', " ".join(set(temp)))
 
-print 'Seted & Sorted:\t', " ".join(sorted(set(temp)))
+print('Seted & Sorted:\t', " ".join(sorted(set(temp))))

@@ -20,7 +20,7 @@ import sys
 res = 0
 
 while True:
-    s = raw_input(" 'D' for deposit and 'W' for withdrawal: ")
+    s = input(" 'D' for deposit and 'W' for withdrawal: ")
     if not s:
         break
 
@@ -35,4 +35,4 @@ while True:
     else:
         pass
 
-print res
+print(res)

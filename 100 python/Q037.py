@@ -5,13 +5,13 @@
 # Description: Define a function which can generate and print a list where the values are square of numbers
 #              between 1 and 20 (both included).
 
-from Q033 import creatDict
+from .Q033 import creatDict
 
 d = creatDict(20)
 li = []
 
-for key in d.keys():
+for key in list(d.keys()):
     li.append(d[key])
 
-print li
+print(li)
 

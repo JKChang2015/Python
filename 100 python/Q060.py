@@ -17,14 +17,14 @@
 #
 # In case of input data being supplied to the question, it should be assumed to be a console input.
 
-s = raw_input('Inputs: ')
+s = input('Inputs: ')
 res = [int(x) for x in s.split() if x.isdigit()]
-print res
+print(res)
 
 #---------The following function can not recognize the digit-string terms, e.g. 3-days----
 import re
-s = raw_input('Inputs: ')
-print re.findall('\d+', s)
+s = input('Inputs: ')
+print(re.findall('\d+', s))
 
 #---------------OUTPUTs----------------------
 # Inputs: 2 cats and 3 dogs in 5-days trip

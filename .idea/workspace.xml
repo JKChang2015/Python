@@ -2,9 +2,229 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/DataAnalysis/SeriesTest.py" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/CJK/Study.py" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/Python.iml" afterPath="$PROJECT_DIR$/.idea/Python.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q001.py" afterPath="$PROJECT_DIR$/100 python/Q001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q002.py" afterPath="$PROJECT_DIR$/100 python/Q002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q003.py" afterPath="$PROJECT_DIR$/100 python/Q003.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q004.py" afterPath="$PROJECT_DIR$/100 python/Q004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q005.py" afterPath="$PROJECT_DIR$/100 python/Q005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q006.py" afterPath="$PROJECT_DIR$/100 python/Q006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q007.py" afterPath="$PROJECT_DIR$/100 python/Q007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q008.py" afterPath="$PROJECT_DIR$/100 python/Q008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q009.py" afterPath="$PROJECT_DIR$/100 python/Q009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q010.py" afterPath="$PROJECT_DIR$/100 python/Q010.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q011.py" afterPath="$PROJECT_DIR$/100 python/Q011.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q012.py" afterPath="$PROJECT_DIR$/100 python/Q012.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q013.py" afterPath="$PROJECT_DIR$/100 python/Q013.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q014.py" afterPath="$PROJECT_DIR$/100 python/Q014.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q015.py" afterPath="$PROJECT_DIR$/100 python/Q015.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q016.py" afterPath="$PROJECT_DIR$/100 python/Q016.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q017.py" afterPath="$PROJECT_DIR$/100 python/Q017.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q018.py" afterPath="$PROJECT_DIR$/100 python/Q018.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q019.py" afterPath="$PROJECT_DIR$/100 python/Q019.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q020.py" afterPath="$PROJECT_DIR$/100 python/Q020.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q021.py" afterPath="$PROJECT_DIR$/100 python/Q021.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q022.py" afterPath="$PROJECT_DIR$/100 python/Q022.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q023.py" afterPath="$PROJECT_DIR$/100 python/Q023.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q024.py" afterPath="$PROJECT_DIR$/100 python/Q024.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q025.py" afterPath="$PROJECT_DIR$/100 python/Q025.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q026.py" afterPath="$PROJECT_DIR$/100 python/Q026.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q027.py" afterPath="$PROJECT_DIR$/100 python/Q027.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q028.py" afterPath="$PROJECT_DIR$/100 python/Q028.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q029.py" afterPath="$PROJECT_DIR$/100 python/Q029.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q030.py" afterPath="$PROJECT_DIR$/100 python/Q030.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q031.py" afterPath="$PROJECT_DIR$/100 python/Q031.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q032.py" afterPath="$PROJECT_DIR$/100 python/Q032.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q034.py" afterPath="$PROJECT_DIR$/100 python/Q034.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q035.py" afterPath="$PROJECT_DIR$/100 python/Q035.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q036.py" afterPath="$PROJECT_DIR$/100 python/Q036.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q037.py" afterPath="$PROJECT_DIR$/100 python/Q037.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q038.py" afterPath="$PROJECT_DIR$/100 python/Q038.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q039.py" afterPath="$PROJECT_DIR$/100 python/Q039.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q040.py" afterPath="$PROJECT_DIR$/100 python/Q040.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q041.py" afterPath="$PROJECT_DIR$/100 python/Q041.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q042.py" afterPath="$PROJECT_DIR$/100 python/Q042.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q043.py" afterPath="$PROJECT_DIR$/100 python/Q043.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q044.py" afterPath="$PROJECT_DIR$/100 python/Q044.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q045.py" afterPath="$PROJECT_DIR$/100 python/Q045.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q046.py" afterPath="$PROJECT_DIR$/100 python/Q046.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q047.py" afterPath="$PROJECT_DIR$/100 python/Q047.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q048.py" afterPath="$PROJECT_DIR$/100 python/Q048.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q049.py" afterPath="$PROJECT_DIR$/100 python/Q049.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q050.py" afterPath="$PROJECT_DIR$/100 python/Q050.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q052.py" afterPath="$PROJECT_DIR$/100 python/Q052.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q053.py" afterPath="$PROJECT_DIR$/100 python/Q053.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q054.py" afterPath="$PROJECT_DIR$/100 python/Q054.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q056.py" afterPath="$PROJECT_DIR$/100 python/Q056.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q057.py" afterPath="$PROJECT_DIR$/100 python/Q057.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q058.py" afterPath="$PROJECT_DIR$/100 python/Q058.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q059.py" afterPath="$PROJECT_DIR$/100 python/Q059.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q060.py" afterPath="$PROJECT_DIR$/100 python/Q060.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q061.py" afterPath="$PROJECT_DIR$/100 python/Q061.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q062.py" afterPath="$PROJECT_DIR$/100 python/Q062.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q064.py" afterPath="$PROJECT_DIR$/100 python/Q064.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q065.py" afterPath="$PROJECT_DIR$/100 python/Q065.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q066.py" afterPath="$PROJECT_DIR$/100 python/Q066.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q067.py" afterPath="$PROJECT_DIR$/100 python/Q067.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q068.py" afterPath="$PROJECT_DIR$/100 python/Q068.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q069.py" afterPath="$PROJECT_DIR$/100 python/Q069.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q071.py" afterPath="$PROJECT_DIR$/100 python/Q071.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q072.py" afterPath="$PROJECT_DIR$/100 python/Q072.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q073.py" afterPath="$PROJECT_DIR$/100 python/Q073.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q074.py" afterPath="$PROJECT_DIR$/100 python/Q074.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q075.py" afterPath="$PROJECT_DIR$/100 python/Q075.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q076.py" afterPath="$PROJECT_DIR$/100 python/Q076.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q077.py" afterPath="$PROJECT_DIR$/100 python/Q077.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q078.py" afterPath="$PROJECT_DIR$/100 python/Q078.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q079.py" afterPath="$PROJECT_DIR$/100 python/Q079.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q080.py" afterPath="$PROJECT_DIR$/100 python/Q080.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q081.py" afterPath="$PROJECT_DIR$/100 python/Q081.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q082.py" afterPath="$PROJECT_DIR$/100 python/Q082.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q083.py" afterPath="$PROJECT_DIR$/100 python/Q083.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q084.py" afterPath="$PROJECT_DIR$/100 python/Q084.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q085.py" afterPath="$PROJECT_DIR$/100 python/Q085.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q086.py" afterPath="$PROJECT_DIR$/100 python/Q086.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q087.py" afterPath="$PROJECT_DIR$/100 python/Q087.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q088.py" afterPath="$PROJECT_DIR$/100 python/Q088.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q089.py" afterPath="$PROJECT_DIR$/100 python/Q089.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q090.py" afterPath="$PROJECT_DIR$/100 python/Q090.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q091.py" afterPath="$PROJECT_DIR$/100 python/Q091.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q092.py" afterPath="$PROJECT_DIR$/100 python/Q092.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q093.py" afterPath="$PROJECT_DIR$/100 python/Q093.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q094.py" afterPath="$PROJECT_DIR$/100 python/Q094.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q095.py" afterPath="$PROJECT_DIR$/100 python/Q095.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q096.py" afterPath="$PROJECT_DIR$/100 python/Q096.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q097.py" afterPath="$PROJECT_DIR$/100 python/Q097.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q098.py" afterPath="$PROJECT_DIR$/100 python/Q098.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q099.py" afterPath="$PROJECT_DIR$/100 python/Q099.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/Q100.py" afterPath="$PROJECT_DIR$/100 python/Q100.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/100 python/review.py" afterPath="$PROJECT_DIR$/100 python/review.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/2Darray.py" afterPath="$PROJECT_DIR$/CJK/2Darray.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/Join_Split.py" afterPath="$PROJECT_DIR$/CJK/Join_Split.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/ReadMeGenerator.py" afterPath="$PROJECT_DIR$/CJK/ReadMeGenerator.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/W3.py" afterPath="$PROJECT_DIR$/CJK/W3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/Youdao.py" afterPath="$PROJECT_DIR$/CJK/Youdao.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/_16May.py" afterPath="$PROJECT_DIR$/CJK/_16May.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/createNewFile.py" afterPath="$PROJECT_DIR$/CJK/createNewFile.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/hyperExtractor.py" afterPath="$PROJECT_DIR$/CJK/hyperExtractor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/reg.py" afterPath="$PROJECT_DIR$/CJK/reg.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/terminalTest.py" afterPath="$PROJECT_DIR$/CJK/terminalTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/CJK/webExtractor.py" afterPath="$PROJECT_DIR$/CJK/webExtractor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataAnalysis/DataFrameTest.py" afterPath="$PROJECT_DIR$/DataAnalysis/DataFrameTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/DataAnalysis/SeriesTest.py" afterPath="$PROJECT_DIR$/DataAnalysis/SeriesTest.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/25April.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/25April.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/DeepCPY.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/DeepCPY.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L11_1.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L11_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L11_2.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L11_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L11_6.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L11_6.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L12_1.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L12_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L12_sort.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L12_sort.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L13_1.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L13_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L13_2.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L13_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L13_4.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L13_4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L13_local_golbal.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L13_local_golbal.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_5.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_5.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_Inheritance.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_Inheritance.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_cl.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_cl.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_cls2.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_cls2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_cls_str.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_cls_str.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_employ.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_employ.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L14_polymorphism.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L14_polymorphism.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L1_2.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L1_2.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L5_3.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L5_3.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L5_4.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L5_4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L7_1.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L7_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L8_1.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L8_1.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L8_4.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L8_4.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L8_6.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L8_6.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/L8_8.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/L8_8.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/Load_file.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/Load_file.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/ShallowCPY.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/ShallowCPY.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/String_test.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/String_test.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/c12.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/c12.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/c7.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/c7.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/c8.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/c8.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/cls.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/cls.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/cpy.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/cpy.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/data type.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/data type.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/inherit.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/inherit.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/overwrite.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/overwrite.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/temperature convertor.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/temperature convertor.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Python programming for Beginers/tr.py" afterPath="$PROJECT_DIR$/Python programming for Beginers/tr.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R001.py" afterPath="$PROJECT_DIR$/Runood_100/R001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R002.py" afterPath="$PROJECT_DIR$/Runood_100/R002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R003.py" afterPath="$PROJECT_DIR$/Runood_100/R003.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R004.py" afterPath="$PROJECT_DIR$/Runood_100/R004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R005.py" afterPath="$PROJECT_DIR$/Runood_100/R005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R006.py" afterPath="$PROJECT_DIR$/Runood_100/R006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R007.py" afterPath="$PROJECT_DIR$/Runood_100/R007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R008.py" afterPath="$PROJECT_DIR$/Runood_100/R008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R009.py" afterPath="$PROJECT_DIR$/Runood_100/R009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R010.py" afterPath="$PROJECT_DIR$/Runood_100/R010.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R011.py" afterPath="$PROJECT_DIR$/Runood_100/R011.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R012.py" afterPath="$PROJECT_DIR$/Runood_100/R012.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Runood_100/R013.py" afterPath="$PROJECT_DIR$/Runood_100/R013.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q001.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q002.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q003.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q003.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q004.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q005.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q006.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q007.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q008.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q009.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/String_/Q010.py" afterPath="$PROJECT_DIR$/w3resource/String_/Q010.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q001.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q001.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q002.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q002.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q003.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q003.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q004.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q004.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q005.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q005.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q006.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q006.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q007.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q007.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q008.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q008.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q009.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q009.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q010.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q010.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q011.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q011.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q012.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q012.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q013.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q013.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q014.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q014.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q015.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q015.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q016.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q016.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q017.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q017.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q018.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q018.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q019.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q019.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q020.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q020.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q021.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q021.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q022.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q022.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q023.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q023.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q024.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q024.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q025.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q025.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q026.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q026.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q027.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q027.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q028.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q028.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q029.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q029.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q030.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q030.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q032.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q032.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q033.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q033.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q034.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q034.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q035.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q035.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q036.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q036.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q037.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q037.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q038.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q038.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q039.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q039.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q040.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q040.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q041.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q041.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q042.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q042.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q043.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q043.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q044.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q044.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q046.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q046.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q047.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q047.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q048.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q048.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q049.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q049.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q050.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q050.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/w3resource/basic/Q051.py" afterPath="$PROJECT_DIR$/w3resource/basic/Q051.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -206,7 +426,9 @@
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
               <folding>
-                <marker date="1496172501000" expanded="true" signature="0:149" ph="..." />
+                <marker date="1501577479000" expanded="true" signature="275:348" ph="..." />
+                <marker date="1501577479000" expanded="true" signature="294:348" ph="..." />
+                <marker date="1501577479000" expanded="true" signature="324:348" ph="..." />
               </folding>
             </state>
           </provider>
@@ -217,7 +439,11 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="441">
               <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-              <folding />
+              <folding>
+                <marker date="1501577479000" expanded="true" signature="186:275" ph="..." />
+                <marker date="1501577479000" expanded="true" signature="278:347" ph="..." />
+                <marker date="1501577479000" expanded="true" signature="424:851" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -230,6 +456,16 @@
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="W3.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CJK/W3.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="588">
+              <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -247,8 +483,8 @@
       <file leaf-file-name="hyperExtractor.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CJK/hyperExtractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="588">
-              <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+            <state relative-caret-position="504">
+              <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
                 <element signature="e#372#411#0" expanded="true" />
               </folding>
@@ -259,28 +495,20 @@
       <file leaf-file-name="SeriesTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/SeriesTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="103">
+            <state relative-caret-position="105">
               <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-              <folding />
+              <folding>
+                <marker date="1501577479000" expanded="true" signature="276:388" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="DataFrameTest.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="DataFrameTest.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/DataFrameTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="R026.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Runood_100/R026.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="483">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -1030,9 +1258,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1920" height="1376" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1629393" sideWeight="0.49222797" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16613418" sideWeight="0.49222797" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31644583" sideWeight="0.5063543" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -1040,7 +1267,7 @@
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32792208" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5315666" sideWeight="0.49364576" order="10" side_tool="false" content_ui="tabs" x="46" y="564" width="2518" height="319" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22897196" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.22837101" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16719618" sideWeight="0.507772" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5728761" sideWeight="0.49841145" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32960597" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -1091,13 +1318,6 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/DataAnalysis/DataFrameTest.py</url>
-          <line>22</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-      </breakpoints>
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
@@ -1111,13 +1331,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/w3resource/String_/Q009.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" column="36" lean-forward="false" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/w3resource/String_/Q011.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="168">
@@ -1382,7 +1595,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1092">
           <caret line="52" column="46" lean-forward="false" selection-start-line="52" selection-start-column="46" selection-end-line="52" selection-end-column="46" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1405,8 +1617,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/hyperExtractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="588">
-          <caret line="28" column="11" lean-forward="true" selection-start-line="28" selection-start-column="11" selection-end-line="28" selection-end-column="11" />
+        <state relative-caret-position="504">
+          <caret line="28" column="12" lean-forward="false" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding>
             <element signature="e#372#411#0" expanded="true" />
           </folding>
@@ -1421,21 +1633,15 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/IMG2GIF.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
           <caret line="22" column="32" lean-forward="false" selection-start-line="22" selection-start-column="32" selection-end-line="22" selection-end-column="32" />
-          <folding />
+          <folding>
+            <marker date="1501577479000" expanded="true" signature="186:275" ph="..." />
+            <marker date="1501577479000" expanded="true" signature="278:347" ph="..." />
+            <marker date="1501577479000" expanded="true" signature="424:851" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1452,23 +1658,45 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="23" />
           <folding>
-            <marker date="1496172501000" expanded="true" signature="0:149" ph="..." />
+            <marker date="1501577479000" expanded="true" signature="275:348" ph="..." />
+            <marker date="1501577479000" expanded="true" signature="294:348" ph="..." />
+            <marker date="1501577479000" expanded="true" signature="324:348" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/SeriesTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="103">
+        <state relative-caret-position="105">
           <caret line="5" column="29" lean-forward="false" selection-start-line="5" selection-start-column="29" selection-end-line="5" selection-end-column="29" />
-          <folding />
+          <folding>
+            <marker date="1501577479000" expanded="true" signature="276:388" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/DataFrameTest.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="22" column="8" lean-forward="true" selection-start-line="22" selection-start-column="8" selection-end-line="22" selection-end-column="8" />
+        <state relative-caret-position="483">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/IMG2GIF.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#31#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/W3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="588">
+          <caret line="30" column="0" lean-forward="true" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
           <folding />
         </state>
       </provider>

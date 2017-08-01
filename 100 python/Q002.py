@@ -16,5 +16,5 @@ def fact(x):
         return 1
     return fact(x - 1) * x
 
-x = int(raw_input('pls input a number: '))
-print fact(x)
+x = int(input('pls input a number: '))
+print(fact(x))

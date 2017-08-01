@@ -10,10 +10,10 @@ flu = {1: 'a', 2: 'b'}
 
 # loop for the dict
 for key, value in dict.items(flu):
-    print key, value
+    print(key, value)
     time.sleep(1)
 
 # backwards
 for i in range(10, 0, -1):
-    print i
+    print(i)
     time.sleep(1)

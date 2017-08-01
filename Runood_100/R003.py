@@ -12,6 +12,6 @@ for i in range(10000):
     y = int(math.sqrt(i + 268))
 
     if (x ** 2 == i + 100) and (y * y == i+268):
-        print x, y
-        print i
+        print(x, y)
+        print(i)
 

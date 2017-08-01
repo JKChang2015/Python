@@ -10,7 +10,7 @@
 #          LETTERS 10
 #          DIGITS 3
 
-s = raw_input('please input sequence of text')
+s = input('please input sequence of text')
 d = {'DIGITS': 0, 'LETTERS': 0}
 
 for c in s:
@@ -21,5 +21,5 @@ for c in s:
     else:
         pass
 
-print "LETTERS: ", d['LETTERS']
-print "DIGITS: ", d['DIGITS']
+print("LETTERS: ", d['LETTERS'])
+print("DIGITS: ", d['DIGITS'])

@@ -21,8 +21,8 @@
 # print longest(li)
 
 def max_word(l1):
-    return max(map(len, l1))
+    return max(list(map(len, l1)))
 
 
 l1 = ["PHP", "Exercises", "Backend"]
-print max_word(l1)
+print(max_word(l1))

@@ -10,5 +10,5 @@ def check(num, group):
 
 
 li = [1, 2, 34, 5]
-print check(4, li)
-print check(2, li)
+print(check(4, li))
+print(check(2, li))

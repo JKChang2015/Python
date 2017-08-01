@@ -10,8 +10,8 @@
 import datetime
 
 now = datetime.datetime.now()
-print now.strftime('%Y-%m-%d %H:%M:%s')
-print now.strftime('%D')
+print(now.strftime('%Y-%m-%d %H:%M:%s'))
+print(now.strftime('%D'))
 
 # %Y Year with century as a decimal number.	1970, 1988, 2001, 2013
 # %y Year without century as a zero-padded decimal number.	00, 01, ..., 99

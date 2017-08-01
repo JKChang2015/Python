@@ -30,9 +30,9 @@ def f(n):
     else:
         return f(n-1) + f(n-2)
 
-n = int(raw_input('Please input an integer'))
+n = int(input('Please input an integer'))
 res = []
 
-res = [str(f(x)) for x in range(int(raw_input()) +1)]
-print ','.join(res)
+res = [str(f(x)) for x in range(int(input()) +1)]
+print(','.join(res))
 

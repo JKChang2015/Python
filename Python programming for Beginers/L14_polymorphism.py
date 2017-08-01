@@ -24,6 +24,6 @@ class Square:
 
 
 tra = Triangle(6, 6)
-print tra.getArea()
+print(tra.getArea())
 sqr = Square(6, 6)
-print sqr.getArea()
+print(sqr.getArea())

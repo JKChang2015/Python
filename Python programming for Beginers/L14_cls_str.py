@@ -17,4 +17,4 @@ class Ball:
 
 
 myBall = Ball('red', 'small', 'down')
-print myBall
+print(myBall)

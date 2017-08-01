@@ -11,4 +11,4 @@ def exchange(str1):
 
 
 str1 = '123456'
-print exchange(str1)
+print(exchange(str1))

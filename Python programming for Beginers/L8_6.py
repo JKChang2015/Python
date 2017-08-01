@@ -1,6 +1,6 @@
 import time
 
 for i in range(10,0, -1):
-    print i
+    print(i)
     time.sleep(1)
-print 'blast off'
+print('blast off')

@@ -5,5 +5,5 @@ path = os.getcwd()+file
 # Same with: path = '/Users/jkchang/Github/Python/CJK' +file
 result = open(path, 'r+')
 
-print result.read()
+print(result.read())
 

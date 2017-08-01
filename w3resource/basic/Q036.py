@@ -11,6 +11,6 @@ def addd(a, b):
     return 'inputs should be two integers'
 
 
-print addd(1, 3)
-print addd(1, 'd')
-print addd('d', 'a')
+print(addd(1, 3))
+print(addd(1, 'd'))
+print(addd('d', 'a'))

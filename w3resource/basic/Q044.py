@@ -6,4 +6,4 @@
 # Description: Write a Python program to locate Python site-packages. 
 import site;
 
-print '\n'.join(site.getsitepackages())
+print('\n'.join(site.getsitepackages()))

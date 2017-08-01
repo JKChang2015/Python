@@ -12,7 +12,7 @@
 # Then, the output of the program should be:
 # [[0, 0, 0, 0, 0], [0, 1, 2, 3, 4], [0, 2, 4, 6, 8]]
 
-dimensions = [int(x) for x in raw_input('x and y : ').split(',')]
+dimensions = [int(x) for x in input('x and y : ').split(',')]
 rowNum = dimensions[0]
 colNum = dimensions[1]
 
@@ -22,4 +22,4 @@ for row in range(rowNum):
     for col in range (colNum):
         multiList[row][col] = row * col
 
-print multiList
+print(multiList)

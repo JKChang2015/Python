@@ -8,4 +8,4 @@ def area(base, height):
     return base * height / 2.0
 
 
-print area(3, 3)
+print(area(3, 3))

@@ -13,8 +13,8 @@ def dif(a, b):
     return False
 
 
-print dif(1, 1)
-print dif(2, 3)
-print dif(2, 7)
-print dif(6, 1)
-print dif(0, 7)
+print(dif(1, 1))
+print(dif(2, 3))
+print(dif(2, 7))
+print(dif(6, 1))
+print(dif(0, 7))

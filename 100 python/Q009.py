@@ -15,12 +15,12 @@
 lines = []
 
 while True:
-    s = raw_input()
+    s = input()
     if s:
         lines.append(s.upper())
     else:
         break
 
 for p in lines:
-    print p
+    print(p)
 

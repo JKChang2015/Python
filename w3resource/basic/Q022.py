@@ -6,4 +6,4 @@
 # Description: Write a Python program to count the number 4 in a given list. 
 
 li = [1, 2, 3, 4, 4, 53, 4, 5]
-print li.count(4)
+print(li.count(4))

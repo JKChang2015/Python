@@ -16,4 +16,4 @@ class MyError(Exception):
 
 
 error = MyError('something wrong')
-print MyError
+print(MyError)

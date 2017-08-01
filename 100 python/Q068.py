@@ -20,8 +20,8 @@ def Generator(n):
         if i%2 ==0:
             yield i
 
-s = int(raw_input())
-print ','.join(str(x) for x in Generator(s))
+s = int(input())
+print(','.join(str(x) for x in Generator(s)))
 
 
 # Method 2

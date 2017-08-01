@@ -8,4 +8,4 @@
 def copy(s, num):
     return s * num
 
-print copy('hi ', 5)
+print(copy('hi ', 5))

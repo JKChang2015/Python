@@ -9,4 +9,4 @@ def solve(x, y):
     return (x + y) ** 2
 
 
-print solve(3, 4)
+print(solve(3, 4))

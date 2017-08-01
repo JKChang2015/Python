@@ -13,5 +13,5 @@ def new_string(s):
         return 'Is' + s
 
 
-print(new_string("Array"))
-print(new_string("IsEmpty"))
+print((new_string("Array")))
+print((new_string("IsEmpty")))

@@ -4,10 +4,10 @@
 # Description: function with argument
 
 def printMyAddress(myName):
-    print myName
-    print '7 St. Marks Road'
-    print 'Preston'
-    print 'PR18TL'
-    print
+    print(myName)
+    print('7 St. Marks Road')
+    print('Preston')
+    print('PR18TL')
+    print()
 
 printMyAddress('David')

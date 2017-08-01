@@ -25,7 +25,7 @@ class Counter():
 
     def counts(self):
         # sort dictionary according to the values
-        result = sorted(self.dict.items(), key=operator.itemgetter(1), reverse=True)
+        result = sorted(list(self.dict.items()), key=operator.itemgetter(1), reverse=True)
         return result
 
 
@@ -40,4 +40,4 @@ for i in words:
 res = c.counts()
 
 for i in res:
-    print '%s: %s' % (i[0], i[1])
+    print('%s: %s' % (i[0], i[1]))

@@ -14,4 +14,4 @@ def Genert(n):
             yield j
 
 for i in Genert(100):
-    print i
+    print(i)

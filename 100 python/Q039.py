@@ -5,12 +5,12 @@
 # Description: Define a function which can generate a list where the values are square of numbers between 1 and 20
 #              (both included). Then the function needs to print the last 5 elements in the list.
 
-from Q033 import creatDict
+from .Q033 import creatDict
 
 d = creatDict(20)
 li = []
 
-for key in d.keys():
+for key in list(d.keys()):
     li.append(d[key])
 
-print li[-5:]
+print(li[-5:])

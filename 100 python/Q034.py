@@ -5,9 +5,9 @@
 # Description: Define a function which can print a dictionary where the keys are numbers between 1 and 20
 #              (both included) and the values are square of keys.
 
-from Q033 import creatDict
+from .Q033 import creatDict
 
-print creatDict(20)
+print(creatDict(20))
 
 
 

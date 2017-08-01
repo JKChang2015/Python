@@ -9,5 +9,5 @@ from math import pi
 def area(radius):
     return radius **2 * pi
 
-r = float(raw_input('pls input radius of a circle: '))
-print area(r)
+r = float(input('pls input radius of a circle: '))
+print(area(r))

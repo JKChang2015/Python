@@ -6,9 +6,9 @@
 #              [1,2,3,4,5,6,7,8,9,10]
 
 def filt(li):
-    evenNumbers = filter(lambda x: x % 2 == 0, li)
+    evenNumbers = [x for x in li if x % 2 == 0]
     return evenNumbers
 
 
 li = [1, 2, 3, 4, 5, 6, 7, 8, 10, 10]
-print filt(li)
+print(filt(li))

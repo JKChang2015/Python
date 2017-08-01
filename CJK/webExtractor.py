@@ -3,7 +3,7 @@
 # 30/05/2017, 21:39
 # Tag:web extractor
 # Description:
-import urllib2
+import urllib.request, urllib.error, urllib.parse
 import requests
 from bs4 import BeautifulSoup
 from stripogram import html2text
@@ -21,7 +21,7 @@ for line in l:
     # if len(line) ==0:
     #     continue
     # elif line[0].isdigit():
-        print line
+        print(line)
 
 
     # if line[0].isdigit():

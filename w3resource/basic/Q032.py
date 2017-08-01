@@ -12,4 +12,4 @@ def lcm(x, y):
     return (x * y) / gcd(x, y)
 
 
-print lcm(54, 24)
+print(lcm(54, 24))

@@ -20,10 +20,10 @@
 # g,1
 # f,1
 
-s = raw_input('please input something: ').strip()
+s = input('please input something: ').strip()
 dit = {}
 
 for i in s:
     dit[i] = dit.get(i, 0) + 1  # 返回指定键的值，如果值不在字典中返回default值
 
-print '\n'.join(['%s,%s' % (k, v) for k, v in dit.items()])
+print('\n'.join(['%s,%s' % (k, v) for k, v in list(dit.items())]))

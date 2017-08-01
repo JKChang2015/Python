@@ -7,9 +7,9 @@
 
 def checkValue(num):
     if (num % 2 == 0):
-        print '%d is an even number' % num
+        print('%d is an even number' % num)
     else:
-        print '%d is an odd number' % num
+        print('%d is an odd number' % num)
 
 checkValue(100)
 checkValue(101)

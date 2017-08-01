@@ -8,4 +8,4 @@ import subprocess
 import os
 
 list= ['aaa david','bbb mike','aaa Chan']
-print list['aaa']
+print(list['aaa'])

@@ -8,6 +8,6 @@ import random
 
 # Use random.randrange() to a random integer in a given range.
 
-print random.randrange(7,16)
+print(random.randrange(7,16))
 # or
-print random.randint(7,15)
+print(random.randint(7,15))

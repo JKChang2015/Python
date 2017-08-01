@@ -10,7 +10,7 @@
 #           UPPER CASE 1
 #           LOWER CASE 9
 
-s = raw_input('please input a sequence of terms: ')
+s = input('please input a sequence of terms: ')
 d = {'LOWER': 0, 'UPPER': 0}
 
 for c in s:
@@ -21,5 +21,5 @@ for c in s:
     else:
         pass
 
-print 'UPPER: ', d['UPPER']
-print 'LOWER: ', d['LOWER']
+print('UPPER: ', d['UPPER'])
+print('LOWER: ', d['LOWER'])

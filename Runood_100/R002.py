@@ -8,13 +8,13 @@
 #              可提成3%；60万到100万之间时，高于60万元的部分，可提成1.5%，高于100万元时，超过100万元的部分按1%提成，从键盘输入当月
 #              利润I，求应发放奖金总数？
 
-i = int(raw_input())
+i = int(input())
 arr = [1000000, 600000, 400000, 200000, 100000, 0]
 rat = [0.01, 0.015, 0.03, 0.05, 0.075, 0.1]
 r = 0
 for idx in range(0, 6):
     if i > arr[idx]:
         r += (i - arr[idx]) * rat[idx]
-        print (i - arr[idx]) * rat[idx]
+        print((i - arr[idx]) * rat[idx])
         i = arr[idx]
-print r
+print(r)

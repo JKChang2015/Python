@@ -16,5 +16,5 @@
 
 #将字符串str当成有效的表达式来求值并返回计算结果。其他用法，可以把list,tuple,dict和string相互转化
 
-s = raw_input('please input: ')
-print eval(s)
+s = input('please input: ')
+print(eval(s))

@@ -7,5 +7,5 @@
 import random
 
 a =  random.uniform(10.0,100.0)
-print a
-print '%.2f' %a
+print(a)
+print('%.2f' %a)

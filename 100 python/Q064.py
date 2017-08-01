@@ -15,11 +15,11 @@
 #
 # In case of input data being supplied to the question, it should be assumed to be a console input.
 
-n = int(raw_input('Please input a integer: '))
+n = int(input('Please input a integer: '))
 s = 0
 
 
 for i in range (1, n + 1):
     s += float(float(i)/(i+1))
 
-print s
+print(s)

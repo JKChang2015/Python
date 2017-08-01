@@ -14,8 +14,8 @@ objects = ["Hockey", "Football"]
 c = list(itertools.product(subjects, verbs, objects))
 for i in c:
     for j in i:
-        print j,
-    print
+        print(j, end=' ')
+    print()
 
 # for i in range(len(subjects)):
 #     for j in range(len(verbs)):

@@ -18,4 +18,4 @@ def change(term):
 
 s = ['sleep', 'interesting', 'OK']
 for i in s:
-    print change(i)
+    print(change(i))

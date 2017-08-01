@@ -7,5 +7,5 @@
 s = str('abcdef')
 
 # 第一个字母大写
-print s.capitalize()
+print(s.capitalize())
 

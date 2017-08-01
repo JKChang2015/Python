@@ -14,5 +14,5 @@
 # Helloworld
 #
 
-s = raw_input('input: ')
-print s[::2]
+s = input('input: ')
+print(s[::2])

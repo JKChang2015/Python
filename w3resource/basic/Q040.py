@@ -16,4 +16,4 @@ def distance(point1, point2):
     return math.sqrt(x + y)
 
 
-print distance((4, 0), (6, 6))
+print(distance((4, 0), (6, 6)))

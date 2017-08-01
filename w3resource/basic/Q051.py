@@ -11,7 +11,7 @@ import cProfile
 # 用来衡量系统性能
 
 def sum():
-    print(1 + 2)
+    print((1 + 2))
 
 
 cProfile.run('sum()')

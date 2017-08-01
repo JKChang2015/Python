@@ -11,9 +11,9 @@ from pandas import Series
 x = Series([4, 3, 1], index=['1st', '2nd', '3rd'])
 
 
-print x.values
-print '======'
-print '1st' in x.index
+print(x.values)
+print('======')
+print('1st' in x.index)
 
 # x = Series([4, 3, 1], index=['1st', '2nd', '3rd'])
 

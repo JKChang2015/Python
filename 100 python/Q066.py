@@ -32,4 +32,4 @@ def f(n):
     else:
         return f(n - 1) + f(n - 2)
 
-print f(int(raw_input()))
+print(f(int(input())))

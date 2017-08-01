@@ -5,5 +5,5 @@
 # Tag: 
 # Description: Write a Python program to parse a string to Float or Integer. 
 
-print type(float('2.4'))
-print type(int('4'))
+print(type(float('2.4')))
+print(type(int('4')))

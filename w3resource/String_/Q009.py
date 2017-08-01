@@ -9,7 +9,7 @@ def remove_ch(st,index):
     return st[:index-1] + st[index:]
 
 st = 'abcdefg'
-print remove_ch(st,2)
+print(remove_ch(st,2))
 
 num = '123456'
-print num[:2] ,num[2:]
+print(num[:2] ,num[2:])

@@ -10,26 +10,26 @@ class Person(object):
 
     def print_title(self):
         if self.sex == 'male':
-            print 'Mr', self.name
+            print('Mr', self.name)
         elif self.sex == 'female':
-            print 'Miss', self.name
+            print('Miss', self.name)
         else:
             pass
 
 class Child(Person):
     def print_title(self):
         if self.sex == 'male':
-            print 'boy', self.name
+            print('boy', self.name)
         elif self.sex == 'female':
-            print 'girl', self.name
+            print('girl', self.name)
         else:
             pass
 
 May = Child('May','female')
 David = Person('David', 'male')
 
-print (May.name, May.sex)
-print (David.name, David.sex)
+print((May.name, May.sex))
+print((David.name, David.sex))
 
 May.print_title()
 David.print_title()

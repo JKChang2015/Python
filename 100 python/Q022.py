@@ -22,18 +22,18 @@
 import operator
 
 freq = {}
-line = raw_input()
+line = input()
 
 for word in line.split(" "):
     freq[word] = freq.get(word, 0) + 1  # add 1, if not existed, creat one and add 1
 
-print 'dictionary: ', freq
+print('dictionary: ', freq)
 # sorted according to the term frequency (values)
-freq1 = sorted(freq.items(), key=operator.itemgetter(1))
-print type(freq1)
+freq1 = sorted(list(freq.items()), key=operator.itemgetter(1))
+print(type(freq1))
 
-print 'sorted according to the term frequency (values): ', freq1
+print('sorted according to the term frequency (values): ', freq1)
 
 # sorted according to the alphabetical (keys)
-freq2 = sorted(freq.items(), key=operator.itemgetter(0))
-print 'sorted according to the alphabetical (keys) : ', freq2
+freq2 = sorted(list(freq.items()), key=operator.itemgetter(0))
+print('sorted according to the alphabetical (keys) : ', freq2)

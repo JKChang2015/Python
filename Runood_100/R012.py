@@ -15,11 +15,11 @@ for num in range(101, 201):
             prime = False
             break
     if prime:
-        print num
+        print(num)
 
 # --------------------Method 2--------------------------
 
-print '\n\n\n'
+print('\n\n\n')
 
 h = 0
 for nums in range(101, 500):
@@ -31,7 +31,7 @@ for nums in range(101, 500):
             break
 
     if leap:
-        print '%-4d' % nums
+        print('%-4d' % nums)
         h += 1
         if h % 10 == 0:
-            print
+            print()

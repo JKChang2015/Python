@@ -6,7 +6,7 @@
 #              tuple (1,2,3,4,5,6,7,8,9,10).
 
 def printTuple(tu):
-    print tu[1::2]
+    print(tu[1::2])
 
 tu = (1,2,3,4,5,6,7,8,9,10)
 printTuple(tu)

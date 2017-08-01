@@ -15,4 +15,4 @@ def chars_mix_up(a, b):
     return new_a + " " + new_b
 
 
-print chars_mix_up('xyz', 'abc')
+print(chars_mix_up('xyz', 'abc'))

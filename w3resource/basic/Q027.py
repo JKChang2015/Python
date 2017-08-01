@@ -9,8 +9,8 @@ import random
 import string
 from random import sample
 
-li = sample(range(10), 5)
+li = sample(list(range(10)), 5)
 le = sample(string.letters, 5)
 l = li + le
 random.shuffle(l)
-print ''.join([str(x) for x in l])
+print(''.join([str(x) for x in l]))

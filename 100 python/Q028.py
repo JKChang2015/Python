@@ -7,5 +7,5 @@
 def ConvertorStr(str):
     return int(str)
 
-print ConvertorStr('11')
+print(ConvertorStr('11'))
 

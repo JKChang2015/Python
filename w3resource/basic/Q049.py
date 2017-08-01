@@ -9,4 +9,4 @@ from os.path import isfile, join
 
 import os
 
-print '\n'.join(os.listdir('/Users/jkchang/Github/Python/w3resource/basic/'))
+print('\n'.join(os.listdir('/Users/jkchang/Github/Python/w3resource/basic/')))

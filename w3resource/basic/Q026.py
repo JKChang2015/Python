@@ -10,10 +10,10 @@ def histogram(l):
     while top > 0:
         for i in l:
             if i - top >= 0:
-                print '$',
+                print('$', end=' ')
             else:
-                print ' ',
-        print
+                print(' ', end=' ')
+        print()
         top = top - 1
 
 

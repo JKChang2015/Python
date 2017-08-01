@@ -7,4 +7,4 @@
 def SumF(number1, number2):
     return number1 + number2
 
-print SumF(1, 100)
+print(SumF(1, 100))

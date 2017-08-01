@@ -1,6 +1,6 @@
 import random
 import os
-import urllib
+import urllib.request, urllib.parse, urllib.error
 import time
 
 # 25April
@@ -63,11 +63,11 @@ import time
 
 # Searching -----------
 my_list = [5, 23.76, 'Hello',  ['new', 'list']]
-num = raw_input('please input a number')
+num = input('please input a number')
 if num in my_list:
-    print 'the number is in the list'
+    print('the number is in the list')
 else:
-    print 'the number is NOT in the list'
+    print('the number is NOT in the list')
 
 
 

@@ -11,7 +11,7 @@ from datetime import datetime
 
 def creatFile(path, name, content):
     with io.open(path + name, 'w', encoding="utf-8") as f:
-        f.write(unicode(content))
+        f.write(str(content))
 
 
 # folderpath = r'/Users/jkchang/Github/Testfolder/'

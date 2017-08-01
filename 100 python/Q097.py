@@ -6,7 +6,7 @@
 
 import itertools
 
-print list(itertools.permutations([1,2,3]))
+print(list(itertools.permutations([1,2,3])))
 # li = [1,2,3]
 # print list(itertools.combinations(li,3))
 

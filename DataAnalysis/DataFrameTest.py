@@ -16,8 +16,8 @@ def2 = DataFrame({'age': [13, 43, 34],
                  index=['1st', '2nd', '3rd']
                  )
 
-print df['age']
+print(df['age'])
 # print df[['age','name']]
-print df.loc['first']
+print(df.loc['first'])
 
-print ''
+print('')

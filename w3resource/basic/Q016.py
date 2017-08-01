@@ -13,5 +13,5 @@ def difference(num):
         return (num - 17) * 2
 
 
-print difference(14)
-print difference(22)
+print(difference(14))
+print(difference(22))

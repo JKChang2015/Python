@@ -7,8 +7,8 @@
 import multiprocessing
 import os
 #
-print multiprocessing.cpu_count()
-print os.uname()
+print(multiprocessing.cpu_count())
+print(os.uname())
 
 # import socket
 # import os

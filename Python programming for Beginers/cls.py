@@ -13,10 +13,10 @@ class employee:
         employee.empCount += 1
 
     def displayCount(self):
-        print 'Total employee %d' %employee.empCount
+        print('Total employee %d' %employee.empCount)
 
     def displayEmployee(self):
-        print 'Name: %s \nSalary: %s' % (self.name, self.salary)
+        print('Name: %s \nSalary: %s' % (self.name, self.salary))
 
 
 dav = employee('David', 100)

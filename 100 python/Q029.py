@@ -8,4 +8,4 @@
 def PrintValue(s1, s2):
     return int(s1) + int(s2)
 
-print PrintValue('2', '5')
+print(PrintValue('2', '5'))

@@ -10,11 +10,11 @@
 #           11106
 
 
-n = raw_input('please input a number between 1 to 9: ')
+n = input('please input a number between 1 to 9: ')
 
 n1 = int("%s" % n)
 n2 = int('%s%s' % (n, n))
 n3 = int("%s%s%s" % (n, n, n))
 n4 = int("%s%s%s%s" % (n, n, n, n))
 
-print n1, '+', n2, '+', n3, '+', n4, '=', n1 + n2 + n3 + n4
+print(n1, '+', n2, '+', n3, '+', n4, '=', n1 + n2 + n3 + n4)

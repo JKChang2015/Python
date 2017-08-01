@@ -11,7 +11,7 @@ class Shape(object):
         pass
 
     def area(self):
-        print 0
+        print(0)
 
 
 class Square(Shape):
@@ -24,4 +24,4 @@ class Square(Shape):
 
 
 aSquare = Square(3)
-print aSquare.area()
+print(aSquare.area())

@@ -10,6 +10,6 @@
 import platform
 import struct
 
-print(struct.calcsize("P") * 8)
+print((struct.calcsize("P") * 8))
 
-print(platform.architecture()[0])
+print((platform.architecture()[0]))

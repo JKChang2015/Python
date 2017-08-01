@@ -10,9 +10,9 @@
 #           Then, the output should be:
 #           1,3,5,7,9
 
-nums = [x for x in raw_input().split(',')
+nums = [x for x in input().split(',')
         if int(x) % 2 != 0 ]
 
-print ','.join(nums)
+print(','.join(nums))
 
 
