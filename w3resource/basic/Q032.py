@@ -5,7 +5,7 @@
 # Tag: least common multiple (LCM)
 # Description: Write a Python program to get the least common multiple (LCM) of two positive integers. 
 
-from Q031 import gcd
+from .Q031 import gcd
 
 
 def lcm(x, y):

@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../OMTD/OMTDp/.idea/OMTDp.iml" filepath="$PROJECT_DIR$/../OMTD/OMTDp/.idea/OMTDp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
     </modules>
   </component>

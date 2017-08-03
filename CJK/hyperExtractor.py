@@ -15,11 +15,10 @@
 #     print link['href']
 
 
-from BeautifulSoup import BeautifulSoup
 import urllib.request, urllib.error, urllib.parse
 import urllib.request, urllib.parse, urllib.error
 
-import re
+from bs4 import BeautifulSoup
 
 html_page = urllib.request.urlopen("http://videos.yizhansou.com/210")
 soup = BeautifulSoup(html_page)

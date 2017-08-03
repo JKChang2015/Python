@@ -15,7 +15,6 @@
 # Then, the output should be:
 # 500
 
-import sys
 
 res = 0
 
