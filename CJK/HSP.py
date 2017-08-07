@@ -32,9 +32,3 @@ res = list(itertools.combinations(address,2))
 for ad in res:
     print(ad[0] , ad[1])
     print (getdistance(ad[0],ad[1]))
-
-
-
-
-
-
