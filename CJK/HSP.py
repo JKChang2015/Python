@@ -5,30 +5,34 @@
 # Description: Travelling salesman problem
 # Input: 100 postcodes
 # Output: the optimized route, list?
-# Strategy: 1. using google map api to extract distance information
-from urllib import request
-import GoogleMapsApi
-import xml.etree.ElementTree as ET
+
+import googlemaps
 import itertools
+from dicttoxml import dicttoxml
+import xml.etree.ElementTree as ET
+import lxml.etree as etree
 
-key = 'AIzaSyCODLmOUPfO51punLP1WBfoaA-FJY8UsVs'
-# key = 'AIzaSyCsDP-iDmh5ulQVK6uiu0vAicaU89wQzJA'
+
+def XMLPretty(string):
+    root = etree.fromstring(string)
+    return etree.tostring(root, pretty_print=True)
 
 
-def getdistance(ad1, ad2):
-    url = r'https://maps.googleapis.com/maps/api/distancematrix/xml?units=metric&origins=%s&destinations=%s&key=%s'  %(ad1,ad2,key)
+def getdistance(oringinal, distanation):
+    client = googlemaps.Client(key='AIzaSyCsDP-iDmh5ulQVK6uiu0vAicaU89wQzJA')
+    matrix = client.distance_matrix(oringinal, distanation)
+    xml_str = dicttoxml(matrix, attr_type=False)
+    # print(XMLPretty(xml_str).decode('utf8'))
+    root = ET.fromstring(xml_str)
+    for distance in root.iter('distance'):
+        m = distance.find('value').text
+        return m
 
-    # xml_str = request.urlopen(url).read()
-
-    return url
 
 stri = "CB250EN,CB99BJ,CB24,CB11EE,CB63NZ,CB23NB,CB101PZ,CB87RB,CB113SJ,CB80SH"
-
-
 address = stri.split(',')
 # print(address)
-res = list(itertools.combinations(address,2))
+address_pairs = list(itertools.combinations(address, 2))
 # print(res)
-for ad in res:
-    print(ad[0] , ad[1])
-    print (getdistance(ad[0],ad[1]))
+for address in address_pairs:
+    print(address[0], address[1], getdistance(address[0], address[1]))
