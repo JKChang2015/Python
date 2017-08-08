@@ -7,6 +7,7 @@
 # Output: the optimized route, list?
 
 import googlemaps
+from googlemaps.distance_matrix import distance_matrix
 import itertools
 from dicttoxml import dicttoxml
 import xml.etree.ElementTree as ET
@@ -18,9 +19,9 @@ def XMLPretty(string):
     return etree.tostring(root, pretty_print=True)
 
 
-def getdistance(oringinal, distanation):
+def getdistance(original, destination):
     client = googlemaps.Client(key='AIzaSyCsDP-iDmh5ulQVK6uiu0vAicaU89wQzJA')
-    matrix = client.distance_matrix(oringinal, distanation)
+    matrix = client.distance_matrix(original, destination)
     xml_str = dicttoxml(matrix, attr_type=False)
     # print(XMLPretty(xml_str).decode('utf8'))
     root = ET.fromstring(xml_str)
