@@ -757,10 +757,11 @@
 #              composed of letters only
 
 # import re
-# email = raw_input('pls input your email address: ')
+# email = input('pls input your email address: ')
 # pat = '(\w+)@(\w+)\.(\w+)'
 # res = re.match(pat,email)
-# print res.group(2)
+# # print (res.group(1))
+# print (res.group(2))
 
 # ----------------Q060-----------------
 # Description: Write a program which accepts a sequence of words separated by whitespace as input to print the words

@@ -1,24 +1,48 @@
 # -*- coding: utf-8 -*-
+
 # CleanHTML
 # Created by JKChang
 # 02/06/2017, 16:03
 # Tag:
 # Description:
 
-# coding:utf-8
-import re
+print('你好')
+import urllib.request
+import urllib.parse
 import requests
 
-# 获取网页内容
-r = requests.get('http://videos.yizhansou.com/210')
-data = r.text
+url = 'http://videos.yizhansou.com/210'
+from bs4 import BeautifulSoup
+
+html =urllib.request.urlopen(url)
+# web = urllib.request.Request(html)
+content = html.read().decode('gbk').encode('utf8')
 
 
-# 利用正则查找所有连接
-link_list =re.findall(r"(?<=href=\").+?(?=\")|(?<=href=\').+?(?=\')" ,data)
-for url in link_list:
-    # print (url.encode('UTF8').decode('unicode_escape'))
-    print(url)
+# print(content.encode('latin-1').decode('gbk').encode('utf-8'))
+# print(type(content))
+# print(content)
+
+
+
+
+
+
+
+# # coding:utf-8
+# import re
+# import requests
+#
+# # 获取网页内容
+# r = requests.get('http://videos.yizhansou.com/210')
+# data = r.text
+#
+#
+# # 利用正则查找所有连接
+# link_list =re.findall(r"(?<=href=\").+?(?=\")|(?<=href=\').+?(?=\')" ,data)
+# for url in link_list:
+#     # print (url.encode('UTF8').decode('unicode_escape'))
+#     print(url)
 
 # import httplib2
 # from BeautifulSoup import BeautifulSoup, SoupStrainer
