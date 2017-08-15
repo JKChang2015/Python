@@ -6,12 +6,12 @@
 # Tag:
 # Description:
 
-print('你好')
+
 import urllib.request
 import urllib.parse
 import requests
 
-url = 'http://videos.yizhansou.com/210'
+url = 'http://videos.yizhansou.com/422'
 from bs4 import BeautifulSoup
 
 html =urllib.request.urlopen(url)
