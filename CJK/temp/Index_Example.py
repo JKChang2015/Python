@@ -18,3 +18,5 @@ month = int(input('Month: '))
 day = input('Day: ')
 
 print(day + endings[int(day) - 1], months[month - 1], year)
+
+

@@ -6,11 +6,14 @@
 
 import calendar
 
-y = int(input('Year: '))
-m = int(input('Month: '))
-print(calendar.month(y,m))
-
-# for i in range (1,13):
-#     print calendar.month(y,i)
+year = int(input('pls input the year: '))
+month = int(input('pls input the month: '))
+# print(calendar.month(year, month))
 
 
+c = calendar.TextCalendar(calendar.SUNDAY)
+c.prmonth(year,month)
+
+
+# for i in range(1, 13):
+#     print(calendar.month(year, i))

@@ -10,5 +10,13 @@ from datetime import date
 
 f_date = date(1994, 11, 18)
 l_date = date(2017, 5, 31)
+
 delta = l_date - f_date
 print(delta.days)
+
+# from datetime import date
+#
+# f_date = date(1994, 11, 18)
+# l_date = date(2017, 5, 31)
+# delta = l_date - f_date
+# print(delta.days)

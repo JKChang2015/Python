@@ -50,8 +50,6 @@ for q in questions:
             "# " + tag + '\n' + \
             "# " + des + '\n'
 
-        creatFile(folderpath,name + '.py', s)
+        creatFile(folderpath, name + '.py', s)
     else:
         pass
-
-

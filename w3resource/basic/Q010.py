@@ -7,14 +7,14 @@
 
 n = input()
 n1 = n
-n2 = n +n
-n3 = n+ n +n
+n2 = n + n
+n3 = n + n + n
 
-print(int(n1)+int(n2)+int(n3))
+print(int(n1) + int(n2) + int(n3))
 
 
-# a = int(input("Input an integer : "))
-# n1 = int( "%s" % a )
-# n2 = int( "%s%s" % (a,a) )
-# n3 = int( "%s%s%s" % (a,a,a) )
-# print (n1+n2+n3)
+# # a = int(input("Input an integer : "))
+# # n1 = int( "%s" % a )
+# # n2 = int( "%s%s" % (a,a) )
+# # n3 = int( "%s%s%s" % (a,a,a) )
+# # print (n1+n2+n3)
