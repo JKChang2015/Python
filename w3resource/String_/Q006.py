@@ -19,3 +19,19 @@ def change(term):
 s = ['sleep', 'interesting', 'OK']
 for i in s:
     print(change(i))
+
+
+
+
+# def change(term):
+#     if len(term) < 3:
+#         return term
+#     if term[-3:] == 'ing':
+#         return term + 'ly'
+#     else:
+#         return term + 'ing'
+#
+#
+# s = ['sleep', 'interesting', 'OK']
+# for i in s:
+#     print(change(i))

@@ -3,13 +3,14 @@
 # Created by JKChang
 # Thu, 01/06/2017, 16:31
 # Tag: character frequency
-# Description: Write a Python program to count the number of characters (character frequency) in a string. 
+# Description: Write a Python program to count the number of characters (character frequency) in a string.
 
-s = input('please input a string: ')
+s = input('pls input something: ')
 d = {}
+
 for ch in s:
     if ch.isalpha():
         d[ch] = d.get(ch, 0) + 1
 
-for k, v in list(d.items()):
+for k, v in d.items():
     print(k, v)
