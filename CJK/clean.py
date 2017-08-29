@@ -10,8 +10,8 @@
 import string
 
 
-def question(path):
-    with open(path) as f:
+def extractQuestion(Filepath):
+    with open(Filepath) as f:
 
         content = f.read()
         s = content
@@ -48,7 +48,6 @@ def question(path):
 
 
 path = '/Users/jkchang/Downloads/ree.txt'
-question(path)
 
 
 #     with open(path) as f:
