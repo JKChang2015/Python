@@ -7,7 +7,7 @@
 
 def s(a, b):
     res = a + b
-    if res > 15 and res < 20:
+    if 15 < res < 20:
         return 20
     return res
 
