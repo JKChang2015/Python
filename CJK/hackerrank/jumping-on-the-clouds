@@ -1,0 +1,30 @@
+# https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem
+
+# !/bin/python3
+
+
+# Constraints
+#  2 < = n <= 100
+# c0 = c n-1 = 0
+
+
+
+n = int(input().strip())  #
+c = [int(c_temp) for c_temp in input().strip().split(' ')]
+
+cur = 0
+end = n - 1
+
+jumps = 0
+
+while cur < end:
+    if ((cur + 2) <= end) and (c[cur + 2] == 0):
+        cur += 2
+        jumps += 1
+    elif ((cur + 1) <= end) and (c[cur + 1] == 0):
+        cur += 1
+        jumps += 1
+    else:
+        break
+
+print(jumps)
