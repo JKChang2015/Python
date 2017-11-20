@@ -1,3 +1,11 @@
+import math
+n = int(input())
+li = [int(x) for x in input().split(' ')]
+
+print(li)
+
+
+
 # ts
 # Created by JKChang
 # 07/11/2017, 14:46
