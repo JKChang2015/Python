@@ -1,8 +1,8 @@
-import math
-n = int(input())
-li = [int(x) for x in input().split(' ')]
+nums = [int(x) for x in input().split()]
+weights = [int(y) for y in input().split()]
 
-print(li)
+print(round(sum(i[0] * i[1] for i in zip(nums, weights)) / sum(weights), 1))
+
 
 
 
@@ -22,8 +22,6 @@ print(li)
 # arr = [1,2,4,3]
 # end = len(arr) -1
 # print(reverse(arr,0,end))
-
-import sys
 
 #
 # def reverse(ar, start, end):

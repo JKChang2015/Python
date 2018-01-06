@@ -8,7 +8,7 @@ import urllib.request
 from bs4 import BeautifulSoup
 import re
 
-url = 'http://videos.yizhansou.com/422'
+url = 'http://videos.yizhansou.com/3552'
 fp = urllib.request.urlopen(url)
 mybytes = fp.read()
 

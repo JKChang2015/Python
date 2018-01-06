@@ -78,3 +78,39 @@ def any(iterable):
     return False
 
 # --------------------------------------------------------------------------------------------------------------
+# round(number[, ndigits])
+# Return the floating point value number rounded to ndigits digits after the decimal point. If ndigits is omitted, it
+# defaults to zero. Delegates to number.__round__(ndigits).
+
+
+
+
+
+
+
+# --------------------------------------------------------------------------------------------------------------
+# zip(*iterables)
+# Returns an iterator of tuples, where the i-th tuple contains the i-th element from each of the argument sequences
+# or iterables. The iterator stops when the shortest input iterable is exhausted.
+
+a = [1,2,3]
+b = ('a', 'b','c','d')
+zipped = zip(a,b)
+print(list(zipped))
+
+# output: [(1, 'a'), (2, 'b'), (3, 'c')]
+# --------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
