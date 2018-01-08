@@ -13,7 +13,7 @@ display_message('Hi, print from a function')
 display_message('This is second line of the message')
 
 # ----------------- 8-3 /4 ---------------
-print('---')
+print('\n---')
 
 
 def make_shirt(message, size='m'):
@@ -27,7 +27,7 @@ make_shirt('Rolling in the deep')
 make_shirt('Do me a favour', 'XL')
 
 # ----------------- 8-5 ---------------
-print('---')
+print('\n---')
 
 
 def describe_city(city, country="UK"):
@@ -40,7 +40,7 @@ describe_city('Berlin', "Germany")
 describe_city(city='Paris', country='France')
 
 # ----------------- 8-5 ---------------
-print('---')
+print('\n---')
 
 
 def make_album(artist_name, album_name, num_songs=0):
@@ -54,7 +54,7 @@ print(make_album('Adele', 'Rolling in the deep'))
 print(make_album('Taylor Swift', 'Call me', 10))
 
 # -------------------------------------------------
-print('---')
+print('\n---')
 
 
 def print_models(unprinted_designs, completed_models):
@@ -76,7 +76,7 @@ print_models(unprinted_designs, completed_models)
 show_completed_models(completed_models)
 
 # -----------------8-12 Sandwiches--------------------------------
-print('---')
+print('\n---')
 
 
 def make_sandwiches(*something):
@@ -90,7 +90,7 @@ def make_sandwiches(*something):
 make_sandwiches('tomatos', 'cucumbers', 'onions', 'egss')
 
 # -----------------8-13 personal introduction--------------------------------
-print('---')
+print('\n---')
 
 
 def build_profile(first_name, last_name, **intro):
