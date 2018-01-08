@@ -52,3 +52,51 @@ def make_album(artist_name, album_name, num_songs=0):
 
 print(make_album('Adele', 'Rolling in the deep'))
 print(make_album('Taylor Swift', 'Call me', 10))
+
+# -------------------------------------------------
+print('---')
+
+
+def print_models(unprinted_designs, completed_models):
+    while unprinted_designs:
+        current_design = unprinted_designs.pop()
+        print("Printing model: " + current_design)
+        completed_models.append(current_design)
+
+
+def show_completed_models(completed_models):
+    print("\nThe following models have been printed:")
+    for completed_model in completed_models:
+        print(completed_model)
+
+
+unprinted_designs = ['iphone case', 'robot pendant', 'dodecahedron']
+completed_models = []
+print_models(unprinted_designs, completed_models)
+show_completed_models(completed_models)
+
+# -----------------8-12 Sandwiches--------------------------------
+print('---')
+
+
+def make_sandwiches(*something):
+    print('making a sandwiches contains: ')
+    for veg in something:
+        print('-' + veg)
+
+    print('done.....')
+
+
+make_sandwiches('tomatos', 'cucumbers', 'onions', 'egss')
+
+# -----------------8-13 personal introduction--------------------------------
+print('---')
+
+
+def build_profile(first_name, last_name, **intro):
+    print('Hi my name is:', last_name, first_name)
+    for key, value in intro.items():
+        print('-', key + ':' + value)
+
+
+build_profile(first_name='David', last_name='Ch', language='Python & Java', hobby='wood working', age='16')
