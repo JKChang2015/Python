@@ -86,3 +86,5 @@ class ElectricCar(Car):
 t1 = ElectricCar(year=2016, model='X', make='Tesla', power=1999)
 print(t1.get_description())
 t1.gas_tank()
+
+# --------------------------------------------------
