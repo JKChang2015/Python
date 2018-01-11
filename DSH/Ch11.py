@@ -23,6 +23,3 @@ class NamesTestCase(unittest.TestCase):
         formatted_name = get_formatted_name('david', 'Ch')
         self.assertEqual(formatted_name, 'David Ch')
 
-
-if __name__ == '__main__':
-    unittest.main()
