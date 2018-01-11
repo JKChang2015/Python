@@ -7,7 +7,7 @@
 import unittest
 from unittest.mock import patch
 
-from DSH.Employee import Employee
+from PPC.Employee import Employee
 
 
 class TestEmployee(unittest.TestCase):

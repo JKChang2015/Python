@@ -6,7 +6,7 @@
 
 import unittest
 
-from DSH import calc
+from PPC import calc
 
 
 class testClac(unittest.TestCase):
