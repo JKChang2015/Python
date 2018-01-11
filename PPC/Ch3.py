@@ -25,7 +25,7 @@ print()
 print('sorted list:\t\t' + '  '.join(l))
 
 # ------------list.sort(reverse=True)----------------------
-l.sort()
+l.sort(reverse=True)
 print()
 print('sorted list:\t\t' + '  '.join(l))
 
