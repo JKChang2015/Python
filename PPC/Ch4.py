@@ -52,3 +52,4 @@ l = [str(x) for x in range(1,10)]
 print('the first three items of the list is: ' + ','.join(l[:3]))
 print('the middle items of the list is: ' + ','.join(l[len(l)//2-1:len(l)//2+2]))
 print('the last three items of the list is: ' + ','.join(l[-3:]))
+
