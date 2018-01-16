@@ -15,4 +15,3 @@ with open('/Users/jkchang/Desktop/email.txt') as file:
 
 print('\n'.join(email))
 
-
