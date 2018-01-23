@@ -9,7 +9,7 @@ from pandas import DataFrame as df
 
 
 data = pandas.read_csv(r'./resources/HR_comma_sep.csv')
+data = data.rename(columns={'sales': 'Departments'})
 print(data.info())
 print(data.describe())
 # data.describe().to_csv('results/data_describe.csv', encoding='utf-8')
-

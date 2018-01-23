@@ -10,6 +10,7 @@ import matplotlib.pyplot as plt
 import pandas
 
 data = pandas.read_csv(r'./resources/HR_comma_sep.csv')
+data = data.rename(columns={'sales': 'Departments'})
 
 onJob = data[data['left'] == 0]
 leftJob = data[data['left'] == 1]
