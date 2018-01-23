@@ -2,7 +2,7 @@
 # Created by JKChang
 # 22/01/2018, 20:40
 # Tag:
-# Description: 
+# Description:world population
 
 import json
 import math
@@ -22,10 +22,8 @@ def chunks(data, SIZE=10000):
         yield {k: data[k] for k in islice(it, SIZE)}
 
 
-millnames = ['', ' K', ' M', ' B', ' T']
-
-
 def millify(n):
+    millnames = ['', ' K', ' M', ' B', ' T']
     n = float(n)
     millidx = max(0, min(len(millnames) - 1, int(math.floor(0 if n == 0 else math.log10(abs(n)) / 3))))
     return '{:.0f}{}'.format(n / 10 ** (3 * millidx), millnames[millidx])
