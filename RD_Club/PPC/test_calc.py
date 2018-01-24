@@ -6,7 +6,7 @@
 
 import unittest
 
-from PPC import calc
+from RD_Club.PPC import calc
 
 
 class testClac(unittest.TestCase):

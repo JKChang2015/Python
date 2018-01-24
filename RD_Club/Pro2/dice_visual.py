@@ -5,7 +5,7 @@
 # Description: 
 import pygal
 
-from PPC.Pro2.die import Die
+from RD_Club.Pro2.die import Die
 
 die_1 = Die()
 die_2 = Die(10)

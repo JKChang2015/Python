@@ -13,7 +13,7 @@ from pygal.style import LightColorizedStyle
 from pygal.style import RotateStyle
 from pygal_maps_world.maps import World
 
-from PPC.Pro2.country_codes import get_country_code
+from RD_Club.Pro2.country_codes import get_country_code
 
 
 def chunks(data, SIZE=10000):

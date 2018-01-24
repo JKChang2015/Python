@@ -6,7 +6,7 @@
 
 import pygal
 
-from PPC.Pro2.die import Die
+from RD_Club.Pro2.die import Die
 
 die = Die()
 res = []

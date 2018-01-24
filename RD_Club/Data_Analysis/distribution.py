@@ -49,3 +49,4 @@ for group in excepts:
     plt.ylabel(group, fontsize=14)
     plt.savefig('results/' + group + '.png', bbox_inches='tight')
     plt.show()
+

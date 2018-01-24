@@ -6,7 +6,7 @@
 
 import matplotlib.pyplot as plt
 
-from PPC.Pro2.random_walk import RandomWalk
+from RD_Club.Pro2.random_walk import RandomWalk
 
 # while True:
 rw = RandomWalk(2000)

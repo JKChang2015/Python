@@ -7,7 +7,7 @@
 import unittest
 from unittest.mock import patch
 
-from PPC.Employee import Employee
+from RD_Club.PPC.Employee import Employee
 
 
 class TestEmployee(unittest.TestCase):
