@@ -12,7 +12,7 @@ with open('test1.txt') as f:
 
 # ------- open file from path ----
 print('---')
-with open(os.path.expanduser('~/Github/Python/DSH/test1.txt')) as ff:
+with open(os.path.expanduser('~/Github/Python/RD_Club/PPC/test1.txt')) as ff:
     contents = ff.read()
     print(contents)
 
@@ -43,13 +43,13 @@ with open('pi_million_digits.txt') as pi:
 
 # -------write string to the file------------
 print('---')
-with open(os.path.expanduser('~/Github/Python/DSH/ws.txt'), 'w') as f:
+with open(os.path.expanduser('~/Github/Python/RD_Club/PPC/ws.txt'), 'w') as f:
     f.write('Hello, python')
 print('-> wrote done')
 
 # -------write string to the file------------
 print('---')
-with open(os.path.expanduser('~/Github/Python/DSH/ws.txt'), 'a') as f:
+with open(os.path.expanduser('~/Github/Python/RD_Club/PPC/ws.txt'), 'a') as f:
     f.write('\nadd somthing to the file')
 print('-> add done')
 
@@ -58,7 +58,7 @@ print('---')
 import json
 
 num = [2, 3, 5, 7, 21]
-fileName = os.path.expanduser('~/Github/Python/DSH/numbers.json')
+fileName = os.path.expanduser('~/Github/Python/RD_Club/PPC/numbers.json')
 with open(fileName, 'w') as f_obj:
     json.dump(num, f_obj)
 print('-> Data saved...')
@@ -66,7 +66,7 @@ print('-> Data saved...')
 # ———————————load the data from the file———————
 print('---')
 
-fileName = os.path.expanduser('~/Github/Python/DSH/numbers.json')
+fileName = os.path.expanduser('~/Github/Python/RD_Club/PPC/numbers.json')
 with open(fileName) as f:
     nums = json.load(f)
 
@@ -78,7 +78,7 @@ print('-> Data loaded...')
 print('---')
 
 userName = input('Pls input your name: ')
-fileName = os.path.expanduser('~/Github/Python/DSH/user_name.json')
+fileName = os.path.expanduser('~/Github/Python/RD_Club/PPC/user_name.json')
 with open(fileName, 'w') as f:
     json.dump(userName, f)
     print('-> Name saved')
