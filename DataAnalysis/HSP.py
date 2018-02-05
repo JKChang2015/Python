@@ -6,12 +6,12 @@
 # Input: 100 postcodes
 # Output: the optimized route, list?
 
-import googlemaps
-from googlemaps.distance_matrix import distance_matrix
 import itertools
-from dicttoxml import dicttoxml
 import xml.etree.ElementTree as ET
+
+import googlemaps
 import lxml.etree as etree
+from dicttoxml import dicttoxml
 
 
 def XMLPretty(string):
@@ -37,4 +37,3 @@ address_pairs = list(itertools.combinations(address, 2))
 # print(res)
 for address in address_pairs:
     print(address[0], address[1], getdistance(address[0], address[1]))
-

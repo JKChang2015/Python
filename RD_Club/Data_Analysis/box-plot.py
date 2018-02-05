@@ -15,16 +15,16 @@ data = data.rename(columns={'sales': 'Departments'})
 
 print(data.info())
 
-# columns_name = list(data.columns.values)
-# columns_name.remove('left')
-#
-# plt.figure()
-# plt.tight_layout()
-#
-#
-#
-# for col in columns_name:
-#     sns.boxplot(x='left', y=col, data=data)
-#     plt.savefig('results/' + col + ' box-plot.png', bbox_inches='tight')
-#     plt.show()
-#
+columns_name = list(data.columns.values)
+columns_name.remove('left')
+
+plt.figure()
+plt.tight_layout()
+
+
+
+for col in columns_name:
+    sns.boxplot(x='left', y=col, data=data)
+    plt.savefig('results/' + col + ' box-plot.png', bbox_inches='tight')
+    plt.show()
+
