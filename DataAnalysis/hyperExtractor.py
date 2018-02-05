@@ -20,3 +20,4 @@ links = re.findall(r"(?<=href=\").+?(?=\")|(?<=href=\').+?(?=\')", mystr)
 for link in links:
     if link.__contains__('ed2k'):
         print(link)
+

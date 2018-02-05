@@ -37,3 +37,4 @@ address_pairs = list(itertools.combinations(address, 2))
 # print(res)
 for address in address_pairs:
     print(address[0], address[1], getdistance(address[0], address[1]))
+

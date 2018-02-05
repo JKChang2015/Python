@@ -4,14 +4,34 @@
 # Tag:
 # Description:
 
-email = []
+# email = []
+# psw = []
+# with open('/Users/jkchang/Desktop/email.txt') as file:
+#     lines = file.readlines()
+#     for line in lines:
+#         res = line.strip().split('----')
+#         email.append(res[0])
+#         psw.append(res[1])
+#
+# print('\n'.join(email))
+
+
+code = []
 psw = []
-with open('/Users/jkchang/Desktop/email.txt') as file:
+s = 0
+linecount = 0
+with open('/Users/jkchang/Desktop/codes.txt') as file:
     lines = file.readlines()
     for line in lines:
-        res = line.strip().split('----')
-        email.append(res[0])
-        psw.append(res[1])
+        linecount += 1
+        res = line.strip().split(' ')
+        code.append(res[0] + res[1])
+        psw.append(res[2])
+        s += int(res[0])
+        if (linecount % 10 == 0):
+            code.append(' ')
+            psw.append(' ')
 
-print('\n'.join(email))
-
+print('\n'.join(code))
+print('\n'.join(psw))
+print(s)
