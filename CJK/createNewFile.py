@@ -44,7 +44,7 @@ def extractQuestion(Filepath):
         return res
 
 
-questionPath = '/Users/jkchang/Downloads/ree.txt'
+questionPath = r'/Users/jkchang/Downloads/ree.txt'
 questions = extractQuestion(questionPath)
 
 # targetPath = r'/Users/jkchang/Github/Testfolder/'
