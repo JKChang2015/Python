@@ -31,4 +31,4 @@ def roman_to_int(n):
     return result
 
 
-print(int_to_roman(1998))
+print(int_to_roman(1992))
