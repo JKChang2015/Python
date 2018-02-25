@@ -20,7 +20,7 @@ code = []
 psw = []
 s = 0
 linecount = 0
-with open('/Users/jkchang/Desktop/code.txt') as file:
+with open('/Users/jkchang/Desktop/codes.txt') as file:
     lines = file.readlines()
     for line in lines:
         linecount += 1
