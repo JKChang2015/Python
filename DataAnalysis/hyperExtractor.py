@@ -4,9 +4,8 @@
 # Tag:
 # Description: 
 
-import urllib.request
-from bs4 import BeautifulSoup
 import re
+import urllib.request
 
 url = 'http://videos.yizhansou.com/3552'
 fp = urllib.request.urlopen(url)
@@ -20,4 +19,3 @@ links = re.findall(r"(?<=href=\").+?(?=\")|(?<=href=\').+?(?=\')", mystr)
 for link in links:
     if link.__contains__('ed2k'):
         print(link)
-
