@@ -3,9 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/CJK/temp/splitter.py" afterPath="$PROJECT_DIR$/CJK/temp/splitter.py" />
-      <change beforePath="$PROJECT_DIR$/DataAnalysis/hyperExtractor.py" afterPath="$PROJECT_DIR$/DataAnalysis/hyperExtractor.py" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/world_population 2016.svg" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/world_population 2016.svg" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -273,11 +270,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="hyperExtractor.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="hyperExtractor.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/hyperExtractor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
+            <state relative-caret-position="210">
+              <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
               <folding>
                 <element signature="e#71#80#0" expanded="true" />
               </folding>
@@ -317,12 +314,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="web_scraper.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="web_scraper.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="147">
               <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="web Scraping.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/DataAnalysis/web Scraping.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -350,8 +356,8 @@
       <file leaf-file-name="cross_analysis.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/cross_analysis.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="462">
-              <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+            <state relative-caret-position="420">
+              <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
               <folding>
                 <element signature="e#82#113#0" expanded="true" />
               </folding>
@@ -497,6 +503,8 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -545,8 +553,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -578,7 +584,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.cross_analysis">
+  <component name="RunManager" selected="Python.hyperExtractor">
     <configuration default="true" type="DjangoTestsConfigurationType" factoryName="Django tests">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -876,9 +882,9 @@
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.cross_analysis" />
-        <item index="1" class="java.lang.String" itemvalue="Python.box-plot" />
-        <item index="2" class="java.lang.String" itemvalue="Python.hyperExtractor" />
+        <item index="0" class="java.lang.String" itemvalue="Python.hyperExtractor" />
+        <item index="1" class="java.lang.String" itemvalue="Python.cross_analysis" />
+        <item index="2" class="java.lang.String" itemvalue="Python.box-plot" />
         <item index="3" class="java.lang.String" itemvalue="Python.world_population" />
         <item index="4" class="java.lang.String" itemvalue="Python.date" />
       </list>
@@ -1181,23 +1187,22 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1374" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1920" height="1015" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32943925" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31381732" sideWeight="0.5063543" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.04090548" sideWeight="0.5286458" order="5" side_tool="false" content_ui="tabs" x="0" y="0" width="270" height="1176" />
+      <window_info id="Documentation" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.040468585" sideWeight="0.5286458" order="5" side_tool="false" content_ui="tabs" x="0" y="0" width="270" height="1176" />
+      <window_info id="Run" active="true" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.5058573" sideWeight="0.47135416" order="8" side_tool="false" content_ui="tabs" x="21" y="520" width="2518" height="382" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32786885" sideWeight="0.49841145" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24121779" sideWeight="0.576251" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2971246" sideWeight="0.47135416" order="8" side_tool="false" content_ui="tabs" x="21" y="520" width="2518" height="382" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16512915" sideWeight="0.5302391" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13065925" sideWeight="0.49222797" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16471507" sideWeight="0.5302391" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.13205537" sideWeight="0.49222797" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32960597" sideWeight="0.495671" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.82641107" sideWeight="0.57682294" order="6" side_tool="false" content_ui="tabs" x="115" y="68" width="1846" height="1159" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24861" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16719618" sideWeight="0.507772" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37201735" sideWeight="0.5373312" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.16719618" sideWeight="0.507772" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -1261,13 +1266,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/../Machine_Learning/KNN/knn.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../CCI/Python_solution/Chapter_1 Arrays and Strings/URLify.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="798">
@@ -1554,16 +1552,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/hyperExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="20" column="19" lean-forward="false" selection-start-line="20" selection-start-column="19" selection-end-line="20" selection-end-column="19" />
-          <folding>
-            <element signature="e#71#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/SeriesTest.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
@@ -1597,11 +1585,26 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/cross_analysis.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="10" lean-forward="true" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+        <state relative-caret-position="420">
+          <caret line="22" column="10" lean-forward="false" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
           <folding>
             <element signature="e#82#113#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/web Scraping.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
@@ -1613,11 +1616,13 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
+    <entry file="file://$PROJECT_DIR$/DataAnalysis/hyperExtractor.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="210">
+          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
+          <folding>
+            <element signature="e#71#80#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
