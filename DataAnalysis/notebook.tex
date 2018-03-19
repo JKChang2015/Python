@@ -531,14 +531,14 @@ contains information about the type of the document 2.
 \texttt{Tag} contains nested tags.
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}9}]:} \PY{c+c1}{\PYZsh{} select html items from soup\PYZsq{}s children:}
+{\color{incolor}In [{\color{incolor}7}]:} \PY{c+c1}{\PYZsh{} select html items from soup\PYZsq{}s children:}
         \PY{n}{html} \PY{o}{=} \PY{n+nb}{list}\PY{p}{(}\PY{n}{soup}\PY{o}{.}\PY{n}{children}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{2}\PY{p}{]}
         \PY{n}{html}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}9}]:} <html>
+{\color{outcolor}Out[{\color{outcolor}7}]:} <html>
         <head>
         <title>A simple example page</title>
         </head>
@@ -549,22 +549,22 @@ contains information about the type of the document 2.
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}11}]:} \PY{c+c1}{\PYZsh{} select body items from html\PYZsq{}s children}
-         \PY{n}{body} \PY{o}{=}  \PY{n+nb}{list}\PY{p}{(}\PY{n}{html}\PY{o}{.}\PY{n}{children}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{3}\PY{p}{]}
-         \PY{n}{body}
+{\color{incolor}In [{\color{incolor}8}]:} \PY{c+c1}{\PYZsh{} select body items from html\PYZsq{}s children}
+        \PY{n}{body} \PY{o}{=}  \PY{n+nb}{list}\PY{p}{(}\PY{n}{html}\PY{o}{.}\PY{n}{children}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{3}\PY{p}{]}
+        \PY{n}{body}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}11}]:} <body>
-         <p>Here is some simple content for this page.</p>
-         </body>
+{\color{outcolor}Out[{\color{outcolor}8}]:} <body>
+        <p>Here is some simple content for this page.</p>
+        </body>
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}17}]:} \PY{c+c1}{\PYZsh{} select p items from body\PYZsq{}s children}
-         \PY{n}{p} \PY{o}{=} \PY{n+nb}{list}\PY{p}{(}\PY{n}{body}\PY{o}{.}\PY{n}{children}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}
-         \PY{n+nb}{print}\PY{p}{(}\PY{n}{p}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}9}]:} \PY{c+c1}{\PYZsh{} select p items from body\PYZsq{}s children}
+        \PY{n}{p} \PY{o}{=} \PY{n+nb}{list}\PY{p}{(}\PY{n}{body}\PY{o}{.}\PY{n}{children}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{1}\PY{p}{]}
+        \PY{n+nb}{print}\PY{p}{(}\PY{n}{p}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}\PY{p}{)}
 \end{Verbatim}
 
 
@@ -574,23 +574,23 @@ Here is some simple content for this page.
     \end{Verbatim}
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}18}]:} \PY{c+c1}{\PYZsh{} Finding all instance of a tag at once, instead of parsing layer by layer}
+{\color{incolor}In [{\color{incolor}10}]:} \PY{c+c1}{\PYZsh{} Finding all instance of a tag at once, instead of parsing layer by layer}
          \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{page}\PY{o}{.}\PY{n}{content}\PY{p}{,}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{html.parser}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
          \PY{n}{soup}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{p}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}18}]:} [<p>Here is some simple content for this page.</p>]
+{\color{outcolor}Out[{\color{outcolor}10}]:} [<p>Here is some simple content for this page.</p>]
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}19}]:} \PY{n}{soup}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{p}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}11}]:} \PY{n}{soup}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{p}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}19}]:} 'Here is some simple content for this page.'
+{\color{outcolor}Out[{\color{outcolor}11}]:} 'Here is some simple content for this page.'
 \end{Verbatim}
             
     \hypertarget{searching-for-tags-by-class-and-id}{%
@@ -658,7 +658,7 @@ A simple example page
 \end{verbatim}
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}22}]:} \PY{n}{page} \PY{o}{=} \PY{n}{requests}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{http://dataquestio.github.io/web\PYZhy{}scraping\PYZhy{}pages/ids\PYZus{}and\PYZus{}classes.html}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}12}]:} \PY{n}{page} \PY{o}{=} \PY{n}{requests}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{http://dataquestio.github.io/web\PYZhy{}scraping\PYZhy{}pages/ids\PYZus{}and\PYZus{}classes.html}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
          \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{page}\PY{o}{.}\PY{n}{content}\PY{p}{,} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{html.parser}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
          \PY{c+c1}{\PYZsh{} search outer\PYZhy{}text，using class name}
          \PY{n}{soup}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{p}\PY{l+s+s1}{\PYZsq{}}\PY{p}{,} \PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{outer\PYZhy{}text}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
@@ -666,7 +666,7 @@ A simple example page
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}22}]:} [<p class="outer-text first-item" id="second">
+{\color{outcolor}Out[{\color{outcolor}12}]:} [<p class="outer-text first-item" id="second">
           <b>
                           First outer paragraph.
                       </b>
@@ -678,13 +678,13 @@ A simple example page
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}23}]:} \PY{c+c1}{\PYZsh{} search according to the id}
+{\color{incolor}In [{\color{incolor}13}]:} \PY{c+c1}{\PYZsh{} search according to the id}
          \PY{n}{soup}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{n+nb}{id}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{first}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}23}]:} [<p class="inner-text first-item" id="first">
+{\color{outcolor}Out[{\color{outcolor}13}]:} [<p class="inner-text first-item" id="first">
                           First paragraph.
                       </p>]
 \end{Verbatim}
@@ -718,13 +718,13 @@ CSS language selectors allows developers to specify HTML tags to style
 \end{itemize}
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}24}]:} \PY{c+c1}{\PYZsh{} select p inside of div}
+{\color{incolor}In [{\color{incolor}14}]:} \PY{c+c1}{\PYZsh{} select p inside of div}
          \PY{n}{soup}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{div p}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}24}]:} [<p class="inner-text first-item" id="first">
+{\color{outcolor}Out[{\color{outcolor}14}]:} [<p class="inner-text first-item" id="first">
                           First paragraph.
                       </p>, <p class="inner-text">
                           Second paragraph.
@@ -737,13 +737,11 @@ CSS language selectors allows developers to specify HTML tags to style
 extract weather data from from the National Weather Service website.
 （https://www.weather.gov), inspect elements of the web site。 In this
 case, it's a \texttt{div} tag with the id \texttt{seven-day-forecast}:
-\includegraphics{attachment:WX20180312-160225@2x.png}
 
 \textless{}br \textgreater{} If you click around on the console, and
 explore the div, you'll discover that each forecast item (like
 ``Tonight'', ``Thursday'', and ``Thursday Night'') is contained in a div
-with the class \texttt{tombstone-container}.
-\includegraphics{attachment:7days.png} \textless{}br
+with the class \texttt{tombstone-container}. \textless{}br
 \textgreater{}\textless{}br \textgreater{}
 
 parsing the Page: * Download the web page cotaining the forecast *
@@ -753,15 +751,15 @@ Create a \texttt{BeautifulSoup} class the parse the page. * Find the
 forecast item. * Extract and print the first forecast item.
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}1}]:} \PY{k+kn}{import} \PY{n+nn}{requests}
-        \PY{k+kn}{from} \PY{n+nn}{bs4} \PY{k}{import} \PY{n}{BeautifulSoup}
-        \PY{n}{url} \PY{o}{=} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{https://forecast.weather.gov/MapClick.php?lat=47.60357000000005\PYZam{}lon=\PYZhy{}122.32944999999995\PYZsh{}.WqacHmacZdA}\PY{l+s+s1}{\PYZsq{}}
-        \PY{n}{page} \PY{o}{=} \PY{n}{requests}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{n}{url}\PY{p}{)}
-        \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{page}\PY{o}{.}\PY{n}{content}\PY{p}{,}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{html.parser}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
-        \PY{n}{seven\PYZus{}day} \PY{o}{=} \PY{n}{soup}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n+nb}{id}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{seven\PYZhy{}day\PYZhy{}forecast}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
-        \PY{n}{forecast\PYZus{}items} \PY{o}{=} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{tombstone\PYZhy{}container}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
-        \PY{n}{tonight} \PY{o}{=} \PY{n}{forecast\PYZus{}items}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{tonight}\PY{o}{.}\PY{n}{prettify}\PY{p}{(}\PY{p}{)}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}15}]:} \PY{k+kn}{import} \PY{n+nn}{requests}
+         \PY{k+kn}{from} \PY{n+nn}{bs4} \PY{k}{import} \PY{n}{BeautifulSoup}
+         \PY{n}{url} \PY{o}{=} \PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{https://forecast.weather.gov/MapClick.php?lat=47.60357000000005\PYZam{}lon=\PYZhy{}122.32944999999995\PYZsh{}.WqacHmacZdA}\PY{l+s+s1}{\PYZsq{}}
+         \PY{n}{page} \PY{o}{=} \PY{n}{requests}\PY{o}{.}\PY{n}{get}\PY{p}{(}\PY{n}{url}\PY{p}{)}
+         \PY{n}{soup} \PY{o}{=} \PY{n}{BeautifulSoup}\PY{p}{(}\PY{n}{page}\PY{o}{.}\PY{n}{content}\PY{p}{,}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{html.parser}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         \PY{n}{seven\PYZus{}day} \PY{o}{=} \PY{n}{soup}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n+nb}{id}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{seven\PYZhy{}day\PYZhy{}forecast}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{forecast\PYZus{}items} \PY{o}{=} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{find\PYZus{}all}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{tombstone\PYZhy{}container}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{tonight} \PY{o}{=} \PY{n}{forecast\PYZus{}items}\PY{p}{[}\PY{l+m+mi}{0}\PY{p}{]}
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{tonight}\PY{o}{.}\PY{n}{prettify}\PY{p}{(}\PY{p}{)}\PY{p}{)}
 \end{Verbatim}
 
 
@@ -798,14 +796,14 @@ description of the conditions --- in this case, \texttt{Clouds}. *
 Temperature low - 50 degrees
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}2}]:} \PY{c+c1}{\PYZsh{}further extraction:}
-        \PY{n}{period} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{period\PYZhy{}name}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
-        \PY{n}{short\PYZus{}desc} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{short\PYZhy{}desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
-        \PY{n}{temp} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
-        
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{period}\PY{p}{)}
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{short\PYZus{}desc}\PY{p}{)}
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{temp}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}16}]:} \PY{c+c1}{\PYZsh{}further extraction:}
+         \PY{n}{period} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{period\PYZhy{}name}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
+         \PY{n}{short\PYZus{}desc} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{short\PYZhy{}desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
+         \PY{n}{temp} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{n}{class\PYZus{}}\PY{o}{=}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)}
+         
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{period}\PY{p}{)}
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{short\PYZus{}desc}\PY{p}{)}
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{temp}\PY{p}{)}
 \end{Verbatim}
 
 
@@ -817,9 +815,9 @@ Low: 50 °F
     \end{Verbatim}
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}3}]:} \PY{n}{img} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{img}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
-        \PY{n}{desc} \PY{o}{=} \PY{n}{img}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{title}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{desc}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}17}]:} \PY{n}{img} \PY{o}{=} \PY{n}{tonight}\PY{o}{.}\PY{n}{find}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{img}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         \PY{n}{desc} \PY{o}{=} \PY{n}{img}\PY{p}{[}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{title}\PY{l+s+s1}{\PYZsq{}}\PY{p}{]}
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{desc}\PY{p}{)}
 \end{Verbatim}
 
 
@@ -843,32 +841,32 @@ page}\label{extract-all-the-information-from-the-page}}
 \end{itemize}
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}5}]:} \PY{n}{period\PYZus{}tags} \PY{o}{=} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container .period\PYZhy{}name}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
-        \PY{n}{periods} \PY{o}{=} \PY{p}{[}\PY{n}{pt}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)} \PY{k}{for} \PY{n}{pt} \PY{o+ow}{in} \PY{n}{period\PYZus{}tags}\PY{p}{]}
-        \PY{n}{periods}
+{\color{incolor}In [{\color{incolor}18}]:} \PY{n}{period\PYZus{}tags} \PY{o}{=} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container .period\PYZhy{}name}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{periods} \PY{o}{=} \PY{p}{[}\PY{n}{pt}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)} \PY{k}{for} \PY{n}{pt} \PY{o+ow}{in} \PY{n}{period\PYZus{}tags}\PY{p}{]}
+         \PY{n}{periods}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}5}]:} ['Tonight',
-         'Tuesday',
-         'TuesdayNight',
-         'Wednesday',
-         'WednesdayNight',
-         'Thursday',
-         'ThursdayNight',
-         'Friday',
-         'FridayNight']
+{\color{outcolor}Out[{\color{outcolor}18}]:} ['Tonight',
+          'Tuesday',
+          'TuesdayNight',
+          'Wednesday',
+          'WednesdayNight',
+          'Thursday',
+          'ThursdayNight',
+          'Friday',
+          'FridayNight']
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}6}]:} \PY{n}{short\PYZus{}descs} \PY{o}{=} \PY{p}{[}\PY{n}{sd}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)} \PY{k}{for} \PY{n}{sd} \PY{o+ow}{in} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container .short\PYZhy{}desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
-        \PY{n}{temps} \PY{o}{=} \PY{p}{[}\PY{n}{t}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)} \PY{k}{for} \PY{n}{t} \PY{o+ow}{in} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container .temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
-        \PY{n}{descs} \PY{o}{=} \PY{p}{[}\PY{n}{d}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{title}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]} \PY{k}{for} \PY{n}{d} \PY{o+ow}{in} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container img}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
-        
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{short\PYZus{}descs}\PY{p}{)}
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{temps}\PY{p}{)}
-        \PY{n+nb}{print}\PY{p}{(}\PY{n}{descs}\PY{p}{)}
+{\color{incolor}In [{\color{incolor}19}]:} \PY{n}{short\PYZus{}descs} \PY{o}{=} \PY{p}{[}\PY{n}{sd}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)} \PY{k}{for} \PY{n}{sd} \PY{o+ow}{in} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container .short\PYZhy{}desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
+         \PY{n}{temps} \PY{o}{=} \PY{p}{[}\PY{n}{t}\PY{o}{.}\PY{n}{get\PYZus{}text}\PY{p}{(}\PY{p}{)} \PY{k}{for} \PY{n}{t} \PY{o+ow}{in} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container .temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
+         \PY{n}{descs} \PY{o}{=} \PY{p}{[}\PY{n}{d}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{title}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]} \PY{k}{for} \PY{n}{d} \PY{o+ow}{in} \PY{n}{seven\PYZus{}day}\PY{o}{.}\PY{n}{select}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{.tombstone\PYZhy{}container img}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}\PY{p}{]}
+         
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{short\PYZus{}descs}\PY{p}{)}
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{temps}\PY{p}{)}
+         \PY{n+nb}{print}\PY{p}{(}\PY{n}{descs}\PY{p}{)}
 \end{Verbatim}
 
 
@@ -880,92 +878,92 @@ page}\label{extract-all-the-information-from-the-page}}
     \end{Verbatim}
 
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}7}]:} \PY{c+c1}{\PYZsh{} save the data to the pandas dataframe}
-        
-        \PY{k+kn}{import} \PY{n+nn}{pandas} \PY{k}{as} \PY{n+nn}{pd}
-        \PY{n}{weather} \PY{o}{=} \PY{n}{pd}\PY{o}{.}\PY{n}{DataFrame}\PY{p}{(}\PY{p}{\PYZob{}}
-                \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{period}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{periods}\PY{p}{,} 
-                \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{short\PYZus{}desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{short\PYZus{}descs}\PY{p}{,} 
-                \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{temps}\PY{p}{,} 
-                \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}\PY{n}{descs}
-            \PY{p}{\PYZcb{}}\PY{p}{)}
-        \PY{n}{weather}
+{\color{incolor}In [{\color{incolor}20}]:} \PY{c+c1}{\PYZsh{} save the data to the pandas dataframe}
+         
+         \PY{k+kn}{import} \PY{n+nn}{pandas} \PY{k}{as} \PY{n+nn}{pd}
+         \PY{n}{weather} \PY{o}{=} \PY{n}{pd}\PY{o}{.}\PY{n}{DataFrame}\PY{p}{(}\PY{p}{\PYZob{}}
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{period}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{periods}\PY{p}{,} 
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{short\PYZus{}desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{short\PYZus{}descs}\PY{p}{,} 
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:} \PY{n}{temps}\PY{p}{,} 
+                 \PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{desc}\PY{l+s+s2}{\PYZdq{}}\PY{p}{:}\PY{n}{descs}
+             \PY{p}{\PYZcb{}}\PY{p}{)}
+         \PY{n}{weather}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}7}]:}                                                 desc          period  \textbackslash{}
-        0  Tonight: Increasing clouds, with a low around {\ldots}         Tonight   
-        1  Tuesday: Rain, mainly after 11am.  High near 5{\ldots}         Tuesday   
-        2  Tuesday Night: Rain.  Low around 40. Breezy, w{\ldots}    TuesdayNight   
-        3  Wednesday: Showers likely.  Mostly cloudy, wit{\ldots}       Wednesday   
-        4  Wednesday Night: A 30 percent chance of shower{\ldots}  WednesdayNight   
-        5  Thursday: A 30 percent chance of showers.  Mos{\ldots}        Thursday   
-        6  Thursday Night: A 20 percent chance of showers{\ldots}   ThursdayNight   
-        7  Friday: A slight chance of showers.  Partly su{\ldots}          Friday   
-        8  Friday Night: A slight chance of showers.  Mos{\ldots}     FridayNight   
-        
-                     short\_desc         temp  
-        0      IncreasingClouds   Low: 50 °F  
-        1        Rain andBreezy  High: 55 °F  
-        2        Rain andBreezy   Low: 40 °F  
-        3         ShowersLikely  High: 51 °F  
-        4         ChanceShowers   Low: 38 °F  
-        5         ChanceShowers  High: 53 °F  
-        6  Slight ChanceShowers   Low: 37 °F  
-        7  Slight ChanceShowers  High: 54 °F  
-        8  Slight ChanceShowers   Low: 40 °F  
+{\color{outcolor}Out[{\color{outcolor}20}]:}                                                 desc          period  \textbackslash{}
+         0  Tonight: Increasing clouds, with a low around {\ldots}         Tonight   
+         1  Tuesday: Rain, mainly after 11am.  High near 5{\ldots}         Tuesday   
+         2  Tuesday Night: Rain.  Low around 40. Breezy, w{\ldots}    TuesdayNight   
+         3  Wednesday: Showers likely.  Mostly cloudy, wit{\ldots}       Wednesday   
+         4  Wednesday Night: A 30 percent chance of shower{\ldots}  WednesdayNight   
+         5  Thursday: A 30 percent chance of showers.  Mos{\ldots}        Thursday   
+         6  Thursday Night: A 20 percent chance of showers{\ldots}   ThursdayNight   
+         7  Friday: A slight chance of showers.  Partly su{\ldots}          Friday   
+         8  Friday Night: A slight chance of showers.  Mos{\ldots}     FridayNight   
+         
+                      short\_desc         temp  
+         0      IncreasingClouds   Low: 50 °F  
+         1        Rain andBreezy  High: 55 °F  
+         2        Rain andBreezy   Low: 40 °F  
+         3         ShowersLikely  High: 51 °F  
+         4         ChanceShowers   Low: 38 °F  
+         5         ChanceShowers  High: 53 °F  
+         6  Slight ChanceShowers   Low: 37 °F  
+         7  Slight ChanceShowers  High: 54 °F  
+         8  Slight ChanceShowers   Low: 40 °F  
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}8}]:} \PY{c+c1}{\PYZsh{} Data cleaning}
-        \PY{n}{temp\PYZus{}nums} \PY{o}{=} \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{o}{.}\PY{n}{str}\PY{o}{.}\PY{n}{extract}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{(?P\PYZlt{}temp\PYZus{}num\PYZgt{}}\PY{l+s+s2}{\PYZbs{}}\PY{l+s+s2}{d+)}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{expand}\PY{o}{=}\PY{k+kc}{False}\PY{p}{)}
-        \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp\PYZus{}num}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]} \PY{o}{=} \PY{n}{temp\PYZus{}nums}\PY{o}{.}\PY{n}{astype}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{int}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
-        \PY{n}{temp\PYZus{}nums}
+{\color{incolor}In [{\color{incolor}21}]:} \PY{c+c1}{\PYZsh{} Data cleaning}
+         \PY{n}{temp\PYZus{}nums} \PY{o}{=} \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{o}{.}\PY{n}{str}\PY{o}{.}\PY{n}{extract}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{(?P\PYZlt{}temp\PYZus{}num\PYZgt{}}\PY{l+s+s2}{\PYZbs{}}\PY{l+s+s2}{d+)}\PY{l+s+s2}{\PYZdq{}}\PY{p}{,} \PY{n}{expand}\PY{o}{=}\PY{k+kc}{False}\PY{p}{)}
+         \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp\PYZus{}num}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]} \PY{o}{=} \PY{n}{temp\PYZus{}nums}\PY{o}{.}\PY{n}{astype}\PY{p}{(}\PY{l+s+s1}{\PYZsq{}}\PY{l+s+s1}{int}\PY{l+s+s1}{\PYZsq{}}\PY{p}{)}
+         \PY{n}{temp\PYZus{}nums}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}8}]:} 0    50
-        1    55
-        2    40
-        3    51
-        4    38
-        5    53
-        6    37
-        7    54
-        8    40
-        Name: temp\_num, dtype: object
+{\color{outcolor}Out[{\color{outcolor}21}]:} 0    50
+         1    55
+         2    40
+         3    51
+         4    38
+         5    53
+         6    37
+         7    54
+         8    40
+         Name: temp\_num, dtype: object
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}9}]:} \PY{c+c1}{\PYZsh{} Data filter}
-        \PY{n}{is\PYZus{}night} \PY{o}{=} \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{o}{.}\PY{n}{str}\PY{o}{.}\PY{n}{contains}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Low}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
-        \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{is\PYZus{}night}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]} \PY{o}{=} \PY{n}{is\PYZus{}night}
-        \PY{n}{is\PYZus{}night}
+{\color{incolor}In [{\color{incolor}22}]:} \PY{c+c1}{\PYZsh{} Data filter}
+         \PY{n}{is\PYZus{}night} \PY{o}{=} \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{temp}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]}\PY{o}{.}\PY{n}{str}\PY{o}{.}\PY{n}{contains}\PY{p}{(}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{Low}\PY{l+s+s2}{\PYZdq{}}\PY{p}{)}
+         \PY{n}{weather}\PY{p}{[}\PY{l+s+s2}{\PYZdq{}}\PY{l+s+s2}{is\PYZus{}night}\PY{l+s+s2}{\PYZdq{}}\PY{p}{]} \PY{o}{=} \PY{n}{is\PYZus{}night}
+         \PY{n}{is\PYZus{}night}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}9}]:} 0     True
-        1    False
-        2     True
-        3    False
-        4     True
-        5    False
-        6     True
-        7    False
-        8     True
-        Name: temp, dtype: bool
+{\color{outcolor}Out[{\color{outcolor}22}]:} 0     True
+         1    False
+         2     True
+         3    False
+         4     True
+         5    False
+         6     True
+         7    False
+         8     True
+         Name: temp, dtype: bool
 \end{Verbatim}
             
     \begin{Verbatim}[commandchars=\\\{\}]
-{\color{incolor}In [{\color{incolor}10}]:} \PY{n}{weather}\PY{p}{[}\PY{n}{is\PYZus{}night}\PY{p}{]}
+{\color{incolor}In [{\color{incolor}23}]:} \PY{n}{weather}\PY{p}{[}\PY{n}{is\PYZus{}night}\PY{p}{]}
 \end{Verbatim}
 
 
 \begin{Verbatim}[commandchars=\\\{\}]
-{\color{outcolor}Out[{\color{outcolor}10}]:}                                                 desc          period  \textbackslash{}
+{\color{outcolor}Out[{\color{outcolor}23}]:}                                                 desc          period  \textbackslash{}
          0  Tonight: Increasing clouds, with a low around {\ldots}         Tonight   
          2  Tuesday Night: Rain.  Low around 40. Breezy, w{\ldots}    TuesdayNight   
          4  Wednesday Night: A 30 percent chance of shower{\ldots}  WednesdayNight   
