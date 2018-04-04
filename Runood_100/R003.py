@@ -7,11 +7,15 @@
 
 import math
 
-for i in range(10000):
-    x = int(math.sqrt(i + 100))
-    y = int(math.sqrt(i + 268))
+# for i in range(1000):
+#     x = int(math.sqrt(i + 100))
+#     y = int(math.sqrt(i + 268))
+#
+#     if (x ** 2 == i + 100) and (y ** 2 == i + 268):
+#         print(i)
+#         print('add 100\'s  square root: ' + str(x))
+#         print('add 268\'s  square root: ' + str(y))
 
-    if (x ** 2 == i + 100) and (y * y == i+268):
-        print(x, y)
+for i in range(1000):
+    if math.sqrt(i + 100).is_integer() and math.sqrt(i + 268).is_integer():
         print(i)
-

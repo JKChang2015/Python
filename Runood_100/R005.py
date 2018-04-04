@@ -4,6 +4,6 @@
 # Tag: number ranking
 # Description: ranking three input integers
 
-l = [int(x) for x in input('pls input three integer: ').split(' ')]
+l = [int(x) for x in input('pls input three integers: ').split(' ')]
 l.sort()
 print(l)
