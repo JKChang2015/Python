@@ -4,10 +4,14 @@
 # Tag: time date
 # Description: print current time
 
-import time
+# import time
+#
+# print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+#
+# time.sleep(1)
+#
+# print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
 
-print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+import datetime
 
-time.sleep(1)
-
-print(time.strftime('%Y-%m-%d %H:%M:%S', time.localtime(time.time())))
+print(datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S'))

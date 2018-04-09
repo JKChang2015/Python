@@ -8,9 +8,11 @@
 
 for n in range(100, 1000):
     # 找到一个数的百位／十位 和 个位
-    i = n / 100
-    j = n / 10 % 10
-    k = n % 10
+    # i = n // 100
+    #     # j = n // 10 % 10
+    #     # k = n % 10
 
-    if n == i ** 3 + j ** 3 + k ** 3:
+    digit = [int(x) for x in str(n)]
+
+    if n == sum([x ** 3 for x in digit]):
         print(n)

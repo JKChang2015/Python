@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Checkio/.idea/Checkio.iml" filepath="$PROJECT_DIR$/../Checkio/.idea/Checkio.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Machine_Learning/.idea/Machine_Learning.iml" filepath="$PROJECT_DIR$/../Machine_Learning/.idea/Machine_Learning.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../OMTD/OMTDp/.idea/OMTDp.iml" filepath="$PROJECT_DIR$/../OMTD/OMTDp/.idea/OMTDp.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Python.iml" filepath="$PROJECT_DIR$/.idea/Python.iml" />
-      <module fileurl="file://$PROJECT_DIR$/../CCI/Python_solution/.idea/Python_solution.iml" filepath="$PROJECT_DIR$/../CCI/Python_solution/.idea/Python_solution.iml" />
     </modules>
   </component>
 </project>

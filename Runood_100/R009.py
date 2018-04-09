@@ -6,14 +6,23 @@
 
 import time
 
-flu = {1: 'a', 2: 'b'}
-
-# loop for the dict
-for key, value in dict.items(flu):
-    print(key, value)
-    time.sleep(1)
-
 # backwards
-for i in range(10, 0, -1):
-    print(i)
-    time.sleep(1)
+# for i in range(10, 0, -1):
+#     print(i)
+#     time.sleep(1)
+
+
+# ---------Better -----------
+
+import time
+
+def countdown(t):
+    while t:
+        mins, secs = divmod(t, 60)
+        timeformat = '{:02d}:{:02d}'.format(mins, secs)
+        print(timeformat)
+        time.sleep(1)
+        t -= 1
+    print('Goodbye!\n\n\n\n\n')
+
+countdown(20)

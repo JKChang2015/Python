@@ -5,8 +5,7 @@
     <orderEntry type="jdk" jdkName="Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6)" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="Machine_Learning" />
-    <orderEntry type="module" module-name="Python_solution" />
-    <orderEntry type="module" module-name="OMTDp" />
+    <orderEntry type="module" module-name="Checkio" />
   </component>
   <component name="TestRunnerService">
     <option name="PROJECT_TEST_RUNNER" value="Unittests" />
