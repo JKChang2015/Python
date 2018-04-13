@@ -9,7 +9,7 @@
 #     for j in range(1, 5):
 #         for k in range(1, 5):
 #             if (i != j) and (i != k) and (j != k):
-#                 print int(i) * 100 + int(j) * 10 + int(k)
+#                 print (int(i) * 100 + int(j) * 10 + int(k))
 
 import itertools
 
