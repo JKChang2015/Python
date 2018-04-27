@@ -7,6 +7,7 @@
 
 class Restaurant():
     ''''a class of restaurant'''
+    name = 'wulala'
 
     def __init__(self, name, type):
         self.restaurant_name = name
@@ -25,10 +26,14 @@ class Restaurant():
     def increment_number_served(self, num):
         self.number_served += num
 
+# print(Restaurant.name)
+
 
 r1 = Restaurant('Hola', "Chinese food")
 r2 = Restaurant('Soho', "USA burger")
 r3 = Restaurant('Soul plaza', "Korea food")
+
+print(r1.__class__.name)
 
 r1.describe_restaurant()
 r2.describe_restaurant()
@@ -43,6 +48,8 @@ print('----------------')
 
 
 class Car():
+    wheels = 4
+
 
     def __init__(self, make, model, year):
         self.make = make
@@ -71,6 +78,7 @@ class Car():
 
 
 class ElectricCar(Car):
+
     def __init__(self, make, model, year, power):
         super().__init__(make, model, year)
         self.power = power
@@ -85,6 +93,7 @@ class ElectricCar(Car):
 
 t1 = ElectricCar(year=2016, model='X', make='Tesla', power=1999)
 print(t1.get_description())
+print(t1.wheels)
 t1.gas_tank()
 
 # --------------------------------------------------
