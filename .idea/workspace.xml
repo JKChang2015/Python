@@ -3,6 +3,11 @@
   <component name="ChangeListManager">
     <list default="true" id="ba853475-05dd-40e9-a612-8c8e798bd76e" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/White House press briefings.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/White House press briefings.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/0.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/0.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/1.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/2.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/3.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/4.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Machine_Learning/Web Spyder/White House press briefings/index-pages/4.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/DataAnalysis/web_scraper.py" beforeDir="false" afterPath="$PROJECT_DIR$/DataAnalysis/web_scraper.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -336,10 +341,10 @@
       <file leaf-file-name="web_scraper.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+            <state relative-caret-position="87">
+              <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               <folding>
-                <element signature="e#164#179#0" expanded="true" />
+                <element signature="e#196#211#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -460,9 +465,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
+    <option name="x" value="960" />
     <option name="y" value="23" />
-    <option name="width" value="1600" />
+    <option name="width" value="960" />
     <option name="height" value="1015" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -1136,16 +1142,15 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2560" height="1374" extended-state="6" />
-    <editor active="true" />
+    <frame x="960" y="23" width="960" height="1015" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.5063543" side_tool="true" weight="0.31323415" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" visible="true" weight="0.15348473" />
+      <window_info anchor="right" x="21" y="520" width="2518" height="382" id="Run" order="8" sideWeight="0.4699714" weight="1.0" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32786885" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.576251" weight="0.23747277" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5302391" weight="0.12527233" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5302391" weight="0.12451057" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569303" weight="0.26091588" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.495671" weight="0.32960597" />
@@ -1555,10 +1560,10 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+        <state relative-caret-position="87">
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           <folding>
-            <element signature="e#164#179#0" expanded="true" />
+            <element signature="e#196#211#0" expanded="true" />
           </folding>
         </state>
       </provider>
