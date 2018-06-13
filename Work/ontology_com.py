@@ -4,7 +4,18 @@
 # Tag:
 # Description: extract list of ontologies from the OLS
 
-class ontology(object):
+import requests
+from bs4 import BeautifulSoup
+
+url = 'https://www.ebi.ac.uk/ols/ontologies'
+page = requests.get(url)
+soup = BeautifulSoup(page.content, 'html.parser')
+
+tbody = soup.findAll('tbody')
+ontos = tbody[0].findAll('tr')
+
+
+class Ontology(object):
     def __init__(self, name, fullname, url, description):
         self.name = name
         self.fullname = fullname
@@ -12,32 +23,44 @@ class ontology(object):
         self.description = description
 
 
-import re
-import urllib.error
-import urllib.parse
-import urllib.request
+res = []
 
-import requests
-from bs4 import BeautifulSoup
-from stripogram import html2text
+for onto in ontos:
+    # full name
+    try:
+        name = onto.findAll('a')[0].text
+    except:
+        name = onto.findAll('span')[0].text
 
-url = 'https://bioportal.bioontology.org/ontologies'
+    # abbreviation
+    abb = onto.findAll('span', {"class": "ontology-source"})[0].text
 
-hdr = {
-    'User-Agent': 'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.11 (KHTML, like Gecko) Chrome/23.0.1271.64 Safari/537.11',
-    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8',
-    'Accept-Charset': 'ISO-8859-1,utf-8;q=0.7,*;q=0.3',
-    'Accept-Encoding': 'none',
-    'Accept-Language': 'en-US,en;q=0.8',
-    'Connection': 'keep-alive'}
+    # url
+    path = 'https://www.ebi.ac.uk/'
+    try:
+        url = onto.findAll('a')[0].attrs['href']
+    except:
+        url = ''
 
-req = urllib2.Request(url, headers=hdr)
+    # description
+    des = onto.findAll('td')[2].text
 
-try:
-    page = urllib2.urlopen(req)
-except e:
-    print(e.fp.read())
+    a = Ontology(name=abb, fullname=name, url=url, description=des)
+    res.append(a)
 
-print(type(page))
+meta = []
+with open('./Desktop/ols.csv')as f:
+    lines = f.readlines()
+    for line in lines:
+        meta.append(line.strip())
+
+ols = []
+for onto in res:
+    ols.append(onto.name)
 
 
+def intersection(lst1, lst2):
+    return list(set(lst1) & set(lst2))
+
+
+print(sorted(intersection(ols, meta)))
