@@ -1,7 +1,0 @@
-Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
-MTBLS428	" ""MilliQ_Jan2014"""	blank			water	CHEBI	http://purl.obolibrary.org/obo/CHEBI_15377
-MTBLS428	" ""Seawater_Jan2014"""	sea water	ENVO	http://purl.obolibrary.org/obo/ENVO_00002149	exometabolome		
-MTBLS428	" ""CrabSpa_Jan2014"""	sea water	ENVO	http://purl.obolibrary.org/obo/ENVO_00002149	exometabolome		
-MTBLS428	" ""CrabSpa_Nov2014"""	sea water	ENVO	http://purl.obolibrary.org/obo/ENVO_00002149	exometabolome		
-MTBLS428	" ""Bio9_Jan2014"""	sea water	ENVO	http://purl.obolibrary.org/obo/ENVO_00002149	exometabolome		
-MTBLS428	" ""Bio9_Nov2014"""	sea water	ENVO	http://purl.obolibrary.org/obo/ENVO_00002149	exometabolome		

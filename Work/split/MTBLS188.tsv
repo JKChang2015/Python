@@ -1,8 +1,0 @@
-Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
-MTBLS188	" ""Blank"""	blank			blank		
-MTBLS188	" ""Leaf"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rosette leaf	BTO	http://purl.obolibrary.org/obo/BTO_0003086
-MTBLS188	" ""Leaf_MM48_1uM"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rosette leaf	BTO	http://purl.obolibrary.org/obo/BTO_0003086
-MTBLS188	" ""Leaf_MM48_200nM"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rosette leaf	BTO	http://purl.obolibrary.org/obo/BTO_0003086
-MTBLS188	" ""Leaf_MM48_20uM"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rosette leaf	BTO	http://purl.obolibrary.org/obo/BTO_0003086
-MTBLS188	" ""Leaf_MM48_5uM"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rosette leaf	BTO	http://purl.obolibrary.org/obo/BTO_0003086
-MTBLS188	" ""MM48_20uM"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
