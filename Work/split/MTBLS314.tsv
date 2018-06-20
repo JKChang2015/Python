@@ -1,0 +1,61 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS314	" ""3m_ppar 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""3m_ppar 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""3m_ppar 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""3m_ppar 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""3m_ppar 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""3m_svev 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""3m_svev 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""3m_svev 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""3m_svev 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""3m_svev 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""5m_ppar 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""5m_ppar 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""5m_ppar 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""5m_ppar 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""5m_ppar 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""5m_svev 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""5m_svev 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""5m_svev 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""5m_svev 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""5m_svev 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""7m_ppar 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""7m_ppar 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""7m_ppar 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""7m_ppar 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""7m_ppar 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""7m_svev 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""7m_svev 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""7m_svev 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""7m_svev 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""7m_svev 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""9m_ppar 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""9m_ppar 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""9m_ppar 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""9m_ppar 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""9m_ppar 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""9m_svev 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""9m_svev 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""9m_svev 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""9m_svev 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""9m_svev 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""11m_ppar 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""11m_ppar 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""11m_ppar 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""11m_ppar 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""11m_ppar 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""11m_svev 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""11m_svev 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""11m_svev 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""11m_svev 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""11m_svev 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""13m_ppar 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""13m_ppar 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""13m_ppar 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""13m_ppar 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""13m_ppar 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv PPAR-alpha(-/-)		
+MTBLS314	" ""13m_svev 1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""13m_svev 2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""13m_svev 3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""13m_svev 4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		
+MTBLS314	" ""13m_svev 5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. 129/SvEv		

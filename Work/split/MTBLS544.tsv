@@ -1,0 +1,247 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS544	" ""10A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10E_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10E_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""10H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""10H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""13H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""13H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14A_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14A_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14D_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14D_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14G_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14G_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""14H_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""14H_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""15H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""15H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""16H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""16H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""19H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""19H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""1H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""1H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20D_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20D_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20G_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20G_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""20H_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""20H_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21F_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21F_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""21H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""21H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22E_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22E_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""22H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""22H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2A_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2A_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2G_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2G_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""2H_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""2H_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3F_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3F_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""3H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""3H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4A_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4B_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4C_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4D_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4E_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4E_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4F_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4G_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""4H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""4H_Pla_lan"""	Plantago lanceolata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/39414	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7A_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7B_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7C_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7D_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7E_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7F_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7G_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""7H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""7H_Cen_jac"""	Centaurea jacea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/351340	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""8A_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""8A_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""8B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""8B_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""8C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""8C_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""8D_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""8D_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""8E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""8E_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""8F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""8F_Kna_arv"""	Knautia arvensis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105271	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9A_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9B_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9C_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9D_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9E_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9F_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9F_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9G_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""9H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	shoot system	PO	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS544	" ""9H_Leu_vul"""	Leucanthemum vulgare	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/99072	root	PO	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS544	" ""1"""	Plant			aboveground		

@@ -1,0 +1,44 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS230	" ""HCT116 DMEM 1 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 1 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 1 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Glc """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Glc """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Glc """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 DMEM Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 1 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 1 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 1 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Glc 5 mM Lac"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Glc """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Glc """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Glc """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Lac """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Lac """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys 5 mM Lac """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""HCT116 McCoys Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""1 mM Glc 5 mM Lac Media incubated"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""5 mM Glc 5 mM Lac Media incubated"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""5 mM Glc  Media incubated"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""5 mM Lac  Media incubated"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""Neg  Media incubated"""	Negative Media			mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS230	" ""1 mM Glc 5 mM Lac Media """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""5 mM Glc 5 mM Lac Media"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""5 mM Glc  Media"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""5 mM Lac  Media """	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HCT-116 cell	BTO	http://purl.obolibrary.org/obo/BTO_0001109
+MTBLS230	" ""Neg  Media """	Negative Media			mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS230	" ""McCoys"""	McCoys Media			mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS230	" ""conditioned DMEM"""	conditioned DMEM Media			mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS230	" ""Buffer"""	Buffer			mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004

@@ -1,0 +1,6 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS397	" ""Standard mix1"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS397	" ""Mouse liver1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS397	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Variant]	Term Source REF	Term Accession Number
+MTBLS397	" ""Standard mix1"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			
+MTBLS397	" ""Mouse liver1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Abhd5<tm1Rze>		

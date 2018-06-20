@@ -1,0 +1,37 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS328	" ""PS_caco2_anerococult_P_79_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_anerococult_P_79_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_anerococult_P_91_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_anerococult_P_91_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_caco2_anerococult_P_108_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_caco2_anerococult_P_108_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_56_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_56_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_87_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_87_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_88_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_88_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Caco2_P_13_Coculture_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Caco2_P_13_Coculture_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Caco2_P_14_Coculture_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Caco2_P_14_Coculture_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Caco2_P_15_Coculture_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Caco2_P_15_Coculture_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_56_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_56_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_87_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_87_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_88_1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""PS_caco2_aneroctrl_P_88_2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606			
+MTBLS328	" ""KG_Bac_P_5_anaeroLGG_1"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""KG_Bac_P_5_anaeroLGG_2"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""KG_Bac_P_6_anaeroLGG_1"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""KG_Bac_P_6_anaeroLGG_2"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""KG_Bac_P_7_anaeroLGG_1"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""KG_Bac_P_7_anaeroLGG_2"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""PS_LGG_P_79_1"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""PS_LGG_P_79_2"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""PS_LGG_P_83_1"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""PS_LGG_P_83_2"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""PS_LGG_P_91_1"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703
+MTBLS328	" ""PS_LGG_P_91_2"""	Lactobacillus rhamnosus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/47715	Lactobacillus rhamnosus GG	EFO	http://purl.obolibrary.org/obo/NCBITaxon_568703

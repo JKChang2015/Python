@@ -1,0 +1,5 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS313	" ""mouse"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS313	" ""mouse"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS313	" ""rat"""	Rattus rattus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10117			
+MTBLS313	" ""rat"""	Rattus rattus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10117			

@@ -1,0 +1,94 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS432	" ""QC__30min_pos-neg_18"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_24"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_30"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_36"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_42"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_48"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_54"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_60"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_66"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_72"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_78"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_84"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_90"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_96"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_102"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""QC__30min_pos-neg_107"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse;Mus musculus str. Mdr1a-/-;Mus musculus str. Mdr1a+/-	NCIT	
+MTBLS432	" ""6-wk_HZ_CC_male_1_63__30min_pos-neg_26"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ_CC_male_3_64__30min_pos-neg_76"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ_CC_male_12_65__30min_pos-neg_43"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ_CC_male_20_66__30min_pos-neg_22"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ_CC_male_30_71__30min_pos-neg_63"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ_CC_male_34_73__30min_pos-neg_39"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ_CC_male_37_74__30min_pos-neg_100"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_HZ_CC_male_44_76__30min_pos-neg_31"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ___male_26_68__30min_pos-neg_73"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ___male_27_69__30min_pos-neg_82"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ___male_28_70__30min_pos-neg_23"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_HZ___male_33_72__30min_pos-neg_58"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_KO_CC_male_5_25__30min_pos-neg_94"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_CC_male_10_26__30min_pos-neg_91"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_CC_male_13_27__30min_pos-neg_13"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_CC_male_21_29__30min_pos-neg_33"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_CC_male_35_30__30min_pos-neg_20"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_CC_male_38_32__30min_pos-neg_62"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""6-wk_KO_CC_male_395_13__30min_pos-neg_56"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_354_1__30min_pos-neg_27"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_361_6__30min_pos-neg_47"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_369_8__30min_pos-neg_71"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_395_12__30min_pos-neg_97"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_398_14__30min_pos-neg_67"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_401_16__30min_pos-neg_40"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_476_17__30min_pos-neg_99"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_510_18__30min_pos-neg_104"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_519_20__30min_pos-neg_21"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_KO_IB_male_535_79__30min_pos-neg_59"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""6-wk_WT_CC_male_2_23__30min_pos-neg_64"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_4_24__30min_pos-neg_69"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_19_28__30min_pos-neg_17"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_36_31__30min_pos-neg_103"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_45_77__30min_pos-neg_92"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_355_2__30min_pos-neg_37"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_356_3__30min_pos-neg_57"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_373_9__30min_pos-neg_34"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_374_10__30min_pos-neg_52"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_CC_male_375_11__30min_pos-neg_53"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_359_4__30min_pos-neg_35"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_360_5__30min_pos-neg_44"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_362_7__30min_pos-neg_86"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_399_15__30min_pos-neg_46"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_512_19__30min_pos-neg_81"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_520_21__30min_pos-neg_65"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_521_22__30min_pos-neg_74"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""6-wk_WT_IB_male_533_78__30min_pos-neg_16"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_HZ_IB_male_165_61__30min_pos-neg_87"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a+/-		
+MTBLS432	" ""18-wk_KO_CC_male_10_54__30min_pos-neg_15"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_CC_male_13_56__30min_pos-neg_101"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_CC_male_108_55__30min_pos-neg_50"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_CC_male_115_53__30min_pos-neg_51"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_CC_male_206_48__30min_pos-neg_68"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_363_57__30min_pos-neg_88"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_388_34__30min_pos-neg_89"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_389_35__30min_pos-neg_28"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_412_36__30min_pos-neg_106"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_437_40__30min_pos-neg_70"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_446_41__30min_pos-neg_85"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_KO_IB_male_463_45__30min_pos-neg_95"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Mdr1a-/-		
+MTBLS432	" ""18-wk_WT_CC_male_205_47__30min_pos-neg_75"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_CC_male_413_37__30min_pos-neg_38"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_CC_male_465_46__30min_pos-neg_77"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_164_60__30min_pos-neg_14"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_246_49__30min_pos-neg_32"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_249_50__30min_pos-neg_93"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_250_51__30min_pos-neg_83"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_251_52__30min_pos-neg_29"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_364_58__30min_pos-neg_49"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_365_59__30min_pos-neg_61"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_387_33__30min_pos-neg_25"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_413_38__30min_pos-neg_55"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_435_39__30min_pos-neg_80"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_449_42__30min_pos-neg_79"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_460_43__30min_pos-neg_19"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT_IB_male_462_44__30min_pos-neg_45"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406
+MTBLS432	" ""18-wk_WT___male_365_62__30min_pos-neg_41"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	FVB Mouse	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37406

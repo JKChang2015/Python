@@ -1,0 +1,58 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS412	" ""Pellet_N_r_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_N_r_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_N_r_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_H_r_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_H_r_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_H_r_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_nat cold r_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_N_G_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_N_G_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_N_G_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_H_G_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_H_G_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Pellet_H_G_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""commercial cold_Glyc_r1"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	glycogen	CHEBI	http://purl.obolibrary.org/obo/CHEBI_28087
+MTBLS412	" ""Medium_N_L_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_N_L_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_N_L_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_H_L_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_H_L_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_H_L_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_nat cold L_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_N_Gl_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_N_Gl_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_N_Gl_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_H_Gl_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_H_Gl_r2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_H_Gl_r3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	" ""Medium_nat cold Gl_r1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	HUVEC cell	BTO	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS412	 Source Name	Characteristics[material type]	Term Source REF	Term Accession Number	Characteristics[chemical compound]	Term Source REF	Term Accession Number
+MTBLS412	 Pellet_N_r_r1	biological sample			not applicable		
+MTBLS412	 Pellet_N_r_r2	biological sample			not applicable		
+MTBLS412	 Pellet_N_r_r3	biological sample			not applicable		
+MTBLS412	 Pellet_H_r_r1	biological sample			not applicable		
+MTBLS412	 Pellet_H_r_r2	biological sample			not applicable		
+MTBLS412	 Pellet_H_r_r3	biological sample			not applicable		
+MTBLS412	 Pellet_nat cold r_r1	biological sample			not applicable		
+MTBLS412	 Pellet_N_G_r1	biological sample			not applicable		
+MTBLS412	 Pellet_N_G_r2	biological sample			not applicable		
+MTBLS412	 Pellet_N_G_r3	biological sample			not applicable		
+MTBLS412	 Pellet_H_G_r1	biological sample			not applicable		
+MTBLS412	 Pellet_H_G_r2	biological sample			not applicable		
+MTBLS412	 Pellet_H_G_r3	biological sample			not applicable		
+MTBLS412	 commercial cold_Glyc_r1	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	glycogen	CHEBI	http://purl.obolibrary.org/obo/CHEBI_28087
+MTBLS412	 Medium_N_L_r1	biological sample			not applicable		
+MTBLS412	 Medium_N_L_r2	biological sample			not applicable		
+MTBLS412	 Medium_N_L_r3	biological sample			not applicable		
+MTBLS412	 Medium_H_L_r1	biological sample			not applicable		
+MTBLS412	 Medium_H_L_r2	biological sample			not applicable		
+MTBLS412	 Medium_H_L_r3	biological sample			not applicable		
+MTBLS412	 Medium_nat cold L_r1	biological sample			not applicable		
+MTBLS412	 Medium_N_Gl_r1	biological sample			not applicable		
+MTBLS412	 Medium_N_Gl_r2	biological sample			not applicable		
+MTBLS412	 Medium_N_Gl_r3	biological sample			not applicable		
+MTBLS412	 Medium_H_Gl_r1	biological sample			not applicable		
+MTBLS412	 Medium_H_Gl_r2	biological sample			not applicable		
+MTBLS412	 Medium_H_Gl_r3	biological sample			not applicable		
+MTBLS412	 Medium_nat cold Gl_r1	biological sample			not applicable		

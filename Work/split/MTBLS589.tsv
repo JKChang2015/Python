@@ -1,0 +1,2 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS589	" ""C57BL/6 control mouse"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759

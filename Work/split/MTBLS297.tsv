@@ -1,0 +1,13 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS297	" ""LA1777 LVS01"""	Solanum habrochaites	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/62890	leaf	PO	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS297	" ""LA1777 LVS02"""	Solanum habrochaites	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/62890	leaf	PO	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS297	" ""LA1777 LVS03"""	Solanum habrochaites	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/62890	leaf	PO	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS297	" ""LA1777 TRI01"""	Solanum habrochaites	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/62890	glandular trichome	PO	http://purl.obolibrary.org/obo/PO_0004509
+MTBLS297	" ""LA1777 TRI02"""	Solanum habrochaites	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/62890	glandular trichome	PO	http://purl.obolibrary.org/obo/PO_0004509
+MTBLS297	" ""LA1777 TRI03"""	Solanum habrochaites	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/62890	glandular trichome	PO	http://purl.obolibrary.org/obo/PO_0004509
+MTBLS297	" ""LA4024 LVS01"""	Solanum lycopersicum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4081	leaf	PO	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS297	" ""LA4024 LVS02"""	Solanum lycopersicum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4081	leaf	PO	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS297	" ""LA4024 LVS03"""	Solanum lycopersicum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4081	leaf	PO	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS297	" ""LA4024 TRI01"""	Solanum lycopersicum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4081	glandular trichome	PO	http://purl.obolibrary.org/obo/PO_0004509
+MTBLS297	" ""LA4024 TRI02"""	Solanum lycopersicum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4081	glandular trichome	PO	http://purl.obolibrary.org/obo/PO_0004509
+MTBLS297	" ""LA4024 TRI03"""	Solanum lycopersicum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4081	glandular trichome	PO	http://purl.obolibrary.org/obo/PO_0004509

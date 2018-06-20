@@ -1,0 +1,375 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS374	" ""28"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""29"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""30"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""31"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""32"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""33"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""34"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""37"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""38"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""39"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""40"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""41"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""42"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""43"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""44"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""45"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""46"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""47"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""48"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""49"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""50"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""51"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""52"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""53"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""54"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""55"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""56"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""57"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""58"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""59"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""60"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""61"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""62"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""63"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""64"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""65"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""66"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""95"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""96"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""97"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""98"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""99"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""100"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""101"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""102"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""103"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""104"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""105"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""106"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""107"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""108"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""109"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""110"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""111"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""112"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""113"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""114"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""115"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""116"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""117"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""118"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""119"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""120"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68751
+MTBLS374	" ""122"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""123"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""124"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""125"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""126"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""127"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""128"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""129"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""130"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""131"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""132"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""133"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""134"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""135"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""136"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""137"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""138"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""139"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""140"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""141"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""142"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""143"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""144"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""145"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""146"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""147"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""148"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""149"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""150"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""151"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""152"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""153"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""154"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""155"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""156"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""157"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""158"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""159"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""160"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""161"""	female	EFO	http://purl.obolibrary.org/obo/PATO_0000383	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""162"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""163"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""164"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""165"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""166"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""167"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""168"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""169"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""170"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""171"""	male	EFO	http://purl.obolibrary.org/obo/PATO_0000384	Never Smoker	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C65108
+MTBLS374	" ""172"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""173"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""174"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""175"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""176"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""177"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""178"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""179"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""180"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""181"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""182"""	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	Quality Control	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS374	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS374	" ""28"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""29"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""30"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""31"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""32"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""33"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""34"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""37"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""38"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""39"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""40"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""41"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""42"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""43"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""44"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""45"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""46"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""47"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""48"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""49"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""50"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""51"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""52"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""53"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""54"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""55"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""56"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""57"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""58"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""59"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""60"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""61"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""62"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""63"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""64"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""65"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""66"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""95"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""96"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""97"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""98"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""99"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""100"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""102"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""103"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""104"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""105"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""106"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""107"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""108"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""109"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""110"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""111"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""112"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""113"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""114"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""115"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""116"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""117"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""118"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""119"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""120"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""122"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""123"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""124"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""125"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""126"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""127"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""128"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""129"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""130"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""131"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""132"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""133"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""134"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""135"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""136"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""137"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""138"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""139"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""140"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""141"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""142"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""143"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""144"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""145"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""146"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""147"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""148"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""149"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""150"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""151"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""152"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""153"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""154"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""155"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""156"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""157"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""158"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""159"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""160"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""161"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""162"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""163"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""164"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""165"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""166"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""167"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""168"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""169"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""170"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""171"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""172"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""173"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""174"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""175"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""176"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""177"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""178"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""179"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""180"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""181"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""182"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS374	" ""28"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""29"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""30"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""31"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""32"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""33"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""34"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""37"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""38"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""39"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""40"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""41"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""42"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""43"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""44"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""45"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""46"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""47"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""48"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""49"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""50"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""51"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""52"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""53"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""54"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""55"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""56"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""57"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""58"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""59"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""60"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""61"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""62"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""63"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""64"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""65"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""66"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""95"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""96"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""97"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""98"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""99"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""100"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""102"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""103"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""104"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""105"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""106"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""107"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""108"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""109"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""110"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""111"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""112"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""113"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""114"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""115"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""116"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""117"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""118"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""119"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""120"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""122"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""123"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""124"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""125"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""126"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""127"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""128"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""129"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""130"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""131"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""132"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""133"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""134"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""135"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""136"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""137"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""138"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""139"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""140"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""141"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""142"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""143"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""144"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""145"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""146"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""147"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""148"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""149"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""150"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""151"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""152"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""153"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""154"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""155"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""156"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""157"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""158"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""159"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""160"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""161"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""162"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""163"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""164"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""165"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""166"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""167"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""168"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""169"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""170"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""171"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""172"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""173"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""174"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""175"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""176"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""177"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""178"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""179"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""180"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""181"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133
+MTBLS374	" ""182"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood serum	BTO	http://purl.obolibrary.org/obo/BTO_0000133

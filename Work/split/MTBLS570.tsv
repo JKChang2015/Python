@@ -1,0 +1,48 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS570	" ""M0_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""M0_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""M0_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""M0_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""LPS_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""LPS_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""LPS_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""LPS_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_LPS_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_LPS_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_LPS_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""IFN_LPS_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""BLANK"""	blank					
+MTBLS570	" ""pool_7"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""pool_8"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""pool_9"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""pool_10"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""pool_11"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""Std_1"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			
+MTBLS570	" ""Std_2"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			
+MTBLS570	" ""Std_3"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			
+MTBLS570	" ""Frag_pos"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""Frag_neg"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2M0_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2M0_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2M0_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2M0_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2LPS_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2LPS_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2LPS_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2LPS_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_LPS_1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_LPS_2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_LPS_3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2OIC_LPS_4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6	EFO	http://www.ebi.ac.uk/efo/EFO_0004472
+MTBLS570	" ""2BLANK"""	blank					
+MTBLS570	" ""2Std_1"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			
+MTBLS570	" ""2Std_2"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			
+MTBLS570	" ""2Std_3"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092			

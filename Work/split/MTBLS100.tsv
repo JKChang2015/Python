@@ -1,0 +1,16 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS100	" ""S11b"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S12b"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S13"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S14"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S15"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S16"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-1a"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-2a"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-4"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-5"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-6"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-7"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-8"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-9"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202
+MTBLS100	" ""S-10"""	Homo sapiens	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_9606	saliva	BTO	http://purl.obolibrary.org/obo/BTO_0001202

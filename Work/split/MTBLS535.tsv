@@ -1,0 +1,34 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25524"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25525"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25526"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25527"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25528"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25529"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""ATCC 25530"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap4"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap5"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap6"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap7"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap8"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap9"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Wild type Australian strain Ap10"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Modified Frey’s broth (mycoplasma broth, MB) 		
+MTBLS535	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Variant]	Term Source REF	Term Accession Number
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""ATCC 25523"""	Mycoplasma bovis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/28903	Mycoplasma agalactiae subsp. bovis Hale et al. 		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		
+MTBLS535	" ""Wild type Australian strain Ap3AS"""	Mycoplasma gallisepticum	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/2096	Mycoplasma gallisepticum str. Ap3AS		

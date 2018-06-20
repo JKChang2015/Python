@@ -1,0 +1,10 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS396	" ""Mouse liver1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Left lobe of liver	FMA	http://purl.org/sig/ont/fma/fma15810
+MTBLS396	" ""Mouse liver2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Left lobe of liver	FMA	http://purl.org/sig/ont/fma/fma15810
+MTBLS396	" ""Mouse liver3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Left lobe of liver	FMA	http://purl.org/sig/ont/fma/fma15810
+MTBLS396	" ""Mouse liver1-3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Left lobe of liver	FMA	http://purl.org/sig/ont/fma/fma15810
+MTBLS396	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Variant]	Term Source REF	Term Accession Number
+MTBLS396	" ""Mouse liver1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Abhd5<tm1Rze>		
+MTBLS396	" ""Mouse liver2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Abhd5<tm1Rze>		
+MTBLS396	" ""Mouse liver3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Abhd5<tm1Rze>		
+MTBLS396	" ""Mouse liver1-3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mus musculus str. Abhd5<tm1Rze>		

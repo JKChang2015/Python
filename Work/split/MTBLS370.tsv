@@ -1,0 +1,60 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""PPP_Mix"""	Standard			Chemical		
+MTBLS370	" ""Staphylococcus aureus culture 3"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Staphylococcus aureus culture 2"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Culture Media 6"""	Culture Media	RH-MESH	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470	media	EFO	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS370	" ""QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""Sugar_Mix"""	Standard			Chemical		
+MTBLS370	" ""Culture Media 3"""	Culture Media	RH-MESH	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470	media	EFO	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS370	" ""Candida albicans culture 3"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Coculture Biofilm 6"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Staphylococcus aureus culture 6"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Coculture Biofilm 6"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Staphylococcus aureus culture 3"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 4"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Sugar_Phosphate_Mix"""	Standard			Chemical		
+MTBLS370	" ""Coculture Biofilm 3"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 1"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Coculture Biofilm 2"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 5"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Internal_standards"""	Internal Standard			Chemical		
+MTBLS370	" ""Culture Media 1"""	Culture Media	RH-MESH	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470	media	EFO	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS370	" ""Coculture Biofilm 1"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Staphylococcus aureus culture 1"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Culture Media 4"""	Culture Media	RH-MESH	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470	media	EFO	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS370	" ""Coculture Biofilm 3"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Candida albicans culture 3"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Staphylococcus aureus culture 6"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Culture Media 5"""	Culture Media	RH-MESH	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470	media	EFO	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS370	" ""QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""Culture Media 2"""	Culture Media	RH-MESH	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470	media	EFO	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS370	" ""Coculture Biofilm 4"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Candida albicans culture 6"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Candida albicans culture 4"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 2"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Staphylococcus aureus culture 5"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Coculture Biofilm 4"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""Staphylococcus aureus culture 5"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 1"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Candida albicans culture 5"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""Staphylococcus aureus culture 1"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Staphylococcus aureus culture 4"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Coculture Biofilm 5"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Coculture Biofilm 2"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Staphylococcus aureus culture 2"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Coculture Biofilm 1"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		culture supernatant	BTO	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS370	" ""Staphylococcus aureus culture 4"""	Staphylococcus aureus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/1280	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 2"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Coculture Biofilm 5"""	Staphylococcus aureus; NCBITAXON:Candida albicans	NCBITAXON		intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""Candida albicans culture 6"""	Candida albicans	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/5476	intracellular part	EFO	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448
+MTBLS370	" ""FBS_QC"""	Bos taurus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9913	fetal serum	BTO	http://purl.obolibrary.org/obo/BTO_0000448

@@ -1,0 +1,144 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS116	" ""Twn001_MA10"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn002_MA11"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn003_MA15"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn004_MA16"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn005_MA18"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn006_MA3"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn007_MA8"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn008_MA7"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn009_PD12"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn010_PD14"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn011_PD19"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn012_PD20"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn013_PD25"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn014_PD26"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn015_PD27"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn016_PD5"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn017_PL17"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn018_PL20"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn019_PL13"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn020_PL18"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn021_PL12"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn022_PL16"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn023_PL19"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn024_PL14"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn025_SH39"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn026_SH36"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn027_SH37"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn028_SH40"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn029_SH31"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn030_SH35"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn031_SH34"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn032_SH32"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Twn033_SH33"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC1"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC2"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC3"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC4"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC5"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC6"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC7"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC8"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC9"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC10"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC11"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC12"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC13"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC14"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC15"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC16"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC17"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC18"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC19"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Var_PC20"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_001"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_002"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_003"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_004"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_005"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_006"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_007"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_008"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_009"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_010"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_011"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_012"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_013"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_014"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_015"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_016"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_017"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""SPIK_018"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	whole organism	EFO	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS116	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS116	" ""Twn001_MA10"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn002_MA11"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn003_MA15"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn004_MA16"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn005_MA18"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn006_MA3"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn007_MA8"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn008_MA7"""	Montipora aequituberculata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/105609	endometabolome		
+MTBLS116	" ""Twn009_PD12"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn010_PD14"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn011_PD19"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn012_PD20"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn013_PD25"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn014_PD26"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn015_PD27"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn016_PD5"""	Pocillopora damicornis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46731	endometabolome		
+MTBLS116	" ""Twn017_PL17"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn018_PL20"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn019_PL13"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn020_PL18"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn021_PL12"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn022_PL16"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn023_PL19"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn024_PL14"""	Porites lobata	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/104759	endometabolome		
+MTBLS116	" ""Twn025_SH39"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn026_SH36"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn027_SH37"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn028_SH40"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn029_SH31"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn030_SH35"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn031_SH34"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn032_SH32"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Twn033_SH33"""	Seriatopora hystrix	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/51070	endometabolome		
+MTBLS116	" ""Var_PC1"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC2"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC3"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC4"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC5"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC6"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC7"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC8"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC9"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC10"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC11"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC12"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC13"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC14"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC15"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC16"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC17"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC18"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC19"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""Var_PC20"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_01"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_02"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_03"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_04"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_05"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_06"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_07"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_08"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_09"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_10"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_11"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_12"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_13"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_14"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_15"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_16"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_17"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		
+MTBLS116	" ""SPIK_18"""	Porites compressa	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/46720	endometabolome		

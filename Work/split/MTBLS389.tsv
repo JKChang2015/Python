@@ -1,0 +1,566 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS389	" ""100_timecourse2_tho1Ws_26_1-A,5_01_15252"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""101_timecourse2_tho1Ws_27_1-A,6_01_15253"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""102_timecourse2_tho1Ws_28_1-A,7_01_15254"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""103_timecourse2_tho1Ws_29_1-A,8_01_15255"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""104_timecourse2_tho1Ws_30_1-B,1_01_15257"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_1_1-E,4_01_10090"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_10_1-F,5_01_10099"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_11_1-F,6_01_10100"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_12_1-F,7_01_10101"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_13_1-F,8_01_10102"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_14_2-A,1_01_10103"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_15_2-A,2_01_10104"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_2_1-E,5_01_10091"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_3_1-E,6_01_10092"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_4_1-E,7_01_10093"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_5_1-E,8_01_10094"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_6_1-F,1_01_10095"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_7_1-F,2_01_10096"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_8_1-F,3_01_10097"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10 300uE_168h_9_1-F,4_01_10098"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_1_1-B,5_01_9964"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_10_1-C,6_01_9973"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_11_1-C,7_01_9974"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_12_1-C,8_01_9975"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_13_1-D,1_01_9976"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_14_1-D,2_01_9977"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_15_1-D,3_01_9978"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_2_1-B,6_01_9965"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_3_1-B,7_01_9966"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_4_1-B,8_01_9967"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_5_1-C,1_01_9968"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_6_1-C,2_01_9969"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_7_1-C,3_01_9970"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_8_1-C,4_01_9971"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""191B10_300uE_0h_9_1-C,5_01_9972"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""47_timecourse2_WSINRA_1_1-E,4_01_15183"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""48_timecourse2_WSINRA_2_1-E,5_01_15184"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""49_timecourse2_WSINRA_3c_1-E,6_01_15185"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""50_timecourse2_WSINRA_4c_1-E,7_01_15186"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""51_timecourse2_WSINRA_5c_1-E,8_01_15187"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""52_timecourse2_WSINRA_6c_1-F,1_01_15189"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""53_timecourse2_WSINRA_7_1-F,2_01_15190"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""54_timecourse2_WSINRA_8_1-F,3_01_15191"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""55_timecourse2_WSINRA_9_1-F,4_01_15192"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""56_timecourse2_WSINRA_10_1-F,5_01_15193"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""57_timecourse2_WSINRA_11_1-F,6_01_15194"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""58_timecourse2_WSINRA_12_1-F,7_01_15195"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""59_timecourse2_WSINRA_13_1-F,8_01_15196"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""60_timecourse2_WSINRA_14_2-A,1_01_15197"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""61_timecourse2_WsINRA_15_1-A,2_01_15205"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""62_timecourse2_WsINRA_16_1-A,3_01_15206"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""63_timecourse2_WsINRA_17_1-A,4_01_15207"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""64_timecourse2_WsINRA_18_1-A,5_01_15208"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""65_timecourse2_WsINRA_19_1-A,6_01_15209"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""66_timecourse2_WsINRA_20_1-A,7_01_15210"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""67_timecourse2_WsINRA_21_1-A,8_01_15211"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""68_timecourse2_WsINRA_22_1-B,1_01_15213"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""69_timecourse2_WsINRA_23_1-B,2_01_15214"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""70_timecourse2_WsINRA_24_1-B,3_01_15215"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""71_timecourse2_WsINRA_25_1-B,4_01_15216"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""72_timecourse2_WsINRA_26_1-B,5_01_15217"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""73_timecourse2_WsINRA_27_1-B,6_01_15218"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""74_timecourse2_WsINRA_28_1-B,7_01_15219"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""75_timecourse2_tho1Ws_1_1-B,8_01_15220"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""76_timecourse2_tho1Ws_2_1-C,1_01_15221"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""77_timecourse2_tho1Ws_3_1-C,2_01_15222"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""78_timecourse2_tho1Ws_4_1-C,3_01_15223"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""79_timecourse2_tho1Ws_5_1-C,4_01_15224"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""80_timecourse2_tho1Ws_6_1-C,5_01_15225"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""81_timecourse2_tho1Ws_7_1-C,6_01_15226"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""82_timecourse2_tho1Ws_8_1-C,7_01_15227"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""83_timecourse2_tho1Ws_9_1-C,8_01_15228"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""84_timecourse2_tho1Ws_10_1-D,1_01_15230"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""85_timecourse2_tho1Ws_11_1-D,2_01_15231"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""86_timecourse2_tho1Ws_12_1-D,3_01_15232"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""87_timecourse2_tho1Ws_13_1-D,4_01_15233"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""88_timecourse2_tho1Ws_14_1-D,5_01_15234"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""89_timecourse2_tho1Ws_15_1-D,6_01_15235"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""90_timecourse2_tho1Ws_16_1-D,7_01_15236"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""91_timecourse2_tho1Ws_17_1-D,8_01_15237"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""92_timecourse2_tho1Ws_18_1-E,1_01_15239"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""93_timecourse2_tho1Ws_19_1-E,2_01_15240"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""94_timecourse2_tho1Ws_20_1-E,3_01_15241"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""95_timecourse2_tho1Ws_21_1-E,4_01_15242"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""96_timecourse2_tho1Ws_22_1-E,5_01_15243"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""97_timecourse2_tho1Ws_23_1-A,2_01_15249"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""98_timecourse2_tho1Ws_24_1-A,3_01_15250"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""99_timecourse2_tho1Ws_25_1-A,4_01_15251"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	FLAG191_B10		
+MTBLS389	" ""ago1 46-2 10C 1_2-B,2_01_17155"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 10_2-C,3_01_17164"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 2_2-B,3_01_17156"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 3_2-B,4_01_17157"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 4_2-B,5_01_17158"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 5_2-B,6_01_17159"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 6_2-B,7_01_17160"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 7_2-B,8_01_17161"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 8_2-C,1_01_17162"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago1 46-2 10C 9_2-C,2_01_17163"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago1-46		
+MTBLS389	" ""ago6 10C 1_1-F,8_01_17143"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 10_2-A,8_01_17152"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 11_2-B,1_01_17154"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 3_2-A,1_01_17145"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 4_2-A,2_01_17146"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 5_2-A,3_01_17147"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 6_2-A,4_01_17148"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 7_2-A,5_01_17149"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 8_2-A,6_01_17150"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""ago6 10C 9_2-A,7_01_17151"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	ago6		
+MTBLS389	" ""cesa5 1_2-B,3_01_4114"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 10_2-C,4_01_4125"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 11_2-C,5_01_4126"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 12_2-C,6_01_4127"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 2_2-B,4_01_4115"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 3_2-B,5_01_4116"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 4_2-B,6_01_4117"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 5_2-B,7_01_4118"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 6_2-B,8_01_4119"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 7_2-C,1_01_4122"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 8_2-C,2_01_4123"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""cesa5 9_2-C,3_01_4124"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_099008		
+MTBLS389	" ""Col_0 300uE_0h_1_1-A,4_01_9850"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_10_1-B,5_01_9860"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_11_1-B,6_01_9861"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_12_1-B,7_01_9862"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_13_1-B,8_01_9863"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_14_1-C,1_01_9864"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_15_1-C,2_01_9865"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_2_1-A,5_01_9851"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_3_1-A,6_01_9852"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_4_1-A,7_01_9853"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_5_1-A,8_01_9854"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_6_1-B,1_01_9855"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_7_1-B,2_01_9856"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_8_1-B,3_01_9858"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_0h_9_1-B,4_01_9859"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_1_1-A,2_01_7051"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_1_1-D,4_01_9980"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_10_1-E,5_01_9989"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_11_1-E,6_01_9990"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_12_1-E,7_01_9991"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_13_1-E,8_01_9992"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_14_1-F,1_01_9993"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_15_1-F,2_01_9994"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_2_1-A,3_01_7052"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_2_1-D,5_01_9981"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_3_1-A,4_01_7053"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_3_1-D,6_01_9982"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_4_1-D,7_01_9983"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_5_1-D,8_01_9984"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_6_1-E,1_01_9985"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_7_1-E,2_01_9986"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_8_1-E,3_01_9987"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0 300uE_168h_9_1-E,4_01_9988"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_1_1-D,4_01_18181"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_10_1-E,5_01_18191"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_11_1-E,6_01_18192"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_12_1-E,7_01_18194"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_13_1-E,8_01_18195"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_14_1-F,1_01_18196"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_15_1-F,2_01_18197"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_16_1-F,3_01_18198"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_2_1-D,5_01_18182"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_3_1-D,6_01_18183"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_4_1-D,7_01_18185"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_5_1-D,8_01_18186"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_6_1-E,1_01_18187"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_7_1-E,2_01_18188"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_8_1-E,3_01_18189"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col_0_10C_9_1-E,4_01_18190"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 2 300uE_168h_1_1-A,2_01_7193"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 2 300uE_168h_2_1-A,3_01_7194"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 2 300uE_168h_3_1-A,4_01_7195"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 1_1-E,4_01_4085"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10_1-F,5_01_4096"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 1_1-A,2_01_17092"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 10_1-B,2_01_17101"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 2_1-A,3_01_17093"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 3_1-A,4_01_17094"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 4_1-A,5_01_17095"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 5_1-A,6_01_17096"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 6_1-A,7_01_17097"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 7_1-A,8_01_17098"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 10C 8_1-B,1_01_17100"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 11_1-F,6_01_4097"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 11_2_1-F,7_01_4098"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 12_1-F,8_01_4099"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 2_1-E,5_01_4086"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 3_1-E,6_01_4087"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 4_1-E,7_01_4088"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 5_1-E,8_01_4089"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 6_1-F,1_01_4092"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 7_1-F,2_01_4093"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 8_1-F,3_01_4094"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""Col-0 9_1-F,4_01_4095"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Arabidopsis thaliana str. Col-0		
+MTBLS389	" ""dcl4_10C_1_1-F,4_01_18199"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_10_2-A,5_01_18209"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_11_2-A,6_01_18210"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_12_2-A,7_01_18212"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_13_2-A,8_01_18213"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_14_2-B,1_01_18214"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_15_2-B,2_01_18215"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_16_2-B,3_01_18216"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_17_2-B,4_01_18217"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_18_2-B,5_01_18218"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_19_2-B,6_01_18219"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_2_1-F,5_01_18200"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_20_2-B,7_01_18220"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_3_1-F,6_01_18201"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_4_1-F,7_01_18203"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_5_1-F,8_01_18204"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_6_2-A,1_01_18205"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_7_2-A,2_01_18206"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_8_2-A,3_01_18207"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""dcl4_10C_9_2-A,4_01_18208"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_160_G05		
+MTBLS389	" ""myb 40 1_1-C,7_01_4068"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 10_1-D,8_01_4079"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 11_1-E,1_01_4082"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 12_1-E,2_01_4083"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 13_1-E,3_01_4084"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 2_1-C,8_01_4069"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 3_1-D,1_01_4072"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 4_1-D,2_01_4073"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 5_1-D,3_01_4074"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 6_1-D,4_01_4075"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 7_1-D,5_01_4076"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 8_1-D,6_01_4077"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb 40 9_1-D,7_01_4078"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb40 300uE_168h_1_1-D,5_01_7081"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb40 300uE_168h_2_1-D,6_01_7082"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""myb40 300uE_168h_3_1-D,7_01_7083"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_304_H04.09		
+MTBLS389	" ""rdr6 300uE_168h_1_1-A,6_01_10058"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_1_1-E,3_01_7088"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_10_1-B,7_01_10067"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_11_1-B,8_01_10068"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_12_1-C,1_01_10069"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_13_1-C,2_01_10070"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_14_1-C,3_01_10071"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_15_1-C,4_01_10072"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_2_1-A,7_01_10059"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_2_1-E,4_01_7089"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_3_1-A,8_01_10060"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_3_1-E,5_01_7090"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_4_1-B,1_01_10061"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_5_1-B,2_01_10062"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_6_1-B,3_01_10063"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_7_1-B,4_01_10064"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_8_1-B,5_01_10065"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6 300uE_168h_9_1-B,6_01_10066"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_1_2-D,6_01_9932"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_10_2-E,7_01_9941"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_11_2-E,8_01_9942"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_12_2-F,1_01_9943"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_13_2-F,2_01_9944"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_14_2-F,3_01_9945"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_15_2-F,4_01_9946"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_2_2-D,7_01_9933"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_3_2-D,8_01_9934"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_4_2-E,1_01_9935"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_5_2-E,2_01_9936"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_6_2-E,3_01_9937"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_7_2-E,4_01_9938"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_8_2-E,5_01_9939"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""rdr6_300uE_0h_9_2-E,6_01_9940"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	rdr6-11		
+MTBLS389	" ""ring 1_1-B,4_01_4055"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 10_1-C,5_01_4066"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 11_1-C,6_01_4067"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 2_1-B,5_01_4056"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 3_1-B,6_01_4057"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 300uE_168h_1_1-D,8_01_7084"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 300uE_168h_2_1-E,1_01_7086"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 300uE_168h_3_1-E,2_01_7087"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 4_1-B,7_01_4058"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 5_1-B,8_01_4059"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 6_1-C,1_01_4062"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 7_1-C,2_01_4063"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 8_1-C,3_01_4064"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""ring 9_1-C,4_01_4065"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_014624		
+MTBLS389	" ""SAIL_THO1_10C_11_1-C,2_01_18170"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SAIL_1209_F10		
+MTBLS389	" ""SAIL_THO1_10C_15_1-C,6_01_18174"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SAIL_1209_F10		
+MTBLS389	" ""SAIL_THO1_10C_17_1-C,8_01_18177"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SAIL_1209_F10		
+MTBLS389	" ""SAIL_THO1_10C_18_1-D,1_01_18178"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SAIL_1209_F10		
+MTBLS389	" ""SAIL_THO1_10C_2_1-B,1_01_18160"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SAIL_1209_F10		
+MTBLS389	" ""SAIL_THO1_10C_8_1-B,7_01_18167"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SAIL_1209_F10		
+MTBLS389	" ""sgs3_10C_1_2-E,4_01_18253"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_10_2-F,5_01_18263"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_11_2-F,6_01_18264"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_12_2-F,7_01_18265"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_13_2-F,8_01_18266"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_14_1-A,8_01_18268"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_15_1-B,1_01_18269"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_16_1-B,2_01_18270"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_17_1-B,3_01_18271"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_18_1-B,4_01_18272"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_19_1-B,5_01_18273"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_2_2-E,5_01_18254"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_20_1-B,6_01_18274"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_3_2-E,6_01_18255"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_4_2-E,7_01_18257"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_5_2-E,8_01_18258"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_6_2-F,1_01_18259"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_7_2-F,2_01_18260"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_8_2-F,3_01_18261"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""sgs3_10C_9_2-F,4_01_18262"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	sgs3-12		
+MTBLS389	" ""tho1 1_1-E,3_01_4212"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 10_1-F,4_01_4223"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 11_1-F,5_01_4224"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 12_1-F,6_01_4225"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 13_1-F,7_01_4226"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 2_1-E,4_01_4213"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 3_1-E,5_01_4214"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_1_1-A,5_01_7054"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_1_1-F,3_01_9996"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_10_2-A,4_01_10005"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_11_2-A,5_01_10006"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_12_2-A,6_01_10007"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_13_2-A,7_01_10008"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_14_2-A,8_01_10009"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_2_1-A,6_01_7055"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_2_1-F,4_01_9997"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_3_1-A,7_01_7056"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_3_1-F,5_01_9998"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_4_1-F,6_01_9999"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_5_1-F,7_01_10000"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_6_1-F,8_01_10001"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_7_2-A,1_01_10002"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_8_2-A,2_01_10003"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 300uE_168h_9_2-A,3_01_10004"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 4_1-E,6_01_4215"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 5_1-E,7_01_4216"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 6_1-E,8_01_4217"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 7_1-F,1_01_4220"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 8_1-F,2_01_4221"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1 9_1-F,3_01_4222"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_1_1-C,3_01_9867"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_10_1-D,4_01_9877"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_11_1-D,5_01_9878"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_12_1-D,6_01_9879"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_13_1-D,7_01_9880"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_14_1-D,8_01_9881"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_15_1-E,1_01_9882"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_2_1-C,4_01_9868"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_3_1-C,5_01_9869"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_4_1-C,6_01_9870"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_5_1-C,7_01_9871"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_6_1-C,8_01_9872"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_7_1-D,1_01_9873"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_8_1-D,2_01_9874"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho1_300uE_0h_9_1-D,3_01_9876"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	GK_052D02		
+MTBLS389	" ""tho2 1_1-F,8_01_4227"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 10_2-B,1_01_4240"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 11_2-B,2_01_4241"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 12_2-B,3_01_4242"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 2_2-A,1_01_4230"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 3_2-A,2_01_4231"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_1_1-A,8_01_7057"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_1_2-B,1_01_10011"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_10_2-C,2_01_10020"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_11_2-C,3_01_10021"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_12_2-C,4_01_10022"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_13_2-C,5_01_10023"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_14_2-C,6_01_10024"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_2_1-B,1_01_7059"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_2_2-B,2_01_10012"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_3_1-B,2_01_7060"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_3_2-B,3_01_10013"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_4_2-B,4_01_10014"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_5_2-B,5_01_10015"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_6_2-B,6_01_10016"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_7_2-B,7_01_10017"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_8_2-B,8_01_10018"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 300uE_168h_9_2-C,1_01_10019"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 4_2-A,3_01_4232"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 5_2-A,4_01_4233"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 6_2-A,5_01_4234"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 7_2-A,6_01_4235"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 8_2-A,7_01_4236"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2 9_2-A,8_01_4237"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_1_1-E,2_01_9883"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_10_1-F,3_01_9894"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_11_1-F,4_01_9895"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_12_1-F,5_01_9896"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_13_1-F,6_01_9897"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_14_1-F,7_01_9898"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_15_1-F,8_01_9899"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_2_1-E,3_01_9885"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_3_1-E,4_01_9886"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_4_1-E,5_01_9887"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_5_1-E,6_01_9888"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_6_1-E,7_01_9889"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_7_1-E,8_01_9890"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_8_1-F,1_01_9891"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho2_300uE_0h_9_1-F,2_01_9892"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_051591		
+MTBLS389	" ""tho3 1_1-C,7_01_4196"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 10_1-D,8_01_4207"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 11_1-E,1_01_4210"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 12_1-E,2_01_4211"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 2_1-C,8_01_4197"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 3_1-D,1_01_4200"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 300uE_168h_1_1-B,3_01_7061"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 300uE_168h_2_1-B,4_01_7062"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 300uE_168h_3_1-B,5_01_7063"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 4_1-D,2_01_4201"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 5_1-D,3_01_4202"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 6_1-D,4_01_4203"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 7_1-D,6_01_4205"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 8_1-D,5_01_4204"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho3 9_1-D,7_01_4206"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_059869		
+MTBLS389	" ""tho5a 1_1-A,2_01_4043"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 10_1-B,2_01_4053"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 11_1-B,3_01_4054"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 2_1-A,3_01_4044"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 3_1-A,4_01_4045"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 300uE_168h_1_1-B,6_01_7064"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 300uE_168h_2_1-B,7_01_7065"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 300uE_168h_3_1-B,8_01_7066"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 4_1-A,5_01_4046"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 5_1-A,6_01_4047"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 7_1-A,7_01_4048"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 8_1-A,8_01_4049"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5a 9_1-B,1_01_4052"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_100556		
+MTBLS389	" ""tho5b 1_2-A,1_01_4102"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 10_2-B,2_01_4113"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 2_2-A,2_01_4103"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 3_2-A,3_01_4104"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 300uE_168h_1_1-C,1_01_7068"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 300uE_168h_2_1-C,2_01_7069"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 300uE_168h_3_1-C,3_01_7070"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 4_2-A,4_01_4105"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 5_2-A,5_01_4106"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 6_2-A,6_01_4107"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 7_2-A,7_01_4108"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 8_2-A,8_01_4109"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho5b 9_2-B,1_01_4112"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_122387C		
+MTBLS389	" ""tho6 1_2-B,4_01_4243"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 10_2-C,5_01_4254"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 11_2-C,6_01_4255"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 12_2-C,7_01_4256"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 13_2-C,8_01_4257"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 2_2-B,5_01_4244"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 3_2-B,6_01_4245"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_1_1-C,4_01_7071"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_1_2-C,7_01_10026"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_10_2-D,8_01_10035"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_11_2-E,1_01_10036"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_12_2-E,2_01_10037"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_13_2-E,3_01_10038"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_14_2-E,4_01_10039"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_15_2-E,5_01_10040"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_2_1-C,5_01_7072"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_2_2-C,8_01_10027"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_3_1-C,6_01_7073"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_3_2-D,1_01_10028"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_4_2-D,2_01_10029"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_5_2-D,3_01_10030"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_6_2-D,4_01_10031"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_7_2-D,5_01_10032"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_8_2-D,6_01_10033"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 300uE_168h_9_2-D,7_01_10034"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 4_2-B,7_01_4246"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 5_2-B,8_01_4247"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 6_2-C,1_01_4250"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 7_2-C,2_01_4251"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 8_2-C,3_01_4252"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6 9_2-C,4_01_4253"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_1_2-A,1_01_9900"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_10_2-B,2_01_9909"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_11_2-B,3_01_9910"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_12_2-B,4_01_9911"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_13_2-B,5_01_9912"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_14_2-B,6_01_9913"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_15_2-B,7_01_9914"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_2_2-A,2_01_9901"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_3_2-A,3_01_9902"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_4_2-A,4_01_9903"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_5_2-A,5_01_9904"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_6_2-A,6_01_9905"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_7_2-A,7_01_9906"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_8_2-A,8_01_9907"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho6_300uE_0h_9_2-B,1_01_9908"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_021789C		
+MTBLS389	" ""tho7a 1_2-F,6_01_4166"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 10_1-A,8_01_4177"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 11_1-B,1_01_4180"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 2_2-F,7_01_4167"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 3_2-F,8_01_4168"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 300uE_168h_1_1-C,7_01_7074"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 300uE_168h_2_1-C,8_01_7075"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 300uE_168h_3_1-D,1_01_7077"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 4_1-A,2_01_4171"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 5_1-A,3_01_4172"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 6_1-A,4_01_4173"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 7_1-A,5_01_4174"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 8_1-A,6_01_4175"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7a 9_1-A,7_01_4176"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_078514C		
+MTBLS389	" ""tho7b 1_2-E,3_01_4153"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 10_2-F,4_01_4164"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 11_2-F,5_01_4165"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 2_2-E,4_01_4154"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 3_2-E,5_01_4155"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 300uE_168h_1_1-D,2_01_7078"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 300uE_168h_2_1-D,3_01_7079"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 300uE_168h_3_1-D,4_01_7080"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 4_2-E,6_01_4156"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 5_2-E,7_01_4157"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 6_2-E,8_01_4158"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 7_2-F,1_01_4161"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 8_2-F,2_01_4162"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""tho7b 9_2-F,3_01_4163"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_052697		
+MTBLS389	" ""transposon 1_1-B,2_01_4181"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 10_1-C,3_01_4192"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 11_1-C,4_01_4193"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 12_1-C,5_01_4194"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 13_1-C,6_01_4195"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 2_1-B,3_01_4182"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 3_1-B,4_01_4183"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 4_1-B,5_01_4184"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 5_1-B,6_01_4185"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 6_1-B,7_01_4186"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 7_1-B,8_01_4187"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 8_1-C,1_01_4190"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""transposon 9_1-C,2_01_4191"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_022212C		
+MTBLS389	" ""unknown prot. 300uE_168h_1_1-E,6_01_7091"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown prot. 300uE_168h_2_1-E,7_01_7092"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown prot. 300uE_168h_3_1-E,8_01_7093"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 1_2-C,7_01_4128"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 10_2-D,8_01_4148"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 11_2-E,1_01_4151"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 12_2-E,2_01_4152"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 2_2-C,8_01_4129"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 3_2-D,1_01_4141"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 4_2-D,2_01_4142"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 5_2-D,3_01_4143"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 6_2-D,4_01_4144"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 7_2-D,5_01_4145"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 8_2-D,6_01_4146"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""unknown protein 9_2-D,7_01_4147"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	SALK_069840C		
+MTBLS389	" ""Ws N915 300uE_168h_1_1-C,5_01_10074"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_10_1-D,6_01_10083"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_11_1-D,7_01_10084"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_12_1-D,8_01_10085"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_13_1-E,1_01_10086"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_14_1-E,2_01_10087"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_15_1-E,3_01_10088"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_2_1-C,6_01_10075"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_3_1-C,7_01_10076"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_4_1-C,8_01_10077"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_5_1-D,1_01_10078"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_6_1-D,2_01_10079"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_7_1-D,3_01_10080"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_8_1-D,4_01_10081"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915 300uE_168h_9_1-D,5_01_10082"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_1_2-F,5_01_9948"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_10_1-A,7_01_9957"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_11_1-A,8_01_9958"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_12_1-B,1_01_9959"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_13_1-B,2_01_9960"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_14_1-B,3_01_9961"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_15_1-B,4_01_9962"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_2_2-F,6_01_9949"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_3_2-F,7_01_9950"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_4_2-F,8_01_9951"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_5_1-A,2_01_9952"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_6_1-A,3_01_9953"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_7_1-A,4_01_9954"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_8_1-A,5_01_9955"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156
+MTBLS389	" ""Ws N915_300uE_0h_9_1-A,6_01_9956"""	Arabidopsis thaliana	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/3702	Wassilewskija ecotype	EFO	http://www.ebi.ac.uk/efo/EFO_0005156

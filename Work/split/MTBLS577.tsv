@@ -1,0 +1,7 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS577	" ""Spombe_cwh43_wt_VE"""	Schizosaccharomyces pombe	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4896	Schizosaccharomyces pombe 972h-	EFO	http://purl.obolibrary.org/obo/NCBITaxon_284812
+MTBLS577	" ""Spombe_cwh43_G753R_VE"""	Schizosaccharomyces pombe	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4896	Schizosaccharomyces pombe 972h-	EFO	http://purl.obolibrary.org/obo/NCBITaxon_284812
+MTBLS577	" ""Spombe_cwh43_wt_low_glucose"""	Schizosaccharomyces pombe	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4896	Schizosaccharomyces pombe 972h-	EFO	http://purl.obolibrary.org/obo/NCBITaxon_284812
+MTBLS577	" ""Spombe_cwh43_G753R_low_glucose"""	Schizosaccharomyces pombe	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4896	Schizosaccharomyces pombe 972h-	EFO	http://purl.obolibrary.org/obo/NCBITaxon_284812
+MTBLS577	" ""Spombe_cwh43_wt_N_starvation"""	Schizosaccharomyces pombe	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4896	Schizosaccharomyces pombe 972h-	EFO	http://purl.obolibrary.org/obo/NCBITaxon_284812
+MTBLS577	" ""Spombe_cwh43_G753R_N_starvation"""	Schizosaccharomyces pombe	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4896	Schizosaccharomyces pombe 972h-	EFO	http://purl.obolibrary.org/obo/NCBITaxon_284812

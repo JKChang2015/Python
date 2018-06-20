@@ -1,0 +1,40 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS433	" ""BD1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""BL1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""BL2"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""LP1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""PA1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""RB1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""RB2"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""YH1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""AX1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""BR1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""EX1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""PK1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""KA1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""RB4"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""TP1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""NB1"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""Fusty"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""Musty"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""Rancid"""	Oleaceae	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4144	Olive oil		
+MTBLS433	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS433	" ""BD1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""BL1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""BL2"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""LP1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""PA1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""RB1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""RB2"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""YH1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""AX1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""BR1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""EX1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""PK1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""KA1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""RB4"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""TP1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""NB1"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""Fusty"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""Musty"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463
+MTBLS433	" ""Rancid"""	Olea europaea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/4146	Olive Oil	MESH	http://purl.bioontology.org/ontology/MESH/D000069463

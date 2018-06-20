@@ -1,0 +1,421 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS245	" ""20140815_PODONET_dilution1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution5"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution6"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution7"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution8"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC10"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC11"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC12"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC5"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC6"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC7"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC8"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC9"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCconditioning1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCconditioning2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCconditioning3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCDDA1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCDDA2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCDDA3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample5"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample6"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample7"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample8"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample9"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample10"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample11"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample12"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample13"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample14"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample15"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample16"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample17"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample18"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample19"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample20"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample21"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample22"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample23"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample24"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample25"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample26"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample27"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample28"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample29"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample30"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample31"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample32"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample33"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample34"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample35"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample36"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample37"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample38"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample39"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample40"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample41"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample42"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample43"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample44"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample45"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample46"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample47"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample48"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample49"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample50"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample51"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample52"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample53"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample54"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample55"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample56"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample57"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample58"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample59"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample60"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample61"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample62"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample63"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample64"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample65"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample66"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample67"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample68"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample69"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample70"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample71"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample72"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample73"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample74"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample75"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample76"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample77"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample78"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample79"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample80"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample81"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample82"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample83"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample84"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample85"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample86"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample87"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample88"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample89"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample90"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample91"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample92"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample93"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample94"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample95"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample96"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample97"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample98"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample99"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample100"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample102"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample103"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample104"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample105"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample106"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample107"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample108"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample109"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample110"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample111"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample112"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC1901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC2601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_QC901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_0901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_1901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_2901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_3801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_4901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_5801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_6901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_7901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_8901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_9901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_10901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_11801"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12301"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12401"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12501"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12601"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12701"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_12901"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_13001"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_13101"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""PODONET_Hilic_13201"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS245	" ""20140815_PODONET_dilution1"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution2"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution3"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution4"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution5"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution6"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution7"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_dilution8"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC1"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC10"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC11"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC12"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC2"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC3"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC4"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC5"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC6"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC7"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC8"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQC9"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCconditioning1"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCconditioning2"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCconditioning3"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCDDA1"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCDDA2"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_iQCDDA3"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample1"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample2"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample3"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample4"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample5"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample6"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample7"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample8"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample9"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample10"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample11"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample12"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample13"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample14"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample15"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample16"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample17"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample18"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample19"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample20"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample21"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample22"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample23"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample24"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample25"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample26"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample27"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample28"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample29"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample30"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample31"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample32"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample33"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample34"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample35"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample36"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample37"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample38"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample39"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample40"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample41"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample42"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample43"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample44"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample45"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample46"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample47"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample48"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample49"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample50"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample51"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample52"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample53"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample54"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample55"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample56"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample57"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample58"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample59"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample60"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample61"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample62"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample63"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample64"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample65"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample66"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample67"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample68"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample69"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample70"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample71"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample72"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample73"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample74"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample75"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample76"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample77"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample78"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample79"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample80"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample81"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample82"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample83"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample84"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample85"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample86"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample87"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample88"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample89"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample90"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample91"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample92"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample93"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample94"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample95"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample96"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample97"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample98"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample99"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample100"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample101"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample102"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample103"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample104"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample105"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample106"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample107"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample108"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample109"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample110"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample111"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419
+MTBLS245	" ""20140815_PODONET_sample112"""	Homo sapiens	NCBITAXON		urine	BTO	http://purl.obolibrary.org/obo/BTO_0001419

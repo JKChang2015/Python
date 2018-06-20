@@ -1,0 +1,6 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS566	" ""Whitehead Institute"""	Rhodiola rosea			Crown		
+MTBLS566	" ""Whitehead Institute"""	Rhodiola rosea			Root		
+MTBLS566	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS566	" ""Whitehead Institute"""	Rhodiola rosea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/203015	root	BTO	http://purl.obolibrary.org/obo/BTO_0001188
+MTBLS566	" ""Whitehead Institute"""	Rhodiola rosea	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/203015	plant crown	BTO	http://purl.obolibrary.org/obo/BTO_0004903

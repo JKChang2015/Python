@@ -1,0 +1,25 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS576	" ""CELL-LYSATE-0512-2011-1"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-2011-2"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-2011-3"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-2011-4"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-1004-BL255-1"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-1004-BL255-2"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-1004-BL255-3"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-1004-BL255-4"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-Rm2011_BL255-1"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-Rm2011_BL255-2"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-Rm2011_BL255-3"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-LYSATE-0512-Rm2011_BL255-4"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	cell lysate	BTO	http://purl.obolibrary.org/obo/BTO_0004304
+MTBLS576	" ""CELL-M9-0512-2011-1"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-2011-2"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-2011-3"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-2011-4"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-1004-BL255-1"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-1004-BL255-2"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-1004-BL255-3"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-1004-BL255-4"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-Rm2011_BL255-1"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-Rm2011_BL255-2"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-Rm2011_BL255-3"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316
+MTBLS576	" ""CELL-M9-0512-Rm2011_BL255-4"""	Sinorhizobium meliloti	EFO	http://purl.obolibrary.org/obo/NCBITaxon_382	culture medium	BTO	http://purl.obolibrary.org/obo/BTO_0000316

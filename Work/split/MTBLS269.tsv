@@ -1,0 +1,50 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	muscle	BTO	http://purl.obolibrary.org/obo/BTO_0000887
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	white adipose tissue	BTO	http://purl.obolibrary.org/obo/BTO_0001456
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	muscle	BTO	http://purl.obolibrary.org/obo/BTO_0000887
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	white adipose tissue	BTO	http://purl.obolibrary.org/obo/BTO_0001456
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	muscle	BTO	http://purl.obolibrary.org/obo/BTO_0000887
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	white adipose tissue	BTO	http://purl.obolibrary.org/obo/BTO_0001456
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	muscle	BTO	http://purl.obolibrary.org/obo/BTO_0000887
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	white adipose tissue	BTO	http://purl.obolibrary.org/obo/BTO_0001456
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	muscle	BTO	http://purl.obolibrary.org/obo/BTO_0000887
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	white adipose tissue	BTO	http://purl.obolibrary.org/obo/BTO_0001456
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	liver	BTO	http://purl.obolibrary.org/obo/BTO_0000759
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	muscle	BTO	http://purl.obolibrary.org/obo/BTO_0000887
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	white adipose tissue	BTO	http://purl.obolibrary.org/obo/BTO_0001456
+MTBLS269	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Variant]	Term Source REF	Term Accession Number
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse1"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse2"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse3"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse4"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse5"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606
+MTBLS269	" ""Mouse6"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	C57BL/6J	EFO	http://www.ebi.ac.uk/efo/EFO_0000606

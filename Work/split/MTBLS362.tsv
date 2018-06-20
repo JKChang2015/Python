@@ -1,0 +1,5 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS362	" ""spermatophore"""	Photinus pyralis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/7054	spermatophore/nuptial gift		
+MTBLS362	" ""body"""	Photinus pyralis	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/7054	Body - 2 posterior lantern segments excised		
+MTBLS362	" ""pre_spermatophore_blank_injection"""	blank			blank		
+MTBLS362	" ""pre_body_blank_injection"""	blank			blank		

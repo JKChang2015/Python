@@ -1,0 +1,7 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS176	" ""Colorectal_Adenocarcinoma"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Colorectal adenocarcinoma	MEDDRA	http://purl.bioontology.org/ontology/MEDDRA/10052360
+MTBLS176	" ""ColAd_individual"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Colorectal adenocarcinoma	MEDDRA	http://purl.bioontology.org/ontology/MEDDRA/10052360
+MTBLS176	" ""3DMouse_Kidney"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mouse Kidney	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22730
+MTBLS176	" ""3D_Mouse_Pancreas"""	Mus musculus	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/10090	Mouse Pancreas	NCIT	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C24044
+MTBLS176	" ""3D_OSCC"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	oral squamous cell carcinoma	EFO	http://www.ebi.ac.uk/efo/EFO_0000199
+MTBLS176	" ""Microbe_Interaction_3D_Timecourse_LP"""	Bacillus subtilis and Streptomyces coelicolor			Bacillus subtilis and Streptomyces coelicolor		

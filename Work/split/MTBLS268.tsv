@@ -1,0 +1,74 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Source Name"""	Characteristics[Organism]	Term Source REF	Term Accession Number	Characteristics[Organism part]	Term Source REF	Term Accession Number
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer1"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer2"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer3"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood	BTO	http://purl.obolibrary.org/obo/BTO_0000089
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	blood plasma	BTO	http://purl.obolibrary.org/obo/BTO_0000131
+MTBLS268	" ""Volunteer4"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	erythrocyte	BTO	http://purl.obolibrary.org/obo/BTO_0000424

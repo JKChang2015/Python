@@ -1,0 +1,5 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS531	" ""Soybean leaf"""	Glycine max	CCONT	http://purl.obolibrary.org/obo/NCBITaxon_3847	sample collection	Control	
+MTBLS531	" ""Soybean leaf"""	Glycine max	CCONT	http://purl.obolibrary.org/obo/NCBITaxon_3847	sample collection	ABA	
+MTBLS531	" ""Soybean leaf"""	Glycine max	CCONT	http://purl.obolibrary.org/obo/NCBITaxon_3847	sample collection	Ethylene	
+MTBLS531	" ""Soybean leaf"""	Glycine max	CCONT	http://purl.obolibrary.org/obo/NCBITaxon_3847	sample collection	ABA+ethylene	

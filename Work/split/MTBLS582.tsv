@@ -1,0 +1,13 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS582	" ""WT_ZL_01_Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""WT_ZL_01_Pos"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""WT_ZL_02_Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""WT_ZL_02_Pos"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""WT_ZL_03_Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""WT_ZL_03_Pos"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""Palm_ZL_01_Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""Palm_ZL_01_Pos"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""Palm_ZL_02_Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""Palm_ZL_02_Pos"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""Palm_ZL_03_Neg"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS582	" ""Palm_ZL_03_Pos"""	Homo sapiens	NCBITAXON	http://purl.bioontology.org/ontology/NCBITAXON/9606	Hep-G2 cell	BTO	http://purl.obolibrary.org/obo/BTO_0000599

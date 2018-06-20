@@ -1,0 +1,182 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS624	" ""CMW1_Cys_Neg.mzXML"""	Blank					
+MTBLS624	" ""CMW1_Gln_Neg.mzXML"""	Blank					
+MTBLS624	" ""CMW2_Cys_Neg.mzXML"""	Blank					
+MTBLS624	" ""CMW2_Gln_Neg.mzXML"""	Blank					
+MTBLS624	" ""LM_Cys_Neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""LM_Gln_Neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""LT1_Cys_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT1_Gln_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT2_Cys_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT2_Gln_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT3_Cys_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT3_Gln_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""QC1_Cys_Neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC2_Cys_Neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""UM_Cys_Neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""UM_Gln_Neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""UT1_Cys_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT1_Gln_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT2_Cys_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT2_Gln_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT3_Cys_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT3_Gln_Neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""CMW1_Cys_Pos.mzXML"""	Blank					
+MTBLS624	" ""CMW1_Gln_Pos.mzXML"""	Blank					
+MTBLS624	" ""CMW2_Cys_Pos.mzXML"""	Blank					
+MTBLS624	" ""CMW2_Gln_Pos.mzXML"""	Blank					
+MTBLS624	" ""LM_Cys_Pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""LM_Gln_Pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""LT1_Cys_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT1_Gln_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT2_Cys_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT2_Gln_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT3_Cys_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LT3_Gln_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""QC1_Cys_Pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC2_Cys_Pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""UM_Cys_Pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""UM_Gln_Pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""UT1_Cys_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT1_Gln_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT2_Cys_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT2_Gln_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT3_Cys_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UT3_Gln_Pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""blank1_pro_neg.mzXML"""	Blank					
+MTBLS624	" ""blank2_pro_neg.mzXML"""	Blank					
+MTBLS624	" ""CMM_labelled_pro_neg.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""CMM_unlabelled_pro_neg.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""LabPro_690_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LabPro_691_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LabPro_692_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""SCMM_Lab_693_neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""SCMM_Unlab_688_neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""UnlabPro_685_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UnlabPro_686_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UnlabPro_687_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""blank1_pro_pos.mzXML"""	Blank					
+MTBLS624	" ""blank2_pro_pos.mzXML"""	Blank					
+MTBLS624	" ""CMM_labelled_pro_pos.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""CMM_unlabelled_pro_pos.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""LabPro_690_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LabPro_691_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""LabPro_692_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""SCMM_Lab_693_pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""SCMM_Unlab_688_pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""UnlabPro_685_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UnlabPro_686_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""UnlabPro_687_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""blank1_694_neg.mzXML"""	Blank					
+MTBLS624	" ""blank2_694_neg.mzXML"""	Blank					
+MTBLS624	" ""CMM_labelled_679_neg.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""CMM_unlab_674_neg.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""Methionine_labelled_680_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_labelled_681_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_labelled_682_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_unlab_675_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_unlab_676_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_unlab_677_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""SpentCMM_labelled_683_neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""SpentCMM_unlab_678_neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""blank1_694_pos.mzXML"""	Blank					
+MTBLS624	" ""blank2_694_pos.mzXML"""	Blank					
+MTBLS624	" ""CMM_labelled_679_pos.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""CMM_unlab_674_pos.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""Methionine_labelled_680_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_labelled_681_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_labelled_682_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_unlab_675_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_unlab_676_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""Methionine_unlab_677_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""SpentCMM_labelled_683_pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""SpentCMM_unlab_678_pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""arginineIntra_labelled_KJ838_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_labelled_KJ839_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_labelled_KJ840_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_unlabelled_KJ831_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_unlabelled_KJ832_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_unlabelled_KJ833_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""blank_1_neg.mzXML"""	Blank					
+MTBLS624	" ""CMM_labelled_KJ837_neg.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""CMM_spent_labelled_KJ841_neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""CMM_spent_unlabelled_KJ834_neg.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""CMM_unlabelled_KJ830_neg.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""pooled_KJ845_2_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_3_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_4_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_5_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_6_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""arginineIntra_labelled_KJ838_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_labelled_KJ839_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_labelled_KJ840_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_unlabelled_KJ831_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_unlabelled_KJ832_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""arginineIntra_unlabelled_KJ833_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""blank_1_pos.mzXML"""	Blank					
+MTBLS624	" ""CMM_labelled_KJ837_pos.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""CMM_spent_labelled_KJ841_pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""CMM_spent_unlabelled_KJ834_pos.mzXML"""	Medium			Spent Medium		
+MTBLS624	" ""CMM_unlabelled_KJ830_pos.mzXML"""	Medium			Fresh Medium		
+MTBLS624	" ""pooled_KJ845_3_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_4_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_5_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""pooled_KJ845_6_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""BLANK_FG_0393_neg.mzXML"""	Blank					
+MTBLS624	" ""CMM_FBS_t0_neg.mzXML"""	Medium			Medium with FBS time 0		
+MTBLS624	" ""CMM_FBS_t48_neg.mzXML"""	Medium			Medium with FBS time 48h		
+MTBLS624	" ""CMM_noFBS_t0_neg.mzXML"""	Medium			Medium no FBS time 0		
+MTBLS624	" ""CMM_noFBS_t48_neg.mzXML"""	Medium			Medium no FBS time 48h		
+MTBLS624	" ""Pooled_7_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""Pooled_8_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""Pooled_9_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""BLANK_FG_0393_pos.mzXML"""	Blank					
+MTBLS624	" ""CMM_FBS_t0_pos.mzXML"""	Medium			Medium with FBS time 0		
+MTBLS624	" ""CMM_FBS_t48_pos.mzXML"""	Medium			Medium with FBS time 48h		
+MTBLS624	" ""CMM_noFBS_t0_pos.mzXML"""	Medium			Medium no FBS time 0		
+MTBLS624	" ""CMM_noFBS_t48_pos.mzXML"""	Medium			Medium no FBS time 48h		
+MTBLS624	" ""Pooled_7_pos.mzXML"""	Medium			Pooled sample		
+MTBLS624	" ""Pooled_8_pos.mzXML"""	Medium			Pooled sample		
+MTBLS624	" ""Pooled_9_pos.mzXML"""	Medium			Pooled sample		
+MTBLS624	" ""A74_A74_1_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_2_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_3_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_4_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_1_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_2_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_3_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_4_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""CMW_CMW_neg.mzXML"""	Blank					
+MTBLS624	" ""QC_QC10_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC_QC7_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC_QC8_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC_QC9_neg.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""W74_W74_1_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W74_W74_2_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W74_W74_3_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W74_W74_4_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_1_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_2_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_3_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_4_neg.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_1_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_2_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_3_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A74_A74_4_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_1_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_2_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_3_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""A87_A87_4_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""CMW_CMW_pos.mzXML"""	Blank					
+MTBLS624	" ""QC_QC10_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC_QC7_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC_QC8_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""QC_QC9_pos.mzXML"""	Trypanosoma brucei			Pooled sample		
+MTBLS624	" ""W74_W74_1_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W74_W74_2_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W74_W74_3_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W74_W74_4_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_1_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_2_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_3_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		
+MTBLS624	" ""W87_W87_4_pos.mzXML"""	Trypanosoma brucei			Intracellular extract		

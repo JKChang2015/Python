@@ -1,0 +1,232 @@
+Number	" ""Source Name"""	Characteristics[Organism]	Term Source REF[Organism]	Term Accession Number[Organism]	Characteristics[Organism part]	Term Source REF[Organism part]	Term Accession Number[Organism part]
+MTBLS215	" ""1-methyl-alpha-Glucopyranoside"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2,5 dihydroxy benzoic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2-Amino butyric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2-aminobutanoic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2-deoxy-galactose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2-deoxy-glucose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2-deoxy-ribose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""2OH-butyrate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""3-Amino butyric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""3-aminobutanoic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""3OH-butyrate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""3-O-methyl-glucose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""3-O-methyl-Glucose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""4-hydroxyphenylpyruvic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""7-dehydrocholesterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""7-hydroxycholesterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""ABA"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Adenine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Adonitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Alanine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Allose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""alpha-Cholestane"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""alpha-keto Glutaric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""alpha-ketoglutarate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""alpha-Lactose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""alpha-Mannofuranuronic acid gamma-lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""alpha-Mannofurauronic acid gamma lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Altrose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Anthranilic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Arabinose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Arabitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ascorbate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Asparagine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Aspartic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""beta-Alanine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""beta-Amyrin"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""beta-Gentiobiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Betaine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""beta-Sitosterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Brassicasterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""C12-C12 Wax ester"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C13-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C14-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C14-C12 Wax ester"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C14-C14 Wax ester"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C15-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C16-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C20-0 FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""C20-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Cadaverine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Caffein"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Campesterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Cellobiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Cellotriose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""cis-Aconitic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Citric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Cycloartenol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Cystein"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Cytosine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""cZ"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Desmosterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""DZ"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ergosterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Erlose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Erythronic acid gamma lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Erythronic acid gamma-lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Erythrose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ethionine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""FAL-mix_C12-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C13-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C14-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C15-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C16-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C17-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C18-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C19-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C20-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C21-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C22-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C23-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FAL-mix_C24-TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Ferrulic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ferulic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""FFA-mix_C10-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""FFA-mix_C12-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C14-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C14-1_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C16-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C16-1_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C18-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C18-1_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C20-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C6-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""FFA-mix_C8-0_TMS"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Fructose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Fructose 6 Phosphate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Fructose 6 phosphate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Fucose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Fucosterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Fumaric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Fumaric acid 18V-EI"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""GABA"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galactinol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galactitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galactono 1,4 lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galactono 1-4 lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galactono-1,4-lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Galactosamine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galactose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galacturonic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Galic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Gentiobiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glucoheptose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Gluconic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glucosamine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glucose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glucose 6 phosphate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glucose FI"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glucuronic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glutamic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glutamine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glutaric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glycelaldehyde 3 Phosphate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glyceraldehyde 3 phosphate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glyceric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glycerol 2 phosphate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glycerol 2P"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Glycine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Gly-Gly"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Guanine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Gulono gamma lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Gulono-gamma-lactone"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Histidine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Homocystein"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Homocystine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Homoserine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Hypotaurine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""IAA"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Iditol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Iduronic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""iP"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Isoascorbate"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Isocitric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Isoleucine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Isomaltose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Isomaltotriose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""JA"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Kestose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Kojibiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Kynurenine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Lactic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Lactose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Lactulose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Laminaribiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Lanosterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Leucine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Lysine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Malic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Malonic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Maltitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Maltose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Maltotriose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Mannitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Mannose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Melezitose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Melibiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""meso-Erythritol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Methionine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Methyl_C13-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Methyl_C14-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Methyl_C15-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""Methyl_C16-0_FAME"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	mixture	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS215	" ""methyl-alpha-Glucopyranoside"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""methyl-alpha-glucopyranoside"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Myo-Inositol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""myo-Inositol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""N-acetyl-Galactosamine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""N-acetyl-Glucosamine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""N-acetyl-Mannosamine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Nicotineamide"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Nigerose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Norleucine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Norvaline"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ononitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ornithine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Oxalic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Palatinose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""p-amino benzoic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Panose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Phenylalanine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Phosphoenolpyruvic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Phosphoserine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Pinitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Proline"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Psicose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Putresine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Pyroglutamic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Pyruvic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Quinic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Raffinose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Rhamnose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Ribose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""SA"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Sarcosine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Serine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Sophorose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Sorbitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Sorbose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Stigmasterol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Succinic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Sucrose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Syringic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Tagatose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Tartaric acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Threitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Threonic acid"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Threonine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Threose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Thymine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""trans-4OH-proline"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Trehalose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Tryptophan"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Turanose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Tyrosine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""tZ"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Uracil"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Valine"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Xylitol"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Xylobiose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Xylose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS215	" ""Xylulose"""	reference compound	BAO	http://www.bioassayontology.org/bao#BAO_0002092	pure substance	CHEBI	http://purl.obolibrary.org/obo/CHEBI_60003
