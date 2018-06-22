@@ -6,10 +6,17 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/aa.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/all_samples.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/onto_list.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/onto_list.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/left_overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/left_overview.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company.png" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -122,6 +129,7 @@
     <SUITE FILE_PATH="coverage/Python$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1516662775893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/PPC/Pro2" />
     <SUITE FILE_PATH="coverage/Python$Q015.coverage" NAME="Q015 Coverage Results" MODIFIED="1496263641926" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$Q021.coverage" NAME="Q021 Coverage Results" MODIFIED="1496265368716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
+    <SUITE FILE_PATH="coverage/Python$branch.coverage" NAME="branch Coverage Results" MODIFIED="1529657141375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
     <SUITE FILE_PATH="coverage/Python$example.coverage" NAME="example Coverage Results" MODIFIED="1503065772005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../OMTD/OMTDp/temp" />
     <SUITE FILE_PATH="coverage/Python$Q012.coverage" NAME="Q012 Coverage Results" MODIFIED="1502880446334" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/w3resource/basic" />
     <SUITE FILE_PATH="coverage/Python$enum_test.coverage" NAME="enum_test Coverage Results" MODIFIED="1502983144912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
@@ -283,31 +291,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="sample_data_cleaning.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
+      <file leaf-file-name="branch.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/branch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="84">
-              <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ontology_com.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/ontology_com.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="onto_list.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Work/onto_list.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+            <state relative-caret-position="640">
+              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
               <folding>
-                <element signature="e#111#120#0" expanded="true" />
+                <element signature="e#105#128#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -362,8 +352,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Runood_100/R012.py" />
-        <option value="$PROJECT_DIR$/Runood_100/R013.py" />
         <option value="$PROJECT_DIR$/Runood_100/R014.py" />
         <option value="$PROJECT_DIR$/../Checkio/first_word.py" />
         <option value="$PROJECT_DIR$/../Checkio/Checkio/first_word.py" />
@@ -413,6 +401,8 @@
         <option value="$PROJECT_DIR$/Work/ontology_com.py" />
         <option value="$PROJECT_DIR$/Work/sample_data_cleaning.py" />
         <option value="$PROJECT_DIR$/Work/onto_list.py" />
+        <option value="$PROJECT_DIR$/RD_Club/Data_Analysis/left_visual.py" />
+        <option value="$PROJECT_DIR$/Work/branch.py" />
       </list>
     </option>
   </component>
@@ -423,10 +413,9 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1280" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="1376" />
+    <option name="height" value="1375" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -438,7 +427,6 @@
       <foldersAlwaysOnTop value="false" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -450,6 +438,17 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Python 100 days" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="RD_Club" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="RD_Club" type="462c0819:PsiDirectoryNode" />
+              <item name="Data_Analysis" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -467,52 +466,13 @@
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
-              <item name="&lt; Python 3.6.2 (/Library/Frameworks/Python.framework/Versions/3.6/bin/python3.6) &gt;" type="70bed36:NamedLibraryElementNode" />
-              <item name="python3.6" type="462c0819:PsiDirectoryNode" />
-              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
-              <item name="pandas" type="462c0819:PsiDirectoryNode" />
-              <item name="core" type="462c0819:PsiDirectoryNode" />
-              <item name="reshape" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -546,7 +506,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.sample_data_cleaning">
+  <component name="RunManager" selected="Python.branch">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -566,7 +526,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="bioportal" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="branch" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -579,13 +539,13 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/bioportal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/branch.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="distribution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -593,12 +553,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Data_Analysis" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/date.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Data_Analysis/distribution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="left_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Data_Analysis" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Data_Analysis/left_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -637,25 +616,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/sample_data_cleaning.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/test.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -855,19 +815,19 @@
       <option name="_new_targetType" value="&quot;PATH&quot;" />
     </configuration>
     <list>
-      <item itemvalue="Python.bioportal" />
-      <item itemvalue="Python.test" />
       <item itemvalue="Python.onto_list" />
-      <item itemvalue="Python.date" />
       <item itemvalue="Python.sample_data_cleaning" />
+      <item itemvalue="Python.left_visual" />
+      <item itemvalue="Python.distribution" />
+      <item itemvalue="Python.branch" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.sample_data_cleaning" />
-        <item itemvalue="Python.date" />
+        <item itemvalue="Python.branch" />
+        <item itemvalue="Python.distribution" />
+        <item itemvalue="Python.left_visual" />
         <item itemvalue="Python.onto_list" />
-        <item itemvalue="Python.bioportal" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.sample_data_cleaning" />
       </list>
     </recent_temporary>
   </component>
@@ -1165,35 +1125,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1280" y="23" width="1280" height="1376" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="1375" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.47100875" side_tool="true" weight="0.29960784" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" weight="0.331509" />
+      <window_info active="true" anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" visible="true" weight="0.3309859" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32786885" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5759519" weight="0.23607843" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" visible="true" weight="0.29867083" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.19386107" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" weight="0.29867083" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.22617124" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.495671" weight="0.32960597" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32677597" />
-      <window_info anchor="right" x="115" y="68" width="1846" height="1159" id="SciView" order="5" sideWeight="0.57682294" weight="0.55043685" />
+      <window_info anchor="right" x="115" y="68" width="1846" height="1159" id="SciView" order="5" sideWeight="0.57682294" weight="0.0035742654" />
       <window_info id="Structure" order="1" sideWeight="0.504307" side_tool="true" weight="0.10722796" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.51462924" weight="0.37490195" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.51462924" weight="0.37480438" />
       <window_info id="Favorites" order="2" sideWeight="0.507772" side_tool="true" weight="0.16719618" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" visible="true" weight="0.32943925" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Data View" order="6" weight="0.49919224" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32677597" />
       <window_info anchor="right" x="0" y="0" width="590" height="1174" id="Documentation" order="7" sideWeight="0.5300286" side_tool="true" weight="0.3935663" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" visible="true" weight="0.32943925" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1241,37 +1201,14 @@
           <properties exception="BaseException" />
         </breakpoint>
       </default-breakpoints>
-      <option name="time" value="96" />
+      <option name="time" value="98" />
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Work/onto_list.py">
+    <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/distribution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="12" column="16" lean-forward="true" selection-start-line="12" selection-start-column="16" selection-end-line="12" selection-end-column="16" />
-          <folding>
-            <element signature="e#111#120#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/hyperExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#71#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="e#166#181#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="399">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="17" />
         </state>
       </provider>
     </entry>
@@ -1307,9 +1244,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#91#140#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1476,11 +1410,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/aa.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-2" />
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/aa.csv" />
     <entry file="file://$PROJECT_DIR$/Work/bioportal.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="234">
@@ -1527,9 +1457,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="420">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
-          <folding>
-            <element signature="e#71#80#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1537,9 +1464,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="105">
           <caret line="5" selection-start-line="5" selection-end-line="9" selection-end-column="9" />
-          <folding>
-            <element signature="e#91#140#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1547,9 +1471,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="483">
           <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-          <folding>
-            <element signature="e#166#181#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1581,16 +1502,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/ontology_com.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/result.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
@@ -1600,10 +1511,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/onto_list.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="693">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/distribution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="441">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="3" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/left_visual.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/ontology_com.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/branch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
           <folding>
-            <element signature="e#111#120#0" expanded="true" />
+            <element signature="e#105#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
