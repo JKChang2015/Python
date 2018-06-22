@@ -1,0 +1,187 @@
+ID	entity	url
+MTBLS189	Mus musculus	http://purl.obolibrary.org/obo/NCBITaxon_10090
+MTBLS497	Staphylococcus aureus	http://purl.obolibrary.org/obo/NCBITaxon_1280
+MTBLS496	Campylobacter jejuni subsp. jejuni NCTC 11168	http://purl.obolibrary.org/obo/NCBITaxon_192222
+MTBLS497	Pseudomonas aeruginosa	http://purl.obolibrary.org/obo/NCBITaxon_287
+MTBLS129	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+MTBLS312	Brassica napus	http://purl.obolibrary.org/obo/NCBITaxon_3708
+MTBLS550	Brassica oleracea	http://purl.obolibrary.org/obo/NCBITaxon_3712
+MTBLS576	Sinorhizobium meliloti	http://purl.obolibrary.org/obo/NCBITaxon_382
+MTBLS531	Glycine max	http://purl.obolibrary.org/obo/NCBITaxon_3847
+MTBLS112	Triticum aestivum	http://purl.obolibrary.org/obo/NCBITaxon_4565
+MTBLS393	Escherichia coli BL21(DE3)	http://purl.obolibrary.org/obo/NCBITaxon_469008
+MTBLS497	Escherichia coli	http://purl.obolibrary.org/obo/NCBITaxon_562
+MTBLS443	Leishmania mexicana	http://purl.obolibrary.org/obo/NCBITaxon_5665
+MTBLS443	Leishmania infantum	http://purl.obolibrary.org/obo/NCBITaxon_5671
+MTBLS497	Klebsiella pneumoniae	http://purl.obolibrary.org/obo/NCBITaxon_573
+MTBLS3	Caenorhabditis elegans	http://purl.obolibrary.org/obo/NCBITaxon_6239
+MTBLS101	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+MTBLS196	Mustela putorius furo	http://purl.obolibrary.org/obo/NCBITaxon_9669
+MTBLS123	Sus scrofa domesticus	http://purl.obolibrary.org/obo/NCBITaxon_9825
+MTBLS463	Pseudomonas fluorescens	http://purl.bioontology.org/ontology/NCBITAXON_205922
+MTBLS493	Cricetulus griseus	http://purl.bioontology.org/ontology/NCBITAXON/10029
+MTBLS125	Mus musculus	http://purl.bioontology.org/ontology/NCBITAXON/10090
+MTBLS483	Rattus	http://purl.bioontology.org/ontology/NCBITAXON/10114
+MTBLS114	Rattus norvegicus	http://purl.bioontology.org/ontology/NCBITAXON/10116
+MTBLS313	Rattus rattus	http://purl.bioontology.org/ontology/NCBITAXON/10117
+MTBLS409	Lysiphlebia japonica	http://purl.bioontology.org/ontology/NCBITAXON/104022
+MTBLS116	Porites lobata	http://purl.bioontology.org/ontology/NCBITAXON/104759
+MTBLS544	Knautia arvensis	http://purl.bioontology.org/ontology/NCBITAXON/105271
+MTBLS116	Montipora aequituberculata	http://purl.bioontology.org/ontology/NCBITAXON/105609
+MTBLS599	Drosophila melanogaster x Drosophila simulans	http://purl.bioontology.org/ontology/NCBITAXON/1128429
+MTBLS193	Chlorella	http://purl.bioontology.org/ontology/NCBITAXON/114055
+MTBLS5	Synechocystis sp. PCC 6803	http://purl.bioontology.org/ontology/NCBITAXON/1148
+MTBLS189	Astragalus mongholicus	http://purl.bioontology.org/ontology/NCBITAXON/119829
+MTBLS370	Staphylococcus aureus	http://purl.bioontology.org/ontology/NCBITAXON/1280
+MTBLS270	Cichorium intybus	http://purl.bioontology.org/ontology/NCBITAXON/13427
+MTBLS347	Microbiota	http://purl.bioontology.org/ontology/NCBITAXON/13613
+MTBLS273	Homo sapiens/Mus musculus xenograft	http://purl.bioontology.org/ontology/NCBITAXON/1383439
+MTBLS538	Acropora aspera	http://purl.bioontology.org/ontology/NCBITAXON/140238
+MTBLS228	Bacillus methanolicus	http://purl.bioontology.org/ontology/NCBITAXON/1471
+MTBLS342	Pocillopora acuta	http://purl.bioontology.org/ontology/NCBITAXON/1491507
+MTBLS330	Wolffia	http://purl.bioontology.org/ontology/NCBITAXON/161109
+MTBLS128	Corynebacterium glutamicum	http://purl.bioontology.org/ontology/NCBITAXON/1718
+MTBLS336	Yoldia eightsi	http://purl.bioontology.org/ontology/NCBITAXON/177101
+MTBLS304	Mycobacterium tuberculosis	http://purl.bioontology.org/ontology/NCBITAXON/1773
+MTBLS336	Paraceradocus miersii	http://purl.bioontology.org/ontology/NCBITAXON/1811419
+MTBLS14	Lotus creticus	http://purl.bioontology.org/ontology/NCBITAXON/181267
+MTBLS14	Lotus uliginosus	http://purl.bioontology.org/ontology/NCBITAXON/181288
+MTBLS170	Ilex paraguariensis	http://purl.bioontology.org/ontology/NCBITAXON/185542
+MTBLS336	Paraceradocus	http://purl.bioontology.org/ontology/NCBITAXON/190436
+MTBLS553	Streptomyces viridochromogenes	http://purl.bioontology.org/ontology/NCBITAXON/1938
+MTBLS566	Rhodiola rosea	http://purl.bioontology.org/ontology/NCBITAXON/203015
+MTBLS535	Mycoplasma gallisepticum	http://purl.bioontology.org/ontology/NCBITAXON/2096
+MTBLS336	Laternula elliptica	http://purl.bioontology.org/ontology/NCBITAXON/228457
+MTBLS193	Parachlorella	http://purl.bioontology.org/ontology/NCBITAXON/247501
+MTBLS342	Porites rus	http://purl.bioontology.org/ontology/NCBITAXON/262591
+MTBLS14	Lotus filicaulis	http://purl.bioontology.org/ontology/NCBITAXON/264956
+MTBLS571	Skeletonema marinoi	http://purl.bioontology.org/ontology/NCBITAXON/267567
+MTBLS538	Symbiodinium sp. ex Acropora aspera	http://purl.bioontology.org/ontology/NCBITAXON/280471
+MTBLS431	Pseudomonas aeruginosa	http://purl.bioontology.org/ontology/NCBITAXON/287
+MTBLS35	Salmonella enterica	http://purl.bioontology.org/ontology/NCBITAXON/28901
+MTBLS535	Mycoplasma bovis	http://purl.bioontology.org/ontology/NCBITAXON/28903
+MTBLS281	Spheciospongia vesparium	http://purl.bioontology.org/ontology/NCBITAXON/295237
+MTBLS224	Phyllanthus niruri	http://purl.bioontology.org/ontology/NCBITAXON/296034
+MTBLS330	Spirodela polyrhiza	http://purl.bioontology.org/ontology/NCBITAXON/29656
+MTBLS137	Vitis vinifera	http://purl.bioontology.org/ontology/NCBITAXON/29760
+MTBLS319	Pseudomonas putida	http://purl.bioontology.org/ontology/NCBITAXON/303
+MTBLS113	Euglena gracilis	http://purl.bioontology.org/ontology/NCBITAXON/3039
+MTBLS208	Chlamydomonas reinhardtii	http://purl.bioontology.org/ontology/NCBITAXON/3055
+MTBLS333	Rubus idaeus	http://purl.bioontology.org/ontology/NCBITAXON/32247
+MTBLS336	Liothyrella uva	http://purl.bioontology.org/ontology/NCBITAXON/33482
+MTBLS75	unclassified Cyanobacteria	http://purl.bioontology.org/ontology/NCBITAXON/34079
+MTBLS14	Lotus japonicus	http://purl.bioontology.org/ontology/NCBITAXON/34305
+MTBLS14	Lotus tenuis	http://purl.bioontology.org/ontology/NCBITAXON/347996
+MTBLS144	Thalassiosira pseudonana	http://purl.bioontology.org/ontology/NCBITAXON/35128
+MTBLS544	Centaurea jacea	http://purl.bioontology.org/ontology/NCBITAXON/351340
+MTBLS260	Daphnia magna	http://purl.bioontology.org/ontology/NCBITAXON/35525
+MTBLS209	Vitis	http://purl.bioontology.org/ontology/NCBITAXON/3603
+MTBLS521	Gossypium hirsutum	http://purl.bioontology.org/ontology/NCBITAXON/3635
+MTBLS274	Carica papaya	http://purl.bioontology.org/ontology/NCBITAXON/3649
+MTBLS383	Clavispora lusitaniae	http://purl.bioontology.org/ontology/NCBITAXON/36911
+MTBLS332	Populus deltoides	http://purl.bioontology.org/ontology/NCBITAXON/3696
+MTBLS11	Arabidopsis thaliana	http://purl.bioontology.org/ontology/NCBITAXON/3702
+MTBLS309	Brassica napus	http://purl.bioontology.org/ontology/NCBITAXON/3708
+MTBLS460	Brassica oleracea	http://purl.bioontology.org/ontology/NCBITAXON/3712
+MTBLS59	Malus domestica	http://purl.bioontology.org/ontology/NCBITAXON/3750
+MTBLS583	Arachis hypogaea	http://purl.bioontology.org/ontology/NCBITAXON/3818
+MTBLS117	Glycine max	http://purl.bioontology.org/ontology/NCBITAXON/3847
+MTBLS443	Leishmania mexicana species complex	http://purl.bioontology.org/ontology/NCBITAXON/38582
+MTBLS295	Micromonas pusilla	http://purl.bioontology.org/ontology/NCBITAXON/38833
+MTBLS372	Fraxinus excelsior	http://purl.bioontology.org/ontology/NCBITAXON/38873
+MTBLS581	Cunila	http://purl.bioontology.org/ontology/NCBITAXON/392618
+MTBLS544	Plantago lanceolata	http://purl.bioontology.org/ontology/NCBITAXON/39414
+MTBLS363	Agave americana	http://purl.bioontology.org/ontology/NCBITAXON/39510
+MTBLS86	Manihot esculenta	http://purl.bioontology.org/ontology/NCBITAXON/3983
+MTBLS350	Panax ginseng	http://purl.bioontology.org/ontology/NCBITAXON/4054
+MTBLS429	Jacobaea	http://purl.bioontology.org/ontology/NCBITAXON/405757
+MTBLS108	Solanum lycopersicum	http://purl.bioontology.org/ontology/NCBITAXON/4081
+MTBLS559	Nicotiana tabacum	http://purl.bioontology.org/ontology/NCBITAXON/4097
+MTBLS433	Oleaceae	http://purl.bioontology.org/ontology/NCBITAXON/4144
+MTBLS433	Olea europaea	http://purl.bioontology.org/ontology/NCBITAXON/4146
+MTBLS399	Pseudostellaria heterophylla	http://purl.bioontology.org/ontology/NCBITAXON/418402
+MTBLS343	Lactuca sativa	http://purl.bioontology.org/ontology/NCBITAXON/4236
+MTBLS403	Camellia sinensis	http://purl.bioontology.org/ontology/NCBITAXON/4442
+MTBLS330	Lemna gibba	http://purl.bioontology.org/ontology/NCBITAXON/4470
+MTBLS52	Hordeum vulgare	http://purl.bioontology.org/ontology/NCBITAXON/4513
+MTBLS529	Lolium perenne	http://purl.bioontology.org/ontology/NCBITAXON/4522
+MTBLS151	Oryza sativa	http://purl.bioontology.org/ontology/NCBITAXON/4530
+MTBLS69	Sorghum bicolor	http://purl.bioontology.org/ontology/NCBITAXON/4558
+MTBLS21	Triticum aestivum	http://purl.bioontology.org/ontology/NCBITAXON/4565
+MTBLS575	Zea mays	http://purl.bioontology.org/ontology/NCBITAXON/4577
+MTBLS281	Ircinia campana	http://purl.bioontology.org/ontology/NCBITAXON/458501
+MTBLS342	Montipora	http://purl.bioontology.org/ontology/NCBITAXON/46703
+MTBLS342	Porites	http://purl.bioontology.org/ontology/NCBITAXON/46719
+MTBLS116	Porites compressa	http://purl.bioontology.org/ontology/NCBITAXON/46720
+MTBLS116	Pocillopora damicornis	http://purl.bioontology.org/ontology/NCBITAXON/46731
+MTBLS342	Pocillopora meandrina	http://purl.bioontology.org/ontology/NCBITAXON/46732
+MTBLS574	Inga marginata	http://purl.bioontology.org/ontology/NCBITAXON/468147
+MTBLS14	Lotus corniculatus	http://purl.bioontology.org/ontology/NCBITAXON/47247
+MTBLS478	xylem	http://purl.bioontology.org/ontology/NCBITAXON/47664
+MTBLS328	Lactobacillus rhamnosus	http://purl.bioontology.org/ontology/NCBITAXON/47715
+MTBLS175	Centella asiatica	http://purl.bioontology.org/ontology/NCBITAXON/48106
+MTBLS574	Inga acreana	http://purl.bioontology.org/ontology/NCBITAXON/485823
+MTBLS574	Inga auristellae	http://purl.bioontology.org/ontology/NCBITAXON/486050
+MTBLS574	Inga leiocalycina	http://purl.bioontology.org/ontology/NCBITAXON/486065
+MTBLS574	Inga pezizifera	http://purl.bioontology.org/ontology/NCBITAXON/486075
+MTBLS574	Inga umbellifera	http://purl.bioontology.org/ontology/NCBITAXON/486089
+MTBLS574	Inga laurina	http://purl.bioontology.org/ontology/NCBITAXON/487684
+MTBLS316	Schizosaccharomyces pombe	http://purl.bioontology.org/ontology/NCBITAXON/4896
+MTBLS383	Pichia kudriavzevii	http://purl.bioontology.org/ontology/NCBITAXON/4909
+MTBLS383	Meyerozyma guilliermondii	http://purl.bioontology.org/ontology/NCBITAXON/4929
+MTBLS115	Saccharomyces cerevisiae	http://purl.bioontology.org/ontology/NCBITAXON/4932
+MTBLS10	Nicotiana attenuata	http://purl.bioontology.org/ontology/NCBITAXON/49451
+MTBLS330	Landoltia punctata	http://purl.bioontology.org/ontology/NCBITAXON/50518
+MTBLS116	Seriatopora hystrix	http://purl.bioontology.org/ontology/NCBITAXON/51070
+MTBLS383	Candida inconspicua	http://purl.bioontology.org/ontology/NCBITAXON/52247
+MTBLS611	Pristionchus pacificus	http://purl.bioontology.org/ontology/NCBITAXON/54126
+MTBLS370	Candida albicans	http://purl.bioontology.org/ontology/NCBITAXON/5476
+MTBLS383	Candida glabrata	http://purl.bioontology.org/ontology/NCBITAXON/5478
+MTBLS383	Candida parapsilosis	http://purl.bioontology.org/ontology/NCBITAXON/5480
+MTBLS383	Candida tropicalis	http://purl.bioontology.org/ontology/NCBITAXON/5482
+MTBLS229	Escherichia coli	http://purl.bioontology.org/ontology/NCBITAXON/562
+MTBLS443	Leishmania infantum	http://purl.bioontology.org/ontology/NCBITAXON/5671
+MTBLS435	Macleaya cordata	http://purl.bioontology.org/ontology/NCBITAXON/56857
+MTBLS49	Trypanosoma brucei	http://purl.bioontology.org/ontology/NCBITAXON/5691
+MTBLS595	Garcinia mangostana	http://purl.bioontology.org/ontology/NCBITAXON/58228
+MTBLS316	Schizosaccharomyces pombe/Puccinia graminis mixed DNA library	http://purl.bioontology.org/ontology/NCBITAXON/584653
+MTBLS574	Inga brachystachys	http://purl.bioontology.org/ontology/NCBITAXON/597306
+MTBLS342	Acropora	http://purl.bioontology.org/ontology/NCBITAXON/6127
+MTBLS291	Caenorhabditis elegans	http://purl.bioontology.org/ontology/NCBITAXON/6239
+MTBLS297	Solanum habrochaites	http://purl.bioontology.org/ontology/NCBITAXON/62890
+MTBLS519	Kalanchoe fedtschenkoi	http://purl.bioontology.org/ontology/NCBITAXON/63787
+MTBLS14	Lotus burttii	http://purl.bioontology.org/ontology/NCBITAXON/645164
+MTBLS471	Acromyrmex octospinosus	http://purl.bioontology.org/ontology/NCBITAXON/64783
+MTBLS259	Daphnia pulex	http://purl.bioontology.org/ontology/NCBITAXON/6669
+MTBLS574	Inga alata	http://purl.bioontology.org/ontology/NCBITAXON/668906
+MTBLS574	Inga alba	http://purl.bioontology.org/ontology/NCBITAXON/668907
+MTBLS574	Inga chartacea	http://purl.bioontology.org/ontology/NCBITAXON/668909
+MTBLS574	Inga coruscans	http://purl.bioontology.org/ontology/NCBITAXON/670674
+MTBLS457	Litoria verreauxii	http://purl.bioontology.org/ontology/NCBITAXON/681275
+MTBLS91	Calanus	http://purl.bioontology.org/ontology/NCBITAXON/6836
+MTBLS190	Rattus andamanensis	http://purl.bioontology.org/ontology/NCBITAXON/69077
+MTBLS336	Marseniopsis mollis	http://purl.bioontology.org/ontology/NCBITAXON/696346
+MTBLS362	Photinus pyralis	http://purl.bioontology.org/ontology/NCBITAXON/7054
+MTBLS210	Aedes albopictus	http://purl.bioontology.org/ontology/NCBITAXON/7160
+MTBLS612	Drosophila melanogaster	http://purl.bioontology.org/ontology/NCBITAXON/7227
+MTBLS379	Apis cerana	http://purl.bioontology.org/ontology/NCBITAXON/7461
+MTBLS410	Aphis gossypii	http://purl.bioontology.org/ontology/NCBITAXON/80765
+MTBLS119	Populus tremula x Populus alba	http://purl.bioontology.org/ontology/NCBITAXON/80863
+MTBLS331	Crocus sativus	http://purl.bioontology.org/ontology/NCBITAXON/82528
+MTBLS276	Xenopus laevis	http://purl.bioontology.org/ontology/NCBITAXON/8355
+MTBLS495	Mus	http://purl.bioontology.org/ontology/NCBITAXON/862507
+MTBLS336	Cucumaria georgiana	http://purl.bioontology.org/ontology/NCBITAXON/864626
+MTBLS526	Lemna paucicostata	http://purl.bioontology.org/ontology/NCBITAXON/89585
+MTBLS291	Gallus gallus	http://purl.bioontology.org/ontology/NCBITAXON/9031
+MTBLS426	Papio anubis	http://purl.bioontology.org/ontology/NCBITAXON/9555
+MTBLS177	Homo sapiens	http://purl.bioontology.org/ontology/NCBITAXON/9606
+MTBLS1	Homo sapiens	http://purl.bioontology.org/ontology/NCBITAXON/9606
+MTBLS165	Ailuropoda melanoleuca	http://purl.bioontology.org/ontology/NCBITAXON/9646
+MTBLS196	Mustela putorius	http://purl.bioontology.org/ontology/NCBITAXON/9668
+MTBLS543	Equus caballus	http://purl.bioontology.org/ontology/NCBITAXON/9796
+MTBLS291	Sus scrofa	http://purl.bioontology.org/ontology/NCBITAXON/9823
+MTBLS544	Leucanthemum vulgare	http://purl.bioontology.org/ontology/NCBITAXON/99072
+MTBLS185	Bos taurus	http://purl.bioontology.org/ontology/NCBITAXON/9913
+MTBLS322	Ovis aries	http://purl.bioontology.org/ontology/NCBITAXON/9940
+MTBLS77	Ovis aries	http://purl.bioontology.org/ontology/NCBITAXON/9940
+MTBLS349	Oryctolagus cuniculus	http://purl.bioontology.org/ontology/NCBITAXON/9986

@@ -1,413 +1,413 @@
-Index	Entities	Url
-MTBLS497	 	http://purl.obolibrary.org/obo/NCBITaxon_1280
-MTBLS312	 	http://purl.obolibrary.org/obo/NCBITaxon_3708
-MTBLS497	 	http://purl.obolibrary.org/obo/NCBITaxon_287
-MTBLS497	 	http://purl.obolibrary.org/obo/NCBITaxon_573
-MTBLS497	 	http://purl.obolibrary.org/obo/NCBITaxon_562
-MTBLS298	 	Term Accession Number
-MTBLS531	 	http://purl.obolibrary.org/obo/NCBITaxon_3847
-MTBLS456	 	http://purl.obolibrary.org/obo/VTO_0011065
-MTBLS550	 	http://purl.obolibrary.org/obo/NCBITaxon_3712
-MTBLS527	 	http://purl.bioontology.org/ontology/MESH/D008812
-MTBLS322	 	http://purl.bioontology.org/ontology/NCBITAXON/9940
-MTBLS374	 	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
-MTBLS374	 	http://purl.obolibrary.org/obo/PATO_0000383
-MTBLS374	 	http://purl.obolibrary.org/obo/PATO_0000384
-MTBLS566	 	http://purl.bioontology.org/ontology/NCBITAXON/203015
-MTBLS372	 	http://purl.bioontology.org/ontology/NCBITAXON/38873
-MTBLS576	 	http://purl.obolibrary.org/obo/NCBITaxon_382
-MTBLS177	 	http://purl.bioontology.org/ontology/NCBITAXON/9606
-MTBLS557	 	http://purl.obolibrary.org/obo/UO_0000189
-MTBLS521	 	http://purl.bioontology.org/ontology/NCBITAXON/3635
-MTBLS184	A-549 cell	http://purl.obolibrary.org/obo/BTO_0000018
-MTBLS156	A2780 cell	http://purl.obolibrary.org/obo/CLO_0001571
-MTBLS594	A549	http://www.ebi.ac.uk/efo/EFO_0001086
-MTBLS213	ARPE-19 cell	http://purl.obolibrary.org/obo/BTO_0002335
-MTBLS471	Acromyrmex octospinosus	http://purl.bioontology.org/ontology/NCBITAXON/64783
-MTBLS342	Acropora	http://purl.bioontology.org/ontology/NCBITAXON/6127
-MTBLS538	Acropora aspera	http://purl.bioontology.org/ontology/NCBITAXON/140238
-MTBLS210	Aedes albopictus	http://purl.bioontology.org/ontology/NCBITAXON/7160
-MTBLS363	Agave americana	http://purl.bioontology.org/ontology/NCBITAXON/39510
-MTBLS165	Ailuropoda melanoleuca	http://purl.bioontology.org/ontology/NCBITAXON/9646
-MTBLS410	Aphis gossypii	http://purl.bioontology.org/ontology/NCBITAXON/80765
-MTBLS379	Apis cerana	http://purl.bioontology.org/ontology/NCBITAXON/7461
+MTBLS317	Simulation experiment	http://edamontology.org/topic_3524
 MTBLS349	Aqueous Humor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13190
-MTBLS129	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
-MTBLS11	Arabidopsis thaliana	http://purl.bioontology.org/ontology/NCBITAXON/3702
-MTBLS583	Arachis hypogaea	http://purl.bioontology.org/ontology/NCBITAXON/3818
-MTBLS189	Astragalus mongholicus	http://purl.bioontology.org/ontology/NCBITAXON/119829
-MTBLS216	BALB/c	http://www.ebi.ac.uk/efo/EFO_0000602
-MTBLS184	BEAS-2B cell	http://purl.obolibrary.org/obo/BTO_0002923
-MTBLS594	BY4741	http://www.ebi.ac.uk/efo/EFO_0000098
-MTBLS228	Bacillus methanolicus	http://purl.bioontology.org/ontology/NCBITAXON/1471
-MTBLS185	Bos taurus	http://purl.bioontology.org/ontology/NCBITAXON/9913
-MTBLS309	Brassica napus	http://purl.bioontology.org/ontology/NCBITAXON/3708
-MTBLS460	Brassica oleracea	http://purl.bioontology.org/ontology/NCBITAXON/3712
 MTBLS591	Bronchoalveolar Lavage Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13195
-MTBLS227	C-10 cell	http://purl.obolibrary.org/obo/BTO_0004532
-MTBLS127	C2C12 cell	http://purl.obolibrary.org/obo/BTO_0000165
-MTBLS227	CACO-2 cell	http://purl.obolibrary.org/obo/BTO_0000195
-MTBLS493	CHO-K1 cell	http://purl.obolibrary.org/obo/BTO_0000457
-MTBLS3	Caenorhabditis elegans	http://purl.obolibrary.org/obo/NCBITaxon_6239
-MTBLS291	Caenorhabditis elegans	http://purl.bioontology.org/ontology/NCBITAXON/6239
-MTBLS91	Calanus	http://purl.bioontology.org/ontology/NCBITAXON/6836
-MTBLS403	Camellia sinensis	http://purl.bioontology.org/ontology/NCBITAXON/4442
-MTBLS496	Campylobacter jejuni subsp. jejuni NCTC 11168	http://purl.obolibrary.org/obo/NCBITaxon_192222
-MTBLS626	Cancer-Associated Fibroblasts	http://purl.bioontology.org/ontology/MESH/D000072645
-MTBLS370	Candida albicans	http://purl.bioontology.org/ontology/NCBITAXON/5476
-MTBLS383	Candida glabrata	http://purl.bioontology.org/ontology/NCBITAXON/5478
-MTBLS383	Candida inconspicua	http://purl.bioontology.org/ontology/NCBITAXON/52247
-MTBLS383	Candida parapsilosis	http://purl.bioontology.org/ontology/NCBITAXON/5480
-MTBLS383	Candida tropicalis	http://purl.bioontology.org/ontology/NCBITAXON/5482
-MTBLS274	Carica papaya	http://purl.bioontology.org/ontology/NCBITAXON/3649
-MTBLS544	Centaurea jacea	http://purl.bioontology.org/ontology/NCBITAXON/351340
-MTBLS175	Centella asiatica	http://purl.bioontology.org/ontology/NCBITAXON/48106
-MTBLS482	Cerebral cortex	http://purl.org/sig/ont/fma/fma61830
-MTBLS105	Characteristics[Organism part]	Term Accession Number
-MTBLS105	Characteristics[Organism]	Term Accession Number
-MTBLS244	Chemical	http://purl.bioontology.org/ontology/STY/T103
-MTBLS208	Chlamydomonas reinhardtii	http://purl.bioontology.org/ontology/NCBITAXON/3055
-MTBLS193	Chlorella	http://purl.bioontology.org/ontology/NCBITAXON/114055
-MTBLS270	Cichorium intybus	http://purl.bioontology.org/ontology/NCBITAXON/13427
-MTBLS383	Clavispora lusitaniae	http://purl.bioontology.org/ontology/NCBITAXON/36911
-MTBLS227	Colo-205 cell	http://purl.obolibrary.org/obo/BTO_0000179
-MTBLS227	Colo-320 cell	http://purl.obolibrary.org/obo/BTO_0002047
-MTBLS176	Colorectal adenocarcinoma	http://purl.bioontology.org/ontology/MEDDRA/10052360
-MTBLS128	Corynebacterium glutamicum	http://purl.bioontology.org/ontology/NCBITAXON/1718
-MTBLS493	Cricetulus griseus	http://purl.bioontology.org/ontology/NCBITAXON/10029
-MTBLS331	Crocus sativus	http://purl.bioontology.org/ontology/NCBITAXON/82528
-MTBLS336	Cucumaria georgiana	http://purl.bioontology.org/ontology/NCBITAXON/864626
-MTBLS370	Culture Media	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470
-MTBLS581	Cunila	http://purl.bioontology.org/ontology/NCBITAXON/392618
-MTBLS243	DBA/1J Mouse	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37403
-MTBLS227	DLD-1 cell	http://purl.obolibrary.org/obo/BTO_0000391
-MTBLS260	Daphnia magna	http://purl.bioontology.org/ontology/NCBITAXON/35525
-MTBLS259	Daphnia pulex	http://purl.bioontology.org/ontology/NCBITAXON/6669
-MTBLS612	Drosophila melanogaster	http://purl.bioontology.org/ontology/NCBITAXON/7227
-MTBLS599	Drosophila melanogaster x Drosophila simulans	http://purl.bioontology.org/ontology/NCBITAXON/1128429
-MTBLS543	Equus caballus	http://purl.bioontology.org/ontology/NCBITAXON/9796
-MTBLS229	Escherichia coli	http://purl.bioontology.org/ontology/NCBITAXON/562
-MTBLS393	Escherichia coli BL21(DE3)	http://purl.obolibrary.org/obo/NCBITaxon_469008
-MTBLS113	Euglena gracilis	http://purl.bioontology.org/ontology/NCBITAXON/3039
-MTBLS225	Factor Value[Time]	Term Source REF
-MTBLS345	Food	http://purl.bioontology.org/ontology/STY/T168
-MTBLS291	Gallus gallus	http://purl.bioontology.org/ontology/NCBITAXON/9031
-MTBLS595	Garcinia mangostana	http://purl.bioontology.org/ontology/NCBITAXON/58228
-MTBLS117	Glycine max	http://purl.bioontology.org/ontology/NCBITAXON/3847
-MTBLS337	HCC-1937 cell	http://purl.obolibrary.org/obo/BTO_0003323
-MTBLS594	HCC-1954 cell	http://purl.obolibrary.org/obo/BTO_0005368
-MTBLS227	HCT-116 cell	http://purl.obolibrary.org/obo/BTO_0001109
-MTBLS227	HCT-15 cell	http://purl.obolibrary.org/obo/BTO_0002201
-MTBLS227	HCT-8 cell	http://purl.obolibrary.org/obo/BTO_0002255
-MTBLS156	HEK-293 cell	http://purl.obolibrary.org/obo/BTO_0000007
-MTBLS227	HT-29 cell	http://purl.obolibrary.org/obo/BTO_0000182
-MTBLS412	HUVEC cell	http://purl.obolibrary.org/obo/BTO_0001949
-MTBLS127	HaCaT cell	http://purl.obolibrary.org/obo/BTO_0000552
-MTBLS127	Hep-G2 cell	http://purl.obolibrary.org/obo/BTO_0000599
-MTBLS616	Homo sapiens	http://purl.bioontology.org/ontology/
-MTBLS1	Homo sapiens	http://purl.bioontology.org/ontology/NCBITAXON/9606
-MTBLS101	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
-MTBLS273	Homo sapiens/Mus musculus xenograft	http://purl.bioontology.org/ontology/NCBITAXON/1383439
-MTBLS52	Hordeum vulgare	http://purl.bioontology.org/ontology/NCBITAXON/4513
-MTBLS161	Human	http://purl.bioontology.org/ontology/STY/T016
-MTBLS170	Ilex paraguariensis	http://purl.bioontology.org/ontology/NCBITAXON/185542
-MTBLS574	Inga acreana	http://purl.bioontology.org/ontology/NCBITAXON/485823
-MTBLS574	Inga alata	http://purl.bioontology.org/ontology/NCBITAXON/668906
-MTBLS574	Inga alba	http://purl.bioontology.org/ontology/NCBITAXON/668907
-MTBLS574	Inga auristellae	http://purl.bioontology.org/ontology/NCBITAXON/486050
-MTBLS574	Inga brachystachys	http://purl.bioontology.org/ontology/NCBITAXON/597306
-MTBLS574	Inga chartacea	http://purl.bioontology.org/ontology/NCBITAXON/668909
-MTBLS574	Inga coruscans	http://purl.bioontology.org/ontology/NCBITAXON/670674
-MTBLS574	Inga laurina	http://purl.bioontology.org/ontology/NCBITAXON/487684
-MTBLS574	Inga leiocalycina	http://purl.bioontology.org/ontology/NCBITAXON/486065
-MTBLS574	Inga marginata	http://purl.bioontology.org/ontology/NCBITAXON/468147
-MTBLS574	Inga pezizifera	http://purl.bioontology.org/ontology/NCBITAXON/486075
-MTBLS574	Inga umbellifera	http://purl.bioontology.org/ontology/NCBITAXON/486089
-MTBLS281	Ircinia campana	http://purl.bioontology.org/ontology/NCBITAXON/458501
-MTBLS226	JURKAT cell	http://purl.obolibrary.org/obo/BTO_0000661
-MTBLS429	Jacobaea	http://purl.bioontology.org/ontology/NCBITAXON/405757
-MTBLS227	KM-12 cell	http://purl.obolibrary.org/obo/BTO_0003172
-MTBLS519	Kalanchoe fedtschenkoi	http://purl.bioontology.org/ontology/NCBITAXON/63787
-MTBLS544	Knautia arvensis	http://purl.bioontology.org/ontology/NCBITAXON/105271
-MTBLS227	LS-174T cell	http://purl.obolibrary.org/obo/BTO_0001553
-MTBLS227	LS-180 cell	http://purl.obolibrary.org/obo/BTO_0001609
-MTBLS227	LS411N cell	http://purl.obolibrary.org/obo/CLO_0007406
-MTBLS328	Lactobacillus rhamnosus	http://purl.bioontology.org/ontology/NCBITAXON/47715
-MTBLS343	Lactuca sativa	http://purl.bioontology.org/ontology/NCBITAXON/4236
-MTBLS330	Landoltia punctata	http://purl.bioontology.org/ontology/NCBITAXON/50518
-MTBLS336	Laternula elliptica	http://purl.bioontology.org/ontology/NCBITAXON/228457
-MTBLS396	Left lobe of liver	http://purl.org/sig/ont/fma/fma15810
-MTBLS443	Leishmania infantum	http://purl.obolibrary.org/obo/NCBITaxon_5671
-MTBLS443	Leishmania infantum	http://purl.bioontology.org/ontology/NCBITAXON/5671
-MTBLS443	Leishmania mexicana	http://purl.obolibrary.org/obo/NCBITaxon_5665
-MTBLS443	Leishmania mexicana species complex	http://purl.bioontology.org/ontology/NCBITAXON/38582
-MTBLS330	Lemna gibba	http://purl.bioontology.org/ontology/NCBITAXON/4470
-MTBLS526	Lemna paucicostata	http://purl.bioontology.org/ontology/NCBITAXON/89585
-MTBLS544	Leucanthemum vulgare	http://purl.bioontology.org/ontology/NCBITAXON/99072
-MTBLS336	Liothyrella uva	http://purl.bioontology.org/ontology/NCBITAXON/33482
-MTBLS457	Litoria verreauxii	http://purl.bioontology.org/ontology/NCBITAXON/681275
-MTBLS227	LoVo cell	http://purl.obolibrary.org/obo/BTO_0000666
-MTBLS529	Lolium perenne	http://purl.bioontology.org/ontology/NCBITAXON/4522
-MTBLS14	Lotus burttii	http://purl.bioontology.org/ontology/NCBITAXON/645164
-MTBLS14	Lotus corniculatus	http://purl.bioontology.org/ontology/NCBITAXON/47247
-MTBLS14	Lotus creticus	http://purl.bioontology.org/ontology/NCBITAXON/181267
-MTBLS14	Lotus filicaulis	http://purl.bioontology.org/ontology/NCBITAXON/264956
-MTBLS14	Lotus japonicus	http://purl.bioontology.org/ontology/NCBITAXON/34305
-MTBLS14	Lotus tenuis	http://purl.bioontology.org/ontology/NCBITAXON/347996
-MTBLS14	Lotus uliginosus	http://purl.bioontology.org/ontology/NCBITAXON/181288
-MTBLS409	Lysiphlebia japonica	http://purl.bioontology.org/ontology/NCBITAXON/104022
-MTBLS401	MCF-10A cell	http://purl.obolibrary.org/obo/BTO_0001939
-MTBLS177	MCF-7 cell	http://purl.obolibrary.org/obo/BTO_0000093
-MTBLS337	MDA-MB-231 cell	http://purl.obolibrary.org/obo/BTO_0000815
-MTBLS435	Macleaya cordata	http://purl.bioontology.org/ontology/NCBITAXON/56857
-MTBLS59	Malus domestica	http://purl.bioontology.org/ontology/NCBITAXON/3750
-MTBLS86	Manihot esculenta	http://purl.bioontology.org/ontology/NCBITAXON/3983
-MTBLS336	Marseniopsis mollis	http://purl.bioontology.org/ontology/NCBITAXON/696346
-MTBLS383	Meyerozyma guilliermondii	http://purl.bioontology.org/ontology/NCBITAXON/4929
-MTBLS545	Mice	http://ontology.apa.org/apaonto/termsonlyOUT%20(5).owl#Mice
-MTBLS347	Microbiota	http://purl.bioontology.org/ontology/NCBITAXON/13613
-MTBLS295	Micromonas pusilla	http://purl.bioontology.org/ontology/NCBITAXON/38833
-MTBLS342	Montipora	http://purl.bioontology.org/ontology/NCBITAXON/46703
-MTBLS116	Montipora aequituberculata	http://purl.bioontology.org/ontology/NCBITAXON/105609
+MTBLS374	 	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311
+MTBLS553	Recombinant Protein	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17081
 MTBLS176	Mouse Kidney	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22730
 MTBLS176	Mouse Pancreas	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C24044
-MTBLS495	Mus	http://purl.bioontology.org/ontology/NCBITAXON/862507
-MTBLS189	Mus musculus	http://purl.obolibrary.org/obo/NCBITaxon_10090
-MTBLS125	Mus musculus	http://purl.bioontology.org/ontology/NCBITAXON/10090
-MTBLS196	Mustela putorius	http://purl.bioontology.org/ontology/NCBITAXON/9668
-MTBLS196	Mustela putorius furo	http://purl.obolibrary.org/obo/NCBITaxon_9669
-MTBLS304	Mycobacterium tuberculosis	http://purl.bioontology.org/ontology/NCBITAXON/1773
-MTBLS535	Mycoplasma bovis	http://purl.bioontology.org/ontology/NCBITAXON/28903
-MTBLS535	Mycoplasma gallisepticum	http://purl.bioontology.org/ontology/NCBITAXON/2096
-MTBLS184	NCI-H460 cell	http://purl.obolibrary.org/obo/BTO_0002207
-MTBLS626	NIH-3T3 cell	http://purl.obolibrary.org/obo/BTO_0000944
+MTBLS243	DBA/1J Mouse	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37403
 MTBLS243	Nasal Cartilage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49593
-MTBLS10	Nicotiana attenuata	http://purl.bioontology.org/ontology/NCBITAXON/49451
-MTBLS559	Nicotiana tabacum	http://purl.bioontology.org/ontology/NCBITAXON/4097
-MTBLS433	Olea europaea	http://purl.bioontology.org/ontology/NCBITAXON/4146
-MTBLS433	Oleaceae	http://purl.bioontology.org/ontology/NCBITAXON/4144
+MTBLS451	Sake	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66825
+MTBLS545	Mice	http://ontology.apa.org/apaonto/termsonlyOUT%20(5).owl#Mice
+MTBLS370	Culture Media	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D003470
+MTBLS616	Homo sapiens	http://purl.bioontology.org/ontology/
+MTBLS176	Colorectal adenocarcinoma	http://purl.bioontology.org/ontology/MEDDRA/10052360
 MTBLS433	Olive Oil	http://purl.bioontology.org/ontology/MESH/D000069463
-MTBLS349	Oryctolagus cuniculus	http://purl.bioontology.org/ontology/NCBITAXON/9986
-MTBLS151	Oryza sativa	http://purl.bioontology.org/ontology/NCBITAXON/4530
-MTBLS77	Ovis aries	http://purl.bioontology.org/ontology/NCBITAXON/9940
-MTBLS350	Panax ginseng	http://purl.bioontology.org/ontology/NCBITAXON/4054
-MTBLS426	Papio anubis	http://purl.bioontology.org/ontology/NCBITAXON/9555
-MTBLS336	Paraceradocus	http://purl.bioontology.org/ontology/NCBITAXON/190436
-MTBLS336	Paraceradocus miersii	http://purl.bioontology.org/ontology/NCBITAXON/1811419
-MTBLS193	Parachlorella	http://purl.bioontology.org/ontology/NCBITAXON/247501
-MTBLS362	Photinus pyralis	http://purl.bioontology.org/ontology/NCBITAXON/7054
-MTBLS224	Phyllanthus niruri	http://purl.bioontology.org/ontology/NCBITAXON/296034
-MTBLS383	Pichia kudriavzevii	http://purl.bioontology.org/ontology/NCBITAXON/4909
-MTBLS544	Plantago lanceolata	http://purl.bioontology.org/ontology/NCBITAXON/39414
-MTBLS342	Pocillopora acuta	http://purl.bioontology.org/ontology/NCBITAXON/1491507
-MTBLS116	Pocillopora damicornis	http://purl.bioontology.org/ontology/NCBITAXON/46731
-MTBLS342	Pocillopora meandrina	http://purl.bioontology.org/ontology/NCBITAXON/46732
-MTBLS332	Populus deltoides	http://purl.bioontology.org/ontology/NCBITAXON/3696
-MTBLS119	Populus tremula x Populus alba	http://purl.bioontology.org/ontology/NCBITAXON/80863
-MTBLS342	Porites	http://purl.bioontology.org/ontology/NCBITAXON/46719
-MTBLS116	Porites compressa	http://purl.bioontology.org/ontology/NCBITAXON/46720
-MTBLS116	Porites lobata	http://purl.bioontology.org/ontology/NCBITAXON/104759
-MTBLS342	Porites rus	http://purl.bioontology.org/ontology/NCBITAXON/262591
-MTBLS611	Pristionchus pacificus	http://purl.bioontology.org/ontology/NCBITAXON/54126
-MTBLS431	Pseudomonas aeruginosa	http://purl.bioontology.org/ontology/NCBITAXON/287
+MTBLS626	Cancer-Associated Fibroblasts	http://purl.bioontology.org/ontology/MESH/D000072645
+MTBLS527	 	http://purl.bioontology.org/ontology/MESH/D008812
 MTBLS463	Pseudomonas fluorescens	http://purl.bioontology.org/ontology/NCBITAXON_205922
-MTBLS319	Pseudomonas putida	http://purl.bioontology.org/ontology/NCBITAXON/303
-MTBLS399	Pseudostellaria heterophylla	http://purl.bioontology.org/ontology/NCBITAXON/418402
-MTBLS23	RAW-264.7 cell	http://purl.obolibrary.org/obo/BTO_0003292
-MTBLS227	RKO cell	http://purl.obolibrary.org/obo/BTO_0001890
+MTBLS493	Cricetulus griseus	http://purl.bioontology.org/ontology/NCBITAXON/10029
+MTBLS125	Mus musculus	http://purl.bioontology.org/ontology/NCBITAXON/10090
 MTBLS483	Rattus	http://purl.bioontology.org/ontology/NCBITAXON/10114
-MTBLS190	Rattus andamanensis	http://purl.bioontology.org/ontology/NCBITAXON/69077
 MTBLS114	Rattus norvegicus	http://purl.bioontology.org/ontology/NCBITAXON/10116
 MTBLS313	Rattus rattus	http://purl.bioontology.org/ontology/NCBITAXON/10117
-MTBLS553	Recombinant Protein	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17081
-MTBLS333	Rubus idaeus	http://purl.bioontology.org/ontology/NCBITAXON/32247
-MTBLS455	SH-SY5Y cell	http://purl.obolibrary.org/obo/BTO_0000793
-MTBLS104	SK-N-BE(2) cell	http://purl.obolibrary.org/obo/BTO_0002696
-MTBLS227	SW-1116 cell	http://purl.obolibrary.org/obo/BTO_0001599
-MTBLS227	SW-1398 cell	http://purl.obolibrary.org/obo/BTO_0003746
-MTBLS227	SW-48 cell	http://purl.obolibrary.org/obo/BTO_0001535
-MTBLS227	SW-480 cell	http://purl.obolibrary.org/obo/BTO_0000038
-MTBLS227	SW-620 cell	http://purl.obolibrary.org/obo/BTO_0000675
-MTBLS227	SW-948 cell	http://purl.obolibrary.org/obo/BTO_0001534
-MTBLS227	SW1463 cell	http://purl.obolibrary.org/obo/CLO_0009212
-MTBLS115	Saccharomyces cerevisiae	http://purl.bioontology.org/ontology/NCBITAXON/4932
-MTBLS451	Sake	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66825
-MTBLS35	Salmonella enterica	http://purl.bioontology.org/ontology/NCBITAXON/28901
-MTBLS316	Schizosaccharomyces pombe	http://purl.bioontology.org/ontology/NCBITAXON/4896
-MTBLS316	Schizosaccharomyces pombe/Puccinia graminis mixed DNA library	http://purl.bioontology.org/ontology/NCBITAXON/584653
-MTBLS116	Seriatopora hystrix	http://purl.bioontology.org/ontology/NCBITAXON/51070
-MTBLS552	Serum	http://www.ifomis.org/acgt/1.0#Serum
-MTBLS317	Simulation experiment	http://edamontology.org/topic_3524
-MTBLS571	Skeletonema marinoi	http://purl.bioontology.org/ontology/NCBITAXON/267567
-MTBLS297	Solanum habrochaites	http://purl.bioontology.org/ontology/NCBITAXON/62890
-MTBLS108	Solanum lycopersicum	http://purl.bioontology.org/ontology/NCBITAXON/4081
-MTBLS70	Sorghum bicolor	obo:NCBITaxon_4558
-MTBLS69	Sorghum bicolor	http://purl.bioontology.org/ontology/NCBITAXON/4558
-MTBLS281	Spheciospongia vesparium	http://purl.bioontology.org/ontology/NCBITAXON/295237
-MTBLS330	Spirodela polyrhiza	http://purl.bioontology.org/ontology/NCBITAXON/29656
-MTBLS370	Staphylococcus aureus	http://purl.bioontology.org/ontology/NCBITAXON/1280
-MTBLS553	Streptomyces viridochromogenes	http://purl.bioontology.org/ontology/NCBITAXON/1938
-MTBLS291	Sus scrofa	http://purl.bioontology.org/ontology/NCBITAXON/9823
-MTBLS123	Sus scrofa domesticus	http://purl.obolibrary.org/obo/NCBITaxon_9825
-MTBLS538	Symbiodinium sp. ex Acropora aspera	http://purl.bioontology.org/ontology/NCBITAXON/280471
+MTBLS409	Lysiphlebia japonica	http://purl.bioontology.org/ontology/NCBITAXON/104022
+MTBLS116	Porites lobata	http://purl.bioontology.org/ontology/NCBITAXON/104759
+MTBLS544	Knautia arvensis	http://purl.bioontology.org/ontology/NCBITAXON/105271
+MTBLS116	Montipora aequituberculata	http://purl.bioontology.org/ontology/NCBITAXON/105609
+MTBLS599	Drosophila melanogaster x Drosophila simulans	http://purl.bioontology.org/ontology/NCBITAXON/1128429
+MTBLS193	Chlorella	http://purl.bioontology.org/ontology/NCBITAXON/114055
 MTBLS5	Synechocystis sp. PCC 6803	http://purl.bioontology.org/ontology/NCBITAXON/1148
-MTBLS227	T-84 cell	http://purl.obolibrary.org/obo/BTO_0002032
-MTBLS144	Thalassiosira pseudonana	http://purl.bioontology.org/ontology/NCBITAXON/35128
-MTBLS471	Thorax	http://purl.org/sig/ont/fma/fma9576
-MTBLS552	Tissue	http://www.owl-ontologies.com/Ontology1239104585.owl#Tissue
-MTBLS112	Triticum aestivum	http://purl.obolibrary.org/obo/NCBITaxon_4565
-MTBLS21	Triticum aestivum	http://purl.bioontology.org/ontology/NCBITAXON/4565
-MTBLS49	Trypanosoma brucei	http://purl.bioontology.org/ontology/NCBITAXON/5691
-MTBLS247	U2-OS cell	http://purl.obolibrary.org/obo/BTO_0001938
-MTBLS209	Vitis	http://purl.bioontology.org/ontology/NCBITAXON/3603
-MTBLS137	Vitis vinifera	http://purl.bioontology.org/ontology/NCBITAXON/29760
-MTBLS227	WiDr cell	http://purl.obolibrary.org/obo/BTO_0001483
+MTBLS189	Astragalus mongholicus	http://purl.bioontology.org/ontology/NCBITAXON/119829
+MTBLS370	Staphylococcus aureus	http://purl.bioontology.org/ontology/NCBITAXON/1280
+MTBLS270	Cichorium intybus	http://purl.bioontology.org/ontology/NCBITAXON/13427
+MTBLS347	Microbiota	http://purl.bioontology.org/ontology/NCBITAXON/13613
+MTBLS273	Homo sapiens/Mus musculus xenograft	http://purl.bioontology.org/ontology/NCBITAXON/1383439
+MTBLS538	Acropora aspera	http://purl.bioontology.org/ontology/NCBITAXON/140238
+MTBLS228	Bacillus methanolicus	http://purl.bioontology.org/ontology/NCBITAXON/1471
+MTBLS342	Pocillopora acuta	http://purl.bioontology.org/ontology/NCBITAXON/1491507
 MTBLS330	Wolffia	http://purl.bioontology.org/ontology/NCBITAXON/161109
-MTBLS276	Xenopus laevis	http://purl.bioontology.org/ontology/NCBITAXON/8355
+MTBLS128	Corynebacterium glutamicum	http://purl.bioontology.org/ontology/NCBITAXON/1718
 MTBLS336	Yoldia eightsi	http://purl.bioontology.org/ontology/NCBITAXON/177101
+MTBLS304	Mycobacterium tuberculosis	http://purl.bioontology.org/ontology/NCBITAXON/1773
+MTBLS336	Paraceradocus miersii	http://purl.bioontology.org/ontology/NCBITAXON/1811419
+MTBLS14	Lotus creticus	http://purl.bioontology.org/ontology/NCBITAXON/181267
+MTBLS14	Lotus uliginosus	http://purl.bioontology.org/ontology/NCBITAXON/181288
+MTBLS170	Ilex paraguariensis	http://purl.bioontology.org/ontology/NCBITAXON/185542
+MTBLS336	Paraceradocus	http://purl.bioontology.org/ontology/NCBITAXON/190436
+MTBLS553	Streptomyces viridochromogenes	http://purl.bioontology.org/ontology/NCBITAXON/1938
+MTBLS566	Rhodiola rosea	http://purl.bioontology.org/ontology/NCBITAXON/203015
+MTBLS535	Mycoplasma gallisepticum	http://purl.bioontology.org/ontology/NCBITAXON/2096
+MTBLS336	Laternula elliptica	http://purl.bioontology.org/ontology/NCBITAXON/228457
+MTBLS193	Parachlorella	http://purl.bioontology.org/ontology/NCBITAXON/247501
+MTBLS342	Porites rus	http://purl.bioontology.org/ontology/NCBITAXON/262591
+MTBLS14	Lotus filicaulis	http://purl.bioontology.org/ontology/NCBITAXON/264956
+MTBLS571	Skeletonema marinoi	http://purl.bioontology.org/ontology/NCBITAXON/267567
+MTBLS538	Symbiodinium sp. ex Acropora aspera	http://purl.bioontology.org/ontology/NCBITAXON/280471
+MTBLS431	Pseudomonas aeruginosa	http://purl.bioontology.org/ontology/NCBITAXON/287
+MTBLS35	Salmonella enterica	http://purl.bioontology.org/ontology/NCBITAXON/28901
+MTBLS535	Mycoplasma bovis	http://purl.bioontology.org/ontology/NCBITAXON/28903
+MTBLS281	Spheciospongia vesparium	http://purl.bioontology.org/ontology/NCBITAXON/295237
+MTBLS224	Phyllanthus niruri	http://purl.bioontology.org/ontology/NCBITAXON/296034
+MTBLS330	Spirodela polyrhiza	http://purl.bioontology.org/ontology/NCBITAXON/29656
+MTBLS137	Vitis vinifera	http://purl.bioontology.org/ontology/NCBITAXON/29760
+MTBLS319	Pseudomonas putida	http://purl.bioontology.org/ontology/NCBITAXON/303
+MTBLS113	Euglena gracilis	http://purl.bioontology.org/ontology/NCBITAXON/3039
+MTBLS208	Chlamydomonas reinhardtii	http://purl.bioontology.org/ontology/NCBITAXON/3055
+MTBLS333	Rubus idaeus	http://purl.bioontology.org/ontology/NCBITAXON/32247
+MTBLS336	Liothyrella uva	http://purl.bioontology.org/ontology/NCBITAXON/33482
+MTBLS75	unclassified Cyanobacteria	http://purl.bioontology.org/ontology/NCBITAXON/34079
+MTBLS14	Lotus japonicus	http://purl.bioontology.org/ontology/NCBITAXON/34305
+MTBLS14	Lotus tenuis	http://purl.bioontology.org/ontology/NCBITAXON/347996
+MTBLS144	Thalassiosira pseudonana	http://purl.bioontology.org/ontology/NCBITAXON/35128
+MTBLS544	Centaurea jacea	http://purl.bioontology.org/ontology/NCBITAXON/351340
+MTBLS260	Daphnia magna	http://purl.bioontology.org/ontology/NCBITAXON/35525
+MTBLS209	Vitis	http://purl.bioontology.org/ontology/NCBITAXON/3603
+MTBLS521	Gossypium hirsutum	http://purl.bioontology.org/ontology/NCBITAXON/3635
+MTBLS274	Carica papaya	http://purl.bioontology.org/ontology/NCBITAXON/3649
+MTBLS383	Clavispora lusitaniae	http://purl.bioontology.org/ontology/NCBITAXON/36911
+MTBLS332	Populus deltoides	http://purl.bioontology.org/ontology/NCBITAXON/3696
+MTBLS11	Arabidopsis thaliana	http://purl.bioontology.org/ontology/NCBITAXON/3702
+MTBLS309	Brassica napus	http://purl.bioontology.org/ontology/NCBITAXON/3708
+MTBLS460	Brassica oleracea	http://purl.bioontology.org/ontology/NCBITAXON/3712
+MTBLS59	Malus domestica	http://purl.bioontology.org/ontology/NCBITAXON/3750
+MTBLS583	Arachis hypogaea	http://purl.bioontology.org/ontology/NCBITAXON/3818
+MTBLS117	Glycine max	http://purl.bioontology.org/ontology/NCBITAXON/3847
+MTBLS443	Leishmania mexicana species complex	http://purl.bioontology.org/ontology/NCBITAXON/38582
+MTBLS295	Micromonas pusilla	http://purl.bioontology.org/ontology/NCBITAXON/38833
+MTBLS372	Fraxinus excelsior	http://purl.bioontology.org/ontology/NCBITAXON/38873
+MTBLS581	Cunila	http://purl.bioontology.org/ontology/NCBITAXON/392618
+MTBLS544	Plantago lanceolata	http://purl.bioontology.org/ontology/NCBITAXON/39414
+MTBLS363	Agave americana	http://purl.bioontology.org/ontology/NCBITAXON/39510
+MTBLS86	Manihot esculenta	http://purl.bioontology.org/ontology/NCBITAXON/3983
+MTBLS350	Panax ginseng	http://purl.bioontology.org/ontology/NCBITAXON/4054
+MTBLS429	Jacobaea	http://purl.bioontology.org/ontology/NCBITAXON/405757
+MTBLS108	Solanum lycopersicum	http://purl.bioontology.org/ontology/NCBITAXON/4081
+MTBLS559	Nicotiana tabacum	http://purl.bioontology.org/ontology/NCBITAXON/4097
+MTBLS433	Oleaceae	http://purl.bioontology.org/ontology/NCBITAXON/4144
+MTBLS433	Olea europaea	http://purl.bioontology.org/ontology/NCBITAXON/4146
+MTBLS399	Pseudostellaria heterophylla	http://purl.bioontology.org/ontology/NCBITAXON/418402
+MTBLS343	Lactuca sativa	http://purl.bioontology.org/ontology/NCBITAXON/4236
+MTBLS403	Camellia sinensis	http://purl.bioontology.org/ontology/NCBITAXON/4442
+MTBLS330	Lemna gibba	http://purl.bioontology.org/ontology/NCBITAXON/4470
+MTBLS52	Hordeum vulgare	http://purl.bioontology.org/ontology/NCBITAXON/4513
+MTBLS529	Lolium perenne	http://purl.bioontology.org/ontology/NCBITAXON/4522
+MTBLS151	Oryza sativa	http://purl.bioontology.org/ontology/NCBITAXON/4530
+MTBLS69	Sorghum bicolor	http://purl.bioontology.org/ontology/NCBITAXON/4558
+MTBLS21	Triticum aestivum	http://purl.bioontology.org/ontology/NCBITAXON/4565
 MTBLS575	Zea mays	http://purl.bioontology.org/ontology/NCBITAXON/4577
-MTBLS72	acetonitrile	http://purl.obolibrary.org/obo/CHEBI_38472
-MTBLS594	adipose tissue	http://purl.obolibrary.org/obo/BTO_0001487
-MTBLS40	aerial part	http://purl.obolibrary.org/obo/BTO_0001658
-MTBLS335	anther	http://www.ebi.ac.uk/efo/EFO_0005101
+MTBLS281	Ircinia campana	http://purl.bioontology.org/ontology/NCBITAXON/458501
+MTBLS342	Montipora	http://purl.bioontology.org/ontology/NCBITAXON/46703
+MTBLS342	Porites	http://purl.bioontology.org/ontology/NCBITAXON/46719
+MTBLS116	Porites compressa	http://purl.bioontology.org/ontology/NCBITAXON/46720
+MTBLS116	Pocillopora damicornis	http://purl.bioontology.org/ontology/NCBITAXON/46731
+MTBLS342	Pocillopora meandrina	http://purl.bioontology.org/ontology/NCBITAXON/46732
+MTBLS574	Inga marginata	http://purl.bioontology.org/ontology/NCBITAXON/468147
+MTBLS14	Lotus corniculatus	http://purl.bioontology.org/ontology/NCBITAXON/47247
+MTBLS478	xylem	http://purl.bioontology.org/ontology/NCBITAXON/47664
+MTBLS328	Lactobacillus rhamnosus	http://purl.bioontology.org/ontology/NCBITAXON/47715
+MTBLS175	Centella asiatica	http://purl.bioontology.org/ontology/NCBITAXON/48106
+MTBLS574	Inga acreana	http://purl.bioontology.org/ontology/NCBITAXON/485823
+MTBLS574	Inga auristellae	http://purl.bioontology.org/ontology/NCBITAXON/486050
+MTBLS574	Inga leiocalycina	http://purl.bioontology.org/ontology/NCBITAXON/486065
+MTBLS574	Inga pezizifera	http://purl.bioontology.org/ontology/NCBITAXON/486075
+MTBLS574	Inga umbellifera	http://purl.bioontology.org/ontology/NCBITAXON/486089
+MTBLS574	Inga laurina	http://purl.bioontology.org/ontology/NCBITAXON/487684
+MTBLS316	Schizosaccharomyces pombe	http://purl.bioontology.org/ontology/NCBITAXON/4896
+MTBLS383	Pichia kudriavzevii	http://purl.bioontology.org/ontology/NCBITAXON/4909
+MTBLS383	Meyerozyma guilliermondii	http://purl.bioontology.org/ontology/NCBITAXON/4929
+MTBLS115	Saccharomyces cerevisiae	http://purl.bioontology.org/ontology/NCBITAXON/4932
+MTBLS10	Nicotiana attenuata	http://purl.bioontology.org/ontology/NCBITAXON/49451
+MTBLS330	Landoltia punctata	http://purl.bioontology.org/ontology/NCBITAXON/50518
+MTBLS116	Seriatopora hystrix	http://purl.bioontology.org/ontology/NCBITAXON/51070
+MTBLS383	Candida inconspicua	http://purl.bioontology.org/ontology/NCBITAXON/52247
+MTBLS611	Pristionchus pacificus	http://purl.bioontology.org/ontology/NCBITAXON/54126
+MTBLS370	Candida albicans	http://purl.bioontology.org/ontology/NCBITAXON/5476
+MTBLS383	Candida glabrata	http://purl.bioontology.org/ontology/NCBITAXON/5478
+MTBLS383	Candida parapsilosis	http://purl.bioontology.org/ontology/NCBITAXON/5480
+MTBLS383	Candida tropicalis	http://purl.bioontology.org/ontology/NCBITAXON/5482
+MTBLS229	Escherichia coli	http://purl.bioontology.org/ontology/NCBITAXON/562
+MTBLS443	Leishmania infantum	http://purl.bioontology.org/ontology/NCBITAXON/5671
+MTBLS435	Macleaya cordata	http://purl.bioontology.org/ontology/NCBITAXON/56857
+MTBLS49	Trypanosoma brucei	http://purl.bioontology.org/ontology/NCBITAXON/5691
+MTBLS595	Garcinia mangostana	http://purl.bioontology.org/ontology/NCBITAXON/58228
+MTBLS316	Schizosaccharomyces pombe/Puccinia graminis mixed DNA library	http://purl.bioontology.org/ontology/NCBITAXON/584653
+MTBLS574	Inga brachystachys	http://purl.bioontology.org/ontology/NCBITAXON/597306
+MTBLS342	Acropora	http://purl.bioontology.org/ontology/NCBITAXON/6127
+MTBLS291	Caenorhabditis elegans	http://purl.bioontology.org/ontology/NCBITAXON/6239
+MTBLS297	Solanum habrochaites	http://purl.bioontology.org/ontology/NCBITAXON/62890
+MTBLS519	Kalanchoe fedtschenkoi	http://purl.bioontology.org/ontology/NCBITAXON/63787
+MTBLS14	Lotus burttii	http://purl.bioontology.org/ontology/NCBITAXON/645164
+MTBLS471	Acromyrmex octospinosus	http://purl.bioontology.org/ontology/NCBITAXON/64783
+MTBLS259	Daphnia pulex	http://purl.bioontology.org/ontology/NCBITAXON/6669
+MTBLS574	Inga alata	http://purl.bioontology.org/ontology/NCBITAXON/668906
+MTBLS574	Inga alba	http://purl.bioontology.org/ontology/NCBITAXON/668907
+MTBLS574	Inga chartacea	http://purl.bioontology.org/ontology/NCBITAXON/668909
+MTBLS574	Inga coruscans	http://purl.bioontology.org/ontology/NCBITAXON/670674
+MTBLS457	Litoria verreauxii	http://purl.bioontology.org/ontology/NCBITAXON/681275
+MTBLS91	Calanus	http://purl.bioontology.org/ontology/NCBITAXON/6836
+MTBLS190	Rattus andamanensis	http://purl.bioontology.org/ontology/NCBITAXON/69077
+MTBLS336	Marseniopsis mollis	http://purl.bioontology.org/ontology/NCBITAXON/696346
+MTBLS362	Photinus pyralis	http://purl.bioontology.org/ontology/NCBITAXON/7054
+MTBLS210	Aedes albopictus	http://purl.bioontology.org/ontology/NCBITAXON/7160
+MTBLS612	Drosophila melanogaster	http://purl.bioontology.org/ontology/NCBITAXON/7227
+MTBLS379	Apis cerana	http://purl.bioontology.org/ontology/NCBITAXON/7461
+MTBLS410	Aphis gossypii	http://purl.bioontology.org/ontology/NCBITAXON/80765
+MTBLS119	Populus tremula x Populus alba	http://purl.bioontology.org/ontology/NCBITAXON/80863
+MTBLS331	Crocus sativus	http://purl.bioontology.org/ontology/NCBITAXON/82528
+MTBLS276	Xenopus laevis	http://purl.bioontology.org/ontology/NCBITAXON/8355
+MTBLS495	Mus	http://purl.bioontology.org/ontology/NCBITAXON/862507
+MTBLS336	Cucumaria georgiana	http://purl.bioontology.org/ontology/NCBITAXON/864626
+MTBLS526	Lemna paucicostata	http://purl.bioontology.org/ontology/NCBITAXON/89585
+MTBLS291	Gallus gallus	http://purl.bioontology.org/ontology/NCBITAXON/9031
+MTBLS426	Papio anubis	http://purl.bioontology.org/ontology/NCBITAXON/9555
+MTBLS177	Homo sapiens	http://purl.bioontology.org/ontology/NCBITAXON/9606
+MTBLS1	Homo sapiens	http://purl.bioontology.org/ontology/NCBITAXON/9606
+MTBLS165	Ailuropoda melanoleuca	http://purl.bioontology.org/ontology/NCBITAXON/9646
+MTBLS196	Mustela putorius	http://purl.bioontology.org/ontology/NCBITAXON/9668
+MTBLS543	Equus caballus	http://purl.bioontology.org/ontology/NCBITAXON/9796
+MTBLS291	Sus scrofa	http://purl.bioontology.org/ontology/NCBITAXON/9823
+MTBLS544	Leucanthemum vulgare	http://purl.bioontology.org/ontology/NCBITAXON/99072
+MTBLS185	Bos taurus	http://purl.bioontology.org/ontology/NCBITAXON/9913
+MTBLS322	Ovis aries	http://purl.bioontology.org/ontology/NCBITAXON/9940
+MTBLS77	Ovis aries	http://purl.bioontology.org/ontology/NCBITAXON/9940
+MTBLS349	Oryctolagus cuniculus	http://purl.bioontology.org/ontology/NCBITAXON/9986
+MTBLS161	Human	http://purl.bioontology.org/ontology/STY/T016
+MTBLS244	Chemical	http://purl.bioontology.org/ontology/STY/T103
+MTBLS345	Food	http://purl.bioontology.org/ontology/STY/T168
+MTBLS560	ileal content	http://purl.jp/bio/11/meo/MEO_0000969
+MTBLS560	cecal content	http://purl.jp/bio/11/meo/MEO_0000970
+MTBLS381	reference compound	http://purl.obolibrary.org/obo/BAO_0002092
+MTBLS156	HEK-293 cell	http://purl.obolibrary.org/obo/BTO_0000007
+MTBLS184	A-549 cell	http://purl.obolibrary.org/obo/BTO_0000018
+MTBLS289	colorectal adenocarcinoma cell	http://purl.obolibrary.org/obo/BTO_0000035
+MTBLS227	SW-480 cell	http://purl.obolibrary.org/obo/BTO_0000038
 MTBLS335	anther	http://purl.obolibrary.org/obo/BTO_0000079
-MTBLS595	aril	http://purl.obolibrary.org/obo/PO_0009090
-MTBLS39	berry	http://purl.obolibrary.org/obo/BTO_0000119
-MTBLS307	blank value	http://purl.obolibrary.org/obo/CHMO_0002804
 MTBLS263	blood	http://purl.obolibrary.org/obo/BTO_0000089
-MTBLS549	blood	http://purl.obolibrary.org/obo/UBERON_0000178
-MTBLS105	blood plasma	http://purl.obolibrary.org/obo/UBERON_0001969
+MTBLS177	MCF-7 cell	http://purl.obolibrary.org/obo/BTO_0000093
+MTBLS39	berry	http://purl.obolibrary.org/obo/BTO_0000119
 MTBLS105	blood plasma	http://purl.obolibrary.org/obo/BTO_0000131
 MTBLS103	blood serum	http://purl.obolibrary.org/obo/BTO_0000133
 MTBLS360	bloodstream form	http://purl.obolibrary.org/obo/BTO_0000134
 MTBLS197	brain	http://purl.obolibrary.org/obo/BTO_0000142
 MTBLS273	breast cancer cell	http://purl.obolibrary.org/obo/BTO_0000150
-MTBLS335	bud	http://www.ebi.ac.uk/efo/EFO_0001023
-MTBLS483	cardiomyocyte cell line	http://purl.obolibrary.org/obo/BTO_0003324
-MTBLS560	cecal content	http://purl.jp/bio/11/meo/MEO_0000970
+MTBLS335	corolla	http://purl.obolibrary.org/obo/BTO_0000163
+MTBLS127	C2C12 cell	http://purl.obolibrary.org/obo/BTO_0000165
+MTBLS227	Colo-205 cell	http://purl.obolibrary.org/obo/BTO_0000179
+MTBLS227	HT-29 cell	http://purl.obolibrary.org/obo/BTO_0000182
+MTBLS227	CACO-2 cell	http://purl.obolibrary.org/obo/BTO_0000195
 MTBLS559	cell suspension culture	http://purl.obolibrary.org/obo/BTO_0000221
 MTBLS413	cerebrospinal fluid	http://purl.obolibrary.org/obo/BTO_0000237
-MTBLS415	colorectal adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000365
-MTBLS289	colorectal adenocarcinoma cell	http://purl.obolibrary.org/obo/BTO_0000035
-MTBLS273	colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842
-MTBLS214	conjunctiva	http://purl.obolibrary.org/obo/BTO_0003415
-MTBLS335	corolla	http://purl.obolibrary.org/obo/BTO_0000163
-MTBLS335	corolla tube	http://purl.obolibrary.org/obo/BTO_0005660
-MTBLS447	cotyledon	http://purl.obolibrary.org/obo/PO_0020030
+MTBLS599	head	http://purl.obolibrary.org/obo/BTO_0000282
 MTBLS491	culture medium	http://purl.obolibrary.org/obo/BTO_0000316
-MTBLS370	culture supernatant	http://purl.obolibrary.org/obo/BTO_0002217
-MTBLS447	cultured plant callus	http://purl.obolibrary.org/obo/PO_0000009
-MTBLS595	early whole plant fruit ripening stage	http://purl.obolibrary.org/obo/PO_0007001
+MTBLS233	renal tubule	http://purl.obolibrary.org/obo/BTO_0000343
+MTBLS335	nectary	http://purl.obolibrary.org/obo/BTO_0000357
 MTBLS291	egg	http://purl.obolibrary.org/obo/BTO_0000369
-MTBLS549	erythrocyte	http://purl.obolibrary.org/obo/CL_0000232
+MTBLS227	DLD-1 cell	http://purl.obolibrary.org/obo/BTO_0000391
 MTBLS264	erythrocyte	http://purl.obolibrary.org/obo/BTO_0000424
-MTBLS385	esophagus	http://purl.obolibrary.org/obo/BTO_0000959
-MTBLS434	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
 MTBLS444	eye	http://purl.obolibrary.org/obo/BTO_0000439
 MTBLS237	feces	http://purl.obolibrary.org/obo/BTO_0000440
 MTBLS6	fetal serum	http://purl.obolibrary.org/obo/BTO_0000448
-MTBLS335	filament	http://www.ebi.ac.uk/efo/EFO_0005102
+MTBLS493	CHO-K1 cell	http://purl.obolibrary.org/obo/BTO_0000457
 MTBLS335	filament	http://purl.obolibrary.org/obo/BTO_0000463
 MTBLS519	flower	http://purl.obolibrary.org/obo/BTO_0000469
 MTBLS335	flower bud	http://purl.obolibrary.org/obo/BTO_0000470
-MTBLS69	flower stalk	http://purl.obolibrary.org/obo/BTO_0002244
-MTBLS371	fruit	http://purl.obolibrary.org/obo/PO_0009001
 MTBLS333	fruit	http://purl.obolibrary.org/obo/BTO_0000486
-MTBLS297	glandular trichome	http://purl.obolibrary.org/obo/PO_0004509
-MTBLS244	glucose	http://purl.obolibrary.org/obo/CHEBI_17234
-MTBLS53	glutamate(2-)	http://purl.obolibrary.org/obo/CHEBI_29987
-MTBLS412	glycogen	http://purl.obolibrary.org/obo/CHEBI_28087
-MTBLS599	head	http://purl.obolibrary.org/obo/BTO_0000282
-MTBLS612	head	http://purl.obolibrary.org/obo/UBERON_0000033
+MTBLS127	HaCaT cell	http://purl.obolibrary.org/obo/BTO_0000552
 MTBLS594	heart	http://purl.obolibrary.org/obo/BTO_0000562
-MTBLS173	heart ventricle	http://purl.obolibrary.org/obo/BTO_0000862
-MTBLS419	hepatoma cell	http://purl.obolibrary.org/obo/BTO_0000608
-MTBLS160	hydroponic plant culture media	http://purl.obolibrary.org/obo/EO_0007067
-MTBLS560	ileal content	http://purl.jp/bio/11/meo/MEO_0000969
-MTBLS527	intestine	http://purl.obolibrary.org/obo/UBERON_0000160
-MTBLS370	intracellular part	http://purl.obolibrary.org/obo/GO_0044424
-MTBLS367	kidney	http://purl.obolibrary.org/obo/BTO_0000671
-MTBLS53	lactate	http://purl.obolibrary.org/obo/CHEBI_24996
-MTBLS297	leaf	http://purl.obolibrary.org/obo/PO_0025034
-MTBLS10	leaf	http://purl.obolibrary.org/obo/BTO_0000713
-MTBLS519	leaf tip	http://purl.obolibrary.org/obo/BTO_0001814
-MTBLS426	left ventricle	http://purl.obolibrary.org/obo/BTO_0001629
-MTBLS335	limb	http://purl.obolibrary.org/obo/BTO_0001492
-MTBLS189	liver	http://purl.obolibrary.org/obo/UBERON_0002107
-MTBLS269	liver	http://purl.obolibrary.org/obo/BTO_0000759
 MTBLS282	liver cancer cell	http://purl.obolibrary.org/obo/BTO_0000594
-MTBLS189	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+MTBLS127	Hep-G2 cell	http://purl.obolibrary.org/obo/BTO_0000599
+MTBLS419	hepatoma cell	http://purl.obolibrary.org/obo/BTO_0000608
+MTBLS226	JURKAT cell	http://purl.obolibrary.org/obo/BTO_0000661
+MTBLS227	LoVo cell	http://purl.obolibrary.org/obo/BTO_0000666
+MTBLS367	kidney	http://purl.obolibrary.org/obo/BTO_0000671
+MTBLS227	SW-620 cell	http://purl.obolibrary.org/obo/BTO_0000675
+MTBLS10	leaf	http://purl.obolibrary.org/obo/BTO_0000713
+MTBLS335	plant ovary	http://purl.obolibrary.org/obo/BTO_0000750
+MTBLS269	liver	http://purl.obolibrary.org/obo/BTO_0000759
 MTBLS277	lung	http://purl.obolibrary.org/obo/BTO_0000763
 MTBLS226	lymphoblast	http://purl.obolibrary.org/obo/BTO_0000772
-MTBLS626	mammary gland tumor cell	http://purl.obolibrary.org/obo/BTO_0004087
-MTBLS193	matrix	http://purl.obolibrary.org/obo/CHMO_0002743
-MTBLS370	media	http://www.ebi.ac.uk/efo/EFO_0000579
-MTBLS187	microbial mat	http://purl.obolibrary.org/obo/ENVO_01000008
+MTBLS455	SH-SY5Y cell	http://purl.obolibrary.org/obo/BTO_0000793
+MTBLS337	MDA-MB-231 cell	http://purl.obolibrary.org/obo/BTO_0000815
+MTBLS173	heart ventricle	http://purl.obolibrary.org/obo/BTO_0000862
 MTBLS165	milk	http://purl.obolibrary.org/obo/BTO_0000868
-MTBLS134	mixture	http://purl.obolibrary.org/obo/CHEBI_60004
 MTBLS53	monocyte	http://purl.obolibrary.org/obo/BTO_0000876
 MTBLS269	muscle	http://purl.obolibrary.org/obo/BTO_0000887
-MTBLS335	nectary	http://purl.obolibrary.org/obo/BTO_0000357
-MTBLS541	neuroblastoma cell line	http://www.ebi.ac.uk/efo/EFO_0002859
-MTBLS176	oral squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0000199
-MTBLS150	ovarian serous adenocarcinoma cell line	http://purl.obolibrary.org/obo/BTO_0003804
+MTBLS626	NIH-3T3 cell	http://purl.obolibrary.org/obo/BTO_0000944
+MTBLS385	esophagus	http://purl.obolibrary.org/obo/BTO_0000959
 MTBLS594	pancreas	http://purl.obolibrary.org/obo/BTO_0000988
-MTBLS335	pedicel	http://purl.obolibrary.org/obo/PO_0009052
-MTBLS595	pericarp	http://purl.obolibrary.org/obo/PO_0009084
 MTBLS244	peritoneal macrophage	http://purl.obolibrary.org/obo/BTO_0001034
-MTBLS72	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
-MTBLS335	plant ovary	http://www.ebi.ac.uk/efo/EFO_0001052
-MTBLS335	plant ovary	http://purl.obolibrary.org/obo/BTO_0000750
-MTBLS335	plant pedicel	http://purl.obolibrary.org/obo/BTO_0002262
+MTBLS594	skeletal muscle	http://purl.obolibrary.org/obo/BTO_0001103
+MTBLS227	HCT-116 cell	http://purl.obolibrary.org/obo/BTO_0001109
 MTBLS283	pre-B-lymphocyte	http://purl.obolibrary.org/obo/BTO_0001133
-MTBLS189	primary root	http://purl.obolibrary.org/obo/PO_0020127
-MTBLS140	pure substance	http://purl.obolibrary.org/obo/CHEBI_60003
-MTBLS381	reference compound	http://purl.obolibrary.org/obo/BAO_0002092
-MTBLS113	reference compound	http://www.bioassayontology.org/bao#BAO_0002092
-MTBLS307	reference material	http://purl.obolibrary.org/obo/CHMO_0002913
-MTBLS9	renal epithelial cell	http://purl.obolibrary.org/obo/BTO_0005545
-MTBLS140	renal proximal tubule	http://purl.obolibrary.org/obo/BTO_0001498
-MTBLS233	renal tubule	http://purl.obolibrary.org/obo/BTO_0000343
-MTBLS79	right ventricle	http://purl.obolibrary.org/obo/BTO_0001630
 MTBLS45	root	http://purl.obolibrary.org/obo/BTO_0001188
-MTBLS335	root	http://purl.obolibrary.org/obo/PO_0009005
 MTBLS519	root tip	http://purl.obolibrary.org/obo/BTO_0001191
-MTBLS169	rosette leaf	http://purl.obolibrary.org/obo/BTO_0003086
-MTBLS335	rosette leaf	http://www.ebi.ac.uk/efo/EFO_0001984
 MTBLS100	saliva	http://purl.obolibrary.org/obo/BTO_0001202
-MTBLS281	sea water	http://purl.obolibrary.org/obo/ENVO_00002149
 MTBLS120	seed	http://purl.obolibrary.org/obo/BTO_0001226
-MTBLS595	seed	http://purl.obolibrary.org/obo/PO_0009010
-MTBLS69	seed vessel	http://purl.obolibrary.org/obo/BTO_0004209
 MTBLS129	seedling	http://purl.obolibrary.org/obo/BTO_0001228
 MTBLS285	semen	http://purl.obolibrary.org/obo/BTO_0001230
 MTBLS420	seminal plasma	http://purl.obolibrary.org/obo/BTO_0001232
-MTBLS335	sepal	http://www.ebi.ac.uk/efo/EFO_0001026
-MTBLS335	sepal	http://purl.obolibrary.org/obo/BTO_0001547
 MTBLS231	serum	http://purl.obolibrary.org/obo/BTO_0001239
 MTBLS583	shoot	http://purl.obolibrary.org/obo/BTO_0001243
-MTBLS544	shoot system	http://purl.obolibrary.org/obo/PO_0009006
-MTBLS594	skeletal muscle	http://purl.obolibrary.org/obo/BTO_0001103
-MTBLS307	solution	http://purl.obolibrary.org/obo/CHEBI_75958
-MTBLS259	solvent	http://purl.obolibrary.org/obo/CHEBI_46787
 MTBLS112	spike	http://purl.obolibrary.org/obo/BTO_0001278
-MTBLS189	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
 MTBLS594	spleen	http://purl.obolibrary.org/obo/BTO_0001281
 MTBLS175	stem	http://purl.obolibrary.org/obo/BTO_0001300
-MTBLS335	stem	http://www.ebi.ac.uk/efo/EFO_0001040
-MTBLS331	stigma	http://purl.obolibrary.org/obo/PO_0009073
 MTBLS331	stigma	http://purl.obolibrary.org/obo/BTO_0001303
 MTBLS335	style	http://purl.obolibrary.org/obo/BTO_0001313
-MTBLS335	style	http://purl.obolibrary.org/obo/PO_0009074
 MTBLS543	synovia	http://purl.obolibrary.org/obo/BTO_0001339
-MTBLS75	unclassified Cyanobacteria	http://purl.bioontology.org/ontology/NCBITAXON/34079
 MTBLS1	urine	http://purl.obolibrary.org/obo/BTO_0001419
-MTBLS194	urine	http://purl.obolibrary.org/obo/UBERON_0001088
 MTBLS349	vitreous humor	http://purl.obolibrary.org/obo/BTO_0001451
-MTBLS72	water	http://purl.obolibrary.org/obo/CHEBI_15377
 MTBLS269	white adipose tissue	http://purl.obolibrary.org/obo/BTO_0001456
-MTBLS496	whole cell lysate format	http://www.bioassayontology.org/bao#BAO_0000254
-MTBLS304	whole organism	http://purl.obolibrary.org/obo/UBERON_0000468
-MTBLS116	whole organism	http://www.ebi.ac.uk/efo/EFO_0002906
 MTBLS224	whole plant	http://purl.obolibrary.org/obo/BTO_0001461
-MTBLS478	xylem	http://purl.bioontology.org/ontology/NCBITAXON/47664
+MTBLS227	WiDr cell	http://purl.obolibrary.org/obo/BTO_0001483
+MTBLS594	adipose tissue	http://purl.obolibrary.org/obo/BTO_0001487
+MTBLS335	limb	http://purl.obolibrary.org/obo/BTO_0001492
+MTBLS140	renal proximal tubule	http://purl.obolibrary.org/obo/BTO_0001498
+MTBLS227	SW-948 cell	http://purl.obolibrary.org/obo/BTO_0001534
+MTBLS227	SW-48 cell	http://purl.obolibrary.org/obo/BTO_0001535
+MTBLS335	sepal	http://purl.obolibrary.org/obo/BTO_0001547
+MTBLS227	LS-174T cell	http://purl.obolibrary.org/obo/BTO_0001553
+MTBLS227	SW-1116 cell	http://purl.obolibrary.org/obo/BTO_0001599
+MTBLS227	LS-180 cell	http://purl.obolibrary.org/obo/BTO_0001609
+MTBLS426	left ventricle	http://purl.obolibrary.org/obo/BTO_0001629
+MTBLS79	right ventricle	http://purl.obolibrary.org/obo/BTO_0001630
+MTBLS40	aerial part	http://purl.obolibrary.org/obo/BTO_0001658
+MTBLS519	leaf tip	http://purl.obolibrary.org/obo/BTO_0001814
+MTBLS227	RKO cell	http://purl.obolibrary.org/obo/BTO_0001890
+MTBLS247	U2-OS cell	http://purl.obolibrary.org/obo/BTO_0001938
+MTBLS401	MCF-10A cell	http://purl.obolibrary.org/obo/BTO_0001939
+MTBLS412	HUVEC cell	http://purl.obolibrary.org/obo/BTO_0001949
+MTBLS227	T-84 cell	http://purl.obolibrary.org/obo/BTO_0002032
+MTBLS227	Colo-320 cell	http://purl.obolibrary.org/obo/BTO_0002047
+MTBLS227	HCT-15 cell	http://purl.obolibrary.org/obo/BTO_0002201
+MTBLS184	NCI-H460 cell	http://purl.obolibrary.org/obo/BTO_0002207
+MTBLS370	culture supernatant	http://purl.obolibrary.org/obo/BTO_0002217
+MTBLS69	flower stalk	http://purl.obolibrary.org/obo/BTO_0002244
+MTBLS227	HCT-8 cell	http://purl.obolibrary.org/obo/BTO_0002255
+MTBLS335	plant pedicel	http://purl.obolibrary.org/obo/BTO_0002262
+MTBLS213	ARPE-19 cell	http://purl.obolibrary.org/obo/BTO_0002335
+MTBLS104	SK-N-BE(2) cell	http://purl.obolibrary.org/obo/BTO_0002696
+MTBLS184	BEAS-2B cell	http://purl.obolibrary.org/obo/BTO_0002923
+MTBLS169	rosette leaf	http://purl.obolibrary.org/obo/BTO_0003086
+MTBLS227	KM-12 cell	http://purl.obolibrary.org/obo/BTO_0003172
+MTBLS23	RAW-264.7 cell	http://purl.obolibrary.org/obo/BTO_0003292
+MTBLS337	HCC-1937 cell	http://purl.obolibrary.org/obo/BTO_0003323
+MTBLS483	cardiomyocyte cell line	http://purl.obolibrary.org/obo/BTO_0003324
+MTBLS214	conjunctiva	http://purl.obolibrary.org/obo/BTO_0003415
+MTBLS227	SW-1398 cell	http://purl.obolibrary.org/obo/BTO_0003746
+MTBLS150	ovarian serous adenocarcinoma cell line	http://purl.obolibrary.org/obo/BTO_0003804
+MTBLS626	mammary gland tumor cell	http://purl.obolibrary.org/obo/BTO_0004087
+MTBLS69	seed vessel	http://purl.obolibrary.org/obo/BTO_0004209
+MTBLS227	C-10 cell	http://purl.obolibrary.org/obo/BTO_0004532
+MTBLS594	HCC-1954 cell	http://purl.obolibrary.org/obo/BTO_0005368
+MTBLS9	renal epithelial cell	http://purl.obolibrary.org/obo/BTO_0005545
+MTBLS335	corolla tube	http://purl.obolibrary.org/obo/BTO_0005660
+MTBLS72	water	http://purl.obolibrary.org/obo/CHEBI_15377
+MTBLS434	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236
+MTBLS244	glucose	http://purl.obolibrary.org/obo/CHEBI_17234
+MTBLS53	lactate	http://purl.obolibrary.org/obo/CHEBI_24996
+MTBLS412	glycogen	http://purl.obolibrary.org/obo/CHEBI_28087
+MTBLS53	glutamate(2-)	http://purl.obolibrary.org/obo/CHEBI_29987
+MTBLS72	acetonitrile	http://purl.obolibrary.org/obo/CHEBI_38472
+MTBLS259	solvent	http://purl.obolibrary.org/obo/CHEBI_46787
+MTBLS140	pure substance	http://purl.obolibrary.org/obo/CHEBI_60003
+MTBLS134	mixture	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS307	solution	http://purl.obolibrary.org/obo/CHEBI_75958
+MTBLS193	matrix	http://purl.obolibrary.org/obo/CHMO_0002743
+MTBLS307	blank value	http://purl.obolibrary.org/obo/CHMO_0002804
+MTBLS307	reference material	http://purl.obolibrary.org/obo/CHMO_0002913
+MTBLS549	erythrocyte	http://purl.obolibrary.org/obo/CL_0000232
+MTBLS156	A2780 cell	http://purl.obolibrary.org/obo/CLO_0001571
+MTBLS227	LS411N cell	http://purl.obolibrary.org/obo/CLO_0007406
+MTBLS227	SW1463 cell	http://purl.obolibrary.org/obo/CLO_0009212
+MTBLS281	sea water	http://purl.obolibrary.org/obo/ENVO_00002149
+MTBLS187	microbial mat	http://purl.obolibrary.org/obo/ENVO_01000008
+MTBLS160	hydroponic plant culture media	http://purl.obolibrary.org/obo/EO_0007067
+MTBLS370	intracellular part	http://purl.obolibrary.org/obo/GO_0044424
+MTBLS189	Mus musculus	http://purl.obolibrary.org/obo/NCBITaxon_10090
+MTBLS497	Staphylococcus aureus	http://purl.obolibrary.org/obo/NCBITaxon_1280
+MTBLS496	Campylobacter jejuni subsp. jejuni NCTC 11168	http://purl.obolibrary.org/obo/NCBITaxon_192222
+MTBLS497	Pseudomonas aeruginosa	http://purl.obolibrary.org/obo/NCBITaxon_287
+MTBLS129	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
+MTBLS312	Brassica napus	http://purl.obolibrary.org/obo/NCBITaxon_3708
+MTBLS550	Brassica oleracea	http://purl.obolibrary.org/obo/NCBITaxon_3712
+MTBLS576	Sinorhizobium meliloti	http://purl.obolibrary.org/obo/NCBITaxon_382
+MTBLS531	Glycine max	http://purl.obolibrary.org/obo/NCBITaxon_3847
+MTBLS112	Triticum aestivum	http://purl.obolibrary.org/obo/NCBITaxon_4565
+MTBLS393	Escherichia coli BL21(DE3)	http://purl.obolibrary.org/obo/NCBITaxon_469008
+MTBLS497	Escherichia coli	http://purl.obolibrary.org/obo/NCBITaxon_562
+MTBLS443	Leishmania mexicana	http://purl.obolibrary.org/obo/NCBITaxon_5665
+MTBLS443	Leishmania infantum	http://purl.obolibrary.org/obo/NCBITaxon_5671
+MTBLS497	Klebsiella pneumoniae	http://purl.obolibrary.org/obo/NCBITaxon_573
+MTBLS3	Caenorhabditis elegans	http://purl.obolibrary.org/obo/NCBITaxon_6239
+MTBLS101	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606
+MTBLS196	Mustela putorius furo	http://purl.obolibrary.org/obo/NCBITaxon_9669
+MTBLS123	Sus scrofa domesticus	http://purl.obolibrary.org/obo/NCBITaxon_9825
+MTBLS374	 	http://purl.obolibrary.org/obo/PATO_0000383
+MTBLS374	 	http://purl.obolibrary.org/obo/PATO_0000384
+MTBLS447	cultured plant callus	http://purl.obolibrary.org/obo/PO_0000009
+MTBLS297	glandular trichome	http://purl.obolibrary.org/obo/PO_0004509
+MTBLS595	early whole plant fruit ripening stage	http://purl.obolibrary.org/obo/PO_0007001
+MTBLS371	fruit	http://purl.obolibrary.org/obo/PO_0009001
+MTBLS335	root	http://purl.obolibrary.org/obo/PO_0009005
+MTBLS544	shoot system	http://purl.obolibrary.org/obo/PO_0009006
+MTBLS595	seed	http://purl.obolibrary.org/obo/PO_0009010
+MTBLS335	pedicel	http://purl.obolibrary.org/obo/PO_0009052
+MTBLS331	stigma	http://purl.obolibrary.org/obo/PO_0009073
+MTBLS335	style	http://purl.obolibrary.org/obo/PO_0009074
+MTBLS595	pericarp	http://purl.obolibrary.org/obo/PO_0009084
+MTBLS595	aril	http://purl.obolibrary.org/obo/PO_0009090
+MTBLS447	cotyledon	http://purl.obolibrary.org/obo/PO_0020030
+MTBLS189	primary root	http://purl.obolibrary.org/obo/PO_0020127
+MTBLS297	leaf	http://purl.obolibrary.org/obo/PO_0025034
+MTBLS612	head	http://purl.obolibrary.org/obo/UBERON_0000033
+MTBLS527	intestine	http://purl.obolibrary.org/obo/UBERON_0000160
+MTBLS549	blood	http://purl.obolibrary.org/obo/UBERON_0000178
+MTBLS304	whole organism	http://purl.obolibrary.org/obo/UBERON_0000468
+MTBLS194	urine	http://purl.obolibrary.org/obo/UBERON_0001088
+MTBLS105	blood plasma	http://purl.obolibrary.org/obo/UBERON_0001969
+MTBLS189	lung	http://purl.obolibrary.org/obo/UBERON_0002048
+MTBLS189	spleen	http://purl.obolibrary.org/obo/UBERON_0002106
+MTBLS189	liver	http://purl.obolibrary.org/obo/UBERON_0002107
+MTBLS557	 	http://purl.obolibrary.org/obo/UO_0000189
+MTBLS456	 	http://purl.obolibrary.org/obo/VTO_0011065
+MTBLS396	Left lobe of liver	http://purl.org/sig/ont/fma/fma15810
+MTBLS482	Cerebral cortex	http://purl.org/sig/ont/fma/fma61830
+MTBLS471	Thorax	http://purl.org/sig/ont/fma/fma9576
+MTBLS72	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012
+MTBLS496	whole cell lysate format	http://www.bioassayontology.org/bao#BAO_0000254
+MTBLS113	reference compound	http://www.bioassayontology.org/bao#BAO_0002092
+MTBLS594	BY4741	http://www.ebi.ac.uk/efo/EFO_0000098
+MTBLS176	oral squamous cell carcinoma	http://www.ebi.ac.uk/efo/EFO_0000199
+MTBLS415	colorectal adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000365
+MTBLS370	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS216	BALB/c	http://www.ebi.ac.uk/efo/EFO_0000602
+MTBLS335	bud	http://www.ebi.ac.uk/efo/EFO_0001023
+MTBLS335	sepal	http://www.ebi.ac.uk/efo/EFO_0001026
+MTBLS335	stem	http://www.ebi.ac.uk/efo/EFO_0001040
+MTBLS335	plant ovary	http://www.ebi.ac.uk/efo/EFO_0001052
+MTBLS594	A549	http://www.ebi.ac.uk/efo/EFO_0001086
+MTBLS335	rosette leaf	http://www.ebi.ac.uk/efo/EFO_0001984
+MTBLS541	neuroblastoma cell line	http://www.ebi.ac.uk/efo/EFO_0002859
+MTBLS116	whole organism	http://www.ebi.ac.uk/efo/EFO_0002906
+MTBLS335	anther	http://www.ebi.ac.uk/efo/EFO_0005101
+MTBLS335	filament	http://www.ebi.ac.uk/efo/EFO_0005102
+MTBLS273	colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842
+MTBLS552	Serum	http://www.ifomis.org/acgt/1.0#Serum
+MTBLS552	Tissue	http://www.owl-ontologies.com/Ontology1239104585.owl#Tissue
+MTBLS70	Sorghum bicolor	obo:NCBITaxon_4558
+MTBLS298	 	Term Accession Number
+MTBLS105	Characteristics[Organism part]	Term Accession Number
+MTBLS105	Characteristics[Organism]	Term Accession Number
+MTBLS225	Factor Value[Time]	Term Source REF
+Index	Entities	Url

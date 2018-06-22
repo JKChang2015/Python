@@ -6,17 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/left_overview.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/left_overview.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Work/cleaned.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Work/cleaned.tsv" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -294,8 +284,8 @@
       <file leaf-file-name="branch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Work/branch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="640">
-              <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+            <state relative-caret-position="545">
+              <caret line="26" column="41" lean-forward="true" selection-start-line="20" selection-end-line="26" selection-end-column="41" />
               <folding>
                 <element signature="e#105#128#0" expanded="true" />
               </folding>
@@ -1131,10 +1121,10 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.47100875" side_tool="true" weight="0.29960784" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" visible="true" weight="0.3309859" />
+      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" weight="0.3309859" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32786885" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5759519" weight="0.23607843" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" weight="0.29867083" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" weight="0.29812208" />
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.22617124" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.495671" weight="0.32960597" />
@@ -1539,8 +1529,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/branch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="640">
-          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        <state relative-caret-position="545">
+          <caret line="26" column="41" lean-forward="true" selection-start-line="20" selection-end-line="26" selection-end-column="41" />
           <folding>
             <element signature="e#105#128#0" expanded="true" />
           </folding>
