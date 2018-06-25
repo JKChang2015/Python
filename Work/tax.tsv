@@ -1,7 +1,7 @@
 ID	entity	url
 MTBLS189	Mus musculus	http://purl.obolibrary.org/obo/NCBITaxon_10090
 MTBLS497	Staphylococcus aureus	http://purl.obolibrary.org/obo/NCBITaxon_1280
-MTBLS496	Campylobacter jejuni subsp. jejuni NCTC 11168	http://purl.obolibrary.org/obo/NCBITaxon_192222
+MTBLS496	Campylobacter jejuni	http://purl.obolibrary.org/obo/NCBITaxon_192222
 MTBLS497	Pseudomonas aeruginosa	http://purl.obolibrary.org/obo/NCBITaxon_287
 MTBLS129	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702
 MTBLS312	Brassica napus	http://purl.obolibrary.org/obo/NCBITaxon_3708
@@ -41,7 +41,7 @@ MTBLS228	Bacillus methanolicus	http://purl.bioontology.org/ontology/NCBITAXON/14
 MTBLS342	Pocillopora acuta	http://purl.bioontology.org/ontology/NCBITAXON/1491507
 MTBLS330	Wolffia	http://purl.bioontology.org/ontology/NCBITAXON/161109
 MTBLS128	Corynebacterium glutamicum	http://purl.bioontology.org/ontology/NCBITAXON/1718
-MTBLS336	Yoldia eightsi	http://purl.bioontology.org/ontology/NCBITAXON/177101
+MTBLS336	Yoldia eightsii	http://purl.bioontology.org/ontology/NCBITAXON/177101
 MTBLS304	Mycobacterium tuberculosis	http://purl.bioontology.org/ontology/NCBITAXON/1773
 MTBLS336	Paraceradocus miersii	http://purl.bioontology.org/ontology/NCBITAXON/1811419
 MTBLS14	Lotus creticus	http://purl.bioontology.org/ontology/NCBITAXON/181267
@@ -117,7 +117,7 @@ MTBLS116	Pocillopora damicornis	http://purl.bioontology.org/ontology/NCBITAXON/4
 MTBLS342	Pocillopora meandrina	http://purl.bioontology.org/ontology/NCBITAXON/46732
 MTBLS574	Inga marginata	http://purl.bioontology.org/ontology/NCBITAXON/468147
 MTBLS14	Lotus corniculatus	http://purl.bioontology.org/ontology/NCBITAXON/47247
-MTBLS478	xylem	http://purl.bioontology.org/ontology/NCBITAXON/47664
+MTBLS478	Populus tremula x Populus tremuloides	http://purl.bioontology.org/ontology/NCBITAXON/47664
 MTBLS328	Lactobacillus rhamnosus	http://purl.bioontology.org/ontology/NCBITAXON/47715
 MTBLS175	Centella asiatica	http://purl.bioontology.org/ontology/NCBITAXON/48106
 MTBLS574	Inga acreana	http://purl.bioontology.org/ontology/NCBITAXON/485823
@@ -133,6 +133,7 @@ MTBLS115	Saccharomyces cerevisiae	http://purl.bioontology.org/ontology/NCBITAXON
 MTBLS10	Nicotiana attenuata	http://purl.bioontology.org/ontology/NCBITAXON/49451
 MTBLS330	Landoltia punctata	http://purl.bioontology.org/ontology/NCBITAXON/50518
 MTBLS116	Seriatopora hystrix	http://purl.bioontology.org/ontology/NCBITAXON/51070
+MTBLS383	Torulopsis inconspicua	http://purl.bioontology.org/ontology/NCBITAXON/52247
 MTBLS383	Candida inconspicua	http://purl.bioontology.org/ontology/NCBITAXON/52247
 MTBLS611	Pristionchus pacificus	http://purl.bioontology.org/ontology/NCBITAXON/54126
 MTBLS370	Candida albicans	http://purl.bioontology.org/ontology/NCBITAXON/5476

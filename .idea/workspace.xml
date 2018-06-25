@@ -285,8 +285,8 @@
       <file leaf-file-name="branch.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Work/branch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="669">
+              <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="39" />
               <folding>
                 <element signature="e#105#128#0" expanded="true" />
               </folding>
@@ -404,8 +404,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1017" />
-    <option name="y" value="99" />
+    <option name="x" value="1015" />
+    <option name="y" value="98" />
     <option name="width" value="1280" />
     <option name="height" value="1375" />
   </component>
@@ -1117,35 +1117,34 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1017" y="99" width="1280" height="1375" extended-state="0" />
-    <editor active="true" />
+    <frame x="1015" y="98" width="1280" height="1375" extended-state="0" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.47100875" side_tool="true" weight="0.29960784" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" weight="0.3309859" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32786885" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5759519" weight="0.23607843" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" visible="true" weight="0.29812208" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.22617124" />
+      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" weight="0.3309859" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" visible="true" weight="0.29812208" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.22940226" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.495671" weight="0.32960597" />
       <window_info anchor="right" x="115" y="68" width="1846" height="1159" id="SciView" order="5" sideWeight="0.57682294" weight="0.0035742654" />
       <window_info id="Structure" order="1" sideWeight="0.504307" side_tool="true" weight="0.10722796" />
-      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.51462924" weight="0.37480438" />
       <window_info id="Favorites" order="2" sideWeight="0.507772" side_tool="true" weight="0.16719618" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" visible="true" weight="0.32943925" />
+      <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.51462924" weight="0.37480438" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Data View" order="6" weight="0.49919224" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32677597" />
       <window_info anchor="right" x="0" y="0" width="590" height="1174" id="Documentation" order="7" sideWeight="0.5300286" side_tool="true" weight="0.3935663" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" visible="true" weight="0.32943925" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1531,8 +1530,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/branch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="669">
+          <caret line="36" column="39" lean-forward="true" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="39" />
           <folding>
             <element signature="e#105#128#0" expanded="true" />
           </folding>
