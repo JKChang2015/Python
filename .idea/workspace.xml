@@ -7,8 +7,6 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/ncbitaxon.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Work/ncbitaxon.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/~$ncbitaxon.xlsx" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -286,8 +284,8 @@
       <file leaf-file-name="branch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/branch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="430">
-              <caret line="36" column="39" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="39" />
+            <state relative-caret-position="126">
+              <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="23" />
               <folding>
                 <element signature="e#105#128#0" expanded="true" />
               </folding>
@@ -295,19 +293,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="text-editor" />
+      <file leaf-file-name="counter.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/counter.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="152">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
         </entry>
       </file>
-      <file leaf-file-name="box-plot.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/box-plot.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-              <folding>
-                <element signature="e#93#124#0" expanded="true" />
-              </folding>
+      <file leaf-file-name="count classes.ipynb" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/count classes.ipynb">
+          <provider selected="true" editor-type-id="ipnb-editor">
+            <state>
+              <selected id="0" />
             </state>
           </provider>
         </entry>
@@ -345,6 +344,7 @@
       <find>'django.contrib.staticfiles',</find>
       <find>pandas</find>
       <find>encoding</find>
+      <find>search</find>
     </findStrings>
     <replaceStrings>
       <replace />
@@ -361,7 +361,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Runood_100/R014.py" />
         <option value="$PROJECT_DIR$/../Checkio/first_word.py" />
         <option value="$PROJECT_DIR$/../Checkio/Checkio/first_word.py" />
         <option value="$PROJECT_DIR$/Runood_100/R001.py" />
@@ -405,13 +404,14 @@
         <option value="$PROJECT_DIR$/../Checkio/Checkio/largest_histogram.py" />
         <option value="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" />
         <option value="$PROJECT_DIR$/CJK/temp/renameMp4.py" />
-        <option value="$PROJECT_DIR$/Work/test.py" />
         <option value="$PROJECT_DIR$/Work/bioportal.py" />
         <option value="$PROJECT_DIR$/Work/ontology_com.py" />
         <option value="$PROJECT_DIR$/Work/sample_data_cleaning.py" />
         <option value="$PROJECT_DIR$/Work/onto_list.py" />
         <option value="$PROJECT_DIR$/RD_Club/Data_Analysis/left_visual.py" />
         <option value="$PROJECT_DIR$/Work/branch.py" />
+        <option value="$PROJECT_DIR$/Work/test.py" />
+        <option value="$PROJECT_DIR$/Work/counter.py" />
       </list>
     </option>
   </component>
@@ -421,11 +421,10 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="160" />
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="836" />
+    <option name="height" value="1375" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -448,23 +447,6 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Python 100 days" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="RD_Club" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="RD_Club" type="462c0819:PsiDirectoryNode" />
-              <item name="Data_Analysis" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="RD_Club" type="462c0819:PsiDirectoryNode" />
-              <item name="Statisitcs" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -499,7 +481,15 @@
     <property name="js.eslint.eslintPackage" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="run.code.analysis.last.selected.profile" value="aDefault" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="coverage" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="Python" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="Python" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -522,7 +512,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.branch">
+  <component name="RunManager" selected="Python.test">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -618,7 +608,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="sample_data_cleaning" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -631,7 +621,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/sample_data_cleaning.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/counter.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -832,18 +822,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.onto_list" />
-      <item itemvalue="Python.sample_data_cleaning" />
       <item itemvalue="Python.left_visual" />
       <item itemvalue="Python.distribution" />
       <item itemvalue="Python.branch" />
+      <item itemvalue="Python.test" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.branch" />
         <item itemvalue="Python.distribution" />
         <item itemvalue="Python.left_visual" />
         <item itemvalue="Python.onto_list" />
-        <item itemvalue="Python.sample_data_cleaning" />
       </list>
     </recent_temporary>
   </component>
@@ -1141,34 +1131,35 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="160" y="23" width="1280" height="836" extended-state="0" />
+    <frame x="0" y="23" width="2560" height="1375" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.47100875" side_tool="true" weight="0.29960784" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" weight="0.3309859" />
+      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" visible="true" weight="0.3309859" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32786885" />
-      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5759519" weight="0.23607843" />
-      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" visible="true" weight="0.2976996" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.23263328" />
+      <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5759519" weight="0.23552425" />
+      <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" weight="0.17214398" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49569303" visible="true" weight="0.11596505" />
       <window_info anchor="bottom" id="Docker" order="13" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" sideWeight="0.495671" weight="0.32960597" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32677597" />
       <window_info anchor="right" x="115" y="68" width="1846" height="1159" id="SciView" order="5" sideWeight="0.57682294" weight="0.0035742654" />
       <window_info id="Structure" order="1" sideWeight="0.504307" side_tool="true" weight="0.10722796" />
       <window_info anchor="bottom" id="Debug" order="2" sideWeight="0.51462924" weight="0.37480438" />
       <window_info id="Favorites" order="2" sideWeight="0.507772" side_tool="true" weight="0.16719618" />
-      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" visible="true" weight="0.32943925" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="4" weight="0.25" />
+      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="right" id="Commander" order="1" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection Results" order="10" weight="0.3291536" />
       <window_info anchor="right" id="Data View" order="6" weight="0.49919224" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32677597" />
       <window_info anchor="right" x="0" y="0" width="590" height="1174" id="Documentation" order="7" sideWeight="0.5300286" side_tool="true" weight="0.3935663" />
-      <window_info anchor="bottom" id="Cvs" order="3" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="right" id="Coverage" order="0" side_tool="true" weight="0.32960597" />
+      <window_info anchor="bottom" id="Concurrent Activities Diagram" order="12" visible="true" weight="0.32943925" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1396,7 +1387,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test.py" />
     <entry file="file://$PROJECT_DIR$/DataAnalysis/web Scraping.ipynb">
       <provider selected="true" editor-type-id="ipnb-editor">
         <state>
@@ -1412,13 +1402,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/aa.csv" />
-    <entry file="file://$PROJECT_DIR$/Work/bioportal.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CJK/temp/renameMp4.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="315">
@@ -1503,20 +1486,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="84">
-          <caret line="4" column="29" selection-start-line="4" selection-start-column="29" selection-end-line="4" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/onto_list.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="693">
-          <caret line="33" selection-start-line="33" selection-end-line="33" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/distribution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="441">
@@ -1531,33 +1500,68 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/box-plot.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="e#93#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Work/ontology_com.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="10" column="24" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+        <state relative-caret-position="-110">
+          <caret line="14" column="30" lean-forward="true" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
+          <folding>
+            <element signature="e#119#134#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/onto_list.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="147">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="8" selection-start-line="8" selection-end-line="8" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/bioportal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="575">
+          <caret line="47" lean-forward="true" selection-start-line="47" selection-end-line="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/count classes.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/branch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="430">
-          <caret line="36" column="39" selection-start-line="36" selection-start-column="4" selection-end-line="36" selection-end-column="39" />
+        <state relative-caret-position="126">
+          <caret line="6" selection-start-line="6" selection-end-line="6" selection-end-column="23" />
           <folding>
             <element signature="e#105#128#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/RD_Club/Data_Analysis/box-plot.py">
+    <entry file="file://$PROJECT_DIR$/Work/counter.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#93#124#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="152">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
         </state>
       </provider>
     </entry>
