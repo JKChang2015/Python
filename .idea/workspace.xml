@@ -6,11 +6,6 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/OntoInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/OntoInfo.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/count classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Work/count classes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/dta.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/list of super_test.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Work/list of super_test.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -285,7 +280,7 @@
     <favorites_list name="Python" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.5">
+    <splitter split-orientation="horizontal" split-proportion="0.5653876">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="branch.py" pinned="false" current-in-tab="false">
@@ -303,7 +298,7 @@
           <file leaf-file-name="OntoInfo.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/Work/OntoInfo.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="378">
+                <state relative-caret-position="248">
                   <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="37" />
                 </state>
               </provider>
@@ -312,8 +307,8 @@
           <file leaf-file-name="testing.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/Work/testing.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="507">
-                  <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
+                <state relative-caret-position="643">
+                  <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
                 </state>
               </provider>
             </entry>
@@ -366,7 +361,7 @@
             <entry file="file://$PROJECT_DIR$/Work/t.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="294">
-                  <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+                  <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
                   <folding>
                     <element signature="e#69#95#0" expanded="true" />
                   </folding>
@@ -1209,7 +1204,7 @@
       <window_info anchor="bottom" id="TODO" order="5" weight="0.32943925" />
       <window_info anchor="bottom" id="Event Log" order="6" sideWeight="0.47100875" side_tool="true" weight="0.29960784" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" visible="true" weight="0.3309859" />
+      <window_info anchor="bottom" x="21" y="520" width="2518" height="382" id="Run" order="14" sideWeight="0.4699714" weight="0.09780908" />
       <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49841145" weight="0.32786885" />
       <window_info anchor="bottom" id="Python Console" order="8" sideWeight="0.5759519" weight="0.23552425" />
       <window_info anchor="bottom" id="Terminal" order="9" sideWeight="0.5289913" weight="0.14632238" />
@@ -1604,25 +1599,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/OntoInfo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
+        <state relative-caret-position="248">
           <caret line="18" column="37" lean-forward="true" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/testing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/t.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="31" selection-start-line="14" selection-start-column="31" selection-end-line="14" selection-end-column="31" />
+          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
           <folding>
             <element signature="e#69#95#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/testing.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="507">
-          <caret line="35" column="23" lean-forward="true" selection-start-line="35" selection-start-column="23" selection-end-line="35" selection-end-column="23" />
         </state>
       </provider>
     </entry>
