@@ -2,13 +2,14 @@
 # Created by JKChang
 # 12/06/2018, 10:03
 # Tag:
-# Description: extract ontology info from bioportal
+# Description: extract list of ontology from 'https://bioportal.bioontology.org/ontologies'
+
+import csv
+import re
 
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
-import csv
-
 
 class bio_ontology(object):
     name, abbr, url, description, date = '', '', '', '', ''
@@ -20,22 +21,7 @@ class bio_ontology(object):
         self.url = url
 
 
-# simulation browser
-url = 'https://bioportal.bioontology.org/ontologies'
-driver = webdriver.Chrome()
-driver.get(url)
-
-# driver.find_element_by_id("include_ontology_view").click()
-
-wait = WebDriverWait(driver, 10)
-soup = BeautifulSoup(driver.page_source, "html.parser")
-
-onto_eles = soup.findAll('div', {'class': "ontology grid-parent clearfix ng-scope"})
-
 # save ontologies
-import re
-
-
 def load_onto(onto):
     # name & abbr
     title = onto.findAll('a', {'class': 'ng-binding'})[0].text.strip()
@@ -45,9 +31,7 @@ def load_onto(onto):
     # url
     path = 'https://bioportal.bioontology.org'
     url = path + onto.findAll('a')[0].attrs['href']
-
     ontology = bio_ontology(abbr=abbrs, name=name, url=url)
-
 
     try:
         # cls_number
@@ -65,14 +49,12 @@ def load_onto(onto):
     except:
         pass
 
-
     try:
         # description
         des = onto.findAll('p', {'class': "ng-binding"})[0].text.strip()
         ontology.description = des.replace('\n', '')
     except:
         pass
-
 
     try:
         # date
@@ -82,25 +64,36 @@ def load_onto(onto):
     except:
         pass
 
-
     return ontology
 
+
+# simulation browser
+url = 'https://bioportal.bioontology.org/ontologies'
+driver = webdriver.Chrome()
+driver.get(url)
+
+# driver.find_element_by_id("include_ontology_view").click()
+wait = WebDriverWait(driver, 10)
+soup = BeautifulSoup(driver.page_source, "html.parser")
+
+# all ontologies
+ontologies = soup.findAll('div', {'class': "ontology grid-parent clearfix ng-scope"})
+
 res = []
-for onto in onto_eles:
+for onto in ontologies:
     data = load_onto(onto)
     if data.cls_num != '':
         res.append(data)
 
 res = sorted(res, key=lambda onto: onto.abbr)
 
-spamWriter = csv.writer(open('aa.csv', 'w'))
+# save ontology
+spamWriter = csv.writer(open('./crawler/bioportal ontology list.csv', 'w'))
 spamWriter.writerow([
     'name', 'abbr', 'class_num', 'pro_num', 'modified date', 'url',
     'description'
 ])
 for r in res:
     out = [r.name, r.abbr, r.cls_num, r.pro_num, r.date, r.url, r.description]
-    spamWriter = csv.writer(open('aa.csv', 'a'))
+    spamWriter = csv.writer(open('./crawler/bioportal ontology list.csv', 'a'))
     spamWriter.writerow(out)
-
-
