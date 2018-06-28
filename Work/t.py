@@ -4,7 +4,7 @@
 # Tag:
 # Description: 
 
-from Work.testing import *
+from Work.ontology_info import *
 from owlready2 import *
 
 onto = get_ontology('file://./infor.owl').load()
