@@ -10,6 +10,6 @@ from owlready2 import *
 onto = get_ontology('file://./infor.owl').load()
 f = information(onto)
 print(f.get_supers('pink lady'))
-print(f.super_count('pink lay'))
+print(f.super_count('pink lady'))
 print(f.get_subs('pink lady'))
-print(f.sub_count('pink lay'))
+print(f.sub_count('pink lady'))
