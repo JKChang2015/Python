@@ -6,6 +6,7 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python 100 days/notes/Python 100 notes 1-10.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Python 100 days/notes/Python 100 notes 1-10.ipynb" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -63,8 +64,8 @@
       <file leaf-file-name="sample_data_cleaning.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+            <state relative-caret-position="101">
+              <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -417,8 +418,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="36" column="48" selection-start-line="36" selection-start-column="48" selection-end-line="36" selection-end-column="48" />
+        <state relative-caret-position="101">
+          <caret line="20" column="32" lean-forward="true" selection-start-line="20" selection-start-column="32" selection-end-line="20" selection-end-column="32" />
         </state>
       </provider>
     </entry>
