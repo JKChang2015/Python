@@ -6,12 +6,6 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/OntoInfo.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/branch.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/test/branch.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/count classes.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Work/count classes.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/t.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/testing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/ontology_info.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -74,8 +68,8 @@
       <file leaf-file-name="sample_data_cleaning.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="125">
-              <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+            <state relative-caret-position="542">
+              <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
             </state>
           </provider>
         </entry>
@@ -265,8 +259,8 @@
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32925898" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.32942098" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3286385" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3291634" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.21927847" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.3291634" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21927847" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -421,8 +415,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="6" column="19" lean-forward="true" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
+        <state relative-caret-position="542">
+          <caret line="43" column="58" lean-forward="true" selection-start-line="43" selection-start-column="58" selection-end-line="43" selection-end-column="58" />
         </state>
       </provider>
     </entry>
