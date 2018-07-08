@@ -1,7 +1,7 @@
 # ReadMeGenerator
 # Created by JKChang
 # 10/05/2017, 19:59
-# Description:
+# Description: add index of the directory
 
 import os
 
