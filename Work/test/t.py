@@ -7,7 +7,7 @@
 from Work.ontology_info import *
 from owlready2 import *
 
-onto = get_ontology('file://./infor.owl').load()
+onto = get_ontology('file://./test/infor.owl').load()
 f = information(onto)
 print(f.get_supers('pink lady'))
 print(f.super_count('pink lady'))
