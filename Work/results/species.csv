@@ -1,0 +1,356 @@
+species,occurance
+Homo sapiens,209
+Mus musculus,91
+Arabidopsis thaliana,37
+reference compound,34
+Rattus norvegicus,14
+Solanum lycopersicum,13
+Bos taurus,12
+Escherichia coli,9
+Vitis vinifera,8
+Saccharomyces cerevisiae,6
+Lotus japonicus,6
+Oryza sativa,6
+Schizosaccharomyces pombe,5
+Glycine max,5
+sea water,5
+Macaca mulatta,5
+Drosophila melanogaster,5
+Caenorhabditis elegans,4
+Triticum aestivum,4
+Trypanosoma brucei,4
+Pseudomonas aeruginosa,4
+Drosophila simulans,4
+Reference,4
+Nicotiana attenuata,3
+Lotus burttii,3
+Lotus filicaulis,3
+Lotus corniculatus,3
+Lotus uliginosus,3
+Lotus tenuis,3
+Alkane standard,3
+Ovis aries,3
+Staphylococcus aureus,3
+Sus scrofa domesticus,3
+solvent,3
+Brassica napus,3
+Pseudomonas putida,3
+Lactobacillus rhamnosus,3
+Plantago lanceolata,3
+Lotus creticus,2
+Chlamydomonas reinhardtii,2
+Malus domestica,2
+Sorghum bicolor,2
+Glycine max/Rhizoctonia solani,2
+Thalassiosira pseudonana,2
+calibrant,2
+Cichorium intybus,2
+Mus musculus xenograft,2
+Rattus rattus,2
+Bacteroides caccae,2
+Panax ginseng,2
+Standard,2
+Candida albicans,2
+Lysiphlebia japonica,2
+Aphis gossypii,2
+Macleaya cordata,2
+Plasmodium cynomolgi,2
+Calliergonella cuspidata,2
+Gossypium hirsutum,2
+Lolium perenne,2
+Plasmodium coatneyi,2
+Gallus gallus,2
+Leucanthemum vulgare,2
+Knautia arvensis,2
+Centaurea jacea,2
+Brassica oleracea,2
+Rhodiola rosea,2
+Reference compound,2
+Sus scrofa,2
+Poa pratensis,2
+Dactylis glomerata,2
+Ranunculus acris,2
+Synechocystis sp. PCC 6803,1
+Salmonella enterica,1
+Hordeum vulgare,1
+unclassified Cyanobacteria,1
+Bos taurus/Ovis aries,1
+Manihot esculenta,1
+Calanus,1
+Plasmodium falciparum,1
+Euglena gracilis,1
+Montipora aequituberculata,1
+Seriatopora hystrix,1
+Pocillopora damicornis,1
+Porites lobata,1
+Porites compressa,1
+Populus tremula x Populus alba,1
+Corynebacterium glutamicum,1
+Synechococcus elongatus,1
+Ruegeria pomeroyi,1
+Ailuropoda melanoleuca,1
+Ilex paraguariensis,1
+Centella asiatica,1
+Bacillus subtilis,1
+Streptomyces coelicolor,1
+Synechococcus spp.,1
+Roseiflexus spp.,1
+Chloracidobacterium spp.,1
+Candidatus Thermochlorobacter spp.,1
+Chloroflexus spp.,1
+reference material,1
+Astragalus mongholicus,1
+Rattus andamanensis,1
+matrix,1
+Chlorella,1
+Parachlorella,1
+Mustela putorius,1
+Vitis labrusca x Vitis vinifera,1
+Vitis arizonica,1
+Vitis Vinifera x Vitis berlandieri,1
+Vitis californica,1
+Vitis,1
+Vitis berlandieri x V. riparia/Xiphinema index/Glomus intraradices mixed EST library,1
+Vitis cinerea,1
+Aedes albopictus,1
+symbiotic microbe,1
+alkane reference,1
+PBS,1
+Phyllanthus niruri,1
+Bacillus methanolicus,1
+Negative Media,1
+conditioned DMEM Media,1
+Buffer,1
+McCoys Media,1
+simulated data,1
+not applicable,1
+Daphnia pulex,1
+Daphnia magna,1
+Carica papaya,1
+Xenopus laevis,1
+Coral reef sea water,1
+Spheciospongia vesparium,1
+Ircinia campana,1
+Pooled quality control,1
+Micromonas pusilla,1
+Solanum habrochaites,1
+Mycobacterium tuberculosis,1
+Puccinia graminis mixed DNA library,1
+Simulation experiment,1
+Crocus sativus,1
+Populus deltoides WV94,1
+Rubus idaeus,1
+Laternula elliptica,1
+Marseniopsis mollis,1
+Liothyrella uva,1
+Cucumaria georgiana,1
+Yoldia eightsi,1
+Paraceradocus,1
+Anopheles gambiae,1
+Scleractinian,1
+Lactuca sativa,1
+Pork and Beef minced meat,1
+Food,1
+Vitis vinifera L.,1
+Microbiota,1
+Rabbit,1
+Salmonella Typhimurium DT104 strain 2576,1
+Trypanosoma brucei brucei,1
+nil,1
+Photinus pyralis,1
+N/A,1
+Agave americana,1
+Internal Standard,1
+coculture,1
+Culture Media,1
+Phoenix dactylifera,1
+Fraxinus excelsior,1
+mus musculus,1
+Apis cerana,1
+Candida lusitaniae,1
+Candida krusei,1
+Candida inconspicua,1
+Candida tropicalis,1
+Candida glabrata,1
+Candida parapsilosis,1
+cellular organism,1
+Radix,1
+Camellia sinensis,1
+Papio hamadryas,1
+Jacobaea,1
+Pseudomonas,1
+Olea europaea,1
+Leishmania infantum,1
+Leishmania mexicana species complex,1
+Espeletia,1
+Japanese sake,1
+endometabolome,1
+Brassica oleracea var. italica,1
+Pseudomonas fluorescens,1
+Acromyrmex octospinosus,1
+Populus tremula x Populus tremuloides,1
+Salix,1
+Rhizobium,1
+Nepenthes ampullaria,1
+Nepenthes rafflesiana,1
+Nepenthes x hookeriana,1
+soybean,1
+flower,1
+Leishmania mexicana,1
+mixed community,1
+Cricetulus griseus,1
+Platycodon grandiflorum,1
+Campylobacter jejuni subsp. jejuni NCTC 11168,1
+Sorbent blank,1
+Klebsiella pneumoniae,1
+Nutrient broth,1
+Artificial sputum medium,1
+Kalanchoe fedtschenkoi,1
+Rhytidiadelphus squarrosus,1
+Marchantia polymorpha s. l.,1
+Fissidens taxifolius,1
+Polytrichum strictum,1
+Brachythecium rutabulum,1
+Grimmia pulvinata,1
+Plagiomnium undulatum,1
+Heligmosomoides polygyrus,1
+Burkholderia thailandensis,1
+Chromobacterium violaceum,1
+Pseudomonas syringae,1
+Lemna paucicostata,1
+Eisenia fetida,1
+Mycoplasma bovis,1
+Mycoplasma gallisepticum,1
+Acropora aspera,1
+Symbiodinium sp. ex Acropora aspera,1
+C57BL,1
+6J,1
+Equus caballus,1
+Streptomyces viridochromogenes,1
+Brassica juncea,1
+Nicotiana tabacum,1
+Prochlorococcus,1
+Skeletonema marinoi,1
+Inga umbellifera,1
+Inga alba,1
+Inga microcoma,1
+Inga marginata,1
+Inga laurina,1
+Inga leiocalycina,1
+Inga cf brachystacys,1
+Inga obidensis,1
+Inga pezizifera,1
+Inga auristellae,1
+Inga chartacea,1
+Inga alata,1
+Inga acreana,1
+Inga coruscans,1
+Zea mays subsp. mays,1
+Sinorhizobium meliloti,1
+Cunila menthoides,1
+Arachis hypogaea,1
+Macrobrachium nipponense,1
+Garcinia mangostana,1
+Pristionchus pacificus,1
+Gomphrena,1
+Enterobacter cloacae,1
+Dicentrarchus labrax,1
+Rhopalosiphum padi,1
+Kunming White outbred strain mice,1
+Populus tremula,1
+Populus tremuloides,1
+Haliclona fulva,1
+Chlorocebus sp.,1
+Bacteria,1
+Mycobacterium bovis,1
+Seminavis robusta 85B Sex,1
+Plasmodium vivax,1
+Da.gl.,1
+Sulfolobus acidocaldarius,1
+Ctenopharyngodon idella,1
+Trotter horse,1
+cell media,1
+Festuca rubra,1
+Holcus lanatus,1
+Geranium pratense,1
+Phleum pratense,1
+Anthoxanthum odoratum,1
+Avenula pubescens,1
+Alopecurus pratensis,1
+Arrhenatherum elatius,1
+Galium verum,1
+Achillea millefolium,1
+Galium mollugo,1
+Viola tricolor,1
+Mentha x piperita,1
+Origanum vulgare,1
+Potentilla erecta,1
+Convallaria keiskei,1
+Ginkgo biloba,1
+Fragaria vesca,1
+Asarum europaeum,1
+Inula helenium,1
+Valeriana officinalis,1
+Angelica archangelica,1
+Eleutherococcus senticosus,1
+Hedysarum neglectum,1
+Bupleurum aureum,1
+Equisetum arvense,1
+Pimpinella anisum,1
+Acorus calamus,1
+Eleutherococcus sessiliflorus,1
+Daucus carota,1
+Anethum graveolens,1
+Aerva lanata,1
+Melilotus officinalis,1
+Arctium lappa,1
+Echinacea purpurea,1
+Astragalus propinquus,1
+Sambucus nigra,1
+Viburnum opulus,1
+Tanacetum vulgare,1
+Althaea officinalis,1
+Aegopodium podagraria,1
+Aralia elata,1
+Rosa majalis,1
+Heracleum sibiricum,1
+Thymus serpyllum,1
+Tilia cordata,1
+Betula pendula,1
+Hypericum perforatum,1
+Tussilago farfara,1
+Taraxacum officinale,1
+Urtica dioica,1
+Silybum marianum,1
+Populus balsamifera,1
+Foeniculum vulgare,1
+Salvia officinalis,1
+Glycyrrhiza glabra,1
+Polemonium caeruleum,1
+Humulus lupulus,1
+Calendula officinalis,1
+Helianthus tuberosus,1
+Aronia melanocarpa,1
+Pimpinella saxifraga,1
+Rhamnus cathartica,1
+Helichrysum arenarium,1
+Petroselinum crispum,1
+Artemisia absinthium,1
+Juniperus communis,1
+Pinus sylvestris,1
+Senna alexandrina,1
+Coriandrum sativum,1
+Leonurus quinquelobatus,1
+Prunus padus,1
+Matricaria chamomilla,1
+Linum usitatissimum,1
+Vaccinium myrtillus,1
+Dioscorea caucasica,1
+Oplopanax elatus,1
+Plantago major,1
+Levisticum officinale,1
+Bidens tripartita,1
+Bergenia crassifolia,1
+Frangula alnus,1
+"Plasmodium coatneyi,Homo sapiens",1
+Solanum lycopersicum x Solanum pennellii,1
