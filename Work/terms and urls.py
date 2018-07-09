@@ -6,7 +6,7 @@
 
 import pandas as pd
 
-df = pd.read_csv('result.tsv', sep='\t')
+df = pd.read_csv('./results/cleaned data.tsv', sep='\t')
 
 #  merge two entity name / url columns
 
@@ -28,6 +28,6 @@ data.drop_duplicates(subset=['Entities', 'Url'], keep='first', inplace=True)
 
 data = data.sort_values(by='Entities')
 
-data.to_csv('cleaned.tsv', index=False, sep='\t')
+data.to_csv('./results/terms and urls.tsv', index=False, sep='\t')
 
 data.info()
