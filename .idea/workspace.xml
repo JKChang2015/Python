@@ -6,11 +6,6 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/re/cleaned.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/re/ncbitaxon.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Work/results/ncbitaxon.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/re/result.tsv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/re/tax.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Work/results/tax.tsv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -67,13 +62,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="branch.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="branch.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/test/branch.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="798">
-              <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+            <state relative-caret-position="305">
+              <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cleaned data.tsv" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Work/results/cleaned data.tsv">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="MTBLS Curation Status Log - Studies.csv" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/resources/MTBLS Curation Status Log - Studies.csv">
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -99,6 +104,7 @@
         <option value="$PROJECT_DIR$/Work/test/t.py" />
         <option value="$PROJECT_DIR$/Work/sample_cleaning.py" />
         <option value="$PROJECT_DIR$/Work/onto_list.py" />
+        <option value="$PROJECT_DIR$/Work/test/branch.py" />
       </list>
     </option>
   </component>
@@ -340,13 +346,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Work/ontology_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="672">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/CJK/temp/splitter.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="756">
@@ -565,9 +564,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/results/cleaned data.tsv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/Work/sample_cleaning.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1470">
@@ -633,10 +629,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/test/branch.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="40" column="29" lean-forward="true" selection-start-line="40" selection-start-column="29" selection-end-line="40" selection-end-column="29" />
+        <state relative-caret-position="305">
+          <caret line="17" column="14" lean-forward="true" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/results/cleaned data.tsv">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/resources/MTBLS Curation Status Log - Studies.csv">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
