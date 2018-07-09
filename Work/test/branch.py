@@ -6,11 +6,6 @@
 
 from owlready2 import *
 
-import os
-
-
-
-
 
 # for go_concept in onto.classes():
 #     print(go_concept.label)
@@ -26,6 +21,7 @@ def get_super(onto_class):
         get_super(parent)
         print('  is a %s' % parent.label)
 
+
 onto = get_ontology('file://./infor.owl').load()
 
 # for go_concept in onto.classes():
@@ -34,14 +30,11 @@ onto = get_ontology('file://./infor.owl').load()
 #     print('-'*20)
 
 try:
-    d = onto.search_one(label = "gala")
+    d = onto.search_one(label="gala")
     print(d.label)
     print(get_super(d))
 except:
     print('can not find xxx')
-
-
-
 
 # gen = onto.classes()
 # for i in gen:
@@ -60,5 +53,3 @@ except:
 # onto = get_ontology('./infor.owl').load()
 
 # print(onto.name)
-
-
