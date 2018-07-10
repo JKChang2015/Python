@@ -5,11 +5,14 @@
 # Description: 
 
 class information():
+    ''' basic information of entities'''
 
     def __init__(self, onto):
+        '''initialization'''
         self.onto = onto
 
     def get_subs(self, class_label):
+        '''return list of sub classes'''
         sub = []
         try:
             onto_c = self.onto.search_one(label=class_label)
@@ -20,6 +23,7 @@ class information():
             pass
 
     def get_supers(self, class_label):
+        ''''return list of super classes'''
         sup = []
         try:
             onto_c = self.onto.search_one(label=class_label)
@@ -30,12 +34,23 @@ class information():
             pass
 
     def sub_count(self, class_label):
+        '''return subclass count'''
         res = self.get_subs(class_label)
         return len(res)
 
     def super_count(self, class_label):
+        '''return superclass count'''
         res = self.get_supers(class_label)
         return len(res)
+
+    def get_iri(self,class_label):
+        try:
+            onto_c = self.onto.search_one(label=class_label)
+            print('matching %s ..' %class_label)
+            return onto_c.iri
+        except:
+            pass
+
 
 
 def list_supers(onto_c, sup):
@@ -52,6 +67,8 @@ def list_subs(onto_c, sub):
     for children in onto_c.subclasses():
         list_subs(children, sub)
         sub.append(children.label)
+
+
 
 
 #

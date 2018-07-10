@@ -1,0 +1,356 @@
+,species,occurance,efo
+0,Homo sapiens,209,http://purl.obolibrary.org/obo/NCBITaxon_9606
+1,Mus musculus,91,http://purl.obolibrary.org/obo/NCBITaxon_10090
+2,Arabidopsis thaliana,37,http://purl.obolibrary.org/obo/NCBITaxon_3702
+3,reference compound,34,
+4,Rattus norvegicus,14,http://purl.obolibrary.org/obo/NCBITaxon_10116
+5,Solanum lycopersicum,13,http://purl.obolibrary.org/obo/NCBITaxon_4081
+6,Bos taurus,12,http://purl.obolibrary.org/obo/NCBITaxon_9913
+7,Escherichia coli,9,http://purl.obolibrary.org/obo/NCBITaxon_562
+8,Vitis vinifera,8,http://purl.obolibrary.org/obo/NCBITaxon_29760
+9,Saccharomyces cerevisiae,6,http://purl.obolibrary.org/obo/NCBITaxon_4932
+10,Lotus japonicus,6,http://purl.obolibrary.org/obo/NCBITaxon_34305
+11,Oryza sativa,6,http://purl.obolibrary.org/obo/NCBITaxon_4530
+12,Schizosaccharomyces pombe,5,http://purl.obolibrary.org/obo/NCBITaxon_4896
+13,Glycine max,5,http://purl.obolibrary.org/obo/NCBITaxon_3847
+14,sea water,5,
+15,Macaca mulatta,5,http://purl.obolibrary.org/obo/NCBITaxon_9544
+16,Drosophila melanogaster,5,http://purl.obolibrary.org/obo/NCBITaxon_7227
+17,Caenorhabditis elegans,4,http://purl.obolibrary.org/obo/NCBITaxon_6239
+18,Triticum aestivum,4,http://purl.obolibrary.org/obo/NCBITaxon_4565
+19,Trypanosoma brucei,4,http://purl.obolibrary.org/obo/NCBITaxon_5691
+20,Pseudomonas aeruginosa,4,http://purl.obolibrary.org/obo/NCBITaxon_287
+21,Drosophila simulans,4,http://purl.obolibrary.org/obo/NCBITaxon_7240
+22,Reference,4,
+23,Nicotiana attenuata,3,http://purl.obolibrary.org/obo/NCBITaxon_49451
+24,Lotus burttii,3,
+25,Lotus filicaulis,3,http://purl.obolibrary.org/obo/NCBITaxon_264956
+26,Lotus corniculatus,3,http://purl.obolibrary.org/obo/NCBITaxon_47247
+27,Lotus uliginosus,3,http://purl.obolibrary.org/obo/NCBITaxon_181288
+28,Lotus tenuis,3,
+29,Alkane standard,3,
+30,Ovis aries,3,http://purl.obolibrary.org/obo/NCBITaxon_9940
+31,Staphylococcus aureus,3,http://purl.obolibrary.org/obo/NCBITaxon_1280
+32,Sus scrofa domesticus,3,
+33,solvent,3,
+34,Brassica napus,3,http://purl.obolibrary.org/obo/NCBITaxon_3708
+35,Pseudomonas putida,3,http://purl.obolibrary.org/obo/NCBITaxon_303
+36,Lactobacillus rhamnosus,3,http://purl.obolibrary.org/obo/NCBITaxon_47715
+37,Plantago lanceolata,3,
+38,Lotus creticus,2,
+39,Chlamydomonas reinhardtii,2,http://purl.obolibrary.org/obo/NCBITaxon_3055
+40,Malus domestica,2,
+41,Sorghum bicolor,2,http://purl.obolibrary.org/obo/NCBITaxon_4558
+42,Glycine max/Rhizoctonia solani,2,
+43,Thalassiosira pseudonana,2,http://purl.obolibrary.org/obo/NCBITaxon_35128
+44,calibrant,2,
+45,Cichorium intybus,2,http://purl.obolibrary.org/obo/NCBITaxon_13427
+46,Mus musculus xenograft,2,
+47,Rattus rattus,2,http://purl.obolibrary.org/obo/NCBITaxon_10117
+48,Bacteroides caccae,2,
+49,Panax ginseng,2,http://purl.obolibrary.org/obo/NCBITaxon_4054
+50,Standard,2,
+51,Candida albicans,2,http://purl.obolibrary.org/obo/NCBITaxon_5476
+52,Lysiphlebia japonica,2,
+53,Aphis gossypii,2,
+54,Macleaya cordata,2,
+55,Plasmodium cynomolgi,2,
+56,Calliergonella cuspidata,2,
+57,Gossypium hirsutum,2,http://purl.obolibrary.org/obo/NCBITaxon_3635
+58,Lolium perenne,2,http://purl.obolibrary.org/obo/NCBITaxon_4522
+59,Plasmodium coatneyi,2,
+60,Gallus gallus,2,http://purl.obolibrary.org/obo/NCBITaxon_9031
+61,Leucanthemum vulgare,2,
+62,Knautia arvensis,2,
+63,Centaurea jacea,2,
+64,Brassica oleracea,2,http://purl.obolibrary.org/obo/NCBITaxon_3712
+65,Rhodiola rosea,2,
+66,Reference compound,2,
+67,Sus scrofa,2,http://purl.obolibrary.org/obo/NCBITaxon_9823
+68,Poa pratensis,2,
+69,Dactylis glomerata,2,
+70,Ranunculus acris,2,
+71,Synechocystis sp. PCC 6803,1,http://purl.obolibrary.org/obo/NCBITaxon_1148
+72,Salmonella enterica,1,http://purl.obolibrary.org/obo/NCBITaxon_28901
+73,Hordeum vulgare,1,http://purl.obolibrary.org/obo/NCBITaxon_4513
+74,unclassified Cyanobacteria,1,
+75,Bos taurus/Ovis aries,1,
+76,Manihot esculenta,1,http://purl.obolibrary.org/obo/NCBITaxon_3983
+77,Calanus,1,
+78,Plasmodium falciparum,1,http://purl.obolibrary.org/obo/NCBITaxon_5833
+79,Euglena gracilis,1,
+80,Montipora aequituberculata,1,
+81,Seriatopora hystrix,1,
+82,Pocillopora damicornis,1,
+83,Porites lobata,1,
+84,Porites compressa,1,
+85,Populus tremula x Populus alba,1,
+86,Corynebacterium glutamicum,1,http://purl.obolibrary.org/obo/NCBITaxon_1718
+87,Synechococcus elongatus,1,http://purl.obolibrary.org/obo/NCBITaxon_32046
+88,Ruegeria pomeroyi,1,http://purl.obolibrary.org/obo/NCBITaxon_89184
+89,Ailuropoda melanoleuca,1,
+90,Ilex paraguariensis,1,
+91,Centella asiatica,1,
+92,Bacillus subtilis,1,http://purl.obolibrary.org/obo/NCBITaxon_1423
+93,Streptomyces coelicolor,1,http://purl.obolibrary.org/obo/NCBITaxon_1902
+94,Synechococcus spp.,1,
+95,Roseiflexus spp.,1,
+96,Chloracidobacterium spp.,1,
+97,Candidatus Thermochlorobacter spp.,1,
+98,Chloroflexus spp.,1,
+99,reference material,1,
+100,Astragalus mongholicus,1,
+101,Rattus andamanensis,1,
+102,matrix,1,
+103,Chlorella,1,
+104,Parachlorella,1,
+105,Mustela putorius,1,
+106,Vitis labrusca x Vitis vinifera,1,
+107,Vitis arizonica,1,
+108,Vitis Vinifera x Vitis berlandieri,1,
+109,Vitis californica,1,
+110,Vitis,1,
+111,Vitis berlandieri x V. riparia/Xiphinema index/Glomus intraradices mixed EST library,1,
+112,Vitis cinerea,1,
+113,Aedes albopictus,1,http://purl.obolibrary.org/obo/NCBITaxon_7160
+114,symbiotic microbe,1,
+115,alkane reference,1,
+116,PBS,1,
+117,Phyllanthus niruri,1,
+118,Bacillus methanolicus,1,
+119,Negative Media,1,
+120,conditioned DMEM Media,1,
+121,Buffer,1,
+122,McCoys Media,1,
+123,simulated data,1,
+124,not applicable,1,
+125,Daphnia pulex,1,http://purl.obolibrary.org/obo/NCBITaxon_6669
+126,Daphnia magna,1,http://purl.obolibrary.org/obo/NCBITaxon_35525
+127,Carica papaya,1,http://purl.obolibrary.org/obo/NCBITaxon_3649
+128,Xenopus laevis,1,http://purl.obolibrary.org/obo/NCBITaxon_8355
+129,Coral reef sea water,1,
+130,Spheciospongia vesparium,1,
+131,Ircinia campana,1,
+132,Pooled quality control,1,
+133,Micromonas pusilla,1,
+134,Solanum habrochaites,1,
+135,Mycobacterium tuberculosis,1,http://purl.obolibrary.org/obo/NCBITaxon_1773
+136,Puccinia graminis mixed DNA library,1,
+137,Simulation experiment,1,
+138,Crocus sativus,1,
+139,Populus deltoides WV94,1,
+140,Rubus idaeus,1,http://purl.obolibrary.org/obo/NCBITaxon_32247
+141,Laternula elliptica,1,http://purl.obolibrary.org/obo/NCBITaxon_228457
+142,Marseniopsis mollis,1,
+143,Liothyrella uva,1,
+144,Cucumaria georgiana,1,
+145,Yoldia eightsi,1,
+146,Paraceradocus,1,
+147,Anopheles gambiae,1,http://purl.obolibrary.org/obo/NCBITaxon_7165
+148,Scleractinian,1,
+149,Lactuca sativa,1,http://purl.obolibrary.org/obo/NCBITaxon_4236
+150,Pork and Beef minced meat,1,
+151,Food,1,
+152,Vitis vinifera L.,1,
+153,Microbiota,1,
+154,Rabbit,1,
+155,Salmonella Typhimurium DT104 strain 2576,1,
+156,Trypanosoma brucei brucei,1,http://purl.obolibrary.org/obo/NCBITaxon_5702
+157,nil,1,
+158,Photinus pyralis,1,
+159,,1,
+160,Agave americana,1,
+161,Internal Standard,1,
+162,coculture,1,
+163,Culture Media,1,
+164,Phoenix dactylifera,1,
+165,Fraxinus excelsior,1,
+166,mus musculus,1,
+167,Apis cerana,1,http://purl.obolibrary.org/obo/NCBITaxon_7461
+168,Candida lusitaniae,1,
+169,Candida krusei,1,
+170,Candida inconspicua,1,
+171,Candida tropicalis,1,
+172,Candida glabrata,1,http://purl.obolibrary.org/obo/NCBITaxon_5478
+173,Candida parapsilosis,1,http://purl.obolibrary.org/obo/NCBITaxon_5480
+174,cellular organism,1,
+175,Radix,1,
+176,Camellia sinensis,1,
+177,Papio hamadryas,1,http://purl.obolibrary.org/obo/NCBITaxon_9557
+178,Jacobaea,1,
+179,Pseudomonas,1,http://purl.obolibrary.org/obo/NCBITaxon_286
+180,Olea europaea,1,
+181,Leishmania infantum,1,http://purl.obolibrary.org/obo/NCBITaxon_5671
+182,Leishmania mexicana species complex,1,
+183,Espeletia,1,
+184,Japanese sake,1,
+185,endometabolome,1,
+186,Brassica oleracea var. italica,1,
+187,Pseudomonas fluorescens,1,http://purl.obolibrary.org/obo/NCBITaxon_294
+188,Acromyrmex octospinosus,1,
+189,Populus tremula x Populus tremuloides,1,http://purl.obolibrary.org/obo/NCBITaxon_47664
+190,Salix,1,
+191,Rhizobium,1,
+192,Nepenthes ampullaria,1,
+193,Nepenthes rafflesiana,1,
+194,Nepenthes x hookeriana,1,
+195,soybean,1,
+196,flower,1,http://purl.obolibrary.org/obo/PO_0009046
+197,Leishmania mexicana,1,http://purl.obolibrary.org/obo/NCBITaxon_5665
+198,mixed community,1,
+199,Cricetulus griseus,1,http://purl.obolibrary.org/obo/NCBITaxon_10029
+200,Platycodon grandiflorum,1,
+201,Campylobacter jejuni subsp. jejuni NCTC 11168,1,http://purl.obolibrary.org/obo/NCBITaxon_192222
+202,Sorbent blank,1,
+203,Klebsiella pneumoniae,1,http://purl.obolibrary.org/obo/NCBITaxon_573
+204,Nutrient broth,1,
+205,Artificial sputum medium,1,
+206,Kalanchoe fedtschenkoi,1,
+207,Rhytidiadelphus squarrosus,1,
+208,Marchantia polymorpha s. l.,1,
+209,Fissidens taxifolius,1,
+210,Polytrichum strictum,1,
+211,Brachythecium rutabulum,1,
+212,Grimmia pulvinata,1,
+213,Plagiomnium undulatum,1,
+214,Heligmosomoides polygyrus,1,http://purl.obolibrary.org/obo/NCBITaxon_6339
+215,Burkholderia thailandensis,1,http://purl.obolibrary.org/obo/NCBITaxon_57975
+216,Chromobacterium violaceum,1,
+217,Pseudomonas syringae,1,
+218,Lemna paucicostata,1,
+219,Eisenia fetida,1,http://purl.obolibrary.org/obo/NCBITaxon_6396
+220,Mycoplasma bovis,1,
+221,Mycoplasma gallisepticum,1,http://purl.obolibrary.org/obo/NCBITaxon_2096
+222,Acropora aspera,1,
+223,Symbiodinium sp. ex Acropora aspera,1,
+224,C57BL,1,http://www.ebi.ac.uk/efo/EFO_0005181
+225,6J,1,
+226,Equus caballus,1,http://purl.obolibrary.org/obo/NCBITaxon_9796
+227,Streptomyces viridochromogenes,1,
+228,Brassica juncea,1,http://purl.obolibrary.org/obo/NCBITaxon_3707
+229,Nicotiana tabacum,1,http://purl.obolibrary.org/obo/NCBITaxon_4097
+230,Prochlorococcus,1,
+231,Skeletonema marinoi,1,
+232,Inga umbellifera,1,
+233,Inga alba,1,
+234,Inga microcoma,1,
+235,Inga marginata,1,
+236,Inga laurina,1,
+237,Inga leiocalycina,1,
+238,Inga cf brachystacys,1,
+239,Inga obidensis,1,
+240,Inga pezizifera,1,
+241,Inga auristellae,1,
+242,Inga chartacea,1,
+243,Inga alata,1,
+244,Inga acreana,1,
+245,Inga coruscans,1,
+246,Zea mays subsp. mays,1,http://purl.obolibrary.org/obo/NCBITaxon_381124
+247,Sinorhizobium meliloti,1,http://purl.obolibrary.org/obo/NCBITaxon_382
+248,Cunila menthoides,1,
+249,Arachis hypogaea,1,http://purl.obolibrary.org/obo/NCBITaxon_3818
+250,Macrobrachium nipponense,1,
+251,Garcinia mangostana,1,
+252,Pristionchus pacificus,1,http://purl.obolibrary.org/obo/NCBITaxon_54126
+253,Gomphrena,1,
+254,Enterobacter cloacae,1,
+255,Dicentrarchus labrax,1,http://purl.obolibrary.org/obo/NCBITaxon_13489
+256,Rhopalosiphum padi,1,
+257,Kunming White outbred strain mice,1,
+258,Populus tremula,1,http://purl.obolibrary.org/obo/NCBITaxon_113636
+259,Populus tremuloides,1,http://purl.obolibrary.org/obo/NCBITaxon_3693
+260,Haliclona fulva,1,
+261,Chlorocebus sp.,1,
+262,Bacteria,1,http://purl.obolibrary.org/obo/NCBITaxon_2
+263,Mycobacterium bovis,1,http://purl.obolibrary.org/obo/NCBITaxon_1765
+264,Seminavis robusta 85B Sex,1,
+265,Plasmodium vivax,1,http://purl.obolibrary.org/obo/NCBITaxon_5855
+266,Da.gl.,1,
+267,Sulfolobus acidocaldarius,1,http://purl.obolibrary.org/obo/NCBITaxon_2285
+268,Ctenopharyngodon idella,1,
+269,Trotter horse,1,
+270,cell media,1,
+271,Festuca rubra,1,
+272,Holcus lanatus,1,
+273,Geranium pratense,1,
+274,Phleum pratense,1,
+275,Anthoxanthum odoratum,1,
+276,Avenula pubescens,1,
+277,Alopecurus pratensis,1,
+278,Arrhenatherum elatius,1,
+279,Galium verum,1,
+280,Achillea millefolium,1,
+281,Galium mollugo,1,
+282,Viola tricolor,1,
+283,Mentha x piperita,1,
+284,Origanum vulgare,1,
+285,Potentilla erecta,1,
+286,Convallaria keiskei,1,
+287,Ginkgo biloba,1,http://purl.obolibrary.org/obo/NCBITaxon_3311
+288,Fragaria vesca,1,
+289,Asarum europaeum,1,
+290,Inula helenium,1,
+291,Valeriana officinalis,1,
+292,Angelica archangelica,1,
+293,Eleutherococcus senticosus,1,
+294,Hedysarum neglectum,1,
+295,Bupleurum aureum,1,
+296,Equisetum arvense,1,http://purl.obolibrary.org/obo/NCBITaxon_3258
+297,Pimpinella anisum,1,
+298,Acorus calamus,1,
+299,Eleutherococcus sessiliflorus,1,
+300,Daucus carota,1,
+301,Anethum graveolens,1,
+302,Aerva lanata,1,
+303,Melilotus officinalis,1,
+304,Arctium lappa,1,
+305,Echinacea purpurea,1,
+306,Astragalus propinquus,1,
+307,Sambucus nigra,1,
+308,Viburnum opulus,1,
+309,Tanacetum vulgare,1,
+310,Althaea officinalis,1,
+311,Aegopodium podagraria,1,
+312,Aralia elata,1,
+313,Rosa majalis,1,
+314,Heracleum sibiricum,1,
+315,Thymus serpyllum,1,
+316,Tilia cordata,1,
+317,Betula pendula,1,http://purl.obolibrary.org/obo/NCBITaxon_3505
+318,Hypericum perforatum,1,
+319,Tussilago farfara,1,
+320,Taraxacum officinale,1,http://purl.obolibrary.org/obo/NCBITaxon_50225
+321,Urtica dioica,1,
+322,Silybum marianum,1,
+323,Populus balsamifera,1,http://purl.obolibrary.org/obo/NCBITaxon_73824
+324,Foeniculum vulgare,1,
+325,Salvia officinalis,1,
+326,Glycyrrhiza glabra,1,
+327,Polemonium caeruleum,1,
+328,Humulus lupulus,1,http://purl.obolibrary.org/obo/NCBITaxon_3486
+329,Calendula officinalis,1,
+330,Helianthus tuberosus,1,
+331,Aronia melanocarpa,1,
+332,Pimpinella saxifraga,1,
+333,Rhamnus cathartica,1,
+334,Helichrysum arenarium,1,
+335,Petroselinum crispum,1,
+336,Artemisia absinthium,1,
+337,Juniperus communis,1,
+338,Pinus sylvestris,1,http://purl.obolibrary.org/obo/NCBITaxon_3349
+339,Senna alexandrina,1,
+340,Coriandrum sativum,1,
+341,Leonurus quinquelobatus,1,
+342,Prunus padus,1,
+343,Matricaria chamomilla,1,
+344,Linum usitatissimum,1,http://purl.obolibrary.org/obo/NCBITaxon_4006
+345,Vaccinium myrtillus,1,
+346,Dioscorea caucasica,1,
+347,Oplopanax elatus,1,
+348,Plantago major,1,
+349,Levisticum officinale,1,
+350,Bidens tripartita,1,
+351,Bergenia crassifolia,1,
+352,Frangula alnus,1,
+353,"Plasmodium coatneyi,Homo sapiens",1,
+354,Solanum lycopersicum x Solanum pennellii,1,
