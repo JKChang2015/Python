@@ -19,6 +19,8 @@ for sp in species:
         flat = flat + sp.split(';')
     elif '/' in sp:
         flat = flat + sp.split('/')
+    elif ',' in sp:
+        flat = flat + sp.split(',')
     else:
         flat.append(sp)
 
