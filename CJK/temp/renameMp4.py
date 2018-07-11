@@ -8,9 +8,9 @@ import os
 import re
 
 # path = r'/Users/jkchang/Desktop/test'
-path = r'/Users/jkchang/Desktop/up'
+path = r'/Users/jkchang/Downloads/up'
 
-fileCount = 51
+fileCount = 142
 
 sublist = sorted(os.listdir(path))
 try:

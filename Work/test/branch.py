@@ -13,6 +13,23 @@ from owlready2 import *
 #         print('  is a %s' %parent.label)
 
 
+
+
+onto = get_ontology('file://./infor.owl').load()
+for cls in onto.classes():
+    print(cls.iri)
+
+c = onto.search_one(iri = 'http://purl.enanomapper.org/onto/ENM_9000014')
+c.label
+
+
+
+
+# for go_concept in onto.classes():
+#     print(go_concept.label)
+#     get_super(go_concept)
+#     print('-'*20)
+
 def get_super(onto_class):
     if onto_class.label == '':
         return
@@ -22,19 +39,14 @@ def get_super(onto_class):
         print('  is a %s' % parent.label)
 
 
-onto = get_ontology('file://./infor.owl').load()
-
-# for go_concept in onto.classes():
-#     print(go_concept.label)
-#     get_super(go_concept)
-#     print('-'*20)
-
 try:
     d = onto.search_one(label="gala")
     print(d.label)
     print(get_super(d))
 except:
     print('can not find xxx')
+
+
 
 # gen = onto.classes()
 # for i in gen:

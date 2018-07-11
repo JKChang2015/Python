@@ -10,8 +10,10 @@ from owlready2 import *
 from Work.ontology_info import *
 
 # load ontologies:
-onto_list = ['bto', 'efo']  # 'bto', 'efo','ncbitaxon'
+onto_list = ['bto', 'efo', 'ncbitaxon']  # 'bto', 'efo'
 onto_path = '/Users/jkchang/Github/Python/large file'
+
+
 for onto_name in onto_list:
     print('loading %s' % onto_name)
     onto = get_ontology(os.path.join(onto_path, onto_name) + '.owl').load()

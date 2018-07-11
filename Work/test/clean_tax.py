@@ -8,7 +8,5 @@ import pandas as pd
 
 df = pd.read_csv('../test/temp.csv')
 col = df['url'].dropna().drop_duplicates()
-col.to_csv('../results/species_url.csv')
+col.to_csv('../results/species_url.csv', header=['url'], index=False)
 print(col)
-
-
