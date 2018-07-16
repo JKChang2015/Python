@@ -5,6 +5,8 @@
 # Description: create markdown files according to the list of file
 
 list_path = '/Users/jkchang/Desktop/filelist.txt'
-with open(list_path,'r') as f:
+with open(list_path, 'r') as f:
     lines = f.readlines()
-    pass
+    for line in lines:
+        with open(line.strip() + ".md", "w") as f:
+            f.write("# %s" % line)

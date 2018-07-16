@@ -6,10 +6,8 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/test/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/test/t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CJK/temp/create_md.py" beforeDir="false" afterPath="$PROJECT_DIR$/CJK/temp/create_md.py" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -22,6 +20,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/Python$date.coverage" NAME="date Coverage Results" MODIFIED="1530960625697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$mapping_species.coverage" NAME="mapping_species Coverage Results" MODIFIED="1531317658014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
+    <SUITE FILE_PATH="coverage/Python$create_md.coverage" NAME="create_md Coverage Results" MODIFIED="1531409514045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$renameMp4.coverage" NAME="renameMp4 Coverage Results" MODIFIED="1531313404412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$single.coverage" NAME="single Coverage Results" MODIFIED="1531322721800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
     <SUITE FILE_PATH="coverage/Python$t.coverage" NAME="t Coverage Results" MODIFIED="1531385799260" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
@@ -43,12 +42,12 @@
     <SUITE FILE_PATH="coverage/Python$enum_test.coverage" NAME="enum_test Coverage Results" MODIFIED="1530960756199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="ontology_info.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/ontology_info.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="294">
-              <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+              <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -56,8 +55,8 @@
       <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/test/t.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="441">
-              <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+            <state relative-caret-position="399">
+              <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
               <folding>
                 <element signature="e#69#92#0" expanded="true" />
               </folding>
@@ -65,11 +64,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="t.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CJK/temp/t.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="168">
-              <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="32" />
+            <state relative-caret-position="525">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="date.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CJK/date.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="createNewFile.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1040">
+              <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
             </state>
           </provider>
         </entry>
@@ -114,9 +131,9 @@
         <option value="$PROJECT_DIR$/Work/ontology_info.py" />
         <option value="$PROJECT_DIR$/Work/tree_structure.py" />
         <option value="$PROJECT_DIR$/Work/test/single.py" />
-        <option value="$PROJECT_DIR$/CJK/temp/create_md.py" />
         <option value="$PROJECT_DIR$/Work/test/t.py" />
         <option value="$PROJECT_DIR$/CJK/temp/t.py" />
+        <option value="$PROJECT_DIR$/CJK/temp/create_md.py" />
       </list>
     </option>
   </component>
@@ -131,7 +148,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2249" />
+    <option name="width" value="1280" />
     <option name="height" value="1373" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -169,17 +186,6 @@
               <item name="CJK" type="462c0819:PsiDirectoryNode" />
               <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -210,8 +216,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.t (1)">
-    <configuration name="mapping_species" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.create_md">
+    <configuration name="create_md" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -219,12 +225,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK/temp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/mapping_species.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/temp/create_md.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -308,18 +314,18 @@
     </configuration>
     <list>
       <item itemvalue="Python.tree_structure" />
-      <item itemvalue="Python.mapping_species" />
       <item itemvalue="Python.t" />
       <item itemvalue="Python.single" />
       <item itemvalue="Python.t (1)" />
+      <item itemvalue="Python.create_md" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.create_md" />
         <item itemvalue="Python.t (1)" />
         <item itemvalue="Python.t" />
         <item itemvalue="Python.single" />
         <item itemvalue="Python.tree_structure" />
-        <item itemvalue="Python.mapping_species" />
       </list>
     </recent_temporary>
   </component>
@@ -337,16 +343,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2249" height="1373" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="1373" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299373" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3260188" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32925898" />
       <window_info anchor="bottom" id="Python Console" order="9" weight="0.15438871" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3275862" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22836429" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.4749596" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" />
@@ -374,8 +381,13 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Work/ncbitaxon.csv" />
-    <entry file="file://$PROJECT_DIR$/Work/OntoInfo.py" />
+    <entry file="file://$PROJECT_DIR$/CJK/temp/create_md.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/100 python/Q014.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="63">
@@ -386,20 +398,6 @@
     <entry file="file://$PROJECT_DIR$/CJK/_16May.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-207" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/date.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/etreeTest.py">
@@ -647,24 +645,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/create_md.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Work/ontology_info.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="294">
-          <caret line="14" column="44" lean-forward="true" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
+          <caret line="14" column="44" selection-start-line="14" selection-start-column="44" selection-end-line="14" selection-end-column="44" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Work/test/t.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="441">
-          <caret line="21" column="15" lean-forward="true" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
+        <state relative-caret-position="399">
+          <caret line="21" column="15" selection-start-line="21" selection-start-column="15" selection-end-line="21" selection-end-column="15" />
           <folding>
             <element signature="e#69#92#0" expanded="true" />
           </folding>
@@ -673,8 +664,30 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/CJK/temp/t.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="8" selection-start-line="8" selection-end-line="22" selection-end-column="32" />
+        <state relative-caret-position="525">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/date.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/temp/1. Java 开发准备&#10;.md" />
+    <entry file="file://$PROJECT_DIR$/CJK/temp/create_md.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1040">
+          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
         </state>
       </provider>
     </entry>
