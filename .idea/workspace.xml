@@ -6,7 +6,20 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Work/test/t.py" beforeDir="false" afterPath="$PROJECT_DIR$/Work/test/t.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company box-plot.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/dice_visual.svg" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/dice_visual.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/cube.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/cube.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/ramdom_walk.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/ramdom_walk.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/world_population 2016.svg" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/world_population 2016.svg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -17,36 +30,55 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Python$date.coverage" NAME="date Coverage Results" MODIFIED="1530960625697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$mapping_species.coverage" NAME="mapping_species Coverage Results" MODIFIED="1531317658014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
-    <SUITE FILE_PATH="coverage/Python$create_md.coverage" NAME="create_md Coverage Results" MODIFIED="1531409514045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$renameMp4.coverage" NAME="renameMp4 Coverage Results" MODIFIED="1531313404412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$single.coverage" NAME="single Coverage Results" MODIFIED="1531322721800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
     <SUITE FILE_PATH="coverage/Python$t.coverage" NAME="t Coverage Results" MODIFIED="1531816398747" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
+    <SUITE FILE_PATH="coverage/Python$dice_visual.coverage" NAME="dice_visual Coverage Results" MODIFIED="1531834061794" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Pro2" />
+    <SUITE FILE_PATH="coverage/Python$HSP.coverage" NAME="HSP Coverage Results" MODIFIED="1530961052601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysis" />
+    <SUITE FILE_PATH="coverage/Python$ontology_com.coverage" NAME="ontology_com Coverage Results" MODIFIED="1530183106730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/crawler" />
+    <SUITE FILE_PATH="coverage/Python$etreeTest.coverage" NAME="etreeTest Coverage Results" MODIFIED="1530960692622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
+    <SUITE FILE_PATH="coverage/Python$demo.coverage" NAME="demo Coverage Results" MODIFIED="1531833977908" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
+    <SUITE FILE_PATH="coverage/Python$rw_visual.coverage" NAME="rw_visual Coverage Results" MODIFIED="1531834102063" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Pro2" />
+    <SUITE FILE_PATH="coverage/Python$t__1_.coverage" NAME="t (1) Coverage Results" MODIFIED="1531392944020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
+    <SUITE FILE_PATH="coverage/Python$branch.coverage" NAME="branch Coverage Results" MODIFIED="1531317097097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
+    <SUITE FILE_PATH="coverage/Python$enum_test.coverage" NAME="enum_test Coverage Results" MODIFIED="1530960756199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
+    <SUITE FILE_PATH="coverage/Python$date.coverage" NAME="date Coverage Results" MODIFIED="1530960625697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
+    <SUITE FILE_PATH="coverage/Python$create_md.coverage" NAME="create_md Coverage Results" MODIFIED="1531409514045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
+    <SUITE FILE_PATH="coverage/Python$world_population.coverage" NAME="world_population Coverage Results" MODIFIED="1531834147649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Pro2" />
     <SUITE FILE_PATH="coverage/Python$hyperExtractor.coverage" NAME="hyperExtractor Coverage Results" MODIFIED="1531253109509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysis" />
     <SUITE FILE_PATH="coverage/Python$onto_list.coverage" NAME="onto_list Coverage Results" MODIFIED="1531133087350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
+    <SUITE FILE_PATH="coverage/Python$box_plot.coverage" NAME="box-plot Coverage Results" MODIFIED="1531834023217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Data_Analysis" />
     <SUITE FILE_PATH="coverage/Python$geturl.coverage" NAME="geturl Coverage Results" MODIFIED="1531225430117" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
-    <SUITE FILE_PATH="coverage/Python$HSP.coverage" NAME="HSP Coverage Results" MODIFIED="1530961052601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysis" />
     <SUITE FILE_PATH="coverage/Python$species.coverage" NAME="species Coverage Results" MODIFIED="1531149659511" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
     <SUITE FILE_PATH="coverage/Python$bioportal.coverage" NAME="bioportal Coverage Results" MODIFIED="1530182033535" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
     <SUITE FILE_PATH="coverage/Python$sample_cleaning.coverage" NAME="sample_cleaning Coverage Results" MODIFIED="1531132797736" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
+    <SUITE FILE_PATH="coverage/Python$random_walk.coverage" NAME="random_walk Coverage Results" MODIFIED="1531834227167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Pro2" />
     <SUITE FILE_PATH="coverage/Python$clean_tax.coverage" NAME="clean_tax Coverage Results" MODIFIED="1531304144590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
-    <SUITE FILE_PATH="coverage/Python$ontology_com.coverage" NAME="ontology_com Coverage Results" MODIFIED="1530183106730" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/crawler" />
-    <SUITE FILE_PATH="coverage/Python$etreeTest.coverage" NAME="etreeTest Coverage Results" MODIFIED="1530960692622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$tree_structure.coverage" NAME="tree_structure Coverage Results" MODIFIED="1531318731357" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work" />
-    <SUITE FILE_PATH="coverage/Python$t__1_.coverage" NAME="t (1) Coverage Results" MODIFIED="1531392944020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$coin.coverage" NAME="coin Coverage Results" MODIFIED="1530960740375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$Index_Example.coverage" NAME="Index_Example Coverage Results" MODIFIED="1530960775420" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
-    <SUITE FILE_PATH="coverage/Python$branch.coverage" NAME="branch Coverage Results" MODIFIED="1531317097097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
-    <SUITE FILE_PATH="coverage/Python$enum_test.coverage" NAME="enum_test Coverage Results" MODIFIED="1530960756199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
+    <SUITE FILE_PATH="coverage/Python$scatter_square.coverage" NAME="scatter_square Coverage Results" MODIFIED="1531834083486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Pro2" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="ontology_info.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/ontology_info.py">
+      <file leaf-file-name="relationship.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="126">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/__init__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="426">
+              <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+              <folding>
+                <element signature="e#936#975#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -54,68 +86,19 @@
       <file leaf-file-name="namespace.py" pinned="false" current-in-tab="false">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/namespace.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="86">
-              <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+            <state relative-caret-position="127">
+              <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="disjoint.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/disjoint.py">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="annotation.py" pinned="false" current-in-tab="true">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/annotation.py">
+      <file leaf-file-name="prop.py" pinned="false" current-in-tab="false">
+        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/prop.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="105" column="66" lean-forward="true" selection-start-line="105" selection-start-column="66" selection-end-line="105" selection-end-column="66" />
+            <state relative-caret-position="6048">
+              <caret line="294" column="6" selection-start-line="294" selection-start-column="6" selection-end-line="294" selection-end-column="6" />
             </state>
           </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/test/t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="231">
-              <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
-              <folding>
-                <element signature="e#69#92#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="t.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CJK/temp/t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="date.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CJK/date.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="createNewFile.py" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1040">
-              <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="demo.owl" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Work/test/demo.owl">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -161,6 +144,9 @@
         <option value="$PROJECT_DIR$/CJK/temp/t.py" />
         <option value="$PROJECT_DIR$/CJK/temp/create_md.py" />
         <option value="$PROJECT_DIR$/Work/test/t.py" />
+        <option value="$PROJECT_DIR$/CJK/temp/demo.py" />
+        <option value="$PROJECT_DIR$/RD_Club/Pro2/rw_visual.py" />
+        <option value="$PROJECT_DIR$/Work/test/relationship.py" />
       </list>
     </option>
   </component>
@@ -173,7 +159,7 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="2288" />
     <option name="height" value="1373" />
@@ -200,6 +186,30 @@
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
               <item name="Work" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="notes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Python" type="462c0819:PsiDirectoryNode" />
+              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="results" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -268,8 +278,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.t">
-    <configuration name="create_md" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.random_walk">
+    <configuration name="dice_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,18 +287,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK/temp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Pro2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/temp/create_md.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Pro2/dice_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="single" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="random_walk" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -296,18 +306,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Pro2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/test/single.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Pro2/random_walk.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="t (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="rw_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -315,18 +325,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK/temp" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Pro2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/temp/t.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Pro2/rw_visual.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="scatter_square" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -334,18 +344,18 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Pro2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/test/t.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Pro2/scatter_square.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="tree_structure" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="world_population" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -353,31 +363,31 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Pro2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Work/tree_structure.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Pro2/world_population.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.tree_structure" />
-      <item itemvalue="Python.t" />
-      <item itemvalue="Python.single" />
-      <item itemvalue="Python.t (1)" />
-      <item itemvalue="Python.create_md" />
+      <item itemvalue="Python.dice_visual" />
+      <item itemvalue="Python.scatter_square" />
+      <item itemvalue="Python.rw_visual" />
+      <item itemvalue="Python.world_population" />
+      <item itemvalue="Python.random_walk" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.t" />
-        <item itemvalue="Python.create_md" />
-        <item itemvalue="Python.t (1)" />
-        <item itemvalue="Python.single" />
-        <item itemvalue="Python.tree_structure" />
+        <item itemvalue="Python.random_walk" />
+        <item itemvalue="Python.world_population" />
+        <item itemvalue="Python.rw_visual" />
+        <item itemvalue="Python.scatter_square" />
+        <item itemvalue="Python.dice_visual" />
       </list>
     </recent_temporary>
   </component>
@@ -395,28 +405,29 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2288" height="1373" extended-state="1" />
+    <frame x="0" y="23" width="2288" height="1373" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299373" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.3260188" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32925898" />
-      <window_info anchor="bottom" id="Python Console" order="9" weight="0.15438871" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="9" visible="true" weight="0.39655173" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3275862" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26580587" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2747106" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
-      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="SciView" order="4" weight="0.32991984" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39890283" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32942098" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -432,307 +443,41 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/CJK/roman_converter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-270" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/sina.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-308" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/coin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="83">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/args_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/fib.py" />
-    <entry file="file://$PROJECT_DIR$/CJK/temp/enum_test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="22" lean-forward="true" selection-start-line="16" selection-start-column="22" selection-end-line="16" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/Index_Example.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/splitter.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="756">
-          <caret line="36" column="21" selection-start-line="36" selection-start-column="21" selection-end-line="36" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/Youdao.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/HSP.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/web Scraping.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/web_scraper.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="16" column="69" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="69" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/ReadMeGenerator.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="861">
-          <caret line="41" column="13" lean-forward="true" selection-start-line="41" selection-start-column="13" selection-end-line="41" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/cleaned.tsv" />
-    <entry file="file://$PROJECT_DIR$/Work/count classes.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Work/list of super.ipynb" />
-    <entry file="file://$PROJECT_DIR$/Work/sample_data_cleaning.py" />
-    <entry file="file://$PROJECT_DIR$/Work/results/terms and urls.tsv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="483">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/results/ncbitaxon.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-8512" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/resources/MTBLS Curation Status Log - Studies.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1128">
-          <caret line="54" column="57" selection-start-line="54" selection-start-column="57" selection-end-line="54" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/DataAnalysis/hyperExtractor.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="9" column="7" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/results/species_url.csv" />
-    <entry file="file://$PROJECT_DIR$/CJK/temp/renameMp4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/sample_cleaning.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1187">
-          <caret line="70" column="12" selection-start-line="70" selection-start-column="12" selection-end-line="70" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/species.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="21">
-          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/terms and urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="19" selection-start-line="6" selection-start-column="19" selection-end-line="6" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/branch.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="22" column="7" selection-start-line="22" selection-start-column="7" selection-end-line="22" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/geturl.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/tst.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="63">
-          <caret line="3" column="8" lean-forward="true" selection-start-line="3" selection-start-column="8" selection-end-line="3" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/results/species.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="5817">
-          <caret line="277" column="19" selection-start-line="277" selection-start-column="19" selection-end-line="277" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/results/url.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="546">
-          <caret line="26" selection-start-line="26" selection-end-line="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/infor.owl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="609">
-          <caret line="29" selection-start-line="29" selection-end-line="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/url.csv">
+    <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
-          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+          <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/fruit.csv">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/prop.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        <state relative-caret-position="6048">
+          <caret line="294" column="6" selection-start-line="294" selection-start-column="6" selection-end-line="294" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/temp.csv">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/results/species_tax_url.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="24" column="46" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/mapping_species.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="13" column="52" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="52" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/clean_tax.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/tree_structure.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="357">
-          <caret line="17" column="25" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/single.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="16" column="20" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/t.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="25" selection-start-line="25" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/date.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/temp/1. Java 开发准备&#10;.md" />
-    <entry file="file://$PROJECT_DIR$/CJK/temp/create_md.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/CJK/createNewFile.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/demo.owl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/t.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="231">
-          <caret line="11" column="12" selection-start-line="11" selection-start-column="12" selection-end-line="11" selection-end-column="12" />
+        <state relative-caret-position="426">
+          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
           <folding>
-            <element signature="e#69#92#0" expanded="true" />
+            <element signature="e#936#975#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Work/ontology_info.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="18" column="34" lean-forward="true" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/namespace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="86">
-          <caret line="19" column="16" lean-forward="true" selection-start-line="19" selection-start-column="16" selection-end-line="19" selection-end-column="16" />
+        <state relative-caret-position="127">
+          <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/disjoint.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/annotation.py">
+    <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1040">
-          <caret line="105" column="66" lean-forward="true" selection-start-line="105" selection-start-column="66" selection-end-line="105" selection-end-column="66" />
+        <state relative-caret-position="126">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
         </state>
       </provider>
     </entry>
