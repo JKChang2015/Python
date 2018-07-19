@@ -6,20 +6,6 @@
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/most_wanted_letter.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/Checkio/number_base.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Checkio/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../Checkio/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Departments box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/Work_accident box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/average_montly_hours box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/last_evaluation box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/number_project box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/promotion_last_5years box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/salary box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/satisfaction_level box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company box-plot.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Data_Analysis/results/time_spend_company box-plot.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/dice_visual.svg" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/dice_visual.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/cube.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/cube.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/ramdom_walk.png" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/ramdom_walk.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RD_Club/Pro2/resources/world_population 2016.svg" beforeDir="false" afterPath="$PROJECT_DIR$/RD_Club/Pro2/resources/world_population 2016.svg" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/venv/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -43,7 +29,7 @@
     <SUITE FILE_PATH="coverage/Python$t__1_.coverage" NAME="t (1) Coverage Results" MODIFIED="1531392944020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$branch.coverage" NAME="branch Coverage Results" MODIFIED="1531317097097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Work/test" />
     <SUITE FILE_PATH="coverage/Python$enum_test.coverage" NAME="enum_test Coverage Results" MODIFIED="1530960756199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
-    <SUITE FILE_PATH="coverage/Python$date.coverage" NAME="date Coverage Results" MODIFIED="1530960625697" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
+    <SUITE FILE_PATH="coverage/Python$date.coverage" NAME="date Coverage Results" MODIFIED="1531937973302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK" />
     <SUITE FILE_PATH="coverage/Python$create_md.coverage" NAME="create_md Coverage Results" MODIFIED="1531409514045" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/CJK/temp" />
     <SUITE FILE_PATH="coverage/Python$world_population.coverage" NAME="world_population Coverage Results" MODIFIED="1531834147649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/RD_Club/Pro2" />
     <SUITE FILE_PATH="coverage/Python$hyperExtractor.coverage" NAME="hyperExtractor Coverage Results" MODIFIED="1531253109509" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DataAnalysis" />
@@ -62,32 +48,41 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="relationship.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="relationship.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+              <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="__init__.py" pinned="false" current-in-tab="false">
-        <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/__init__.py">
+      <file leaf-file-name="renameMp4.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CJK/temp/renameMp4.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="426">
-              <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+            <state relative-caret-position="-146">
+              <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
               <folding>
-                <element signature="e#936#975#0" expanded="true" />
+                <element signature="e#120#129#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="namespace.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="date.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/CJK/date.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="namespace.py" pinned="false" current-in-tab="true">
         <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/namespace.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="127">
-              <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
+            <state relative-caret-position="130">
+              <caret line="82" column="98" lean-forward="true" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
             </state>
           </provider>
         </entry>
@@ -161,7 +156,7 @@
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="2288" />
+    <option name="width" value="1280" />
     <option name="height" value="1373" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -185,37 +180,13 @@
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
+              <item name="CJK" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
               <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="crawler" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="notes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="results" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Python" type="462c0819:PsiDirectoryNode" />
-              <item name="Work" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="CJK" type="462c0819:PsiDirectoryNode" />
+              <item name="temp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Python" type="b2602c69:ProjectViewProjectNode" />
@@ -278,8 +249,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.random_walk">
-    <configuration name="dice_visual" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.date">
+    <configuration name="date" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -287,12 +258,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/RD_Club/Pro2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/CJK" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/RD_Club/Pro2/dice_visual.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/CJK/date.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -375,19 +346,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.dice_visual" />
       <item itemvalue="Python.scatter_square" />
       <item itemvalue="Python.rw_visual" />
       <item itemvalue="Python.world_population" />
       <item itemvalue="Python.random_walk" />
+      <item itemvalue="Python.date" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.date" />
         <item itemvalue="Python.random_walk" />
         <item itemvalue="Python.world_population" />
         <item itemvalue="Python.rw_visual" />
         <item itemvalue="Python.scatter_square" />
-        <item itemvalue="Python.dice_visual" />
       </list>
     </recent_temporary>
   </component>
@@ -405,17 +376,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="2288" height="1373" extended-state="0" />
+    <frame x="0" y="23" width="1280" height="1373" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" weight="0.3299373" />
       <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3260188" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.23354232" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.32925898" />
-      <window_info active="true" anchor="bottom" id="Python Console" order="9" visible="true" weight="0.39655173" />
+      <window_info anchor="bottom" id="Python Console" order="9" weight="0.39585605" />
       <window_info anchor="bottom" id="Terminal" order="10" weight="0.3275862" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2747106" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.42084005" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="4" weight="0.32991984" />
@@ -424,10 +395,10 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32942098" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
@@ -445,6 +416,37 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
       <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1890">
+          <caret line="105" column="26" selection-start-line="105" selection-start-column="26" selection-end-line="105" selection-end-column="26" />
+          <folding>
+            <element signature="e#936#975#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/namespace.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4746">
+          <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/prop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6048">
+          <caret line="294" column="6" selection-start-line="294" selection-start-column="6" selection-end-line="294" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
+      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="4" column="47" selection-start-line="4" selection-start-column="47" selection-end-line="4" selection-end-column="47" />
         </state>
@@ -454,6 +456,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="6048">
           <caret line="294" column="6" selection-start-line="294" selection-start-column="6" selection-end-line="294" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CJK/temp/renameMp4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-146">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
+          <folding>
+            <element signature="e#120#129#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -467,17 +486,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/namespace.py">
+    <entry file="file://$PROJECT_DIR$/CJK/date.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="127">
-          <caret line="226" column="6" selection-start-line="226" selection-start-column="6" selection-end-line="226" selection-end-column="6" />
+        <state relative-caret-position="315">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Work/test/relationship.py">
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/owlready2/namespace.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        <state relative-caret-position="130">
+          <caret line="82" column="98" lean-forward="true" selection-start-line="82" selection-start-column="98" selection-end-line="82" selection-end-column="98" />
         </state>
       </provider>
     </entry>
