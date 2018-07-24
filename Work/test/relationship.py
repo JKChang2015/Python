@@ -6,6 +6,12 @@
 
 from owlready2 import *
 
+# onto = get_ontology('file://demo.owl').load()
+# cl = onto.get_namespace(onto.base_iri)
+# res = onto.annotation_properties()
+#
+# list(res)[10]._obj()
+
 onto = get_ontology('file://demo.owl').load()
-cl = onto.get_namespace(onto.base_iri)
-cl.ontology.name
+gen = onto.world.annotation_properties()
+

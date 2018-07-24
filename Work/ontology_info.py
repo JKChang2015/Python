@@ -12,11 +12,20 @@ class information():
         self.onto = onto
 
     def get_subs(self, txt):
-        print('matching %s subclass..' %txt)
+
         '''return list of sub classes'''
+
+        print('matching subs of %s' % txt)
         sub = []
         try:
             onto_c = self.onto.search_one(label=txt)
+            if (len(onto_c) == 0):
+                onto_c = self.onto.search_one(label=txt.lower())
+            if (len(onto_c) == 0):
+                onto_c = self.onto.search_one(label=txt.upper())
+            if (len(onto_c) == 0):
+                onto_c = self.onto.search_one(label=txt.title())
+            print('get ', onto_c.label)
             list_subs(onto_c, sub)
             return [list(x)[0] for x in sub if len(x) > 0]
         except:
@@ -29,17 +38,28 @@ class information():
                 pass
 
     def get_supers(self, txt):
-        print('matching %s superclass..' % txt)
+
         ''''return list of super classes'''
+
+        print('matching sups of %s ' % txt)
+
         sup = []
         try:
             onto_c = self.onto.search_one(label=txt)
+            if (onto_c == None):
+                onto_c = self.onto.search_one(label=txt.lower())
+            if (onto_c == None):
+                onto_c = self.onto.search_one(label=txt.upper())
+            if (onto_c == None):
+                onto_c = self.onto.search_one(label=txt.title())
+
             list_supers(onto_c, sup)
-            return [list(x)[0] for x in sup if len(x) > 0]
+            res = [list(x)[0] for x in sup if len(x) > 0]
+            return res
         except:
             try:
                 onto_c = self.onto.search_one(iri=txt)
-                list_subs(onto_c, sup)
+                list_supers(onto_c, sup)
                 return [list(x)[0] for x in sup if len(x) > 0]
             except:
                 print('can not find %s' % txt)
@@ -67,74 +87,21 @@ class information():
 
 
 def list_supers(onto_c, sup):
-    if onto_c.label == '':
+    if onto_c.label == ''or onto_c.iri =='http://www.w3.org/2002/07/owl#Thing':
         return
     for parent in onto_c.is_a:
-        list_supers(parent, sup)
-        sup.append(parent.label)
-
+        try:
+            list_supers(parent, sup)
+            sup.append(parent.label)
+        except:
+            continue
 
 def list_subs(onto_c, sub):
-    if onto_c.label == '':
+    if onto_c.label == '' or onto_c.iri =='http://www.w3.org/2002/07/owl#Thing':
         return
     for children in onto_c.subclasses():
-        list_subs(children, sub)
-        sub.append(children.label)
-
-#
-# # test
-# # Created by JKChang
-# # 26/06/2018, 11:02
-# # Tag:
-# # Description: count amount of subclasses / superclasses
-#
-#
-# class info(object):
-#     supers = []
-#     subs = []
-#
-#     def __init__(self, onto):
-#         self.onto = onto
-#
-#     def __setClass(self, onto_class):
-#         try:
-#             self.onto_class = self.onto.search_one(label=onto_class)
-#         except:
-#             print('can not find xxx')
-#
-#     def __get_supers(self, onto_class):
-#         self.__setClass(onto_class)
-#
-#         if self.onto_class.label == '':
-#             return
-#
-#         for parent in self.onto_class.is_a:
-#             self.__get_supers(parent)
-#             self.supers.append(parent.label)
-#
-#     def __get_subs(self, onto_class):
-#
-#         if self.onto_class.label == '':
-#             return
-#
-#         for child in self.onto_class.subclasses():
-#             self.__get_subs(child)
-#             self.subs.append(child.label)
-#
-#     def SUPERS(self, onto_class):
-#         self.__get_supers(onto_class)
-#         self.supers = [list(x)[0] for x in self.supers if len(x) > 0]
-#         return self.supers
-#
-#     def SUBS(self, onto_class):
-#         self.__get_subs(onto_class)
-#         self.subs = [list(x)[0] for x in self.subs if len(x) > 0]
-#         return self.subs
-#
-#     def countSub(self, onto_class):
-#         self.__get_subs(onto_class)
-#         return (len(self.subs))
-#
-#     def countSup(self, onto_class):
-#         self.__get_supers(onto_class)
-#         return (len(self.supers))
+        try:
+            list_subs(children, sub)
+            sub.append(children.label)
+        except:
+            continue

@@ -5,8 +5,28 @@
      xmlns:owl="http://www.w3.org/2002/07/owl#"
      xmlns:xml="http://www.w3.org/XML/1998/namespace"
      xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
-     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+     xmlns:ontology="http://www.ebi.ac.uk/metabolights/ontology/">
     <owl:Ontology rdf:about="http://www.semanticweb.org/jkchang/ontologies/"/>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Annotation properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_100000 -->
+
+    <owl:AnnotationProperty rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_100000">
+        <rdfs:label xml:lang="en">is_a_factor</rdfs:label>
+    </owl:AnnotationProperty>
     
 
 
@@ -33,6 +53,7 @@
 
     <owl:Class rdf:about="http://purl.enanomapper.org/onto/ENM_9000015">
         <rdfs:subClassOf rdf:resource="http://purl.enanomapper.org/onto/ENM_9000014"/>
+        <ontology:MTBLS_100000>aapple</ontology:MTBLS_100000>
         <rdfs:label xml:lang="en">apple</rdfs:label>
     </owl:Class>
     
