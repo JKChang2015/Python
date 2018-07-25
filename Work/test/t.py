@@ -5,19 +5,39 @@
 # Description: 
 
 from owlready2 import *
-
-
 from Work.onto_info import *
 
 onto = get_ontology('../resources/Metabolights.owl').load()
 info = information(onto)
-# root = 'factors'
-# start_cls = onto.search_one(root)
 
-cls = onto.search_one(label='age')
-sups = info.get_subs(cls)
-res = [x.label[0] for x in sups]
-print(res)
+cls = onto.search_one(label = 'age')
+subs = info.get_subs(cls)
+
+for x in subs:
+    print(x.label)
+
+query = 'age'
+
+
+
+
+def find_factor(cluster, query):
+    for cls in cluster:
+         if query == cls.label:
+             return cls
+         try:
+             factors = info.get_factors(cls)
+             if query in factors:
+                 return cls
+         except:
+             pass
+    print('No factors for %s' %query)
+    return None
+
+
+res = find_factor(subs,query)
+print(res.label)
+
 
 
 

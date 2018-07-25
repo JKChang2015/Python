@@ -16,7 +16,8 @@ class information():
         print('matching subs of %s' % cls.label)
         sub = []
         list_subs(cls, sub)
-        return [x for x in sub if len(x.label) > 0]
+        # print(type(sub[0]))
+        return sub
 
     def get_supers(self, cls):
         ''''return list of super classes'''
