@@ -9,23 +9,42 @@ from owlready2 import *
 from Work.ontology_info import *
 
 # onto = get_ontology('file:///Users/jkchang/Downloads/abbc.owl').load()
+
 onto = get_ontology('./abbc.owl').load()
 with onto:
-    class apple(Thing):
-        pass
     class Drug(Thing):
         pass
 
-    class lala(Drug >> apple):
+
+    class HealthProblem(Thing):
         pass
 
-    class lie(AnnotationProperty):
+
+    class is_prescribed_for(Drug >> HealthProblem):
         pass
+    class pharmaceutical_comment(comment):
+        pass
+
+    class my_annotation(AnnotationProperty):
+        pass
+
+
+    class pharmaceutical_comment(comment):
+        pass
+
+
 
     acetaminophen = Drug("acetaminophen")
-    print(onto.apple.lie)
+    pain = HealthProblem("pain")
+
+    acetaminophen.is_prescribed_for.append(pain)
+    comment[acetaminophen, is_prescribed_for, pain] = "A comment on the acetaminophen˓→pain relation"
+
+
+
 
     onto.save(file="abbc.owl", format="rdfxml")
+
 
 
 # apple.comment = ["A first comment on the Drug class", "A second comment"]

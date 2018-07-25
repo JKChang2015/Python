@@ -1,0 +1,61 @@
+<?xml version="1.0"?>
+<rdf:RDF xml:base="./abbc.owl"
+         xmlns="./abbc.owl#"
+         xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xmlns:onto="http://www.semanticweb.org/jkchang/ontologies/">
+
+<owl:Ontology rdf:about="http://www.semanticweb.org/jkchang/ontologies/"/>
+
+<owl:AnnotationProperty rdf:about="http://www.semanticweb.org/jkchang/ontologies/my_annotation">
+</owl:AnnotationProperty>
+
+<owl:AnnotationProperty rdf:about="http://www.semanticweb.org/jkchang/ontologies/pharmaceutical_comment">
+  <rdfs:subPropertyOf rdf:resource="http://www.w3.org/2000/01/rdf-schema#comment"/>
+</owl:AnnotationProperty>
+
+<owl:ObjectProperty rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000001">
+  <rdfs:label xml:lang="en">dudu</rdfs:label>
+</owl:ObjectProperty>
+
+<owl:ObjectProperty rdf:about="http://www.semanticweb.org/jkchang/ontologies/is_prescribed_for">
+  <rdfs:domain rdf:resource="http://www.semanticweb.org/jkchang/ontologies/Drug"/>
+  <rdfs:range rdf:resource="http://www.semanticweb.org/jkchang/ontologies/HealthProblem"/>
+</owl:ObjectProperty>
+
+<owl:Class rdf:about="http://www.semanticweb.org/jkchang/ontologies/Drug">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+  <onto:my_annotation>aaaa</onto:my_annotation>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A first comment on the Drug class</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A second comment</rdfs:comment>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A third comment</rdfs:comment>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.semanticweb.org/jkchang/ontologies/HealthProblem">
+  <rdfs:subClassOf rdf:resource="http://www.w3.org/2002/07/owl#Thing"/>
+</owl:Class>
+
+<onto:Drug rdf:about="http://www.semanticweb.org/jkchang/ontologies/acetaminophen">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <onto:is_prescribed_for rdf:resource="http://www.semanticweb.org/jkchang/ontologies/pain"/>
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdf:type rdf:resource="http://www.semanticweb.org/jkchang/ontologies/Drug"/>
+</onto:Drug>
+
+<onto:HealthProblem rdf:about="http://www.semanticweb.org/jkchang/ontologies/pain">
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdf:type rdf:resource="http://www.w3.org/2002/07/owl#NamedIndividual"/>
+  <rdf:type rdf:resource="http://www.semanticweb.org/jkchang/ontologies/HealthProblem"/>
+</onto:HealthProblem>
+
+<owl:Axiom>
+  <owl:annotatedSource rdf:resource="http://www.semanticweb.org/jkchang/ontologies/acetaminophen"/>
+  <owl:annotatedProperty rdf:resource="http://www.semanticweb.org/jkchang/ontologies/is_prescribed_for"/>
+  <owl:annotatedTarget rdf:resource="http://www.semanticweb.org/jkchang/ontologies/pain"/>
+  <rdfs:comment rdf:datatype="http://www.w3.org/2001/XMLSchema#string">A comment on the acetaminophen˓→pain relation</rdfs:comment>
+</owl:Axiom>
+
+
+</rdf:RDF>

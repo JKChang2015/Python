@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1532466603280" name="file:///Users/jkchang/Downloads/infor.owl" uri="abbc.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1532466603280" name="http://www.ebi.ac.uk/efo/efo.owl" uri="efo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1532466603280" name="http://www.ebi.ac.uk/metabolights/ontologies/" uri="demo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1532466603280" name="http://www.ebi.ac.uk/metabolights/ontology" uri="Metabolights.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1532466603280" name="http://www.semanticweb.org/jkchang/ontologies/" uri="infor.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1532472217603" name="./abbc.owl" uri="abbc.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1532472217603" name="http://www.ebi.ac.uk/efo/efo.owl" uri="efo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1532472217603" name="http://www.ebi.ac.uk/metabolights/ontologies/" uri="demo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1532472217603" name="http://www.ebi.ac.uk/metabolights/ontology" uri="Metabolights.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1532472217603" name="http://www.semanticweb.org/jkchang/ontologies/" uri="infor.owl"/>
     </group>
 </catalog>
