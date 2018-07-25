@@ -66,8 +66,9 @@ class information():
                 pass
 
     def sub_count(self, class_label):
-        print('counting %s subclass..' % class_label)
         '''return subclass count'''
+        print('counting %s subclass..' % class_label)
+
         res = self.get_subs(class_label)
         return len(res)
 
@@ -85,9 +86,26 @@ class information():
         except:
             pass
 
+    def get_factors(self, txt):
+        try:
+            onto_c = self.onto.search_one(label=txt)
+            if (onto_c == None):
+                onto_c = self.onto.search_one(label=txt.lower())
+            if (onto_c == None):
+                onto_c = self.onto.search_one(label=txt.upper())
+            if (onto_c == None):
+                onto_c = self.onto.search_one(label=txt.title())
+            return list(onto_c.seeAlso)
+        except:
+            try:
+                onto_c = self.onto.search_one(iri=txt)
+                return list(onto_c.seeAlso)
+            except:
+                pass
+
 
 def list_supers(onto_c, sup):
-    if onto_c.label == ''or onto_c.iri =='http://www.w3.org/2002/07/owl#Thing':
+    if onto_c.label == '' or onto_c.iri == 'http://www.w3.org/2002/07/owl#Thing':
         return
     for parent in onto_c.is_a:
         try:
@@ -96,8 +114,9 @@ def list_supers(onto_c, sup):
         except:
             continue
 
+
 def list_subs(onto_c, sub):
-    if onto_c.label == '' or onto_c.iri =='http://www.w3.org/2002/07/owl#Thing':
+    if onto_c.label == '' or onto_c.iri == 'http://www.w3.org/2002/07/owl#Thing':
         return
     for children in onto_c.subclasses():
         try:

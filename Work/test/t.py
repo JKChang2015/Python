@@ -6,54 +6,49 @@
 
 from owlready2 import *
 
-from Work.ontology_info import *
 
-# onto = get_ontology('file:///Users/jkchang/Downloads/abbc.owl').load()
+from Work.onto_info import *
 
-onto = get_ontology('./abbc.owl').load()
-with onto:
-    class Drug(Thing):
-        pass
+onto = get_ontology('../resources/Metabolights.owl').load()
+info = information(onto)
+# root = 'factors'
+# start_cls = onto.search_one(root)
 
-
-    class HealthProblem(Thing):
-        pass
-
-
-    class is_prescribed_for(Drug >> HealthProblem):
-        pass
-    class pharmaceutical_comment(comment):
-        pass
-
-    class my_annotation(AnnotationProperty):
-        pass
-
-
-    class pharmaceutical_comment(comment):
-        pass
+cls = onto.search_one(label='age')
+sups = info.get_subs(cls)
+res = [x.label[0] for x in sups]
+print(res)
 
 
 
-    acetaminophen = Drug("acetaminophen")
-    pain = HealthProblem("pain")
+#
+# info = information(onto)
+# try:
+#     cls = onto.search_one(label='age')
+#     print(info.get_subs(cls))
+#     print(info.get_supers(cls))
+#     print(info.sub_count(cls))
+#     print(info.sup_count(cls))
+#     print(info.get_iri(cls))
+#     print(info.get_factors(cls))
+# except:
+#     print("cant find it...")
 
-    acetaminophen.is_prescribed_for.append(pain)
-    comment[acetaminophen, is_prescribed_for, pain] = "A comment on the acetaminophen˓→pain relation"
 
 
-
-
-    onto.save(file="abbc.owl", format="rdfxml")
+# for ann_prop in onto.annotation_properties():
+#     print(ann_prop)
+#
+# annotation = IRIS['http://www.ebi.ac.uk/metabolights/ontology/MTBLS_100000']
 
 
 
 # apple.comment = ["A first comment on the Drug class", "A second comment"]
 # onto.save(file="abbc.owl", format="rdfxml")
 
-# res = onto.search_one(label ='apple')
-# res.__getattribute__()
 
 
+# http://www.ebi.ac.uk/metabolights/ontology/MTBLS_100000
 
 # f = information(onto)
 # print(f.get_supers('pink lady'))
@@ -61,3 +56,5 @@ with onto:
 # print(f.get_subs('Investigator'))
 # print(f.sub_count('http://purl.enanomapper.org/onto/ENM_9000014'))
 # print(f.get_iri('pink lady'))
+
+
