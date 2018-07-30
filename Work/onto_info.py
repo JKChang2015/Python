@@ -2,7 +2,7 @@
 # Created by JKChang
 # 25/07/2018, 11:18
 # Tag:
-# Description: 
+# Description:
 
 class information():
     ''' basic information of entities'''
