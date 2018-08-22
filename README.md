@@ -1,3 +1,3 @@
-# Python practices
+# Python
 ---
 ![Alt text](/resources/python.jpg)
