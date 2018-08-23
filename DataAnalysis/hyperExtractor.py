@@ -7,7 +7,7 @@
 import re
 import urllib.request
 
-url = 'http://videos.yizhansou.com/5004'
+url = 'http://videos.yizhansou.com/3884'
 fp = urllib.request.urlopen(url)
 mybytes = fp.read()
 
