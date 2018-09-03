@@ -45,3 +45,4 @@ for row in range(df.shape[0]):
         pass
 
 new = pd.DataFrame(res, columns=['StudyID', 'term'])
+new.to_csv('./results/zooma_mapping.csv', index=False)

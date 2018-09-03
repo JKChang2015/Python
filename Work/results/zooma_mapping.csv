@@ -1,0 +1,1127 @@
+StudyID,term
+MTBLS1,Metabolic Syndrome
+MTBLS1,Gender
+MTBLS2,Replicate
+MTBLS2,Genotype
+MTBLS3,Gene Knockout
+MTBLS4,Blood Plasma
+MTBLS5,Carbondioxide_Quantity_After_01D
+MTBLS5,Carbondioxide_Quantity_After_Initiation
+MTBLS6,Relative Intensity
+MTBLS6,Gap Penalty
+MTBLS6,Spike In Volume
+MTBLS6,Sample Type
+MTBLS6,Retention Time Modulation
+MTBLS6,Min Number Ions
+MTBLS6,Skewing
+MTBLS6,Threshold
+MTBLS6,Window
+MTBLS7,Medium_After_14D
+MTBLS7,Total Light_100Pc_After_Initiation
+MTBLS7,Container_After_14D
+MTBLS7,Total Light_100Pc_After_07D
+MTBLS7,Plants/Container_Quantity_After_14D
+MTBLS7,Medium_After_Initiation
+MTBLS7,Total Light_0Pc_After_Initiation
+MTBLS7,Total Light_0Pc_After_28D
+MTBLS7,Total Light_100Pc_After_28D
+MTBLS7,Container_After_Initiation
+MTBLS7,Total Light_0Pc_After_07D
+MTBLS8,Growth Rate
+MTBLS8,Nutrient
+MTBLS9,Compound
+MTBLS9,Time Point
+MTBLS9,Replicate
+MTBLS9,Metabolite Source
+MTBLS9,Batch
+MTBLS10,Timepoint
+MTBLS10,Treatment
+MTBLS11,Medium_After_14D
+MTBLS11,Total Light_100Pc_After_Initiation
+MTBLS11,Container_After_14D
+MTBLS11,Total Light_100Pc_After_07D
+MTBLS11,Plants/Container_Quantity_After_14D
+MTBLS11,Medium_After_Initiation
+MTBLS11,Total Light_0Pc_After_Initiation
+MTBLS11,Total Light_0Pc_After_28D
+MTBLS11,Total Light_100Pc_After_28D
+MTBLS11,Container_After_Initiation
+MTBLS11,Total Light_0Pc_After_07D
+MTBLS12,Medium_After_14D
+MTBLS12,Total Light_100Pc_After_Initiation
+MTBLS12,Container_After_14D
+MTBLS12,Total Light_100Pc_After_07D
+MTBLS12,Plants/Container_Quantity_After_14D
+MTBLS12,Medium_After_Initiation
+MTBLS12,Total Light_0Pc_After_Initiation
+MTBLS12,Container_After_Initiation
+MTBLS12,Total Light_0Pc_After_07D
+MTBLS13,Medium_After_14D
+MTBLS13,Total Light_100Pc_After_Initiation
+MTBLS13,Container_After_14D
+MTBLS13,Total Light_100Pc_After_07D
+MTBLS13,Plants/Container_Quantity_After_14D
+MTBLS13,Medium_After_Initiation
+MTBLS13,Total Light_0Pc_After_Initiation
+MTBLS13,Container_After_Initiation
+MTBLS13,Total Light_0Pc_After_07D
+MTBLS14,Relativehumidity_After_04D
+MTBLS14,Salt_Quantity_After_16D
+MTBLS14,Total Light_On_After_04D
+MTBLS14,Salt_Quantity_After_08D
+MTBLS14,Container_After_04D
+MTBLS14,Watering_After_04D
+MTBLS14,Salt_Quantity_After_12D
+MTBLS14,Salt_Quantity_After_Initiation
+MTBLS14,Medium_After_Initiation
+MTBLS14,Total Light_Off_After_04D
+MTBLS14,Medium_After_04D
+MTBLS14,Container_After_Initiation
+MTBLS14,Temperature_After_04D
+MTBLS15,Relativehumidity_After_04D
+MTBLS15,Salt_Quantity_After_16D
+MTBLS15,Total Light_On_After_04D
+MTBLS15,Salt_Quantity_After_08D
+MTBLS15,Container_After_04D
+MTBLS15,Watering_After_04D
+MTBLS15,Salt_Quantity_After_12D
+MTBLS15,Salt_Quantity_After_Initiation
+MTBLS15,Medium_After_Initiation
+MTBLS15,Total Light_Off_After_04D
+MTBLS15,Medium_After_04D
+MTBLS15,Container_After_Initiation
+MTBLS15,Temperature_After_04D
+MTBLS16,Relativehumidity_After_04D
+MTBLS16,Salt_Quantity_After_16D
+MTBLS16,Total Light_On_After_04D
+MTBLS16,Salt_Quantity_After_08D
+MTBLS16,Container_After_04D
+MTBLS16,Watering_After_04D
+MTBLS16,Salt_Quantity_After_12D
+MTBLS16,Salt_Quantity_After_Initiation
+MTBLS16,Medium_After_Initiation
+MTBLS16,Total Light_Off_After_04D
+MTBLS16,Medium_After_04D
+MTBLS16,Container_After_Initiation
+MTBLS16,Temperature_After_04D
+MTBLS17,Experiment
+MTBLS17,Disease
+MTBLS17,Injection
+MTBLS18,Sampling Time
+MTBLS18,Replicate
+MTBLS18,Treatment
+MTBLS18,Genotype
+MTBLS19,Experiment
+MTBLS19,Disease
+MTBLS19,Batch
+MTBLS20,Material Sample
+MTBLS21,Co2 Concentration
+MTBLS21,Cultivation Year
+MTBLS22,Salt_Quantity_After_16D
+MTBLS22,Salt_Quantity_After_08D
+MTBLS22,Watering_After_Initiation
+MTBLS22,Salt_Quantity_After_12D
+MTBLS22,Salt_Quantity_After_Initiation
+MTBLS22,Salt_Quantity_After_04D
+MTBLS22,Medium_After_Initiation
+MTBLS22,Container_After_Initiation
+MTBLS23,Treatment
+MTBLS24,Time Collected Urine Sample
+MTBLS24,Acute Kidney Injury
+MTBLS26,Nutritional Status
+MTBLS26,Genotype
+MTBLS27,Sex
+MTBLS27,Disease Staging
+MTBLS27,Time Elapsed Between Last Radiation Therapy And Serum Collection
+MTBLS27,Most Recent Treatment
+MTBLS27,Age
+MTBLS27,Time Elapsed Between Last Chemotherapy And Serum Collection
+MTBLS28,Race
+MTBLS28,Gender
+MTBLS28,Smoking
+MTBLS28,Sample Type
+MTBLS29,Treatment
+MTBLS29,Glucose Source
+MTBLS29,Level Measurement Type
+MTBLS29,Cell Number
+MTBLS29,Timepoint
+MTBLS29,Cell Line
+MTBLS30,Replicate
+MTBLS30,Tissue Source
+MTBLS30,Feeding
+MTBLS30,Genotype
+MTBLS31,Dose
+MTBLS31,Treatment
+MTBLS31,Time
+MTBLS32,Dose
+MTBLS32,Treatment
+MTBLS32,Time
+MTBLS33,Dose
+MTBLS33,Treatment
+MTBLS33,Time
+MTBLS34,Dose
+MTBLS34,Treatment
+MTBLS34,Time
+MTBLS35,Harvested
+MTBLS35,Growth Conditon
+MTBLS35,Replication
+MTBLS36,Sample Time
+MTBLS36,Cultivars
+MTBLS36,Batch
+MTBLS37,Cell Phase
+MTBLS37,Strain
+MTBLS39,Year Of Harvesting
+MTBLS39,Replicate
+MTBLS39,Vineyard
+MTBLS40,Genotype
+MTBLS41,Salt_Quantity_After_16D
+MTBLS41,Salt_Quantity_After_08D
+MTBLS41,Watering_After_Initiation
+MTBLS41,Salt_Quantity_After_12D
+MTBLS41,Salt_Quantity_After_Initiation
+MTBLS41,Salt_Quantity_After_04D
+MTBLS41,Medium_After_Initiation
+MTBLS41,Container_After_Initiation
+MTBLS42,Salt_Quantity_After_16D
+MTBLS42,Salt_Quantity_After_08D
+MTBLS42,Watering_After_Initiation
+MTBLS42,Salt_Quantity_After_12D
+MTBLS42,Salt_Quantity_After_Initiation
+MTBLS42,Salt_Quantity_After_04D
+MTBLS42,Medium_After_Initiation
+MTBLS42,Container_After_Initiation
+MTBLS43,Salt_Quantity_After_Initiation
+MTBLS43,Salt_Quantity_After_16D
+MTBLS43,Salt_Quantity_After_08D
+MTBLS43,Salt_Quantity_After_12D
+MTBLS44,Salt_Quantity_After_Initiation
+MTBLS44,Salt_Quantity_After_16D
+MTBLS44,Salt_Quantity_After_08D
+MTBLS44,Salt_Quantity_After_12D
+MTBLS45,Genotype
+MTBLS46,Cardiovascular Risk Status
+MTBLS46,Gender
+MTBLS47,Batch
+MTBLS47,Genotype
+MTBLS48,Time Point
+MTBLS48,Chemical Exposure 
+MTBLS49,Cell Density
+MTBLS49,Medium
+MTBLS50,Validation
+MTBLS50,Sepsis Outcome
+MTBLS50,Sepsis
+MTBLS50,Time
+MTBLS51,Validation
+MTBLS51,Sepsis Outcome
+MTBLS51,Sepsis
+MTBLS51,Time
+MTBLS52,Variety;Drought Treatment;Time Point Of Drought Duration
+MTBLS53,Incubation Time;Renal Cancer Cells
+MTBLS54,Salt_Quantity_After_Initiation;Salt_Quantity_After_08D;Salt_Quantity_After_12D;Salt_Quantity_After_16D
+MTBLS55,Storage Type;Sample Type;Storage Time
+MTBLS56,Tissue;Development Stage
+MTBLS57,Stress;Genotype;Replicate
+MTBLS58,Condition;Sample Growth Conditions
+MTBLS59,Spiking;Apple Sample
+MTBLS60,Ngada
+MTBLS60,Id
+MTBLS60,Sampleage
+MTBLS60,Time2Diag
+MTBLS60,Nia2A
+MTBLS60,Nica
+MTBLS60,Diagnosis
+MTBLS60,Nmiaa
+MTBLS60,Mo 
+MTBLS60,Niaa
+MTBLS60,Age
+MTBLS60,Isseroc
+MTBLS60,Age122Days
+MTBLS60,Male
+MTBLS61,Abcc6 Genotype;Gender;Ectonucleotidase Inhibition
+MTBLS67,Time In Nitrogen Starvation
+MTBLS69,Replicate
+MTBLS70,Plant Tissue
+MTBLS71,Sample Treatment Protocol;Gender
+MTBLS72,Cognitive Status
+MTBLS73,Cultivars;Sample Time;Batch;Acquisition Date
+MTBLS74,Extraction Replicate;Injection Replicate
+MTBLS75,Primary Phototrophic Cyanobacteria;Harvesting Time;Experimental Replication
+MTBLS76,Sample Type;Batch Number;Plate Position
+MTBLS77,Age;Genotype;Gender
+MTBLS79,Batch
+MTBLS81,Genotype;Nutritional Status;Total Protein In Ld;Total Acylglycerol In Ld;Age At Sacrifice
+MTBLS83, Gender
+MTBLS84, Gender
+MTBLS85,Addition Of Tea;Storage
+MTBLS86,Ethac Percentage;Sample Type
+MTBLS87,Material Sample
+MTBLS88,Material Sample
+MTBLS89,Run Day
+MTBLS89,Client Identifier
+MTBLS89,Column Number
+MTBLS89,Osmo
+MTBLS89,Challenge Time Of Day
+MTBLS89,Time Point
+MTBLS89,Challenge
+MTBLS89,Challenge Day
+MTBLS89,Time Of Day
+MTBLS89,Subject Identifier
+MTBLS90,Injection Number;Spectrum Type;Age;Gender;Rmsd;Analysis Date;Season Of Sample Collection
+MTBLS91,Treatment Days;Temperature;Co2 Concentration
+MTBLS92,Chemotherapy Response;Series;Timepoint;T-Stage;N-Stage;Her2;Grade;Er;Menopause;Bmi
+MTBLS93,Injection Number;Spectrum Type;Gender;Age;Rmsd;Analysis Date;Cluster Effect
+MTBLS94,Arabidopsis;Whole Plant Development Stage;Replicate
+MTBLS95,Genotype;Replicate
+MTBLS96,Infection;Sample Collection;Experimental Group
+MTBLS97,Systolic Blood Pressure
+MTBLS97,Age
+MTBLS97,Gender
+MTBLS97,Smoking
+MTBLS97,Bmi
+MTBLS97,Diastolic Blood Pressure
+MTBLS98,Genotype;Infection Stage
+MTBLS99,Sample Type;Apple Number;Replicate;Batch;Injection Number
+MTBLS100,Control Sample Group
+MTBLS101,Gender
+MTBLS102,Host Cell Line
+MTBLS103,Hiae
+MTBLS104,Neuropeptide Y And Y2 Receptorblocker Treatment
+MTBLS105,Disease;Batch
+MTBLS106,Cell Line
+MTBLS107,Phytohormones;Carotenoids
+MTBLS108,Phytohormones;Carotenoids
+MTBLS109,Phytohormones;Carotenoids
+MTBLS110,Phytohormones;Carotenoids
+MTBLS111,Phytohormones;Carotenoids
+MTBLS112,Treatment;Time Point;Genotype
+MTBLS113,Euglena Strain;Anoxia Incubation Time;Carbonate Addition;Culture Days Before Anoxia Incubation;Colour;Temperature
+MTBLS114,Caloric Restriction
+MTBLS115,Trna Mistranslation;Cell Growth Phase
+MTBLS116,Experiment ;Treatment;Variability Level
+MTBLS117,Time Point;Infection;Replicate
+MTBLS118,Time Point;Infection;Replicate
+MTBLS119,Growth Year;Genotype
+MTBLS120,Mutation;Chemotype
+MTBLS123,Survival;Treatment;Timepoint
+MTBLS124,Injection Number;Spectrum Type;Rmsd;Analysis Date;Plate Effect;Age;Gender
+MTBLS125,Treatment;Tissue
+MTBLS126,Base;Tissue
+MTBLS127,Cell Line;Resveratrol Concentration
+MTBLS128,Strain;Replicate
+MTBLS129,Genotype;Time
+MTBLS131,Development Stage;Truss Number
+MTBLS132,Development Stage;Truss Number
+MTBLS135, Gender
+MTBLS136,Gender;Ageatblooddraw;Currentpmh;Secondary Identifier
+MTBLS137,Variety;Country
+MTBLS138, Gender
+MTBLS140,Dose;Time Point;Replicate
+MTBLS141,Compound
+MTBLS141,Time
+MTBLS142,Type 2
+MTBLS142,Type 1
+MTBLS142,Bisindole
+MTBLS142,Type 3
+MTBLS142,Monomer
+MTBLS143,Treatphase1;Treatphase2;Exposuredurationphase1;Exposuredurationphase2;Testitemphase1;Testitemphase2
+MTBLS144,Control;Time
+MTBLS145,Exercise Protocol
+MTBLS145,Time
+MTBLS146,Run Order;Batch Number;Pregnancy Duration;Weight;Height;Current Chronological Age
+MTBLS148,Experiment;Preservative;Timepoint;Temperature;Polarity;Sample Type;Injection Order
+MTBLS149,Cholestasis;Treatment With Hljdd
+MTBLS150,Cell Type;Peturbation;Time Point
+MTBLS151,Genotype;Brown Planthopper Treatment;Time Course;Replicate
+MTBLS152,Cell Type;Time Point
+MTBLS153,Time Point
+MTBLS153,Treatment
+MTBLS153,Genotype
+MTBLS154,Control;Time;Inorganic Phosphate
+MTBLS155,Control;Time
+MTBLS156,Drug Treatment;Cell Type;Incubation Time
+MTBLS157,Control;Time;Carbon Source
+MTBLS158, Gender
+MTBLS159, Gender
+MTBLS160,Genotype;Replicate
+MTBLS161,Chronic Fatigue Syndrome
+MTBLS162,Disease State;Bmi;Age;Gender
+MTBLS163,Endocannabinoid Class;Plasma Fraction;Replicate
+MTBLS164,Exercise;Diabetes;Day
+MTBLS165,Panda Mother;Mother Age;Timepoint
+MTBLS167,Classification
+MTBLS167,Colour
+MTBLS167,Year
+MTBLS167,Accession Id
+MTBLS168,Od600;Replicate;Deletion
+MTBLS169,Genotype
+MTBLS170,Mrsa_Inhibition;Sa_Inhibition
+MTBLS171,Derivatisation Reagent;Derivatisation
+MTBLS173,Genotype;Age;Diet
+MTBLS174,Metabolic Syndrome;Steatosis ;Gender;Bmi;Age
+MTBLS175,Experimental Group;Meja Treatment 
+MTBLS176,Colorectal Adenocarcinoma;Mouse Kidney;Mouse Pancreas;Human Oscc;Microbial Interaction
+MTBLS177,Compound;Dose;Time Post Exposure
+MTBLS178,Sasang Constitution;Gender;Age
+MTBLS179, Gender
+MTBLS180, Gender
+MTBLS181, Gender
+MTBLS182,Tracer
+MTBLS183,Incubation Time;Oligomycin;Glutamine;Tracer
+MTBLS184,Incubation Time;Tracer
+MTBLS185,Glucocorticoids
+MTBLS186, Gender
+MTBLS187,Time Collected;Sample Replicate;Technical Replicate Number
+MTBLS188,Matrix;Spike-In Concentration
+MTBLS189,Area;Drug Intervention
+MTBLS190, Cardioprotection
+MTBLS190,Tcm
+MTBLS191,Time
+MTBLS193,Time;Origin;Batch
+MTBLS194,Sample Matrix
+MTBLS195,Replicate
+MTBLS195,Genotype
+MTBLS196,Time Collected;Tissue;Virus
+MTBLS197,Genotype
+MTBLS198,Diet;Time;Batch
+MTBLS199,Sample Type
+MTBLS200,Ca Type;Timepoint;Outcome;Dis-Free Survival;Overall Survival;Dis. Prog;Staging
+MTBLS201, Gender
+MTBLS203,Collision Energy
+MTBLS204, Gender
+MTBLS205, Gender
+MTBLS206, Gender
+MTBLS207, Gender
+MTBLS208,Nitrogen Deprivation
+MTBLS209,Tissue;Species;Domestication
+MTBLS210,Infection
+MTBLS211,Replicate
+MTBLS211,Condition
+MTBLS211,Batch
+MTBLS212,Treatment;Time
+MTBLS213,D-Glucose;Label
+MTBLS214,Osmolarity;Replicate
+MTBLS215,Ionisation
+MTBLS216,Experimental Group
+MTBLS217,Experimental Group
+MTBLS218,Time;Visit
+MTBLS219,Aqp9;Sex
+MTBLS220, Gender
+MTBLS221, Gender
+MTBLS222,Encephalopathy
+MTBLS222,Phase
+MTBLS223,Sample Type
+MTBLS224,Region;Extract
+MTBLS225,Treatment;Replicate;Dose
+MTBLS226,Compound;Dose;Time Post Exposure
+MTBLS227,Biol. Replicate;Tech. Replicate;Tumour Site;Stage;Cdx1/Villin;Sample Type
+MTBLS228,Incubation Time
+MTBLS229,Incubation Time
+MTBLS230,Cell Culture Media
+MTBLS231,Height
+MTBLS231,Prostate Cancer Diagnosed
+MTBLS231,Baseline Psa Level
+MTBLS231,Age At Psa
+MTBLS231,Psa Level
+MTBLS231,Bmi
+MTBLS231,Weight
+MTBLS231,Genetic Status
+MTBLS231,Cohort/Study
+MTBLS232,Treatment
+MTBLS232,Pre_Largest_Polyp_Removed
+MTBLS232,Sample Type
+MTBLS232,Red Meat Intake
+MTBLS232,Gender
+MTBLS232,Age
+MTBLS232,Bmi
+MTBLS232,Processed Red Meat
+MTBLS232,Polyps_Recurrence
+MTBLS232,Visit
+MTBLS233,Time Point;Dose;Replicate;Scan Range
+MTBLS234,Spike-In Concentration;Replicate
+MTBLS235,Simulated Detector Noise;Simulated Mass Error;Simulated Error Profile Distortion
+MTBLS236,Pd0332991
+MTBLS236,3-13C-Glutamine
+MTBLS237,Diagnosis;Age;Age At Diagnosis;Years With Disease ;Family Disposition;Smoker;Steroid Response;Steroid Dependency;Hb-Score;Mayo-Score;Extraintestinal Manifestations;Drug Treatment Asetylsalicylic Acid;Drug Treatment Local Asetylsalicylic Acid;Drug Treatment Azathioprine;Drug Treatment 6-Mercaptopurine;Drug Treatment Salazopurine;Drug Treatment Systemic Steroids;Drug Treatment Local Steroids;Drug Treatment Infliximab ;Disease Characterisation ;Extension
+MTBLS238,Before Or After Training
+MTBLS238,Healthy Controls
+MTBLS238,Training
+MTBLS239,Surgery
+MTBLS239,Drug Treatment: Local Asetylsalicylic Acid
+MTBLS239,Extent 
+MTBLS239,Drug Treatment: Metronidazol
+MTBLS239,Status
+MTBLS239,Drug Treatment: Mtx
+MTBLS239,Medication At Initiation
+MTBLS239,Stenosis
+MTBLS239,Drug Treatment: Azathioprine
+MTBLS239,Hemoglobine
+MTBLS239,Drug Treatment: Ciproxin
+MTBLS239,Gender
+MTBLS239,Smoking
+MTBLS239,Drug Treatment: Isoniazid
+MTBLS239,Drug Treatment: Lsb
+MTBLS239,Disease
+MTBLS239,Crp
+MTBLS239,Fistulizing Disease
+MTBLS239,Extra Intestinal Manifestations
+MTBLS239,Drug Treatment: Systemic Steroid Treatment
+MTBLS239,Drug Treatment: Systemic Aminosalicylic Acid
+MTBLS239,Harvey Bradshaw Index And Perianal Disease Activity Index Mayo Score 
+MTBLS239,Change In Medication
+MTBLS239,Steroid Response
+MTBLS239,Drug Treatment: Enterocort
+MTBLS239,Age At Diagnosis
+MTBLS239,Duration Of Disease Before Initiation
+MTBLS239,Age At Sampling
+MTBLS239,Drug Treatment: Local Steroids
+MTBLS239,Infusion Date
+MTBLS240,Diet
+MTBLS241,Tracer
+MTBLS242,Time Point
+MTBLS243,Control
+MTBLS244,Id8 Coculture;Tracer;Incubation Time
+MTBLS245,Chronic Kidney Disease Stage
+MTBLS245,Final Response
+MTBLS245,Genetic Mutation Present
+MTBLS245,Genetic Mutation
+MTBLS245,Current Medication
+MTBLS245,Age At 1St Manifestation
+MTBLS245,Study Group
+MTBLS245,Glomerular Filtration Rate
+MTBLS245,Gender
+MTBLS245,Proteinuria Status
+MTBLS245,Disease Duration
+MTBLS246,Chronic Kidney Disease Stage
+MTBLS246,Final Response
+MTBLS246,Genetic Mutation Present
+MTBLS246,Genetic Mutation
+MTBLS246,Current Medication
+MTBLS246,Age At 1St Manifestation
+MTBLS246,Study Group
+MTBLS246,Glomerular Filtration Rate
+MTBLS246,Gender
+MTBLS246,Proteinuria Status
+MTBLS246,Disease Duration
+MTBLS247,Substrate;Labeling
+MTBLS248,Injection Order
+MTBLS248,Protease Inhibitor
+MTBLS248,Group
+MTBLS249,Copd Diagnosis;Copd Status;Pre Or Post Training Visit;Pre Or Post-Exercise;Smoking Status;Age;Gender;Bmi B/T;Bmi A/T;Ffmi B/T;Ffmi A/T;Fev;Fev Pred;Fev/Fvc Ratio;Complex Index B/T;Complex Index A/T;Tlc B/T;Tlc Pred B/T;Rv B/T;Rv Pred B/T;Ic B/T;Ic Pred B/T;Ic/Tlc Ratio;Dlco B/T;Dlco Pred B/T;Pao2;Paco2;Vo2 Peak B/T;Vo2 Peak B/T Ml/Min;Vo2 Peak Pred B/T;Vo2 Peak A/T;Vo2 Peak A/T Ml/Min;Vo2 Peak Pred A/T;Workload B/T;Workload A/T;Mvv B/T;Mvv Pred B/T;Mvv A/T;Mvv Pred A/T;Heart Rate B/T;Heart Rate Pred B/T;Heart Rate A/T;Heart Rate Pred A/T;Lactate B/T B/E;Lactate B/T A/E;Lactate A/T B/E;Lactate A/T A/E;Walk B/T;Walk A/T
+MTBLS250,Injection Order
+MTBLS250,Protease Inhibitor
+MTBLS250,Group
+MTBLS251,Phenotype
+MTBLS252,Compound
+MTBLS252,Diet
+MTBLS252,Duration
+MTBLS252,Dose
+MTBLS253,Control;Phase
+MTBLS254,Week
+MTBLS254,Day
+MTBLS254,Subject
+MTBLS254,Diet
+MTBLS254,Time
+MTBLS255, Gender
+MTBLS256,Age;Disease State
+MTBLS257,Batch
+MTBLS257,Age
+MTBLS257,Genotype
+MTBLS258,Compound
+MTBLS258,Diet
+MTBLS258,Physiological State
+MTBLS259,Photoperiod
+MTBLS260,Treatment Group;Concentration
+MTBLS261,Age;Genotype
+MTBLS262,Duration
+MTBLS262,Treatment
+MTBLS263,Injection Replicate;Preparation Replicate
+MTBLS264,Sample Material;Volunteer;Timepoint
+MTBLS265,Subject;Age Group
+MTBLS266,Subject;Age Group
+MTBLS267,Subject;Age Group
+MTBLS268,Volunteer;Sample Material ;Fasting Time
+MTBLS269,Mice;Sample Material;Fasting Time
+MTBLS270,Variety;Temperature Of Forcing;Duration Of Forcing
+MTBLS271,Anatomical Brain Region
+MTBLS272,Treatment;Time;Experimental Groups
+MTBLS273,Adipose Tissue;Connective Tissue;Glandular Tissue;Stroma Tissue;Tumour
+MTBLS274,Sample Type
+MTBLS275,Chemical Exposure
+MTBLS276,Pulldown;Replicate
+MTBLS277,Time Point;Nano Material;Replicate
+MTBLS278,Dose;Group
+MTBLS279,Control;Phase
+MTBLS280,Control;Phase
+MTBLS281,Sample Type;Replicate
+MTBLS282,Section Location
+MTBLS283,Control/Ikaros;Timepoint;Batch
+MTBLS284, Gender
+MTBLS285,Subject
+MTBLS285,Spectrometer
+MTBLS285,Replicate
+MTBLS285,Tartrate Concentation
+MTBLS285,Temperature
+MTBLS286,Rice Seed Developmental Stage;Different Cultivar
+MTBLS287,Rice Seed Developmental Stage;Different Cultivar
+MTBLS288,Rice Seed Developmental Stage;Different Cultivar
+MTBLS289,Patient Id;Tissue Type;Tissue Location;Specimen;Year Analysed
+MTBLS290,Sample Collection Time;Sample Type
+MTBLS291,Replicate
+MTBLS292,Harvesting Time;Sirna;Replicate
+MTBLS293,Replicate;Sampling Date
+MTBLS295,Sample Type
+MTBLS296,Metabolomics/Lipidomics
+MTBLS297,Genotype;Organ
+MTBLS298,Liver Fat;Replicate;Low Dose Insulin Infusion;Serum Type;Patient
+MTBLS299, Gender
+MTBLS300, Gender
+MTBLS301, Gender
+MTBLS302, Gender
+MTBLS303,Dose;Group
+MTBLS304,Group
+MTBLS306,Participant;Exercise Set;Sampling Time
+MTBLS307,Age;Diabetes;Gender;Mzxml Conversion Mode
+MTBLS308,Dose
+MTBLS308,Group
+MTBLS309,Bicarbonate Treatment;Cell Type;Replicate;Incubation
+MTBLS310, Gender
+MTBLS311,Bicarbonate Treatment;Light Condition;Bicarbonate Concentration;Incubation;Replicate
+MTBLS312,Carbon Dioxide Treatment;Incubation;Replicate
+MTBLS313,Mouse Status
+MTBLS314,Age
+MTBLS314,Genotype
+MTBLS315,Patient Group;Blood Glucose;Diff_Basophils;Diff_Eosinophils;Diff_Monocytes;Diff_Lymphocytes;Diff_Neutrophils;Platelet Count;Mean Corpuscular Hemoglobin Concentration;Mean Corpuscular Hemoglobin;Mean Corpuscular Volume;Hematocrit;Hemoglobin;Total Red Blood Cell Count;Total White Blood Cell Count;P. Falciparum Parasite Density;Temperature;Duration Illness Prior To Hospital Admission;Height;Weight;Age;Gender;Malaria Rapid Diagnostic Test;Clinical Outcome;Severe Malnutrition;Prior Antimalaria Treatment;Prior Antibiotic Treatment
+MTBLS316,Glucose;Replicate
+MTBLS317,Status
+MTBLS318, Gender
+MTBLS319,Gene Knockout;Stress;Time
+MTBLS320,Geneknockout;Stress;Time
+MTBLS321,Disease
+MTBLS322,Nandrolone Duration;Nandrolone Dose;Tendon Release;Tendon Reattachment
+MTBLS323,Sample Type;Plate Number;Plate Position
+MTBLS324,Week
+MTBLS324,Day
+MTBLS324,Subject
+MTBLS324,Diet
+MTBLS324,Event
+MTBLS324,Gender
+MTBLS324,Timepoint
+MTBLS325,Sample Material;Fasting Time;Experiment
+MTBLS326,Ip3R Expression
+MTBLS327,Diet;Genotype
+MTBLS328,Coculture;Anaerobic;Control;Caco2;Lactobacillus Rhamnosus Lgg;Bacteroides Caccae
+MTBLS330,Tissue;Life Cycle Stage;Genotype
+MTBLS331,Purity
+MTBLS332,Gm41;Bt03
+MTBLS333,Colour;Cultivar;Cultivation Year;Location;Storage Conditions;Freezing Method
+MTBLS334,Treatment ;Diet 
+MTBLS335,Methanol Extraction;Tissue Type;Collision Energy
+MTBLS336,Temperature
+MTBLS337,Radiation;Parp Inhibitor Concentration
+MTBLS338,Genotype;Replicate
+MTBLS339,Time Since Blood Meal
+MTBLS339,Time Point
+MTBLS339,Blood Source
+MTBLS339,Blood Meal Source Provided
+MTBLS339,Replicate
+MTBLS339,Plasmodium Infection Status
+MTBLS340,Sample Type
+MTBLS341,Replicate;Treatment
+MTBLS342,Coral Species;Spectral Normalization
+MTBLS343,Cultivar;Storage Time
+MTBLS344,Fat Content
+MTBLS344,Pork Content
+MTBLS345,Strain;Sex;Facility;Food
+MTBLS346,Cultivar;Transgene
+MTBLS347,Time
+MTBLS349,Tissue;Time Elapsed
+MTBLS350,Cultivar;Extract;Replicate
+MTBLS351,Age;Gender;Bmi;T2D Status;Homa-Ir;Metabolic Syndrome;Compound;Dose;Post Exposure Time
+MTBLS352,Group
+MTBLS354,Disease State
+MTBLS355,Genotype;Stimulus
+MTBLS356,Participant Type
+MTBLS358,Study Group;Gender;Age;Bmi;Pack Year;Ethinicity
+MTBLS359,Treatment;Replicate;Time
+MTBLS360,Compound ;Time Post Exposure 
+MTBLS361,Tissue Location;Experimental Group
+MTBLS363,Elapsed Time;Replicate
+MTBLS364,Smoking Status;Gender;Age
+MTBLS365, Gender
+MTBLS366,Station;Depth
+MTBLS367,Material Sample;Time Elapsed
+MTBLS368,Gender;B3 Vitamin;Time;Dosage
+MTBLS369,Chronic Fatigue Syndrome
+MTBLS370,Species;Extract
+MTBLS371,Date Vareity
+MTBLS371,Brand Name
+MTBLS371,Country Of Produce
+MTBLS371,Developmental Stages
+MTBLS371,Replicates
+MTBLS372,Phenotype;Geographic Location;Time Of First Grafting;Age At Time Of First Grafting;Dieback Score
+MTBLS373,Extract;Gene;Replicate
+MTBLS374,Smoking Status;Gender;Age
+MTBLS375,Genotype;Time After Treatment;Replicate
+MTBLS376,Antibiotic Treatment
+MTBLS377,Diet
+MTBLS377,Age At Tissue Harvest
+MTBLS377,Strain
+MTBLS377, Duration Of Special Diet
+MTBLS379,Honeybee
+MTBLS380,Genotype;Sampling Time;Tissue Type
+MTBLS381,Spike-In Concentration
+MTBLS382,Genotype;Sampling Time
+MTBLS383,Species
+MTBLS384,Experiment;Extraction Method;Injection Batch
+MTBLS385,Patient;Tissue Type;Sex;Age
+MTBLS386,Biofluid;Human State
+MTBLS387,Gene Transfection
+MTBLS389,Genotype;Stress;Stress Duration;Medium Additive
+MTBLS390,Tissue Type;Genotype;Sampling Time
+MTBLS392,Vintage;Matrix
+MTBLS393,Genotype;Inducer Conditions
+MTBLS395,Death Within 2 Years From Acs
+MTBLS399,Plant;Location
+MTBLS400,Metabolic Syndrome;Replicate;Body Weight;Liver Weight;Age
+MTBLS401,Batch;Replicate
+MTBLS402,Infertility
+MTBLS403,Tea Type;Maufacturing Process;Withering Duration
+MTBLS404,Age;Bmi;Gender;Material Type;Role;Sampling;Osmolality;Batch;Injection Order;Subset
+MTBLS405,Medium;Treatment;Sample Type
+MTBLS408,Run Order;Batch
+MTBLS409,Replicate
+MTBLS409,Age
+MTBLS409,Sample Type
+MTBLS410,Replicate;Parasitization;Sample Type
+MTBLS411,Diet;Lactating;Multiparous
+MTBLS412,Plate Surface Area;Cell Seeding Density;Medium;Isotopic Tracer;Abundance;Biological Replicate;Treatment;Incubation Time
+MTBLS413,Sample Type
+MTBLS414,Remote Ischemic Conditioning;Replicate;Subject
+MTBLS415,Section Location
+MTBLS417,Sample Group;Gender
+MTBLS418,Infection
+MTBLS419,Compound;Time Post Exposure
+MTBLS420,Nonobstructive Azoospermia
+MTBLS421,Gender
+MTBLS422,Sex;Age;Treatment
+MTBLS423,Lifestyle Intervention
+MTBLS424,Breast Cancer Diagnosis;Breast Cancer Relapse;Histological Grade;Time To Relapse
+MTBLS425,Time;Cm Source
+MTBLS426,Sex;Diet
+MTBLS427,Diabetes Status
+MTBLS428,Sample Type;Sampling Date
+MTBLS429,Sample Location
+MTBLS430,Time Post Exposure;Treatment
+MTBLS431,Phage Infection
+MTBLS432,Genotype;Age;Inflammation
+MTBLS433,Region;Variety;Production Type;Harvest Date;Fruitiness;Bitterness;Pungent;Fusty;Musty;Rancid;Oil Quality
+MTBLS434,Identifier;Genotype_Commonname;Genotype_Systematicname;Batch;Analysis_Time;Sample_Type
+MTBLS435,Replicate;Label;Sample Type
+MTBLS436,Anabolic Treatment
+MTBLS437,Protein Overexpression;Gene Suppression;Selection Marker Gene;Cultivation Technique;Postharvest Handling
+MTBLS438,Infection
+MTBLS439,Replicate
+MTBLS440, Gender
+MTBLS441,Genotype;Time After Inoculation
+MTBLS442, Gender
+MTBLS443,Metabolomics
+MTBLS444,Tissue;Human State;Disease
+MTBLS445,Elevation
+MTBLS445,Location
+MTBLS445,Month Of Collection
+MTBLS445,Season
+MTBLS445,Year Of Collection
+MTBLS447,Mutant;Plant Tissue;Replicate
+MTBLS448,Mutant
+MTBLS449,Control;Birth Weight;Fetal Exposure During Pregnancy;Antiretroviral Therapy;Gender;Gestation Period;Maternal Age;Parturition;Ethnic Group;Maternal Viral Load;Cd4-Positive T-Lymphocytes;Time Post Exposure;Compound;Dose
+MTBLS450,Mediator Arabidopsis Complex
+MTBLS451,Replicate;Fermetation Process;Timepoint
+MTBLS452,Treatment;Replicate;Batch
+MTBLS453,Toxic Load;Experiment Duration
+MTBLS454,In Vitro / In Vitro
+MTBLS455,Protein Challenge
+MTBLS456,Vaccination;Sample Type;Replicate
+MTBLS457,Bd Exposure;Bd Exposure Date;Sample Mass;Post Mortem Dissection;Site;Site-Specific Bd Exposure;Sex;Clinical State At Time Of Death;Bd Exposed;Sham Exposed;4 Day Post-Exposure Sampling;8 Day Post-Exposure Sampling;14 Day Post-Exposure Sampling;Sampling Group;Death;Survival Duration
+MTBLS458,Disease
+MTBLS459,Treatment;Timepoint;Experiment;Replicate
+MTBLS460,Inoculation;Time Post-Inoculation;Biological Replicate
+MTBLS461,Time;Filtration;Whole Seawater
+MTBLS463,Carbon Source
+MTBLS464,Batch;Treatment;Timepoint;Replicate
+MTBLS465,Sample Type
+MTBLS467, Gender
+MTBLS469,Person
+MTBLS469,Meal
+MTBLS469,Time Point
+MTBLS469,Arm
+MTBLS469,Gender
+MTBLS470,Sample Type
+MTBLS471,Infection;Replicate
+MTBLS472,Treatment;Genotype;Replicate
+MTBLS473,Time Point;Meal;Person
+MTBLS475,Age
+MTBLS475,Gender
+MTBLS475,Type 2 Diabetes
+MTBLS475,Lipid Lowering Medication
+MTBLS476,Diagnostic
+MTBLS478,Gene
+MTBLS479,Concentration Of Willow Bark Extract;Treatment With Human Fecal Suspension;Incubation Time
+MTBLS480,Extraction Solution
+MTBLS481,Inoculation;Alkali Stress
+MTBLS482,Treatment Concentration;Treatment
+MTBLS483,Treatment Time;Replicate
+MTBLS484,Pitcher Plant;Replicate
+MTBLS487,Tissue Type
+MTBLS488,Treatment
+MTBLS491,Day
+MTBLS491,Genotype
+MTBLS491,Gene Knockout
+MTBLS491,Medium
+MTBLS491,Carbon Source
+MTBLS492,Wetting Time;Successional Stage;Replicate
+MTBLS493,Cell Line;Biological Replicate;Run Order;Pooled
+MTBLS494,Plant Component
+MTBLS495,Aging;Replicate
+MTBLS496,Replicate
+MTBLS496,Methanol Extract
+MTBLS496,Genotype
+MTBLS497,Media
+MTBLS497,Time
+MTBLS497,Bacteria
+MTBLS516,Reperfusion Time
+MTBLS516,Age
+MTBLS517,Run Order;Time Point;Batch Run Order;Artemether Treatment
+MTBLS518,Run Order;Time Point;Batch Run Order;Artemether Treatment
+MTBLS519,Time Elapsed;Sample Type;Replicate
+MTBLS520,Species;Season;Species Code;Exposition;Soil Humidity;Light Conditions;Substrate;Fresh Weight;Sample Batch Number;Lcms Date;Sample Date;Collection Season;Plant Development Stage
+MTBLS521,Plant Defence
+MTBLS522,Herbal Supplements
+MTBLS523,Pla2G1B
+MTBLS524,Case/Control
+MTBLS525,Time;Replicate
+MTBLS526,Time Elapsed
+MTBLS526,Coronatine Treatment
+MTBLS526,Sampling Time
+MTBLS527,Photoaging
+MTBLS528,Genotype;Replicate
+MTBLS529,Replicate
+MTBLS529,Genotype
+MTBLS530,Genotype;Brain Region
+MTBLS531,Tissue
+MTBLS532,Compound
+MTBLS532,Dose
+MTBLS535,Species
+MTBLS536,Run Order;Time Point;Batch Run Order;Artemether Treatment
+MTBLS537,Gene Expression
+MTBLS538,Temperature Treatment 
+MTBLS538,Stress Duration
+MTBLS538,Symbiotic Partner
+MTBLS539,Diet
+MTBLS539,Week
+MTBLS539,Time Post Exposure
+MTBLS540,Sample Type
+MTBLS541,Oxygen Level;Cell Or Tumour
+MTBLS542,Run Order;Time Point;Batch Run Order;Mean Pearsons Correlation;Artemether Treatment
+MTBLS543,Diagnosis
+MTBLS544,Inoculation Date
+MTBLS544,Treatment
+MTBLS544,Pool
+MTBLS544,Genotype
+MTBLS544,Replicate
+MTBLS544,Sample Date
+MTBLS544,Growth Chamber
+MTBLS544,Tissue
+MTBLS544,Plot
+MTBLS545,Diet;Intervention
+MTBLS546,Diet;Intervention
+MTBLS547,Diet;Intervention
+MTBLS548,Diet;Intervention
+MTBLS549,Fasting Time
+MTBLS550,Biological Replicates
+MTBLS550,Genotype
+MTBLS550,Time
+MTBLS550,Inoculation
+MTBLS552,Group
+MTBLS553,Genotype;Replicates
+MTBLS554,Treatment
+MTBLS555,Plant Genotype;Bacterial Strain;Replicate
+MTBLS557,Sex
+MTBLS557,Location
+MTBLS557,Volume
+MTBLS557,Distance
+MTBLS557,Flow
+MTBLS557,Date
+MTBLS557,N_Runs
+MTBLS557,Tube
+MTBLS558,Phenotype;Replicate;Ms Format
+MTBLS559,Non-Treatment
+MTBLS559,Hxa Treatment 
+MTBLS559,Cultivate
+MTBLS559,Aza Treatment
+MTBLS559,Time Points
+MTBLS559,Replacates
+MTBLS560,Apparent Metabolisable Energy;Gender;Coefficient Of Digestive Utilisation Of Starch;Coefficient Of Digestive Utilisation Of Lipids;Coefficient Of Digestive Utilisation Of Nitrogen
+MTBLS561,Treatment
+MTBLS562,Aging;Replicate
+MTBLS563,Diagnosis
+MTBLS564,Diagnosis
+MTBLS566,Tissue
+MTBLS567,Replicate
+MTBLS567,Strain
+MTBLS567,Light
+MTBLS567,Treatment
+MTBLS570,Inflammation;Dataset
+MTBLS571,Treatment
+MTBLS571,Time
+MTBLS572,Carbon Source
+MTBLS573,Plant Defence
+MTBLS574,Site;Phenotype Id
+MTBLS575,Infestation;Biological Replicate;Genotype
+MTBLS576,Type
+MTBLS579,Carriage Status;Gender;Analytical Run Order;Fever;Right Upper Quadrant Pain;Right Upper Quadrand Tenderness;Fever 5 Days On Entry;Previous History Of Typhoid;Antibiotics 15 Days;Jaundice At Admission;Previous Jaundice;Previous Acute Cholecystitis;Previous Hospital Due To Cholecystitis;Pancreatitis;Diabetes;Gallbladder Tissue Thickness;Gall Stones;Treatment With Inj. Cefazoline;Total Cell Count;Neutrophils;Lymphocytes;Monocytes;Eosiniphils;Total Bilirubin;Conjugated Bilirubin;Aspartate Transaminase;Alanine Transaminase;Alkaline Phosphatase;Amylase
+MTBLS580,Mycotoxins Treatment
+MTBLS580,Control
+MTBLS581,Plant Growth Regulator;Extract Type;Technical Replicates
+MTBLS582,Replicate;Treatment
+MTBLS585,Metabolomics
+MTBLS586,Mouse T.Gondii
+MTBLS588,Au Layer Test
+MTBLS589,Au Layer
+MTBLS591,Copd Gold Stage
+MTBLS593,Dss-Inducted Colitis
+MTBLS593,Mutation
+MTBLS593,Recovery
+MTBLS593,Gender
+MTBLS593,Time Elapsed
+MTBLS594,Preparation
+MTBLS595,Fruit Tissue
+MTBLS595,Ripening Stage 
+MTBLS596,Sex
+MTBLS596,Treatment
+MTBLS596,Time
+MTBLS596,Genotype
+MTBLS597,Replicates
+MTBLS598,Age;Gender;Frailty Index Score
+MTBLS599,Age
+MTBLS600,Age
+MTBLS601,Age
+MTBLS602,Genotype;Sex;Treatment;Time Of Treatment;Age
+MTBLS606,Age
+MTBLS607,Age
+MTBLS608,Transcription Factor Expression
+MTBLS609,Ph
+MTBLS612,Age
+MTBLS613,Gonphrena Leave
+MTBLS614,Genotype;Diet
+MTBLS615,Age
+MTBLS616,Sampling Time
+MTBLS617,Culture 
+MTBLS618,Replicate
+MTBLS618,Time Post Infection
+MTBLS619,Diet
+MTBLS619,Method
+MTBLS620,Age;Disease Status;Antibody Status;Time Point
+MTBLS621,Milk Dilution Before Ultrafiltration
+MTBLS621,Ultrafiltration Filter Washing
+MTBLS621,Comparison Of Diet
+MTBLS621,Comparison Of Sample Preparationmethods
+MTBLS621,Recovery Of Chosen Metabolites
+MTBLS621,Visualization Of The Spectra
+MTBLS622,Carbon Dioxide Treatment
+MTBLS622,Virus Treatment
+MTBLS623,Milk Dilution Before Ultrafiltration
+MTBLS623,Ultrafiltration Filter Washing
+MTBLS623,Comparison Of Diet
+MTBLS623,Recovery Of Chosen Metabolites
+MTBLS623,Visualization Of The Spectra
+MTBLS623,Comparison Of Sample Preparation Methods
+MTBLS624,Cysteine
+MTBLS624,Methionine
+MTBLS624,Glutamine
+MTBLS624,Ph
+MTBLS624,Proline
+MTBLS624,Strain
+MTBLS624,Arginine
+MTBLS625,Condition
+MTBLS625,Patient/Healthy Control
+MTBLS626,Tissue Type;Treatment
+MTBLS627,Id
+MTBLS627,Plasma Pd5
+MTBLS627,Uterus Pd5
+MTBLS627,Plasma D5
+MTBLS627,Uterus D5Is
+MTBLS627,Uterus D5Iis
+MTBLS627,Non-Id
+MTBLS627,Plasma D1
+MTBLS627,Plasma D4
+MTBLS627,Uterus D4
+MTBLS627,Uterus D1
+MTBLS628,Poplar Genotypes Xylem
+MTBLS629,Experimental Group
+MTBLS630,Strain;Time Elapsed;Presence Of Polymyxin;Replicate
+MTBLS631,Experimental Group
+MTBLS633,Experimental Group
+MTBLS634,Experimental Group
+MTBLS636,Lipid Supplementation
+MTBLS636,Replicate
+MTBLS636,Organism
+MTBLS638,Replicate
+MTBLS638,Location
+MTBLS638,Species
+MTBLS638,Month
+MTBLS639,Infection
+MTBLS639,Time
+MTBLS641,Total Mass Injected
+MTBLS642,Strain Design
+MTBLS642,Arabinose Supplementation Time
+MTBLS642,Time
+MTBLS643,Experiment
+MTBLS643,Sampling Day
+MTBLS644,Replicate
+MTBLS644,Organism
+MTBLS646,Gfr
+MTBLS646,Study Number
+MTBLS646,Response To Treatment
+MTBLS646,Nmr Column Number
+MTBLS646,Gender
+MTBLS646,Age
+MTBLS646,Group
+MTBLS647,Drug
+MTBLS647,Genotype
+MTBLS648,Drug;Genotype
+MTBLS652,Infection;Gene Knockout
+MTBLS653,Time Collection
+MTBLS654,Jeotgal
+MTBLS655,Brand Name
+MTBLS655,Sample Type
+MTBLS656,Collection Time;Replicate
+MTBLS658,Cell Number;Ns;Incubation Time;Neutrophil Activation
+MTBLS661,Genotype;Batch;Replicate;Treatment
+MTBLS662,Genotype
+MTBLS662,Time
+MTBLS663,Species
+MTBLS663,Replicate
+MTBLS663,Extraction
+MTBLS663,Environmental Factors
+MTBLS663,Strain
+MTBLS664,Freeze-Thaw
+MTBLS664,Run Order
+MTBLS664,Batch Run Order
+MTBLS664,Diagnosis
+MTBLS664,Well Position
+MTBLS664,Anticoagulant
+MTBLS665,Run Order;Time Point;Batch Run Order;Previous Malaria Infection
+MTBLS666,Age
+MTBLS666,Genotype
+MTBLS667,Age;Genotype
+MTBLS668,Quality Control
+MTBLS668,Insulin Resistance
+MTBLS668,Obesity
+MTBLS669,Tumor Microenvironment
+MTBLS670,Sample Preparation
+MTBLS671,Species
+MTBLS671,Fertilized_Unfertilized
+MTBLS671,Plot Type_Explo_Fert
+MTBLS671,Plot Type
+MTBLS671,Species Explo
+MTBLS671,Plant
+MTBLS671,Site
+MTBLS671,Exploratory
+MTBLS671,Plot
+MTBLS671,Fresh Weight [Mg]
+MTBLS672,Starvation Period
+MTBLS673,Feeding Diets
+MTBLS673,Replicate
+MTBLS673,Gender
+MTBLS675,Exercise
+MTBLS675,Gender
+MTBLS675,Age
+MTBLS678,Cell/Media
+MTBLS679,Season
+MTBLS679,Species
+MTBLS679,Designed Diversity
+MTBLS679,Functional Group
+MTBLS680,Drug Treatment
+MTBLS680,Genotype
+MTBLS682,Concentration
+MTBLS682,Drug
+MTBLS682,Replicate
+MTBLS682,Polarity
+MTBLS682,Cell Line
+MTBLS682,Time
+MTBLS683,Vegetable Intake
+MTBLS683,Collection Time Period
+MTBLS685,Genotype
+MTBLS685,Drug Treatment
+MTBLS685,Drug Treatment_B
+MTBLS687,Species
+MTBLS687,Fertilized_Unfertilized
+MTBLS687,Plot Type_Explo_Fert
+MTBLS687,Plot Type
+MTBLS687,Species Explo
+MTBLS687,Plant
+MTBLS687,Site
+MTBLS687,Exploratory
+MTBLS687,Plot
+MTBLS687,Fresh Weight [Mg]
+MTBLS688,Location
+MTBLS688,Species
+MTBLS688,Year
+MTBLS689,Time Point
+MTBLS689,Run Order
+MTBLS690,Gsis
+MTBLS690,Year Of Birth
+MTBLS690,Hba1C
+MTBLS690,Gender
+MTBLS690,Age
+MTBLS690,Body-Mass Index
+MTBLS691,Timepoint
+MTBLS691,Arthemeter Treatment
+MTBLS691,Well Position
+MTBLS692,Gene Knockout
+MTBLS692,Replicate
+MTBLS692,Organ
+MTBLS693,Genotype;Replicate;Tissue;Season
+MTBLS694,Dilution
+MTBLS695,Infected
+MTBLS695,Treated
+MTBLS695,Biological Replicate
+MTBLS695,Technical Replicate
+MTBLS696,Infected;Treated;Biological Replicate;Technical Replicate
+MTBLS697,Timepoint
+MTBLS697,Arthemeter Treatment
+MTBLS697,Well Position
+MTBLS698,Life Stage
+MTBLS698,Gender
+MTBLS699,Organ
+MTBLS699,Ppf_Led
+MTBLS699,Flowering_Period
+MTBLS700,Dialysis Frequency
+MTBLS700,Urea
+MTBLS700,Egfr
+MTBLS700,Esrd Status
+MTBLS700,Gender
+MTBLS700,Bmi
+MTBLS700,Age
+MTBLS700,Crea
+MTBLS701,Replicates
+MTBLS703,Replicate
+MTBLS703,Cobalamin
+MTBLS703,Light
+MTBLS704,Two Group Classification Ms/Control
+MTBLS705,Species
+MTBLS706,Carbon Source
+MTBLS706,Gentotype
+MTBLS707,Location
+MTBLS707,Species
+MTBLS707,Habitat
+MTBLS707,Time
+MTBLS708,Replicate
+MTBLS708,Cobalamin
+MTBLS708,Light
+MTBLS709,Season
+MTBLS709,Species
+MTBLS723,Gene Knock-Out
+MTBLS724,Diet
+MTBLS724,Genotype
+MTBLS720,Amino Acid Supplementation
