@@ -1,0 +1,637 @@
+abcc6 genotype
+abundance,Abundance,http://purl.obolibrary.org/obo/NCIT_C70589,Abundance of Small Lymphocytes,http://purl.obolibrary.org/obo/NCIT_C39721,abundance of arthropods per host,http://purl.obolibrary.org/obo/IDOMAL_0000431,type IIb muscle fiber quantity,http://purl.obolibrary.org/obo/VT_1000612,type I muscle fiber quantity,http://purl.obolibrary.org/obo/VT_1000747
+acquisition date
+acute kidney injury,Acute Kidney Injury,http://scdontology.h3abionet.org/ontology/SCDO_0000017,Acute kidney injury,http://purl.obolibrary.org/obo/HP_0001919,Acute Kidney Injury,http://purl.obolibrary.org/obo/OMIT_0027135,Acute Kidney Injury, CTCAE,http://purl.obolibrary.org/obo/NCIT_C143262
+addition of tea
+adipose tissue,Adipose Tissue,http://purl.obolibrary.org/obo/NCIT_C12472,Adipose tissue,http://purl.obolibrary.org/obo/FMA_20110,adipose tissue,http://purl.obolibrary.org/obo/UBERON_0001013,adipose tissue,http://purl.obolibrary.org/obo/BTO_0001487,adipose tissue,http://purl.obolibrary.org/obo/MA_0000009
+age,Age,http://purl.obolibrary.org/obo/NCIT_C25150,age,http://semanticscience.org/resource/SIO_001013,Age,http://scdontology.h3abionet.org/ontology/SCDO_0000030,Age,http://purl.obolibrary.org/obo/GAZ_00416544,age,http://purl.obolibrary.org/obo/PATO_0000011
+age at diagnosis,age at diagnosis,http://www.ebi.ac.uk/efo/EFO_0004918,age at alcohol diagnosis,http://www.ebi.ac.uk/efo/EFO_0005602,age at breast cancer diagnosis,http://www.ebi.ac.uk/efo/EFO_0005603
+age at sacrifice
+age at time of first grafting
+age group,Age Group,http://purl.obolibrary.org/obo/NCIT_C20587,Age Groups,http://purl.obolibrary.org/obo/OMIT_0010307,age group inclusion criterion,http://purl.obolibrary.org/obo/OBI_0002555
+ageatblooddraw
+alanine transaminase,Alanine Transaminase,http://purl.obolibrary.org/obo/OMIT_0001836,Alanine Transaminase Level,http://scdontology.h3abionet.org/ontology/SCDO_0000035,Alanine Transaminase Blood Test,http://scdontology.h3abionet.org/ontology/SCDO_0000034,serum alanine aminotransferase measurement,http://www.ebi.ac.uk/efo/EFO_0004735
+alkali stress,altered resistance to alkaline pH stress phenotype,http://purl.obolibrary.org/obo/OMP_0005119,abolished resistance to alkaline pH stress,http://purl.obolibrary.org/obo/OMP_0005128,decreased resistance to alkaline pH stress,http://purl.obolibrary.org/obo/OMP_0005079,increased resistance to alkaline pH stress,http://purl.obolibrary.org/obo/OMP_0005078,response to alkaline pH stress phenotype,http://purl.obolibrary.org/obo/OMP_0005041
+alkaline phosphatase,Alkaline Phosphatase,http://purl.obolibrary.org/obo/NCIT_C16276,alkaline phosphatase,http://purl.obolibrary.org/obo/PR_000023540,Alkaline Phosphatase,http://purl.obolibrary.org/obo/OMIT_0001890,alkaline phosphatase,http://purl.obolibrary.org/obo/FBbi_00000132
+amylase,Amylase,http://purl.obolibrary.org/obo/NCIT_C16284,Amylase, CTCAE,http://purl.obolibrary.org/obo/NCIT_C55103,Amylase Measurement,http://purl.obolibrary.org/obo/NCIT_C64434,amylase assay,http://purl.obolibrary.org/obo/MICRO_0000900,amylase secretion,http://purl.obolibrary.org/obo/GO_0036394
+anabolic treatment
+anaerobic,Anaerobic,http://purl.obolibrary.org/obo/NCIT_C103137,anaerobic,http://purl.obolibrary.org/obo/MICRO_0000495,anaerobic,http://purl.obolibrary.org/obo/PATO_0001456
+analysis date
+analysis_time
+analytical run order
+anoxia incubation time
+antibiotic treatment,antibiotic treatment,http://purl.obolibrary.org/obo/EO_0007041,antibiotic treatment,http://purl.obolibrary.org/obo/NCRO_0000230,Antibiotic Therapy,http://purl.obolibrary.org/obo/NCIT_C15620,ATLAS - Treatment With Antibiotics,http://purl.obolibrary.org/obo/NCIT_C147844
+antibiotics 15 days
+antibody status
+antiretroviral therapy,Antiretroviral Therapy,http://purl.obolibrary.org/obo/NCIT_C94631,Antiretroviral Therapy, Highly Active,http://purl.obolibrary.org/obo/OMIT_0020956,Highly Active Antiretroviral Therapy,http://purl.obolibrary.org/obo/NCIT_C16165
+apparent metabolisable energy
+apple number
+apple sample
+aqp9,AQP9,http://purl.obolibrary.org/obo/OGG_3000000366,AQP9,http://purl.obolibrary.org/obo/OMIT_0030309,Aqp9 (mouse),http://purl.obolibrary.org/obo/MGI_1891066,Aqp9 (rat),http://purl.obolibrary.org/obo/RGD_68433,AQP9 (human),http://purl.obolibrary.org/obo/HGNC_643
+arabidopsis,Arabidopsis,http://purl.obolibrary.org/obo/OMIT_0017730,Arabidopsis,http://purl.obolibrary.org/obo/NCBITaxon_3701,Arabidopsis,http://purl.obolibrary.org/obo/po#Arabidopsis
+area,Area,http://purl.obolibrary.org/obo/NCIT_C25244,area,http://semanticscience.org/resource/SIO_000045,area,http://purl.obolibrary.org/obo/HAO_0000146,area,http://purl.obolibrary.org/obo/PATO_0001323,area,http://purl.enanomapper.org/onto/ENM_8000059
+artemether treatment
+aspartate transaminase,aspartate aminotransferase measurement,http://www.ebi.ac.uk/efo/EFO_0004736,SGOT (AST),http://purl.obolibrary.org/obo/NCIT_C25202,aspartate aminotransferase, cytoplasmic (yeast),http://purl.obolibrary.org/obo/PR_P23542,aspartate aminotransferase, mitochondrial (yeast),http://purl.obolibrary.org/obo/PR_Q01802
+b3 vitamin,Vitamin B3 deficiency,http://purl.obolibrary.org/obo/HP_0100497,Vitamin B3 Measurement,http://purl.obolibrary.org/obo/NCIT_C74899,Vitamin B3 deficiency,http://www.ebi.ac.uk/efo/EFO_0008570,Abnormality of the vitamin B3 metabolism,http://purl.obolibrary.org/obo/HP_0100496,response to vitamin B3,http://purl.obolibrary.org/obo/GO_0033552
+bacterial strain
+bacteroides caccae,Bacteroides caccae,http://purl.obolibrary.org/obo/NCIT_C86168,Bacteroides caccae,http://purl.obolibrary.org/obo/NCBITaxon_47678,Bacteroides caccae CL03T12C61,http://purl.obolibrary.org/obo/NCBITaxon_997873,Bacteroides caccae ATCC 43185,http://purl.obolibrary.org/obo/NCBITaxon_411901
+base,Base,http://purl.obolibrary.org/obo/NCIT_C92955,base,http://purl.obolibrary.org/obo/CHEBI_22695,Base,http://purl.obolibrary.org/obo/NCIT_C48055,Base,http://purl.obolibrary.org/obo/NCIT_C48056
+batch,Batch,http://purl.obolibrary.org/obo/NCIT_C67073,Batch Number,http://purl.obolibrary.org/obo/NCIT_C104504,batch injection calorimetry,http://purl.obolibrary.org/obo/CHMO_0001227,batch identifier,http://purl.obolibrary.org/obo/sep_00015,Batchawana River,http://purl.obolibrary.org/obo/GAZ_00299026
+batch number,Batch Number,http://purl.obolibrary.org/obo/NCIT_C104504,Batch Number,http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504,batch identifier,http://purl.obolibrary.org/obo/sep_00015,Lot or Batch Number Production Identifier,http://purl.obolibrary.org/obo/NCIT_C101672
+batch run order
+bd exposed
+bd exposure
+bd exposure date
+bicarbonate concentration,Decreased urine bicarbonate concentration,http://purl.obolibrary.org/obo/HP_0045011,Abnormality of urine bicarbonate concentration,http://purl.obolibrary.org/obo/HP_0011279
+bicarbonate treatment
+biofluid
+biol. replicate
+biological replicate,biological replicate,http://www.ebi.ac.uk/efo/EFO_0002091,biological replicate,http://purl.obolibrary.org/obo/MS_1001809,biological replicate role,http://purl.obolibrary.org/obo/OBI_0000198
+birth weight,Birth Weight,http://purl.obolibrary.org/obo/NCIT_C76325,birth weight,http://www.ebi.ac.uk/efo/EFO_0004344,Birth Weight,http://purl.obolibrary.org/obo/OMIT_0003085,birth weight,http://opendata.inra.fr/ATOL/ATOL_0000093
+bitterness,Bitter,http://purl.obolibrary.org/obo/NCIT_C150481,fruit bitterness trait,http://purl.obolibrary.org/obo/TO_0000910
+blood glucose,Blood Glucose,http://purl.obolibrary.org/obo/NCIT_C94312,Blood Glucose,http://purl.obolibrary.org/obo/OMIT_0003146,blood glucose amount,http://purl.obolibrary.org/obo/OBA_VT0000188,Blood Glucose Measurement,http://purl.obolibrary.org/obo/NCIT_C92744,blood glucose amount,http://purl.obolibrary.org/obo/VT_0000188
+blood plasma,blood plasma,http://purl.obolibrary.org/obo/BTO_0000131,blood plasma,http://purl.obolibrary.org/obo/UBERON_0001969,blood plasma,http://purl.obolibrary.org/obo/ZFA_0005654
+bmi,BMI1 Gene,http://purl.obolibrary.org/obo/NCIT_C18362,BMI1 wt Allele,http://purl.obolibrary.org/obo/NCIT_C52521,BMI1 Inhibitor PTC596,http://purl.obolibrary.org/obo/NCIT_C121645,BMI1,http://purl.obolibrary.org/obo/OGG_3000000648,BMIQ2,http://purl.obolibrary.org/obo/OGG_3000192149
+bmi a/t,polycomb complex protein BMI-1-A (zebrafish),http://purl.obolibrary.org/obo/PR_Q8JIR0
+bmi b/t,polycomb complex protein BMI-1-B (zebrafish),http://purl.obolibrary.org/obo/PR_Q7T3E6
+body weight,Body Weight,http://purl.obolibrary.org/obo/NCIT_C81328,body weight,http://www.ebi.ac.uk/efo/EFO_0004338,body weight,http://purl.obolibrary.org/obo/CMO_0000012,Body Weight,http://scdontology.h3abionet.org/ontology/SCDO_0000152,Body Weight,http://purl.obolibrary.org/obo/OMIT_0003193
+brain region,regional part of brain,http://purl.obolibrary.org/obo/UBERON_0002616,brain ventricle,http://purl.obolibrary.org/obo/UBERON_0004086,Region of ventricular system of brain,http://purl.obolibrary.org/obo/FMA_78447
+breast cancer diagnosis,Breast Cancer Prevention, Education, and Diagnosis Program Initiative,http://purl.obolibrary.org/obo/NCIT_C16020,age at breast cancer diagnosis,http://www.ebi.ac.uk/efo/EFO_0005603
+breast cancer relapse
+brown planthopper treatment
+bt03,Cellvibrio sp. BT03,http://purl.obolibrary.org/obo/NCBITaxon_1351591,Burkholderia sp. BT03,http://purl.obolibrary.org/obo/NCBITaxon_1144309
+ca type,Type II Acrocephalopolysyndactyly,http://purl.obolibrary.org/obo/NCIT_C98873,type II cell of carotid body,http://purl.obolibrary.org/obo/CL_0002081,Type 2 Papillary Renal Cell Carcinoma,http://purl.obolibrary.org/obo/NCIT_C27887,Type 1 Papillary Renal Cell Carcinoma,http://purl.obolibrary.org/obo/NCIT_C27886,Type II of carotid body,http://purl.obolibrary.org/obo/FMA_84187
+caco2,CACO2_HUMAN,http://identifiers.org/uniprot/Q13137,Caco-2,http://www.ebi.ac.uk/efo/EFO_0001099
+caloric restriction,Caloric Restriction,http://purl.obolibrary.org/obo/OMIT_0021881,response to caloric restriction,http://purl.obolibrary.org/obo/GO_0061771,cellular response to caloric restriction,http://purl.obolibrary.org/obo/GO_0061433
+carbon dioxide treatment,carbon dioxide treatment,http://purl.obolibrary.org/obo/EO_0001020,elevated carbon dioxide treatment,http://purl.obolibrary.org/obo/EO_0001056
+carbon source,carbon source utilization phenotype,http://purl.obolibrary.org/obo/OMP_0006023,Cultivation parameter,http://edamontology.org/data_3724,decreased cell population growth on maltose carbon source,http://purl.obolibrary.org/obo/FYPO_0002924,decreased cell population growth on gluconate carbon source,http://purl.obolibrary.org/obo/FYPO_0001830,decreased cell population growth on glycerol carbon source,http://purl.obolibrary.org/obo/FYPO_0000684
+carbonate addition
+carbondioxide_quantity_after_01d
+carbondioxide_quantity_after_initiation
+cardiovascular risk status
+carotenoids,Carotenoids,http://purl.obolibrary.org/obo/OMIT_0003671,Carotenoid,http://purl.obolibrary.org/obo/NCIT_C351,Total carotenoids,http://www.cropontology.org/rdf/CO_331:0000112,Total carotenoids - Method,http://www.cropontology.org/rdf/CO_331:0000113
+carriage status
+cd4-positive t-lymphocytes,CD4-Positive T-Lymphocytes,http://purl.obolibrary.org/obo/OMIT_0016234,CD4-Positive T-Lymphocyte,http://purl.obolibrary.org/obo/NCIT_C12537,CD4-positive helper T cell,http://purl.obolibrary.org/obo/CL_0000492,CD4-positive, alpha-beta T cell differentiation,http://purl.obolibrary.org/obo/GO_0043367,CD4-positive, alpha-beta T cell costimulation,http://purl.obolibrary.org/obo/GO_0035783
+cdx1/villin,CDX1,http://purl.obolibrary.org/obo/OGG_3000001044,CDX1,http://purl.obolibrary.org/obo/OMIT_0030867,Villin,http://purl.obolibrary.org/obo/FMA_67178,cdx1,http://identifiers.org/ncbigene/395055,CDX1,http://identifiers.org/ncbigene/1044
+cell culture media,Harvest of Product from Cell Media,http://purl.obolibrary.org/obo/NCIT_C112936
+cell density,Cell Density,http://purl.obolibrary.org/obo/NCIT_C120538,cell density determination,http://www.bioassayontology.org/bao#BAO_0040015,Maximum Cell Density,http://purl.obolibrary.org/obo/NCIT_C120710,Mean Cell Density,http://purl.obolibrary.org/obo/NCIT_C120712,Minimum Cell Density,http://purl.obolibrary.org/obo/NCIT_C120711
+cell growth phase,cell cycle arrest in mitotic G1 phase,http://purl.obolibrary.org/obo/FYPO_0000445,cell cycle arrest in mitotic G2 phase,http://purl.obolibrary.org/obo/FYPO_0000446,delayed cell cycle phase transition,http://purl.obolibrary.org/obo/FYPO_0000409,cell cycle arrest at mitotic G2/M phase transition,http://purl.obolibrary.org/obo/FYPO_0000400,increased mitotic G2/M phase transition,http://purl.obolibrary.org/obo/FYPO_0000402
+cell line,Cell Line,http://purl.obolibrary.org/obo/NCIT_C16403,cell line,http://purl.obolibrary.org/obo/CLO_0000031,cell line,http://semanticscience.org/resource/SIO_010054,Cell Line,http://purl.obolibrary.org/obo/OMIT_0003789,cell line,http://www.ebi.ac.uk/efo/EFO_0000322
+cell number,cell number determination,http://www.bioassayontology.org/bao#BAO_0000572,cell number defective,http://purl.obolibrary.org/obo/FBcv_0000709,cell number increased,http://purl.obolibrary.org/obo/WBPhenotype_0002175,cell number decreased,http://purl.obolibrary.org/obo/WBPhenotype_0002174
+cell or tumour,The Oral Health and Disease Ontology,http://purl.obolibrary.org/obo/ohd,Ontology of Organizational Structures of Trauma centers and Trauma Systems,http://purl.obolibrary.org/obo/oostt.owl,Obstetric and Neonatal Ontology,http://purl.obolibrary.org/obo/ontoneo/ontoneo.owl,Population and Community Ontology,http://purl.obolibrary.org/obo/pco.owl,Xenopus anatomy and development,http://purl.obolibrary.org/obo/xao.owl
+cell phase,cell cycle phase,http://www.ebi.ac.uk/efo/EFO_0007064,cell cycle phase transition,http://purl.obolibrary.org/obo/GO_0044770,Cell Cycle Phase,http://purl.obolibrary.org/obo/NCIT_C20180,cell cycle phase phenotype,http://www.ebi.ac.uk/cmpo/CMPO_0000090,cell cycle phase phenotype,http://www.bioassayontology.org/bao#BAO_0170016
+cell seeding density
+cell type,cell type,http://www.ebi.ac.uk/efo/EFO_0000324,cell type,http://purl.obolibrary.org/obo/CL_0000000,Cell type accession,http://edamontology.org/data_2893,Cell Type Code,http://purl.obolibrary.org/obo/NCIT_C93525
+chemical exposure,Chemical Exposure,http://purl.obolibrary.org/obo/NCIT_C36290,chemical exposure,http://semanticscience.org/resource/SIO_001399,chemical exposure,http://purl.obolibrary.org/obo/PECO_0007189,chemical fertilizer exposure,http://purl.obolibrary.org/obo/PECO_0007086
+chemotherapy response,response to combination chemotherapy,http://www.ebi.ac.uk/efo/EFO_0007965,response to anthracycline-based chemotherapy,http://www.ebi.ac.uk/efo/EFO_0005257,response to platinum based chemotherapy,http://www.ebi.ac.uk/efo/EFO_0004647,response to platinum-based neoadjuvant chemotherapy,http://www.ebi.ac.uk/efo/EFO_0007943
+chemotype
+cholestasis,Cholestasis,http://purl.obolibrary.org/obo/NCIT_C83006,Cholestasis,http://purl.obolibrary.org/obo/HP_0001396,Cholestasis,http://purl.obolibrary.org/obo/OMIT_0004099,cholestasis,http://purl.obolibrary.org/obo/MONDO_0001751,cholestasis,http://purl.obolibrary.org/obo/DOID_13580
+chronic fatigue syndrome,Chronic Fatigue Syndrome,http://purl.obolibrary.org/obo/NCIT_C3037,chronic fatigue syndrome,http://purl.obolibrary.org/obo/SYMP_0000687,chronic fatigue syndrome,http://purl.obolibrary.org/obo/DOID_8544,chronic fatigue syndrome,http://www.ebi.ac.uk/efo/EFO_0004540
+clinical outcome,Clinical Outcome Assessment,http://purl.obolibrary.org/obo/NCIT_C142378,Clinical Outcome Assessment Subsection Name,http://purl.obolibrary.org/obo/NCIT_C120461,Clinical Outcomes Assessment Context of Use,http://purl.obolibrary.org/obo/NCIT_C142434,Clinical Outcomes Assessment Concept of Interest,http://purl.obolibrary.org/obo/NCIT_C142433,FDA Clinical Outcome Assessment Qualification,http://purl.obolibrary.org/obo/NCIT_C142552
+clinical state at time of death
+cluster effect
+cm source
+co2 concentration
+coculture,coculture,http://purl.obolibrary.org/obo/BTO_0003143,Coculture Techniques,http://purl.obolibrary.org/obo/OMIT_0019044,neuron-oligodendrocyte coculture,http://purl.obolibrary.org/obo/BTO_0003144,Dehalobacter sp. E1 x Sedimentibacter sp. B4 coculture,http://purl.obolibrary.org/obo/NCBITaxon_1079111,anammox bacterium enrichment culture clone 15 coculture 22d,http://purl.obolibrary.org/obo/NCBITaxon_1077438
+coefficient of digestive utilisation of lipids
+coefficient of digestive utilisation of nitrogen
+coefficient of digestive utilisation of starch
+cognitive status
+collection season
+collection time,Collection Time,http://purl.obolibrary.org/obo/NCIT_C81287,collection time,http://purl.obolibrary.org/obo/FLU_0000979,Collection Date Time,http://purl.obolibrary.org/obo/NCIT_C82515,time of surgical ligature for specimen collection,http://purl.obolibrary.org/obo/OBIB_0000082,Electrocardiogram Collection Date Time,http://purl.obolibrary.org/obo/NCIT_C83256
+collision energy,collision energy,http://purl.obolibrary.org/obo/MS_1000045,collision energy ramp end,http://purl.obolibrary.org/obo/MS_1002014,collision energy ramp start,http://purl.obolibrary.org/obo/MS_1002013,supplemental collision energy,http://purl.obolibrary.org/obo/MS_1002680,normalized collision energy,http://purl.obolibrary.org/obo/MS_1000138
+colorectal adenocarcinoma,Colorectal Adenocarcinoma,http://purl.obolibrary.org/obo/NCIT_C5105,colorectal adenocarcinoma,http://purl.obolibrary.org/obo/MONDO_0005008,colorectal adenocarcinoma,http://purl.obolibrary.org/obo/DOID_0050861,colorectal adenocarcinoma,http://www.ebi.ac.uk/efo/EFO_0000365
+colour,colour indicator,http://purl.obolibrary.org/obo/CHEBI_50410,Colour of bract external face,http://www.cropontology.org/rdf/CO_325:0000463,Colour of bract internal face,http://www.cropontology.org/rdf/CO_325:0000466
+complex index a/t
+complex index b/t
+compound,Compound,http://purl.obolibrary.org/obo/NCIT_C43366,Compound,http://purl.obolibrary.org/obo/CDAO_0000055,Compound IV,http://purl.obolibrary.org/obo/CHEBI_3846,Compound III(S),http://purl.obolibrary.org/obo/CHEBI_3845
+concentration,Concentration,http://purl.obolibrary.org/obo/NCIT_C41185,concentration,http://semanticscience.org/resource/SIO_001088,Concentration,http://edamontology.org/data_2140,concentration,http://purl.obolibrary.org/obo/CHMO_0002820
+concentration of willow bark extract
+condition,Condition,http://purl.obolibrary.org/obo/NCIT_C25457,condition,http://purl.obolibrary.org/obo/IDOMAL_0001241,Condition Attribute,http://purl.obolibrary.org/obo/NCIT_C64632,Conditioned Insomnia,http://purl.obolibrary.org/obo/NCIT_C35804,Conditions Affecting Unborn Children,http://purl.obolibrary.org/obo/NCIT_C26038
+conjugated bilirubin
+connective tissue,Connective Tissue,http://purl.obolibrary.org/obo/NCIT_C12374,connective tissue,http://purl.obolibrary.org/obo/BTO_0000421,connective tissue,http://purl.obolibrary.org/obo/MA_0000011,connective tissue,http://purl.obolibrary.org/obo/XAO_0001017,Connective Tissue,http://purl.obolibrary.org/obo/OMIT_0004543
+container_after_04d
+container_after_14d
+container_after_initiation
+control,Control,http://purl.obolibrary.org/obo/NCIT_C61299,control,http://www.ebi.ac.uk/efo/EFO_0001461,control,http://biomodels.net/SBO/SBO_0000168,Control Group,http://purl.obolibrary.org/obo/NCIT_C28143,controlled NG-nitroarginine methyl ester content drinking water,http://purl.obolibrary.org/obo/XCO_0000285
+control sample group
+control/ikaros,percent control normalization,http://www.bioassayontology.org/bao#BAO_0000431,control,http://www.ebi.ac.uk/efo/EFO_0001461,Control,http://purl.obolibrary.org/obo/NCIT_C61299,Control Group,http://purl.obolibrary.org/obo/NCIT_C28143,DNA-binding protein Ikaros,http://purl.obolibrary.org/obo/PR_000001811
+copd diagnosis
+copd gold stage
+copd status
+coral species
+country,Country,http://purl.obolibrary.org/obo/NCIT_C25464,country,http://purl.obolibrary.org/obo/VO_0010632,country,http://semanticscience.org/resource/SIO_000664,country,http://purl.obolibrary.org/obo/HANCESTRO_0003,country,http://purl.obolibrary.org/obo/ancestro_0003
+cultivar,cultivar,http://purl.obolibrary.org/obo/TAXRANK_0000034,cultivar,http://www.ebi.ac.uk/efo/EFO_0005136,cultivar-group,http://purl.obolibrary.org/obo/TAXRANK_0000035,Cultivar group - Method,http://www.cropontology.org/rdf/CO_337:0000120
+cultivars,pea, edible seed cultivars (food source),http://purl.obolibrary.org/obo/FOODON_03411001,pea, edible pod cultivars (food source),http://purl.obolibrary.org/obo/FOODON_03411031,05510 - banana flowers - acuminata cultivars (efsa foodex2),http://purl.obolibrary.org/obo/FOODON_03540551,05530 - banana flowers - paradisiaca cultivars (efsa foodex2),http://purl.obolibrary.org/obo/FOODON_03540553,05520 - banana flowers - balbisiana cultivars (efsa foodex2),http://purl.obolibrary.org/obo/FOODON_03540552
+cultivation technique
+cultivation year
+culture days before anoxia incubation
+current chronological age
+currentpmh
+d-glucose,D-glucose,http://purl.obolibrary.org/obo/CHEBI_17634
+dataset,dataset,http://semanticscience.org/resource/SIO_000089,Dataset,http://purl.obolibrary.org/obo/OMIT_0028565,dataset,http://purl.obolibrary.org/obo/MI_0875,dataset comparison objective,http://purl.obolibrary.org/obo/ERO_0100096,dataset evaluation objective,http://purl.obolibrary.org/obo/ERO_0100095
+day,Day,http://purl.obolibrary.org/obo/NCIT_C25301,day,http://www.cropontology.org/rdf/CO_338:0000114,day,http://www.cropontology.org/rdf/CO_338:0000116,day,http://www.cropontology.org/rdf/CO_338:0000194,day,http://www.cropontology.org/rdf/CO_338:0000158
+death,death,http://purl.obolibrary.org/obo/XAO_0000437,Death,http://purl.obolibrary.org/obo/OMIT_0004926,death,http://purl.obolibrary.org/obo/GO_0016265,Death in childhood,http://purl.obolibrary.org/obo/HP_0003819
+death within 2 years from acs
+deletion,Deletion,http://purl.obolibrary.org/obo/NCIT_C61330,deletion,http://purl.obolibrary.org/obo/SO_0000159,deletion,http://www.ebi.ac.uk/efo/EFO_0004014
+depth,Depth,http://purl.obolibrary.org/obo/NCIT_C25333,depth,http://semanticscience.org/resource/SIO_000039,depth,http://purl.obolibrary.org/obo/PATO_0001595
+derivatisation,derivatisation,http://purl.obolibrary.org/obo/CHMO_0001485,post-column derivatisation,http://purl.obolibrary.org/obo/CHMO_0001486,methoxyamination derivatisation,http://purl.obolibrary.org/obo/CHMO_0002757,trimethylsilyl derivatisation,http://purl.obolibrary.org/obo/CHMO_0002758
+derivatisation reagent
+development stage,developmental stage,http://www.ebi.ac.uk/efo/EFO_0000399,Human Developmental Stages,http://purl.obolibrary.org/obo/hsapdv.owl,Mouse Developmental Stages,http://purl.obolibrary.org/obo/mmusdv.owl,Medaka Developmental Stages,http://purl.obolibrary.org/obo/olatdv.owl,Platynereis Developmental Stages,http://purl.obolibrary.org/obo/pdumdv.owl
+diabetes,Diabetes Mellitus,http://purl.obolibrary.org/obo/NCIT_C2985,diabetes mellitus,http://www.ebi.ac.uk/efo/EFO_0000400,diabetes mellitus pathway,http://purl.obolibrary.org/obo/PW_0000176,Diabetes Complication,http://purl.obolibrary.org/obo/NCIT_C84415,Diabetes Insipidus,http://purl.obolibrary.org/obo/NCIT_C43263
+diabetes status
+diagnosis,Diagnosis,http://purl.obolibrary.org/obo/NCIT_C15220,diagnosis,http://purl.obolibrary.org/obo/OGMS_0000073,diagnosis,http://semanticscience.org/resource/SIO_001331,Diagnosis,http://purl.obolibrary.org/obo/OMIT_0005209
+dieback score
+diet,Diet,http://purl.obolibrary.org/obo/NCIT_C15222,diet,http://www.ebi.ac.uk/efo/EFO_0002755,diet,http://purl.obolibrary.org/obo/XCO_0000013,Diet,http://purl.obolibrary.org/obo/OMIT_0005302,diet,http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000112
+diff_basophils
+diff_eosinophils
+diff_lymphocytes
+diff_monocytes
+diff_neutrophils
+different cultivar
+dis-free survival,disease free survival,http://www.ebi.ac.uk/efo/EFO_0000409,Disease-Free Survival,http://purl.obolibrary.org/obo/NCIT_C17751,Progression-free Survival,http://purl.obolibrary.org/obo/NCIT_C28234,Event-Free Survival,http://purl.obolibrary.org/obo/NCIT_C96340
+dis. prog
+disease,disease,http://purl.obolibrary.org/obo/OGMS_0000031,disease,http://semanticscience.org/resource/SIO_010299,disease,http://www.orpha.net/ORDO/Orphanet_377788,Disease,http://purl.obolibrary.org/obo/OMIT_0005457,disease,http://www.bioassayontology.org/bao#BAO_0002927
+disease characterisation
+disease staging,disease staging,http://www.ebi.ac.uk/efo/EFO_0000410,PRETEXT Staging System,http://purl.obolibrary.org/obo/NCIT_C141133
+disease state,disease state design,http://www.ebi.ac.uk/efo/EFO_0001756,disease state design,http://purl.obolibrary.org/obo/OBI_0001293
+disease status,Disease Amount Status Code,http://purl.obolibrary.org/obo/NCIT_C93554,Disease Response Completion Status,http://purl.obolibrary.org/obo/NCIT_C117402,Performed Diagnosis Disease Status Code,http://purl.obolibrary.org/obo/NCIT_C93913,GCGI - Global Disease Status of Pain,http://purl.obolibrary.org/obo/NCIT_C105280,asthma,http://www.ebi.ac.uk/efo/EFO_0000270
+dlco b/t
+dlco pred b/t
+domestication
+dosage,Dosage Form Category,http://purl.obolibrary.org/obo/NCIT_C84267,Dosage Form and Package Type,http://purl.obolibrary.org/obo/NCIT_C148275,Dosage Form By Route Of Administration,http://purl.obolibrary.org/obo/NCIT_C45246,Dosage Form by Physical Form,http://purl.obolibrary.org/obo/NCIT_C87836,Dosage Strength,http://purl.obolibrary.org/obo/NCIT_C142517
+drought treatment
+drug,drug,http://purl.obolibrary.org/obo/CHEBI_23888,drug,http://semanticscience.org/resource/SIO_010038
+drug intervention,drug intervention,http://purl.obolibrary.org/obo/ERO_0000600
+drug treatment,drug treatment,http://purl.obolibrary.org/obo/PDRO_0000012,Drug Vehicle,http://purl.obolibrary.org/obo/NCIT_C927,Drug Resistance Inhibition Treatment,http://purl.obolibrary.org/obo/NCIT_C15689,Drug Accountability Treatment Dispensation Date,http://purl.obolibrary.org/obo/NCIT_C83166,Drug Accountability Treatment Return Date,http://purl.obolibrary.org/obo/NCIT_C83167
+drug treatment 6-mercaptopurine
+drug treatment asetylsalicylic acid
+drug treatment azathioprine
+drug treatment infliximab
+drug treatment local asetylsalicylic acid
+drug treatment local steroids
+drug treatment salazopurine
+drug treatment systemic steroids
+duration illness prior to hospital admission
+duration of forcing
+ectonucleotidase inhibition
+elapsed time,Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C82572,time elapsed since first dose condition statement,http://purl.obolibrary.org/obo/PDRO_0000070,Exposure Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C83281,Electrocardiogram Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C83258,Questionnaire Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C83372
+endocannabinoid class
+eosiniphils
+ethac percentage
+ethinicity
+ethnic group,Ethnic Group,http://purl.obolibrary.org/obo/NCIT_C16564,ethnic group,http://purl.obolibrary.org/obo/ERO_0001972,ethnic group,http://semanticscience.org/resource/SIO_001016,Ethnic Group,http://scdontology.h3abionet.org/ontology/SCDO_0001298,ethnic group,http://www.ebi.ac.uk/efo/EFO_0001799
+euglena strain
+exercise,Exercise,http://purl.obolibrary.org/obo/NCIT_C16567,Exercise,http://scdontology.h3abionet.org/ontology/SCDO_0001305,Exercise,http://purl.obolibrary.org/obo/OMIT_0016200,exercise,http://www.ebi.ac.uk/efo/EFO_0000483,Exercise Pain Management,http://purl.obolibrary.org/obo/NCIT_C26387
+exercise set
+experiment,Experiment,http://purl.obolibrary.org/obo/NCIT_C42790,experiment,http://semanticscience.org/resource/SIO_000994,experiment,http://purl.obolibrary.org/obo/AGRO_00000369,experimental process,http://www.ebi.ac.uk/efo/EFO_0002694,Experiment Object,http://purl.obolibrary.org/obo/NCIT_C44173
+experiment duration,duration of grooming in an experimental apparatus,http://purl.obolibrary.org/obo/CMO_0001749,experimental autoimmune encephalomyelitis duration,http://purl.obolibrary.org/obo/CMO_0001424,duration of grooming in a discrete space in an experimental apparatus,http://purl.obolibrary.org/obo/CMO_0001750
+experimental group
+experimental groups
+experimental replication
+exposition,Quartier Exposition-Bajatiere,http://purl.obolibrary.org/obo/GAZ_00393631
+exposuredurationphase1
+exposuredurationphase2
+extension,extension,http://purl.obolibrary.org/obo/UBERON_2000106,extension,http://purl.obolibrary.org/obo/ZFA_0000106
+extract,Extract,http://purl.obolibrary.org/obo/NCIT_C82948,extract,http://purl.obolibrary.org/obo/OBI_0000423,extract,http://www.bioassayontology.org/bao#BAO_0003070
+extract type,Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Vaccine-Leptospira Canicola-Grippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract,http://purl.obolibrary.org/obo/VO_0002400,Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Vaccine-Leptospira CanicolaGrippotyphosa-Icterohaemorrhagiae-Pomona Bacterial Extract,http://purl.obolibrary.org/obo/VO_0002409,Canine Distemper-Adenovirus Type 2-Coronavirus-Parainfluenza-Parvovirus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract,http://purl.obolibrary.org/obo/VO_0002404,Canine Distemper-Adenovirus Type 2-Coronavirus-Parvovirus Vaccine-Leptospira Icterohaemorrhagiae Bacterial Extract,http://purl.obolibrary.org/obo/VO_0002405,Canine Distemper-Adenovirus Type 2-Parainfluenza-Parvovirus Vaccine-Leptospira Canicola-Icterohaemorrhagiae Bacterial Extract,http://purl.obolibrary.org/obo/VO_0002411
+extraction method,sequencing dna extraction method,http://purl.obolibrary.org/obo/GENEPIO_0002093,carrier extraction using pulsed voltage method,http://purl.obolibrary.org/obo/CHMO_0001246,carrier extraction by linearly increasing voltage method,http://purl.obolibrary.org/obo/CHMO_0001243
+extraction replicate
+extraintestinal manifestations
+facility,Facility,http://purl.obolibrary.org/obo/NCIT_C62574,facility,http://purl.obolibrary.org/obo/OMRSE_00000062,Facility Oncology Registry Data Standards,http://purl.obolibrary.org/obo/NCIT_C88367,Facility Contact,http://purl.obolibrary.org/obo/NCIT_C127528
+family disposition
+fasting time
+feeding,Feeding,http://purl.obolibrary.org/obo/NCIT_C88198,Feeding,http://purl.obolibrary.org/obo/SIBO_0000146,Feeding Ability,http://purl.obolibrary.org/obo/NCIT_C131920,feeding behavior,http://purl.obolibrary.org/obo/NBO_0000079,Feeding Tube Complication,http://purl.obolibrary.org/obo/NCIT_C122445
+fermetation process
+fetal exposure during pregnancy
+fev,FEV,http://purl.obolibrary.org/obo/OGG_3000054738,FEV,http://purl.obolibrary.org/obo/OMIT_0042446,Fev,http://identifiers.org/ncbigene/246271,FEV,http://identifiers.org/ncbigene/54738,Fev,http://identifiers.org/ncbigene/260298
+fev pred,Percent Predicted Forced Expiratory Volume in 1 Second,http://purl.obolibrary.org/obo/NCIT_C112376,Percent Predicted Forced Expiratory Volume in 6 Seconds,http://purl.obolibrary.org/obo/NCIT_C112378,Percent Predicted Forced Expiratory Volume in 1 Second Divided by Forced Vital Capacity,http://purl.obolibrary.org/obo/NCIT_C112377,BODE Index - FEV1 Percent Predicted,http://purl.obolibrary.org/obo/NCIT_C121064
+fev/fvc ratio,FEV/FEC ratio,http://www.ebi.ac.uk/efo/EFO_0004713,Forced Expiratory Volume in 0.2 Second to FVC Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C139245,Forced Expiratory Volume in 0.05 Second to FVC Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C139243,Forced Expiratory Volume in 0.1 Second to FVC Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C139244
+fever,Fever,http://purl.obolibrary.org/obo/NCIT_C3038,Fever,http://purl.obolibrary.org/obo/HP_0001945,fever,http://purl.obolibrary.org/obo/FLU_0000906,fever,http://purl.obolibrary.org/obo/SYMP_0000613,Fever,http://purl.obolibrary.org/obo/OMIT_0006545
+fever 5 days on entry
+ffmi a/t
+ffmi b/t
+filtration,Filtration,http://purl.obolibrary.org/obo/NCIT_C16583,Filtration,http://purl.obolibrary.org/obo/OMIT_0006585,filtration,http://purl.obolibrary.org/obo/CHMO_0001640,filtration,http://purl.obolibrary.org/obo/OBI_0302885
+food,Food,http://purl.obolibrary.org/obo/NCIT_C62695,food,http://purl.obolibrary.org/obo/CHEBI_33290,Food,http://purl.obolibrary.org/obo/OMIT_0006708
+frailty index score
+freezing method
+fresh weight,Fresh weight,http://www.cropontology.org/rdf/CO_360:0000000,fresh weight - measurement,http://www.cropontology.org/rdf/CO_325:0010560
+fruitiness
+fusty
+gall stones,gallstones,http://www.ebi.ac.uk/efo/EFO_0004210
+gallbladder tissue thickness
+gap penalty,Gap penalty,http://edamontology.org/data_2137,Gap extension penalty,http://edamontology.org/data_1398,Gap opening penalty,http://edamontology.org/data_1397,Gap separation penalty,http://edamontology.org/data_1399
+gender,Gender,http://purl.obolibrary.org/obo/NCIT_C17357,Gender,http://scdontology.h3abionet.org/ontology/SCDO_0001341,Gender,http://purl.obolibrary.org/obo/GAZ_00325165,gender-related aggressive behavior,http://purl.obolibrary.org/obo/NBO_0000116,Gender/Minority Enrollment,http://purl.obolibrary.org/obo/NCIT_C19502
+gene,Gene,http://purl.obolibrary.org/obo/NCIT_C16612,gene,http://purl.obolibrary.org/obo/OGI_0000004,gene,http://purl.obolibrary.org/obo/OGG_0000000002,gene,http://semanticscience.org/resource/SIO_010035,gene,http://www.bioassayontology.org/bao#BAO_0000582
+gene knockout,Gene Knockout,http://purl.obolibrary.org/obo/NCIT_C18143,gene knockout,http://www.bioassayontology.org/bao#BAO_0002441,Gene Knockout Techniques,http://purl.obolibrary.org/obo/OMIT_0026476,knockout mouse generation,http://purl.obolibrary.org/obo/ERO_0001368,PDCD-1 Knockout Autologous T-lymphocytes,http://purl.obolibrary.org/obo/NCIT_C128281
+gene suppression,Suppression, Genetic,http://purl.obolibrary.org/obo/OMIT_0014356,suppression by virus of host gene expression,http://purl.obolibrary.org/obo/GO_0039657,genetic suppression,http://biomodels.net/SBO/SBO_0000500
+gene transfection,gene knockdown by dsRNA transfection,http://www.bioassayontology.org/bao#BAO_0002435,gene knockdown by shRNA transfection,http://www.bioassayontology.org/bao#BAO_0002437,gene knockdown by siRNA transfection,http://www.bioassayontology.org/bao#BAO_0002438,gene overexpression by stable transfection,http://www.bioassayontology.org/bao#BAO_0002443,gene overexpression by transient transfection,http://www.bioassayontology.org/bao#BAO_0002444
+geneknockout
+genotype,Genotype,http://purl.obolibrary.org/obo/NCIT_C16631,genotype,http://purl.obolibrary.org/obo/OGI_0000082,genotype,http://semanticscience.org/resource/SIO_001079,Genotype,http://purl.obolibrary.org/obo/OMIT_0007033,genotype,http://purl.obolibrary.org/obo/GENO_0000536
+genotype_commonname
+genotype_systematicname
+geographic location,geographic location,http://purl.obolibrary.org/obo/GAZ_00000448,Geographic Location,http://scdontology.h3abionet.org/ontology/SCDO_0000451,Geographic location,http://edamontology.org/data_3720
+gestation period,gestation period duration,http://purl.obolibrary.org/obo/VT_0002292,gestation period length,http://purl.obolibrary.org/obo/CMO_0000467,gestation period duration,http://purl.obolibrary.org/obo/OBA_VT0002292,long gestation period,http://purl.obolibrary.org/obo/MP_0002293
+glandular tissue,tissue kallikrein-kinin cascade,http://purl.obolibrary.org/obo/GO_0002255,glandular kallikrein-12, submandibular/renal (rat),http://purl.obolibrary.org/obo/PR_P36376,Glandular Epithelial Tissue,http://purl.obolibrary.org/obo/NCIT_C45715,glandular kallikrein-7, submandibular/renal (rat),http://purl.obolibrary.org/obo/PR_P36373
+glucocorticoids,Glucocorticoids,http://purl.obolibrary.org/obo/OMIT_0007130
+glucose,glucose,http://purl.obolibrary.org/obo/CHEBI_17234,Glucose,http://purl.obolibrary.org/obo/NCIT_C2831
+glucose source,decreased cell population growth on glucose carbon source,http://purl.obolibrary.org/obo/FYPO_0001407,normal growth on glucose carbon source,http://purl.obolibrary.org/obo/FYPO_0001164,increased cell population growth rate on glucose carbon source,http://purl.obolibrary.org/obo/FYPO_0000637
+glutamine,glutamine,http://purl.obolibrary.org/obo/CHEBI_28300,Glutamine,http://purl.obolibrary.org/obo/NCIT_C522
+gm41,Gm4177,http://identifiers.org/ncbigene/100043025,Gm4175,http://identifiers.org/ncbigene/100043019,Gm4141,http://identifiers.org/ncbigene/100042976,Gm4133,http://identifiers.org/ncbigene/100042964,Gm4187,http://identifiers.org/ncbigene/100043043
+grade,Grade,http://purl.obolibrary.org/obo/NCIT_C48309,Grade 2 Immature Ovarian Teratoma,http://purl.obolibrary.org/obo/NCIT_C39994,Grade 3 Immature Ovarian Teratoma,http://purl.obolibrary.org/obo/NCIT_C39995,Grade 1 Immature Ovarian Teratoma,http://purl.obolibrary.org/obo/NCIT_C39993,Grade 1 Diffuse Follicular Lymphoma,http://purl.obolibrary.org/obo/NCIT_C9464
+group,group,http://purl.obolibrary.org/obo/CHEBI_24433,Group,http://purl.obolibrary.org/obo/NCIT_C43359
+growth conditon
+growth rate,growth rate,http://purl.obolibrary.org/obo/OBA_0002215,growth rate,http://purl.obolibrary.org/obo/PATO_0001492,Growth rate,http://www.cropontology.org/rdf/CO_360:0000032
+growth year,Prevalence of stunting (height for age <-2 standard deviation from the median of the World Health Organization (WHO) Child Growth Standards) among children under 5 years of age,http://purl.unep.org/sdg/SDGIO_00020016,Prevalence of malnutrition (weight for height >+2 or <-2 standard deviation from the median of the WHO Child Growth Standards) among children under 5 years of age, by type (wasting and overweight),http://purl.unep.org/sdg/SDGIO_00020017,Improve progressively, through 2030, global resource efficiency in consumption and production and endeavour to decouple economic growth from environmental degradation, in accordance with the 10-year framework of programmes on sustainable consumption and production, with developed countries taking the lead,http://purl.unep.org/sdg/SDGIO_00000134
+harvest date,Harvest date - Measurement,http://www.cropontology.org/rdf/CO_324:0000648,Harvest date - Measurement,http://www.cropontology.org/rdf/CO_324:0000645,Date of harvest,http://www.cropontology.org/rdf/CO_325:0000286
+harvested,harvested surface area,http://purl.obolibrary.org/obo/AGRO_00000438,harvested row counting protocol,http://purl.obolibrary.org/obo/AGRO_00000259,Harvested Hills - Counting,http://www.cropontology.org/rdf/CO_324:0000164,Harvested leaf weight,http://www.cropontology.org/rdf/CO_340:0000640
+harvesting time,Time to fruit harvesting,http://www.cropontology.org/rdf/CO_343:0000272,Fruit harvesting time- Estimation,http://www.cropontology.org/rdf/CO_343:0010050,4= Long (More than 50% of the tubers sprouted at three month after harvesting time),http://www.cropontology.org/rdf/CO_343:0100016/4
+hb-score,habenula,http://purl.obolibrary.org/obo/XAO_0004556,Score,http://purl.obolibrary.org/obo/NCIT_C25338,hindgut branch,http://purl.obolibrary.org/obo/FBbt_00000405,protein hunchback (fruit fly),http://purl.obolibrary.org/obo/PR_P05084,Score,http://edamontology.org/data_1772
+heart rate a/t
+heart rate b/t
+heart rate pred a/t
+heart rate pred b/t
+height,Height,http://purl.obolibrary.org/obo/NCIT_C25347,height,http://semanticscience.org/resource/SIO_000040,height,http://purl.obolibrary.org/obo/PATO_0000119
+hematocrit,hematocrit,http://purl.obolibrary.org/obo/CMO_0000037,Hematocrit,http://scdontology.h3abionet.org/ontology/SCDO_0000503,Hematocrit,http://purl.obolibrary.org/obo/OMIT_0007571,hematocrit,http://www.ebi.ac.uk/efo/EFO_0004348
+hemoglobin,hemoglobin,http://purl.obolibrary.org/obo/CHEBI_35143,Hemoglobin,http://purl.obolibrary.org/obo/NCIT_C16676,Hemoglobin,http://purl.obolibrary.org/obo/FMA_62293
+her2,HER2,http://identifiers.org/ncbigene/855338,HER2/Neu Positive by Immunohistochemistry 11-20 Percent,http://purl.obolibrary.org/obo/NCIT_C141495,HER2/Neu Positive by Immunohistochemistry 21-30 Percent,http://purl.obolibrary.org/obo/NCIT_C141496,HER2/Neu Positive by Immunohistochemistry Less than 1 Percent,http://purl.obolibrary.org/obo/NCIT_C141493,HER2/Neu Positive by Immunohistochemistry 1-10 Percent,http://purl.obolibrary.org/obo/NCIT_C141494
+hiae,HIAE-38 cell,http://purl.obolibrary.org/obo/CLO_0003748,HIAE-101 cell,http://purl.obolibrary.org/obo/CLO_0003747,HIAE-55 cell,http://purl.obolibrary.org/obo/CLO_0003749,HIAE-78 cell,http://purl.obolibrary.org/obo/CLO_0003751,HIAE-65 cell,http://purl.obolibrary.org/obo/CLO_0003750
+histological grade,stomach tumor histology grade,http://purl.obolibrary.org/obo/CMO_0002396
+homa-ir,HOMA-IR,http://www.ebi.ac.uk/efo/EFO_0004501,IR,http://purl.obolibrary.org/obo/RS_0000408,Homa Mountain,http://purl.obolibrary.org/obo/GAZ_00053561,Homa Bay,http://purl.obolibrary.org/obo/GAZ_00052912
+honeybee,honeybee metagenome,http://purl.obolibrary.org/obo/NCBITaxon_910258,Apis mellifera,http://purl.obolibrary.org/obo/NCBITaxon_7460,Hbg3 (honeybee),http://purl.obolibrary.org/obo/NCBIGene_406131,Pla2 (honeybee),http://purl.obolibrary.org/obo/NCBIGene_406141
+host cell line
+human oscc
+human state,Department of Health and Human Services,http://purl.obolibrary.org/obo/NCIT_C17235,United States Dept. of Health and Human Services,http://purl.obolibrary.org/obo/OMIT_0015319
+ic b/t,Whillans Ice Stream,http://purl.obolibrary.org/obo/GAZ_00141334,inducible T-cell costimulator isoform 1,http://purl.obolibrary.org/obo/PR_000026924,inducible T-cell costimulator isoform 1, signal peptide removed form,http://purl.obolibrary.org/obo/PR_000026926,bifunctional glyoxylate cycle protein isoform b (worm),http://purl.obolibrary.org/obo/PR_Q10663-2,iC9-GD2-CD28-OX40-expressing T Lymphocytes,http://purl.obolibrary.org/obo/NCIT_C106123
+ic pred b/t
+ic/tlc ratio
+id8 coculture
+identifier,Identifier,http://edamontology.org/data_0842,Identifier,http://purl.obolibrary.org/obo/NCIT_C25364,identifier,http://semanticscience.org/resource/SIO_000115,Identifier,http://www.cropontology.org/rdf/CO_357:3000001
+in vitro / in vitro,Andrew_P._Read,http://purl.obolibrary.org/obo/OGI.owl#Andrew_P._Read,Andorra,http://dbpedia.org/resource/Andorra,intermediate lava,http://purl.obolibrary.org/obo/ENVO_01000233,Androgen Activity Induction,http://purl.obolibrary.org/obo/NCIT_C41527
+incubation,incubation,http://purl.bioontology.org/ontology/npo#NPO_2000,incubation period,http://purl.obolibrary.org/obo/IDOMAL_0000355,incubation period,http://purl.obolibrary.org/obo/IDO_0000519,oral incubation,http://purl.obolibrary.org/obo/GO_0060747,extrinsic incubation period,http://purl.obolibrary.org/obo/IDOMAL_0002409
+incubation time,adverse event incubation time,http://purl.obolibrary.org/obo/OAE_0000065,Black leaf streak disease incubation time,http://www.cropontology.org/rdf/CO_325:0000057,Black leaf streak disease incubation time - computation,http://www.cropontology.org/rdf/CO_325:0000058
+inducer conditions
+infected,infected cell,http://purl.obolibrary.org/obo/BTO_0000152,infected population,http://purl.obolibrary.org/obo/IDO_0000511,infected organism,http://purl.obolibrary.org/obo/IDO_0000460,infected hydrocele,http://purl.obolibrary.org/obo/MONDO_0004919,infected hydrocele,http://purl.obolibrary.org/obo/DOID_9911
+infection,Infection,http://purl.obolibrary.org/obo/NCIT_C128320,infection,http://purl.obolibrary.org/obo/IDO_0000586,Infection,http://scdontology.h3abionet.org/ontology/SCDO_0000635,Infection,http://purl.obolibrary.org/obo/OMIT_0008366,infection,http://www.ebi.ac.uk/efo/EFO_0000544
+infection stage
+infertility,Infertility,http://purl.obolibrary.org/obo/HP_0000789,Infertility,http://purl.obolibrary.org/obo/NCIT_C3836,infertility,http://purl.obolibrary.org/obo/SYMP_0000712,Infertility,http://scdontology.h3abionet.org/ontology/SCDO_0000639,Infertility,http://purl.obolibrary.org/obo/OMIT_0008373
+infestation,myiasis,http://purl.obolibrary.org/obo/DOID_11080,scabies,http://purl.obolibrary.org/obo/DOID_8295,myiasis,http://www.ebi.ac.uk/efo/EFO_0007389,Pthirus pubis infestation,http://purl.obolibrary.org/obo/DOID_13760
+inflammation,Inflammation,http://purl.obolibrary.org/obo/NCIT_C3137,inflammation,http://purl.obolibrary.org/obo/SYMP_0000061,Inflammation,http://purl.obolibrary.org/obo/OMIT_0008376,inflammation,http://purl.obolibrary.org/obo/MPATH_212
+injection,injection,http://purl.obolibrary.org/obo/ERO_0000640,injection,http://purl.obolibrary.org/obo/OBI_0000426,injection,http://purl.obolibrary.org/obo/ExO_0000060
+injection batch,batch injection calorimetry,http://purl.obolibrary.org/obo/CHMO_0001227
+injection number,number of injections,http://www.ebi.ac.uk/efo/EFO_0000627
+injection order
+injection replicate
+inoculation,Inoculation,http://purl.obolibrary.org/obo/NCIT_C68774,Wound botulism,http://www.orpha.net/ORDO/Orphanet_178475,entomological inoculation rate,http://purl.obolibrary.org/obo/IDOMAL_0000411,Nematode multiplication from single root inoculation - computation,http://www.cropontology.org/rdf/CO_325:0010139
+inorganic phosphate,inorganic phosphate,http://purl.obolibrary.org/obo/CHEBI_24838
+intervention,intervention,http://purl.obolibrary.org/obo/ERO_0000347,Intervention or Procedure,http://purl.obolibrary.org/obo/NCIT_C25218,Intervention Community Trial,http://purl.obolibrary.org/obo/NCIT_C39435,Interventional Radiology,http://purl.obolibrary.org/obo/NCIT_C17952,Interventional Radiologist,http://purl.obolibrary.org/obo/NCIT_C147951
+ionisation,ionisation,http://biomodels.net/SBO/SBO_0000209,ionisation spectroscopy,http://purl.obolibrary.org/obo/CHMO_0000371,ionisation method,http://purl.obolibrary.org/obo/CHMO_0001658,ionisation-detected stimulated Raman spectroscopy,http://purl.obolibrary.org/obo/CHMO_0001942,electrospray ionisation,http://purl.obolibrary.org/obo/CHMO_0001659
+ip3r expression
+isotopic tracer,isotopic tracer,http://purl.obolibrary.org/obo/CHEBI_35206
+jaundice at admission
+label,label,http://purl.obolibrary.org/obo/CHEBI_35209,Label,http://purl.obolibrary.org/obo/NCIT_C45561
+labeling,Labeling,http://purl.obolibrary.org/obo/NCIT_C54694,labeling,http://purl.obolibrary.org/obo/OBI_0600038,Labeling Activity,http://purl.obolibrary.org/obo/NCIT_C84732,Labeling and Instructions for Use/Maintenance,http://purl.obolibrary.org/obo/NCIT_C92071,Labeling Supplement,http://purl.obolibrary.org/obo/NCIT_C97023
+lactate a/t a/e,lactate dehydrogenase A,http://www.orpha.net/ORDO/Orphanet_123015,Lactate / Pepsin A Oral Solution,http://purl.obolibrary.org/obo/DRON_00032068,LDHA Gene,http://purl.obolibrary.org/obo/NCIT_C106206,Glycogen storage disease due to lactate dehydrogenase M-subunit deficiency,http://www.orpha.net/ORDO/Orphanet_284426,L-lactate dehydrogenase A chain (chicken),http://purl.obolibrary.org/obo/PR_P00340
+lactate a/t b/e,L-lactate dehydrogenase B-A chain (zebrafish),http://purl.obolibrary.org/obo/PR_Q9PVK4
+lactate b/t a/e,L-lactate dehydrogenase B-A chain (zebrafish),http://purl.obolibrary.org/obo/PR_Q9PVK4
+lactate b/t b/e,lactate dehydrogenase B,http://www.orpha.net/ORDO/Orphanet_123017,Glycogen storage disease due to lactate dehydrogenase H-subunit deficiency,http://www.orpha.net/ORDO/Orphanet_284435,Bimethoxycaine Lactate,http://purl.obolibrary.org/obo/NCIT_C79787,L-lactate dehydrogenase B-B chain (zebrafish),http://purl.obolibrary.org/obo/PR_Q6DGK2,L-lactate dehydrogenase B chain (chicken),http://purl.obolibrary.org/obo/PR_P00337
+lactating,Lactating,http://purl.obolibrary.org/obo/NCIT_C82463,Lactating Adenoma,http://purl.obolibrary.org/obo/NCIT_C9473,Lactating gland,http://purl.obolibrary.org/obo/FMA_67807,lactating rearing unit,http://opendata.inra.fr/EOL/EOL_0001633
+lactobacillus rhamnosus lgg,Lactobacillus rhamnosus GG,http://purl.obolibrary.org/obo/NCIT_C61097,Bifidobacterium animalis/Lactobacillus rhamnosus Probiotic Supplement,http://purl.obolibrary.org/obo/NCIT_C129649
+lcms date
+level measurement type
+life cycle stage,life cycle stage,http://purl.obolibrary.org/obo/UBERON_0000105
+lifestyle intervention
+light condition,lighting conditions,http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000146,controlled visible light condition,http://purl.obolibrary.org/obo/XCO_0000181
+light conditions,lighting conditions,http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000146
+liver fat,liver fat morphological measurement,http://purl.obolibrary.org/obo/CMO_0002187,liver fat volume,http://purl.obolibrary.org/obo/CMO_0002188,liver fat volume to total liver volume ratio,http://purl.obolibrary.org/obo/CMO_0002190,fatty acid-binding protein, liver (chicken),http://purl.obolibrary.org/obo/PR_P80226,fatty acid-binding protein 10-A, liver basic (zebrafish),http://purl.obolibrary.org/obo/PR_Q9I8L5
+liver weight,liver weight,http://purl.obolibrary.org/obo/CMO_0000092,liver weight,http://opendata.inra.fr/ATOL/ATOL_0000459,liver weight to body weight ratio,http://purl.obolibrary.org/obo/CMO_0000633,liver weight as percentage of body weight,http://purl.obolibrary.org/obo/CMO_0000141
+location,Location,http://purl.obolibrary.org/obo/NCIT_C25341,Location,http://www.w3.org/ns/prov#Location,Location,http://purl.org/dc/terms/Location,location,http://www.w3.org/2003/01/geo/wgs84_pos#location,Location,http://rs.tdwg.org/dwc/dwctype/Location
+low dose insulin infusion
+lymphocytes,Lymphocytes,http://purl.obolibrary.org/obo/OMIT_0009294,Lymphocytes to Non-Squamous Epithelial Cells Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C135430,Lymphocytes, Null,http://purl.obolibrary.org/obo/OMIT_0009295,Lymphocytes, Tumor-Infiltrating,http://purl.obolibrary.org/obo/OMIT_0016783,lymphocyte,http://purl.obolibrary.org/obo/ZFA_0009250
+malaria rapid diagnostic test,malaria rapid diagnostic test product,http://purl.obolibrary.org/obo/IDOMAL_0000340
+material sample,material sample,http://purl.obolibrary.org/obo/OBI_0000747,Material Sample,http://rs.tdwg.org/dwc/terms/MaterialSample
+material type,material entity,http://www.ifomis.org/bfo/1.1/snap#MaterialEntity,Material Identifier Type Code,http://purl.obolibrary.org/obo/NCIT_C93863,Material Name Type Code,http://purl.obolibrary.org/obo/NCIT_C93866,Type of planting material,http://www.cropontology.org/rdf/CO_325:0000727
+maternal age,Maternal Age,http://purl.obolibrary.org/obo/OMIT_0009490,maternal age at birth of last offspring,http://purl.obolibrary.org/obo/CMO_0000391,maternal age at first egg production,http://purl.obolibrary.org/obo/CMO_0000390,maternal age at birth of first offspring,http://purl.obolibrary.org/obo/CMO_0002510
+maternal viral load
+matrix,Matrix,http://purl.obolibrary.org/obo/NCIT_C45805,Matrix,http://purl.obolibrary.org/obo/NCIT_C45802,Matrix,http://edamontology.org/data_2082,matrix,http://purl.obolibrary.org/obo/CHMO_0002743
+maufacturing process
+mayo-score,Mayo,http://purl.obolibrary.org/obo/GAZ_22225265,Mayo Kebbi,http://purl.obolibrary.org/obo/GAZ_00230220,Village of Mayo,http://purl.obolibrary.org/obo/GAZ_00071085,Score,http://purl.obolibrary.org/obo/NCIT_C25338,Mayo River,http://purl.obolibrary.org/obo/GAZ_00206162
+meal,Meal,http://purl.obolibrary.org/obo/NCIT_C80248,meal,http://opendata.inra.fr/ATOL/ATOL_0000774,Meal Data Domain,http://purl.obolibrary.org/obo/NCIT_C49604,Meal Data Supplemental Qualifiers Dataset,http://purl.obolibrary.org/obo/NCIT_C147226
+mean corpuscular hemoglobin,mean corpuscular hemoglobin,http://www.ebi.ac.uk/efo/EFO_0004527,mean corpuscular hemoglobin concentration,http://www.ebi.ac.uk/efo/EFO_0004528,mean corpuscular hemoglobin level,http://purl.obolibrary.org/obo/CMO_0000290,mean corpuscular hemoglobin concentration,http://purl.obolibrary.org/obo/CMO_0000291
+mean corpuscular hemoglobin concentration,mean corpuscular hemoglobin concentration,http://purl.obolibrary.org/obo/CMO_0000291,mean corpuscular hemoglobin concentration,http://www.ebi.ac.uk/efo/EFO_0004528,Mean Corpuscular Hemoglobin Concentration,http://scdontology.h3abionet.org/ontology/SCDO_0000721,Corpuscular Hemoglobin Concentration Mean,http://purl.obolibrary.org/obo/NCIT_C139067
+mean corpuscular volume,mean corpuscular volume,http://www.ebi.ac.uk/efo/EFO_0004526,mean corpuscular volume,http://purl.obolibrary.org/obo/CMO_0000038,Mean Corpuscular Volume,http://scdontology.h3abionet.org/ontology/SCDO_0000723,mean corpuscular volume increased AE,http://purl.obolibrary.org/obo/OAE_0001717
+mean pearsons correlation
+mediator arabidopsis complex,mediator of RNA polymerase II transcription subunit 21 (Arabidopsis thaliana),http://purl.obolibrary.org/obo/PR_C0LU16,mediator of RNA polymerase II transcription subunit 31 (Arabidopsis thaliana),http://purl.obolibrary.org/obo/PR_Q8VYB1
+medium,Medium,http://purl.obolibrary.org/obo/NCIT_C48164,Medium,http://purl.obolibrary.org/obo/NCIT_C49507,medium,http://purl.obolibrary.org/obo/sep_00037,medium,http://purl.bioontology.org/ontology/npo#NPO_1853,Medium Growth Rate,http://purl.obolibrary.org/obo/NCIT_C124824
+medium additive
+medium_after_04d
+medium_after_14d
+medium_after_initiation
+meja treatment
+menopause,Menopause,http://purl.obolibrary.org/obo/NCIT_C3231,Menopause,http://purl.obolibrary.org/obo/OMIT_0009659,menopause,http://www.ebi.ac.uk/efo/EFO_0003922,menopause,http://purl.obolibrary.org/obo/GO_0042697
+metabolic syndrome,Metabolic Syndrome,http://purl.obolibrary.org/obo/NCIT_C84442,metabolic syndrome,http://www.ebi.ac.uk/efo/EFO_0000195,metabolic syndrome,http://purl.obolibrary.org/obo/MONDO_0004955,Metabolic Syndrome Pathway,http://purl.obolibrary.org/obo/NCIT_C39268,metabolic syndrome X pathway,http://purl.obolibrary.org/obo/PW_0000174
+metabolite source
+metabolomics/lipidomics,Lipidomics,http://purl.obolibrary.org/obo/NCIT_C153193,Lipids,http://edamontology.org/topic_0153,Metabolomics,http://edamontology.org/topic_3172,Metabolomics,http://purl.obolibrary.org/obo/OMIT_0026286,Metabolomics,http://purl.obolibrary.org/obo/NCIT_C49019
+methanol extraction,Methanol Extraction Residue of BCG,http://purl.obolibrary.org/obo/NCIT_C1159
+mice,MICE,http://purl.obolibrary.org/obo/OGG_3000004280,Mice,http://purl.obolibrary.org/obo/OMIT_0024808,MICE,http://purl.obolibrary.org/obo/OMIT_0033484,Micellar Template-Mediated Nanoparticle Synthesis,http://purl.obolibrary.org/obo/NCIT_C62393,Micelle,http://purl.obolibrary.org/obo/NCIT_C93299
+microbial interaction,Microbial Interactions,http://purl.obolibrary.org/obo/OMIT_0026587
+min number ions
+monocytes,Monocytes,http://purl.obolibrary.org/obo/OMIT_0010047,Monocytes to Total Cell Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C98872,Monocytes to Macrocytes Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C106544,Monocytes to Non-Squamous Epithelial Cells Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C135433,Monocytes and Macrophages to Leukocytes Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C147396
+most recent treatment
+mother age
+mouse kidney,Mouse Kidney,http://purl.obolibrary.org/obo/NCIT_C22730,Mouse Kidney Carcinoma,http://purl.obolibrary.org/obo/NCIT_C124802,Mouse Renal Tubule,http://purl.obolibrary.org/obo/NCIT_C22733,Mouse Loop of Henle,http://purl.obolibrary.org/obo/NCIT_C22735,Mouse Glomerulus,http://purl.obolibrary.org/obo/NCIT_C22732
+mouse pancreas,Mouse Pancreas,http://purl.obolibrary.org/obo/NCIT_C24044,Mouse Acinar Cell,http://purl.obolibrary.org/obo/NCIT_C22643,Mouse Exocrine Pancreas Ductal System,http://purl.obolibrary.org/obo/NCIT_C24045,Mouse Endocrine Pancreas,http://purl.obolibrary.org/obo/NCIT_C22639,Mouse Exocrine Pancreas,http://purl.obolibrary.org/obo/NCIT_C24043
+mouse status
+mrsa_inhibition
+ms format,MSAML,http://edamontology.org/format_3849,MSF,http://edamontology.org/format_3702,mspcrunch,http://edamontology.org/format_1334,netCDF,http://edamontology.org/format_3650,msalign format,http://purl.obolibrary.org/obo/MS_1002899
+multiparous,multiparous,http://purl.obolibrary.org/obo/PATO_0002369
+musty,Musty odor,http://purl.obolibrary.org/obo/HP_0410021,Musty Creek,http://purl.obolibrary.org/obo/GAZ_00200055
+mutant,Mutant,http://purl.obolibrary.org/obo/NCIT_C25360,mutant,http://purl.obolibrary.org/obo/OGI_0000048,mutant,http://purl.obolibrary.org/obo/GENO_0000480,Mutant p53 peptide pulsed dendritic cell vaccine/Sargramostim,http://purl.obolibrary.org/obo/NCIT_C11689
+mutation,mutation,http://purl.obolibrary.org/obo/OGI_0000088,mutation,http://purl.obolibrary.org/obo/IDOMAL_50000026,Mutation,http://purl.obolibrary.org/obo/OMIT_0010192,mutation,http://purl.obolibrary.org/obo/GENO_0000492,mutation,http://purl.obolibrary.org/obo/MI_0118
+mvv a/t
+mvv b/t
+mvv pred a/t
+mvv pred b/t
+mzxml conversion mode
+n-stage,N Category,http://purl.obolibrary.org/obo/NCIT_C25580,N stage,http://www.ebi.ac.uk/efo/EFO_0004927,Stage,http://purl.obolibrary.org/obo/NCIT_C48308,Stage,http://purl.obolibrary.org/obo/NCIT_C16899,N second mitotic division stage in germinating pollen,http://purl.obolibrary.org/obo/PO_0001074
+nandrolone dose
+nandrolone duration
+nano material,nanostructured material,http://purl.bioontology.org/ontology/npo#NPO_1910
+neuropeptide y and y2 receptorblocker treatment,Andrew_P._Read,http://purl.obolibrary.org/obo/OGI.owl#Andrew_P._Read,Andorra,http://dbpedia.org/resource/Andorra,Hopf bifurcation,http://identifiers.org/teddy/TEDDY_0000072,structural stability,http://identifiers.org/teddy/TEDDY_0000167
+neutrophil activation,Neutrophil Activation,http://purl.obolibrary.org/obo/NCIT_C26281,Neutrophil Activation,http://purl.obolibrary.org/obo/OMIT_0018590,neutrophil activation,http://purl.obolibrary.org/obo/GO_0042119
+neutrophils,Neutrophils,http://purl.obolibrary.org/obo/OMIT_0010527,Neutrophils and Granulocytes, CTCAE,http://purl.obolibrary.org/obo/NCIT_C55997,Neutrophils to Non-Squamous Epithelial Cells Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C135438,Neutrophils Band Form to Neutrophils Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C120642,Neutrophils Band Form to Neutrophils Ratio Measurement,http://www.ebi.ac.uk/efo/EFO_0009246
+nitrogen deprivation,abnormal macroautophagy during nitrogen starvation,http://purl.obolibrary.org/obo/FYPO_0004670,normal macroautophagy during nitrogen starvation,http://purl.obolibrary.org/obo/FYPO_0006294,enlarged nucleus during nitrogen starvation,http://purl.obolibrary.org/obo/FYPO_0000999,fragmented DNA during nitrogen starvation,http://purl.obolibrary.org/obo/FYPO_0001005,spheroid cell during nitrogen starvation,http://purl.obolibrary.org/obo/FYPO_0001957
+nonobstructive azoospermia
+nutrient,Nutrient,http://purl.obolibrary.org/obo/NCIT_C68603,Nutrient,http://purl.obolibrary.org/obo/NCIT_P358,Nutrient,http://purl.obolibrary.org/obo/NCIT_C1814,nutrient,http://purl.obolibrary.org/obo/CHEBI_33284
+nutritional status,Nutritional Status,http://purl.obolibrary.org/obo/NCIT_C17993,Nutritional Status,http://purl.obolibrary.org/obo/OMIT_0010771
+od600
+oil quality
+oligomycin,oligomycin,http://purl.obolibrary.org/obo/CHEBI_25675
+organ,Organ,http://purl.obolibrary.org/obo/NCIT_C13018,organ,http://purl.obolibrary.org/obo/CARO_0020004,organ,http://purl.obolibrary.org/obo/MA_0003001,organ,http://semanticscience.org/resource/SIO_010003,organ,http://purl.obolibrary.org/obo/ENVO_01000162
+origin,Origin,http://purl.obolibrary.org/obo/NCIT_C42703,origin,http://purl.obolibrary.org/obo/GENEPIO_0001844,Original,http://purl.obolibrary.org/obo/NCIT_C25604,Original Application,http://purl.obolibrary.org/obo/NCIT_C97021,Original Device,http://purl.obolibrary.org/obo/NCIT_C54644
+osmolality,Osmolality,http://purl.obolibrary.org/obo/NCIT_C89824,osmolality,http://purl.obolibrary.org/obo/PATO_0002027
+osmolarity,osmolarity,http://purl.obolibrary.org/obo/PATO_0001655
+outcome,Outcome,http://purl.obolibrary.org/obo/NCIT_C20200,Outcomes and Health Services Research,http://purl.obolibrary.org/obo/NCIT_C15829,Outcomes Research,http://purl.obolibrary.org/obo/NCIT_C15365,Outcome Death,http://purl.obolibrary.org/obo/NCIT_C82549,Outcome Satisfaction Questionnaire,http://purl.obolibrary.org/obo/NCIT_C120952
+overall survival,Overall Survival,http://purl.obolibrary.org/obo/NCIT_C125201,overall survival,http://www.ebi.ac.uk/efo/EFO_0000638,Survival Rate,http://purl.obolibrary.org/obo/NCIT_C28192
+oxygen level,level of cellular reactive oxygen species phenotype,http://purl.obolibrary.org/obo/OMP_0007657,Hypoxemia,http://purl.obolibrary.org/obo/HP_0012418,response to decreased oxygen levels,http://purl.obolibrary.org/obo/GO_0036293,response to increased oxygen levels,http://purl.obolibrary.org/obo/GO_0036296,detection of hypoxia,http://purl.obolibrary.org/obo/GO_0070483
+p. falciparum parasite density
+pack year,Pack Year,http://purl.obolibrary.org/obo/NCIT_C73993
+paco2
+pancreatitis,Pancreatitis,http://purl.obolibrary.org/obo/NCIT_C3306,pancreatitis,http://www.ebi.ac.uk/efo/EFO_0000278,Pancreatitis,http://purl.obolibrary.org/obo/HP_0001733,Pancreatitis,http://purl.obolibrary.org/obo/OMIT_0011198,pancreatitis,http://purl.obolibrary.org/obo/MONDO_0004982
+panda mother
+pao2,PAO2 (Arabidopsis thaliana),http://purl.obolibrary.org/obo/Araport_AT2G43020,Partial Pressure of Oxygen Measurement,http://purl.obolibrary.org/obo/NCIT_C71251,Partial Pressure Arterial Oxygen to Fraction Inspired Oxygen Ratio Measurement,http://purl.obolibrary.org/obo/NCIT_C119293,APACHE II - Oxygenation, PaO2,http://purl.obolibrary.org/obo/NCIT_C121101,Mycobacterium sp. Pao29,http://purl.obolibrary.org/obo/NCBITaxon_1481001
+parasitization
+parp inhibitor concentration
+participant,Participant,http://purl.obolibrary.org/obo/NCIT_C29867,participant,http://biomodels.net/SBO/SBO_0000235,Participant Object,http://purl.obolibrary.org/obo/NCIT_C79269,Participant Case or Control Status,http://purl.obolibrary.org/obo/NCIT_C99268,Participant Chief,http://purl.obolibrary.org/obo/NCIT_C51838
+participant type,obsolete participant type,http://biomodels.net/SBO/SBO_0000007
+parturition,Parturition,http://purl.obolibrary.org/obo/OMIT_0022741,parturition,http://purl.obolibrary.org/obo/GO_0007567
+patient,Patient,http://purl.obolibrary.org/obo/NCIT_C16960,patient,http://purl.obolibrary.org/obo/IDOMAL_0000603,patient,http://purl.obolibrary.org/obo/AERO_0000270,patient,http://semanticscience.org/resource/SIO_000393,patient,http://purl.obolibrary.org/obo/OAE_0001817
+patient group,Patient Advocacy Group,http://purl.obolibrary.org/obo/NCIT_C54151
+patient id,patient identification,http://purl.obolibrary.org/obo/PDRO_0000003,Patient Identification Systems,http://purl.obolibrary.org/obo/OMIT_0011349,patient,http://purl.obolibrary.org/obo/IDOMAL_0000603,Last Subject In Identity,http://purl.obolibrary.org/obo/NCIT_C142597,First Subject In Identity,http://purl.obolibrary.org/obo/NCIT_C142559
+person,Person,http://purl.obolibrary.org/obo/NCIT_C25190,person,http://semanticscience.org/resource/SIO_000498,person,http://xmlns.com/foaf/0.1/Person,Person,http://www.w3.org/ns/prov#Person,Person Info,http://purl.obolibrary.org/obo/NCIT_C41171
+peturbation
+phage infection,viral latency,http://purl.obolibrary.org/obo/GO_0019042
+phase,Phase,http://purl.obolibrary.org/obo/NCIT_C25257,phase,http://purl.obolibrary.org/obo/PATO_0000083,Phase,http://purl.org/net/OCRe/study_design.owl#OCRE100038
+phenotype,Phenotype,http://purl.obolibrary.org/obo/NCIT_C16977,phenotype,http://purl.obolibrary.org/obo/OGMS_0000023,phenotype,http://semanticscience.org/resource/SIO_010056,Phenotype,http://scdontology.h3abionet.org/ontology/SCDO_0000893,Phenotype,http://purl.obolibrary.org/obo/OMIT_0011629
+phenotype id,Genotype and phenotype annotation ID,http://edamontology.org/data_1081
+photoperiod,Photoperiod,http://purl.obolibrary.org/obo/OMIT_0017796,photoperiod,http://opendata.inra.fr/EOL/EOL_0000042,photoperiodism, flowering,http://purl.obolibrary.org/obo/GO_0048573
+phytohormones,plant hormone,http://purl.obolibrary.org/obo/CHEBI_37848
+pitcher plant,Wyeomyia smithii,http://purl.obolibrary.org/obo/NCBITaxon_174621,Sarracenia purpurea,http://purl.obolibrary.org/obo/NCIT_C72435
+plant,Plant,http://purl.obolibrary.org/obo/NCIT_C14258,plant,http://purl.obolibrary.org/obo/BTO_0001481,plant,http://purl.obolibrary.org/obo/IDOMAL_6000005,plant,http://www.cropontology.org/rdf/CO_337:0000217
+plant component,plant component,http://www.ebi.ac.uk/efo/EFO_0000789,Plant Components, Aerial,http://purl.obolibrary.org/obo/OMIT_0022590,Nutrition, Plant Components,http://purl.obolibrary.org/obo/NCIT_C15919
+plant development stage,plant structure development stage,http://purl.obolibrary.org/obo/PO_0009012,plant tissue development stage,http://purl.obolibrary.org/obo/PO_0025423,plant embryo development stage,http://purl.obolibrary.org/obo/PO_0007631,plant organ development stage,http://purl.obolibrary.org/obo/PO_0025339
+plant genotype
+plant growth regulator,plant growth regulator,http://purl.obolibrary.org/obo/CHEBI_26155
+plant tissue,Plant Tissue, Cells,http://purl.obolibrary.org/obo/NCIT_C18945,plant tissue culture,http://purl.obolibrary.org/obo/ENVO_02000009,plant tissue development stage,http://purl.obolibrary.org/obo/PO_0025423,plant tissue development trait,http://purl.obolibrary.org/obo/TO_0006015
+plants/container_quantity_after_14d,plants,http://www.cropontology.org/rdf/CO_338:0000118,Plants,http://purl.obolibrary.org/obo/OMIT_0011917,plants,http://www.cropontology.org/rdf/CO_340:0000583,plants,http://www.cropontology.org/rdf/CO_340:0000250
+plasma fraction,Plasma Protein Cold Ethanol Fractionation,http://purl.obolibrary.org/obo/NCIT_C112939,plasma protein fractionation,http://purl.obolibrary.org/obo/CHMO_0001638,plasma protein fraction,http://purl.obolibrary.org/obo/DRON_00013176,plasma protein fraction Injectable Solution,http://purl.obolibrary.org/obo/DRON_00026096,plasma protein fraction 50 MG/ML Injectable Solution,http://purl.obolibrary.org/obo/DRON_00038008
+plate effect,RABEP1/PDGFRB Fusion Protein,http://purl.obolibrary.org/obo/NCIT_C99592
+plate number,platelet quantity,http://purl.obolibrary.org/obo/VT_0003179,platelet count,http://www.ebi.ac.uk/efo/EFO_0004309,platelet altered number of,http://purl.obolibrary.org/obo/OBA_0003275,platelet count decreased AE,http://purl.obolibrary.org/obo/OAE_0000599
+plate position,abnormal meiotic homologous chromosome biorientation with abnormal kinetochore orientation,http://purl.obolibrary.org/obo/FYPO_0005642
+plate surface area
+platelet count,Platelet Count,http://purl.obolibrary.org/obo/NCIT_C51951,platelet count,http://purl.obolibrary.org/obo/CMO_0000029,Platelet Count,http://scdontology.h3abionet.org/ontology/SCDO_0000906,Platelet Count,http://purl.obolibrary.org/obo/OMIT_0011949,platelet count,http://www.ebi.ac.uk/efo/EFO_0004309
+polarity,Polarity,http://purl.obolibrary.org/obo/NCIT_C48048,polarity,http://purl.obolibrary.org/obo/PATO_0002186
+pooled,Pooled Blood Products,http://purl.obolibrary.org/obo/NCIT_C133279,Pooled Sample,http://purl.obolibrary.org/obo/NCIT_C45910,pooled human intestinal microsomal fraction,http://purl.obolibrary.org/obo/DIDEO_00000166,pooled human liver microsomal fraction,http://purl.obolibrary.org/obo/DIDEO_00000164,pooled male and female,http://purl.obolibrary.org/obo/GENEPIO_0001661
+post exposure time
+post mortem dissection
+postharvest handling
+pre or post training visit,Andrew_P._Read,http://purl.obolibrary.org/obo/OGI.owl#Andrew_P._Read,Andorra,http://dbpedia.org/resource/Andorra,And/Or,http://purl.obolibrary.org/obo/NCIT_C48928,The Oral Health and Disease Ontology,http://purl.obolibrary.org/obo/ohd
+pre or post-exercise,The Oral Health and Disease Ontology,http://purl.obolibrary.org/obo/ohd,Ontology of Organizational Structures of Trauma centers and Trauma Systems,http://purl.obolibrary.org/obo/oostt.owl,Obstetric and Neonatal Ontology,http://purl.obolibrary.org/obo/ontoneo/ontoneo.owl,Population and Community Ontology,http://purl.obolibrary.org/obo/pco.owl,Xenopus anatomy and development,http://purl.obolibrary.org/obo/xao.owl
+pregnancy duration,gestation period duration,http://purl.obolibrary.org/obo/OBA_VT0002292
+preparation replicate
+presence of polymyxin,normal growth on polymyxin B,http://purl.obolibrary.org/obo/FYPO_0001995
+preservative,preservative,http://purl.obolibrary.org/obo/FOODON_03400317,Preservative Excipient,http://purl.obolibrary.org/obo/NCIT_C42659,preservative excipient,http://purl.obolibrary.org/obo/DRON_00000048,Preservatives, Pharmaceutical,http://purl.obolibrary.org/obo/OMIT_0012266,preservative (ec),http://purl.obolibrary.org/obo/FOODON_03400344
+previous acute cholecystitis
+previous history of typhoid
+previous hospital due to cholecystitis
+previous jaundice
+previous malaria infection
+primary phototrophic cyanobacteria
+prior antibiotic treatment
+prior antimalaria treatment
+production type,type III interferon production,http://purl.obolibrary.org/obo/GO_0034343,type I interferon production,http://purl.obolibrary.org/obo/GO_0032606
+protein challenge
+protein overexpression,Protein Overexpression,http://purl.obolibrary.org/obo/NCIT_C18211,tyrosine-protein kinase receptor old-1 (worm),http://purl.obolibrary.org/obo/PR_Q17833,TPR repeat protein oca3 (Schizosaccharomyces pombe 972h-),http://purl.obolibrary.org/obo/PR_O60110,ERBB2 Overexpression,http://purl.obolibrary.org/obo/NCIT_C150634,Cyclin E Protein Overexpression,http://purl.obolibrary.org/obo/NCIT_C36643
+pulldown
+pungent,Pungentus engadinensis,http://purl.obolibrary.org/obo/NCBITaxon_288481,Pungentus silvestris,http://purl.obolibrary.org/obo/NCBITaxon_289012,Pungentus cf. crassus 9 Mile 4-30 SW2-19a,http://purl.obolibrary.org/obo/NCBITaxon_342798,Pungentus sp. PDL-2005,http://purl.obolibrary.org/obo/NCBITaxon_344393,Pungentus monohystera,http://purl.obolibrary.org/obo/NCBITaxon_2072763
+purity,Purity,http://purl.obolibrary.org/obo/NCIT_C62352,purity,http://www.bioassayontology.org/bao#BAO_0002618,Purity Range,http://purl.obolibrary.org/obo/GAZ_00085933,purity percentage,http://purl.obolibrary.org/obo/UO_0000193
+race,Race,http://purl.obolibrary.org/obo/NCIT_C17049,race,http://semanticscience.org/resource/SIO_001015,Race,http://scdontology.h3abionet.org/ontology/SCDO_0000962,raceme inflorescence,http://purl.obolibrary.org/obo/PO_0030115,Racemose Hemangioma of the Mouse Blood Vessel,http://purl.obolibrary.org/obo/NCIT_C22924
+radiation,radiation,http://purl.obolibrary.org/obo/ENVO_01001023,Radiation,http://purl.obolibrary.org/obo/OMIT_0012758,radiation,http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000208
+rancid,Postia rancida,http://purl.obolibrary.org/obo/NCBITaxon_2008436,Athrips rancidella,http://purl.obolibrary.org/obo/NCBITaxon_1869492,Tephrocybe rancida,http://purl.obolibrary.org/obo/NCBITaxon_117070,milk rancid odor intensity,http://opendata.inra.fr/ATOL/ATOL_0000292,milk rancid flavor intensity,http://opendata.inra.fr/ATOL/ATOL_0000798
+region,Region,http://purl.obolibrary.org/obo/NCIT_C41129,region,http://purl.obolibrary.org/obo/HANCESTRO_0002,region,http://purl.obolibrary.org/obo/SO_0000001,region,http://www.geneontology.org/formats/oboInOwl#region,Region,http://biohackathon.org/resource/faldo#Region
+relative intensity,Relative Fluorescence Unit,http://purl.obolibrary.org/obo/NCIT_C77535
+relativehumidity_after_04d
+remote ischemic conditioning
+renal cancer cells
+replicate,Replicate,http://purl.obolibrary.org/obo/NCIT_C28038,replicate,http://www.ebi.ac.uk/efo/EFO_0000683,replicate design,http://www.ebi.ac.uk/efo/EFO_0001776,replicate GWAS study,http://purl.obolibrary.org/obo/OGSF_0000019
+replicates,ECG Replicates On-Treatment Indicator,http://purl.obolibrary.org/obo/NCIT_C119566,number of replications,http://purl.obolibrary.org/obo/AGRO_00000324,ECG Replicates at Baseline Indicator,http://purl.obolibrary.org/obo/NCIT_C119565,number of FFPE stages/replicates,http://purl.obolibrary.org/obo/OBIB_0000299
+replication,replication,http://purl.obolibrary.org/obo/IDO_0000608,replication,http://purl.obolibrary.org/obo/AGRO_00000321,Replication Licensing,http://purl.obolibrary.org/obo/NCIT_C20365,replication-born double-strand break repair via sister chromatid exchange,http://purl.obolibrary.org/obo/GO_1990414,replication of extrachromosomal circular DNA involved in replicative cell aging,http://purl.obolibrary.org/obo/GO_0001314
+resveratrol concentration
+retention time modulation
+rice seed developmental stage
+right upper quadrand tenderness
+right upper quadrant pain,right upper quadrant abdominal pain,http://purl.obolibrary.org/obo/SYMP_0000547
+rmsd,Root-mean-square deviation,http://edamontology.org/data_1497
+role,Role,http://purl.obolibrary.org/obo/NCIT_C48835,role,http://purl.obolibrary.org/obo/BFO_0000023,role,http://purl.obolibrary.org/obo/IDOMAL_0000001,role,http://semanticscience.org/resource/SIO_000016,Role,http://purl.obolibrary.org/obo/OMIT_0013286
+run order,explicit fourth-order Runge-Kutta method,http://www.biomodels.net/kisao/KISAO#KISAO_0000032
+rv b/t,V-set domain-containing T-cell activation inhibitor 1 (rat),http://purl.obolibrary.org/obo/PR_Q501W4,vesicle transport through interaction with t-SNAREs homolog 1B isoform 1 (rat),http://purl.obolibrary.org/obo/PR_P58200-1,V-set domain-containing T-cell activation inhibitor 1 isoform 1 (rat),http://purl.obolibrary.org/obo/PR_Q501W4-1,vascular endothelial growth factor B isoform rVEGF-B186 (rat),http://purl.obolibrary.org/obo/PR_O35485-1,vascular endothelial growth factor B isoform rVEGF-B167 (rat),http://purl.obolibrary.org/obo/PR_O35485-2
+rv pred b/t
+sa_inhibition
+salt_quantity_after_04d
+salt_quantity_after_08d
+salt_quantity_after_12d
+salt_quantity_after_16d
+salt_quantity_after_initiation
+sample batch number
+sample collection,Sample collections,http://edamontology.org/topic_3277,sample collection data entry,http://purl.obolibrary.org/obo/OMIABIS_0001033,sample collection data update,http://purl.obolibrary.org/obo/OMIABIS_0001034,sample collection identifier,http://purl.obolibrary.org/obo/OBIB_0000001,sample collection protocol,http://www.ebi.ac.uk/efo/EFO_0005518
+sample collection time
+sample date
+sample group,environmental samples <Caulobacter group>,http://purl.obolibrary.org/obo/NCBITaxon_130321,environmental samples <DPANN group>,http://purl.obolibrary.org/obo/NCBITaxon_2219212,environmental samples <Moorella group>,http://purl.obolibrary.org/obo/NCBITaxon_348838,environmental samples <Xanthomonas group>,http://purl.obolibrary.org/obo/NCBITaxon_127736,environmental samples <Helicobacterium group>,http://purl.obolibrary.org/obo/NCBITaxon_135071
+sample growth conditions
+sample location
+sample mass,sample mass,http://purl.obolibrary.org/obo/MS_1000004,sample mass information,http://nmrML.org/nmrCV#NMR:1000004,mass spectrometer sample spotter,http://purl.obolibrary.org/obo/ERO_0000272
+sample material,material sample,http://purl.obolibrary.org/obo/OBI_0000747,Material Sample,http://rs.tdwg.org/dwc/terms/MaterialSample,material processing,http://purl.obolibrary.org/obo/OBI_0000094
+sample matrix
+sample replicate
+sample time,time sampled measurement data set,http://purl.obolibrary.org/obo/IAO_0000584
+sample treatment protocol,sample treatment protocol,http://www.ebi.ac.uk/efo/EFO_0003809
+sample type,Biospecimen Type,http://purl.obolibrary.org/obo/NCIT_C70713,Sampled Sequence Data Type,http://purl.obolibrary.org/obo/NCIT_C95681,sample plate type,http://purl.obolibrary.org/obo/MS_1001938,CDISC SDTM Genetic Sample Type Terminology,http://purl.obolibrary.org/obo/NCIT_C111114,Paragon: sample type,http://purl.obolibrary.org/obo/MS_1002422
+sample_type
+sampling,Sampling,http://purl.obolibrary.org/obo/NCIT_C25662,sampling,http://semanticscience.org/resource/SIO_001049,Sampling,http://www.cropontology.org/rdf/CO_357:1000022,sampling time,http://www.ebi.ac.uk/efo/EFO_0000689
+sampling date,end date of sampling for biobank,http://purl.obolibrary.org/obo/OMIABIS_0001006,start date of sampling for biobank,http://purl.obolibrary.org/obo/OMIABIS_0001007
+sampling group
+sampling time,sampling time,http://www.ebi.ac.uk/efo/EFO_0000689,sampling time measurement datum,http://purl.obolibrary.org/obo/OBI_0001508
+sasang constitution,Sasang constitutional medicine,http://www.ebi.ac.uk/efo/EFO_0004892,Sasang constitutional medicine type,http://www.ebi.ac.uk/efo/EFO_0007119
+scan range,MS scan range,http://purl.obolibrary.org/obo/PRIDE_0000479
+season,Season,http://purl.obolibrary.org/obo/NCIT_C94729,season,http://purl.obolibrary.org/obo/ENVO_03000096,seasonal snow patch,http://purl.obolibrary.org/obo/ENVO_03000114,Seasonal allergy,http://purl.obolibrary.org/obo/HP_0012395,Seasonal Allergic Rhinitis,http://purl.obolibrary.org/obo/NCIT_C92188
+season of sample collection
+secondary identifier,Secondary Identifier,http://purl.obolibrary.org/obo/NCIT_C101703,Secondary Device Identifier,http://purl.obolibrary.org/obo/NCIT_C101724,Protein family identifier,http://edamontology.org/data_1075,Gramene secondary identifier,http://edamontology.org/data_2293,FlyBase secondary identifier,http://edamontology.org/data_2174
+section location
+selection marker gene
+series,Series,http://purl.obolibrary.org/obo/NCIT_C25674,series,http://purl.obolibrary.org/obo/TAXRANK_0000031,Series Instance UID,http://purl.obolibrary.org/obo/NCIT_C69219,Image Series,http://purl.obolibrary.org/obo/NCIT_C69225
+serum type,serum anti-porcine type 2 collagen antibody level,http://purl.obolibrary.org/obo/CMO_0002622,serum anti-porcine type 2 collagen antibody titer,http://purl.obolibrary.org/obo/CMO_0002623,serum anti-rat type 2 collagen antibody level,http://purl.obolibrary.org/obo/CMO_0002620,serum anti-rat type 2 collagen antibody titer,http://purl.obolibrary.org/obo/CMO_0002626,serum anti-bovine type 2 collagen antibody titer,http://purl.obolibrary.org/obo/CMO_0002644
+severe malnutrition,Severe Acute Malnutrition,http://purl.obolibrary.org/obo/OMIT_0001124
+sex,Sex,http://purl.obolibrary.org/obo/NCIT_C28421,SEX,http://www.cropontology.org/rdf/CO_357:0000078,sex,http://purl.obolibrary.org/obo/FBcv_0000332,Sex,http://purl.obolibrary.org/obo/OMIT_0013619
+sham exposed
+simulated detector noise
+simulated error profile distortion
+simulated mass error
+sirna,siRNA,http://www.bioassayontology.org/bao#BAO_0000324,siRNA,http://purl.obolibrary.org/obo/SO_0000646,siRNA,http://ensembl.org/glossary/ENSGLOSSARY_0000041
+site,Site,http://purl.obolibrary.org/obo/NCIT_C37901,site,http://purl.obolibrary.org/obo/BFO_0000029,site,http://purl.obolibrary.org/obo/IDOMAL_0000427,site,http://semanticscience.org/resource/SIO_000019,site,http://www.ifomis.org/bfo/1.1/snap#Site
+site-specific bd exposure
+skewing
+smoker,Smoker,http://purl.obolibrary.org/obo/NCIT_C68751,Smoker's Keratosis,http://purl.obolibrary.org/obo/NCIT_C4697,Smoker, Current Status Unknown,http://purl.obolibrary.org/obo/NCIT_C67150,smoker role,http://purl.obolibrary.org/obo/OMRSE_00000039,Current Smoker,http://purl.obolibrary.org/obo/NCIT_C67147
+smoking,Smoking,http://purl.obolibrary.org/obo/NCIT_C154329,smoking,http://purl.obolibrary.org/obo/PORO_0000100,Smoking,http://scdontology.h3abionet.org/ontology/SCDO_0001079,Smoking,http://purl.obolibrary.org/obo/OMIT_0013795,smoking behavior,http://www.ebi.ac.uk/efo/EFO_0004318
+smoking status,Smoking Status,http://purl.obolibrary.org/obo/NCIT_C19796,smoking status,http://purl.obolibrary.org/obo/GENEPIO_0001093,smoking status measurement,http://www.ebi.ac.uk/efo/EFO_0006527,Cigarette Smoking Status,http://scdontology.h3abionet.org/ontology/SCDO_0000235
+soil humidity,humidity of soil,http://purl.obolibrary.org/obo/ENVO_09200015
+species,Species,http://purl.obolibrary.org/obo/NCIT_C45293,species,http://purl.obolibrary.org/obo/TAXRANK_0000006,Species,http://purl.obolibrary.org/obo/SIBO_0000477,species,http://purl.obolibrary.org/obo/NCBITaxon_species
+species code,Species Code,http://purl.obolibrary.org/obo/NCIT_C93672,Animal Species Code,http://purl.obolibrary.org/obo/NCIT_C93727
+specimen,Specimen,http://purl.obolibrary.org/obo/NCIT_C19157,specimen,http://semanticscience.org/resource/SIO_010412,specimen,http://purl.obolibrary.org/obo/OBI_0100051,Specimen,http://purl.org/dsw/Specimen
+spectral normalization
+spectrum type,spectrum type,http://purl.obolibrary.org/obo/MS_1000559
+spike in volume
+spike-in concentration,PULP_FTREP,http://www.cropontology.org/rdf/CO_356:1000064,SKIN_FTERP,http://www.cropontology.org/rdf/CO_356:1000065,PULP_BTERP,http://www.cropontology.org/rdf/CO_356:1000051,SKIN_BTERP,http://www.cropontology.org/rdf/CO_356:1000052
+spiking,spiking,http://purl.obolibrary.org/obo/CHMO_0002852,Microarray spiking control vector pSP64bb2sp3,http://purl.obolibrary.org/obo/NCBITaxon_382154,Microarray spiking control vector pSP64bb2sp4,http://purl.obolibrary.org/obo/NCBITaxon_382155,Microarray spiking control vector pSP64bb2sp5,http://purl.obolibrary.org/obo/NCBITaxon_382156,Microarray spiking control vector pSP64bb1sp1,http://purl.obolibrary.org/obo/NCBITaxon_382153
+stage,Stage,http://purl.obolibrary.org/obo/NCIT_C48308,Stage,http://purl.obolibrary.org/obo/NCIT_C16899,stage,http://www.geneontology.org/formats/oboInOwl#stage,Stage 4 chronic kidney disease,http://purl.obolibrary.org/obo/HP_0012626
+staging,Staging,http://purl.obolibrary.org/obo/NCIT_C15608,Staging System,http://purl.obolibrary.org/obo/NCIT_C18004,Staging of Lung Cancer to Rule Out Progression,http://purl.obolibrary.org/obo/NCIT_C137877,Pathological Staging,http://purl.obolibrary.org/obo/NCIT_C28257,Neoplasm Staging,http://purl.obolibrary.org/obo/OMIT_0010395
+starvation period
+station,Station,http://purl.obolibrary.org/obo/NCIT_C67102,stationary bicycle dynamometry,http://purl.obolibrary.org/obo/MMO_0000096,Stationary Phase,http://purl.obolibrary.org/obo/NCIT_C70673,stationary tilting plane test,http://purl.obolibrary.org/obo/MMO_0000413,Stationary Imaging Center,http://purl.obolibrary.org/obo/NCIT_C53687
+status,Status,http://purl.obolibrary.org/obo/NCIT_C25688,status,http://purl.obolibrary.org/obo/SO_0000905,Status,http://www.cropontology.org/rdf/CO_357:1000069,status,http://www.geneontology.org/formats/oboInOwl#status
+steatosis,Steatosis,http://purl.obolibrary.org/obo/NCIT_C36185,steatosis,http://www.ebi.ac.uk/efo/EFO_0008527,steatosis,http://purl.obolibrary.org/obo/MPATH_622,Steatosis,http://aopkb.org/aop_ontology#steatosis
+steroid dependency
+steroid response,response to steroid hormone,http://purl.obolibrary.org/obo/GO_0048545,cellular response to steroid hormone stimulus,http://purl.obolibrary.org/obo/GO_0071383,Nuclear Receptor Subfamily 4 Group A Member 1,http://purl.obolibrary.org/obo/NCIT_C30088
+stimulus,Stimulus,http://purl.obolibrary.org/obo/NCIT_C41210,stimulus,http://purl.obolibrary.org/obo/MI_2260,stimulus or stress design,http://www.ebi.ac.uk/efo/EFO_0001762,stimulus isolator,http://purl.obolibrary.org/obo/ERO_0000861,stimulus dependent resistance,http://purl.obolibrary.org/obo/MIRO_00000007
+storage,Storage,http://purl.obolibrary.org/obo/NCIT_C60824,storage,http://purl.obolibrary.org/obo/OBI_0302893
+storage conditions,PQ/CMC Storage Conditions Terminology,http://purl.obolibrary.org/obo/NCIT_C133865,Special Storage Condition,http://purl.obolibrary.org/obo/NCIT_C101704,Clinical Trial Supply Storage Condition Document,http://purl.obolibrary.org/obo/NCIT_C115676
+storage time,time of blood cell pellet transfer to storage,http://purl.obolibrary.org/obo/OBIB_0000265,date and time FFPE tissue cassette transferred to storage,http://purl.obolibrary.org/obo/OBIB_0000379
+storage type,glycogen storage disease XV,http://purl.obolibrary.org/obo/DOID_0050579,Glycogen Storage Disease Type 2b,http://www.ebi.ac.uk/efo/EFO_1001333,Glycogen Storage Disease Type I,http://purl.obolibrary.org/obo/NCIT_C84733,Glycogen Storage Disease Type III,http://purl.obolibrary.org/obo/NCIT_C84736,Glycogen Storage Disease Type IV,http://purl.obolibrary.org/obo/NCIT_C84737
+strain,Strain,http://purl.obolibrary.org/obo/NCIT_C95501,strain,http://semanticscience.org/resource/SIO_010055,strain,http://purl.obolibrary.org/obo/PATO_0001034,strain,http://www.ebi.ac.uk/efo/EFO_0005135
+stress,Stress,http://purl.obolibrary.org/obo/NCIT_C35041,Stress,http://www.cropontology.org/rdf/CO_357:Stress,stress,http://purl.obolibrary.org/obo/zeco.owl/ZECO_0000131,Stress Response Signaling,http://purl.obolibrary.org/obo/NCIT_C19944
+stress duration,increased duration of protein phosphorylation during cellular response to salt stress,http://purl.obolibrary.org/obo/FYPO_0004062
+stroma tissue,Stroma,http://purl.obolibrary.org/obo/NCIT_C67387,Stroma of left ovary,http://purl.obolibrary.org/obo/FMA_18628,Stroma of right ovary,http://purl.obolibrary.org/obo/FMA_18627,Interstitial tissue of spleen,http://purl.obolibrary.org/obo/FMA_15850,Ovarian stroma,http://purl.obolibrary.org/obo/FMA_18626
+study group,study group,http://semanticscience.org/resource/SIO_000403,study group,http://purl.obolibrary.org/obo/EUPATH_0000639,study group role,http://purl.obolibrary.org/obo/OBI_0000174,study group population,http://purl.obolibrary.org/obo/STATO_0000193,study group population size,http://purl.obolibrary.org/obo/STATO_0000088
+subject,Subject,http://purl.obolibrary.org/obo/NCIT_C48910,subject,http://purl.org/dc/elements/1.1/subject
+subset,subset,http://purl.obolibrary.org/obo/MI_2179,Subset,http://www.geneontology.org/formats/oboInOwl#Subset
+substrate,Substrate,http://purl.obolibrary.org/obo/NCIT_C120264,substrate,http://purl.obolibrary.org/obo/PORO_0000922,substrate,http://semanticscience.org/resource/SIO_010362,substrate,http://www.bioassayontology.org/bao#BAO_0003063,substrate,http://www.ebi.ac.uk/efo/EFO_0005061
+successional stage
+survival,Survival,http://purl.obolibrary.org/obo/NCIT_C17177,survival,http://purl.obolibrary.org/obo/ERO_0001915,Survival,http://purl.obolibrary.org/obo/OMIT_0014399,Survival,http://www.cropontology.org/rdf/CO_357:1000070
+survival duration
+t-stage,T Category,http://purl.obolibrary.org/obo/NCIT_C25728,T stage,http://www.ebi.ac.uk/efo/EFO_0004928,Ann Arbor Stage IV Angioimmunoblastic T-Cell Lymphoma,http://purl.obolibrary.org/obo/NCIT_C8679,Ann Arbor Stage II Angioimmunoblastic T-Cell Lymphoma,http://purl.obolibrary.org/obo/NCIT_C8677,Ann Arbor Stage III Angioimmunoblastic T-Cell Lymphoma,http://purl.obolibrary.org/obo/NCIT_C8678
+t2d status
+tea type,souchong-type tea (dry),http://purl.obolibrary.org/obo/FOODON_03307797
+tech. replicate
+technical replicate,technical replicate,http://www.ebi.ac.uk/efo/EFO_0002090,technical replicate,http://purl.obolibrary.org/obo/MS_1001808,technical replicate role,http://purl.obolibrary.org/obo/OBI_0000249
+technical replicate number
+technical replicates
+temperature,Temperature,http://purl.obolibrary.org/obo/NCIT_C25206,temperature,http://purl.obolibrary.org/obo/NCRO_0000029,Temperature,http://purl.obolibrary.org/obo/OMIT_0014553,temperature,http://purl.obolibrary.org/obo/PATO_0000146,temperature,http://www.ebi.ac.uk/efo/EFO_0001702
+temperature of forcing
+temperature_after_04d
+tendon reattachment
+terms,terms merged,http://purl.obolibrary.org/obo/IAO_0000227
+threshold,Threshold,http://purl.obolibrary.org/obo/NCIT_C48228,threshold,http://purl.obolibrary.org/obo/PATO_0000152
+time,Time,http://purl.obolibrary.org/obo/NCIT_C25207,Time,http://purl.obolibrary.org/obo/OMIT_0014839,time,http://purl.obolibrary.org/obo/PATO_0000165,time,http://www.ebi.ac.uk/efo/EFO_0000721,Time,http://www.cropontology.org/rdf/Time
+time after inoculation
+time after treatment,Expected Length of Time to Recover After Treatment,http://purl.obolibrary.org/obo/NCIT_C121117
+time collected,Exposure as Collected Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C117503,Exposure as Collected Time Point Reference,http://purl.obolibrary.org/obo/NCIT_C117504,Exposure as Collected Date Time of Reference Timepoint,http://purl.obolibrary.org/obo/NCIT_C117505,Exposure as Collected Planned Time Point Number,http://purl.obolibrary.org/obo/NCIT_C117502,Exposure as Collected Planned Time Point Name,http://purl.obolibrary.org/obo/NCIT_C117501
+time collected urine sample
+time course,time course profile,http://www.bioassayontology.org/bao#BAO_0002071
+time elapsed,time elapsed since first dose condition statement,http://purl.obolibrary.org/obo/PDRO_0000070,Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C82572,Exposure Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C83281,Electrocardiogram Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C83258,Questionnaire Elapsed Time,http://purl.obolibrary.org/obo/NCIT_C83372
+time elapsed between last chemotherapy and serum collection,Andrew_P._Read,http://purl.obolibrary.org/obo/OGI.owl#Andrew_P._Read,Andorra,http://dbpedia.org/resource/Andorra,Hopf bifurcation,http://identifiers.org/teddy/TEDDY_0000072,structural stability,http://identifiers.org/teddy/TEDDY_0000167
+time elapsed between last radiation therapy and serum collection,Andrew_P._Read,http://purl.obolibrary.org/obo/OGI.owl#Andrew_P._Read,Andorra,http://dbpedia.org/resource/Andorra,Androgen Therapy,http://purl.obolibrary.org/obo/NCIT_C15482,Hopf bifurcation,http://identifiers.org/teddy/TEDDY_0000072
+time in nitrogen starvation
+time of first grafting
+time of treatment,time delay of treatment detection,http://purl.obolibrary.org/obo/APOLLO_SV_00000291,Date and Time of Last Study Treatment,http://purl.obolibrary.org/obo/NCIT_C117454,Date and Time of First Study Treatment,http://purl.obolibrary.org/obo/NCIT_C117455,Exposure as Collected Start Date and Time of Treatment,http://purl.obolibrary.org/obo/NCIT_C117496,Exposure as Collected End Date and Time of Treatment,http://purl.obolibrary.org/obo/NCIT_C117497
+time point,Timepoint,http://purl.obolibrary.org/obo/NCIT_C68568,Point in Time Test Given,http://purl.obolibrary.org/obo/NCIT_C81297,Point in Time Date and Time Data Type,http://purl.obolibrary.org/obo/NCIT_C95678,Point in Time Full Date Data Type,http://purl.obolibrary.org/obo/NCIT_C95679,time series, time point X,http://purl.obolibrary.org/obo/MS_1001815
+time point of drought duration
+time post exposure
+time post-inoculation,post-insult time to onset of experimental autoimmune neuritis,http://purl.obolibrary.org/obo/CMO_0001526,post-insult time to onset of experimental autoimmune encephalomyelitis,http://purl.obolibrary.org/obo/CMO_0001422,post-insult time of death,http://purl.obolibrary.org/obo/CMO_0002005,short excitatory postsynaptic current rise time,http://purl.obolibrary.org/obo/MP_0011272,prolonged excitatory postsynaptic current rise time,http://purl.obolibrary.org/obo/MP_0011271
+time to relapse
+timepoint,Timepoint,http://purl.obolibrary.org/obo/NCIT_C68568,timepoint,http://www.ebi.ac.uk/efo/EFO_0000724,initial time point,http://www.ebi.ac.uk/efo/EFO_0004425
+tissue,Tissue,http://purl.obolibrary.org/obo/NCIT_C12801,tissue,http://purl.obolibrary.org/obo/UBERON_0000479
+tissue location,Location adjacent to tissue fixation,http://purl.obolibrary.org/obo/OBIB_0000059,Ectopic pancreatic tissue,http://purl.obolibrary.org/obo/HP_0006278
+tissue source,Tissue Source Site,http://purl.obolibrary.org/obo/NCIT_C103264,BRENDA tissue / enzyme source,http://purl.obolibrary.org/obo/bto,tissues, cell types and enzyme sources,http://purl.obolibrary.org/obo/BTO_0000000
+tissue type,tissue type study,http://purl.obolibrary.org/obo/FBcv_0003130,tissue-type plasminogen activator,http://purl.obolibrary.org/obo/PR_000012825,Tissue-Type Plasminogen Activator,http://purl.obolibrary.org/obo/NCIT_C16995,tissue-type plasminogen activator (mouse),http://purl.obolibrary.org/obo/PR_P11214,tissue-type plasminogen activator (human),http://purl.obolibrary.org/obo/PR_P00750
+tlc b/t
+tlc pred b/t
+total acylglycerol in ld
+total bilirubin,Total Bilirubin Measurement,http://purl.obolibrary.org/obo/NCIT_C38037,total serum bilirubin level,http://purl.obolibrary.org/obo/CMO_0000376,total plasma bilirubin level,http://purl.obolibrary.org/obo/CMO_0002334,Serum Total Bilirubin Measurement,http://purl.obolibrary.org/obo/NCIT_C61031,Increased total bilirubin,http://purl.obolibrary.org/obo/HP_0003573
+total cell count,total white blood cell count,http://purl.obolibrary.org/obo/CMO_0000365,Total White Blood Cell Count,http://scdontology.h3abionet.org/ontology/SCDO_0001163,Total IgG Antibody Secreting Cell Count,http://purl.obolibrary.org/obo/NCIT_C120624,Plasma Cell Count,http://www.ebi.ac.uk/efo/EFO_0009248,Plasma Cell Count,http://purl.obolibrary.org/obo/NCIT_C128974
+total light_0pc_after_07d
+total light_0pc_after_28d
+total light_0pc_after_initiation
+total light_100pc_after_07d
+total light_100pc_after_28d
+total light_100pc_after_initiation
+total light_off_after_04d
+total light_on_after_04d
+total mass injected
+total protein in ld
+total red blood cell count
+total white blood cell count,total white blood cell count,http://purl.obolibrary.org/obo/CMO_0000365,Total White Blood Cell Count,http://scdontology.h3abionet.org/ontology/SCDO_0001163,monocyte percentage of leukocytes,http://www.ebi.ac.uk/efo/EFO_0007989,basophil percentage of leukocytes,http://www.ebi.ac.uk/efo/EFO_0007992,eosinophil percentage of leukocytes,http://www.ebi.ac.uk/efo/EFO_0007991
+toxic load
+tracer,tracer,http://purl.obolibrary.org/obo/CHEBI_35204,Tracer,http://purl.obolibrary.org/obo/NCIT_C2480
+transgene,Transgene,http://purl.obolibrary.org/obo/NCIT_C22190,transgene,http://purl.obolibrary.org/obo/SO_0000902
+treated,Treated Volume,http://purl.obolibrary.org/obo/NCIT_C112910,Treated with Courtesy and Respect,http://purl.obolibrary.org/obo/NCIT_C148468,treated wood,http://purl.obolibrary.org/obo/ENVO_00002135,treated with,http://scdontology.h3abionet.org/ontology/SCDO_0000664,treated - ambient temperature,http://purl.obolibrary.org/obo/GENEPIO_0001154
+treatment,treatment,http://purl.obolibrary.org/obo/NCRO_0000123,treatment,http://purl.obolibrary.org/obo/OGMS_0000090,treatment,http://purl.obolibrary.org/obo/AGRO_00000322,treatment,http://www.ebi.ac.uk/efo/EFO_0000727
+treatment concentration,Half Maximal Inhibitory Concentration Subject Result Measurement,http://purl.obolibrary.org/obo/NCIT_C116247,95 Percent Maximal Inhibitory Concentration Subject Result Measurement,http://purl.obolibrary.org/obo/NCIT_C116251
+treatment days,Leaf chlorophyll content - Method - At 7 days after treatment,http://www.cropontology.org/rdf/CO_337:0000222
+treatment group,Group C/Treatment IND Protocol,http://purl.obolibrary.org/obo/NCIT_C15478,North Central Cancer Treatment Group,http://purl.obolibrary.org/obo/NCIT_C25581,Ability to do Social Activities After Treatment,http://purl.obolibrary.org/obo/NCIT_C120962
+treatment time,Time-to-Treatment,http://purl.obolibrary.org/obo/OMIT_0027989,time delay of treatment detection,http://purl.obolibrary.org/obo/APOLLO_SV_00000291,Date and Time of Last Study Treatment,http://purl.obolibrary.org/obo/NCIT_C117454,Date and Time of First Study Treatment,http://purl.obolibrary.org/obo/NCIT_C117455,Exposure as Collected Start Date and Time of Treatment,http://purl.obolibrary.org/obo/NCIT_C117496
+treatment with hljdd
+treatment with human fecal suspension
+treatment with inj. cefazoline
+treatphase1
+treatphase2
+trna mistranslation
+truss number
+tumour,tumour hemorrhage AE,http://purl.obolibrary.org/obo/OAE_0001477,tumour excision,http://purl.obolibrary.org/obo/OAE_0001475,tumour of cranial and spinal nerves,http://www.ebi.ac.uk/efo/EFO_0002431
+tumour site,Yolk Sac Tumor,http://purl.obolibrary.org/obo/NCIT_C3011,gum cancer,http://purl.obolibrary.org/obo/DOID_8602,hypopharynx cancer,http://purl.obolibrary.org/obo/DOID_8533,hypopharynx cancer,http://www.ebi.ac.uk/efo/EFO_0007321,lip cancer,http://purl.obolibrary.org/obo/DOID_8564
+vaccination,Vaccination,http://purl.obolibrary.org/obo/NCIT_C15346,vaccination,http://purl.obolibrary.org/obo/IDOMAL_0001040,vaccination,http://purl.obolibrary.org/obo/VO_0000002,Vaccination,http://purl.obolibrary.org/obo/OMIT_0015445,vaccination,http://www.ebi.ac.uk/efo/EFO_0004292
+variability level
+variety,Variety,http://purl.obolibrary.org/obo/NCIT_C62709,Variety group,http://www.cropontology.org/rdf/CO_338:0000053,variety group scale,http://www.cropontology.org/rdf/CO_338:0000130,Variety group - Method,http://www.cropontology.org/rdf/CO_338:0000129
+vineyard,vineyard,http://purl.obolibrary.org/obo/ENVO_00000116,Vineyard Haven Harbor,http://purl.obolibrary.org/obo/GAZ_00217082,Vineyard Sound,http://purl.obolibrary.org/obo/GAZ_00147016,Vineyard Township,http://purl.obolibrary.org/obo/GAZ_00275984
+vintage
+virus,Virus,http://purl.obolibrary.org/obo/NCIT_C14283,virus,http://purl.obolibrary.org/obo/NCBITaxon_10239,virus,http://purl.obolibrary.org/obo/NCRO_0000091,virus,http://semanticscience.org/resource/SIO_010379
+visit,Visit,http://purl.obolibrary.org/obo/NCIT_C25716,Visit Name,http://purl.obolibrary.org/obo/NCIT_C83093,Visit Day,http://purl.obolibrary.org/obo/NCIT_C83450,Visit Number,http://purl.obolibrary.org/obo/NCIT_C83101,Visit End Time,http://purl.obolibrary.org/obo/NCIT_C102558
+vo2 peak a/t
+vo2 peak a/t ml/min
+vo2 peak b/t
+vo2 peak b/t ml/min
+vo2 peak pred a/t
+vo2 peak pred b/t
+volunteer,Volunteer Group,http://purl.obolibrary.org/obo/NCIT_C19440,Volunteer Organization,http://purl.obolibrary.org/obo/NCIT_C19123,Volunteer Army Ammunition Plant,http://purl.obolibrary.org/obo/GAZ_00164400,Volunteer Point,http://purl.obolibrary.org/obo/GAZ_00082508,Volunteer Canyon,http://purl.obolibrary.org/obo/GAZ_00294507
+walk a/t,Walker-A Motif,http://purl.obolibrary.org/obo/NCIT_C14043,Walking More Than a Mile,http://purl.obolibrary.org/obo/NCIT_C110979,Walking 3 Miles or Golfing 18 Holes Without a Riding Cart,http://purl.obolibrary.org/obo/NCIT_C126211,Walking Faster than Your Normal Speed Without Stopping,http://purl.obolibrary.org/obo/NCIT_C121892,Walking Half a Block on Level Ground,http://purl.obolibrary.org/obo/NCIT_C126167
+walk b/t
+watering_after_04d
+watering_after_initiation
+weight,Weight,http://purl.obolibrary.org/obo/NCIT_C25208,weight,http://purl.obolibrary.org/obo/PATO_0000128,weight,http://purl.org/obo/owl/PATO#PATO_0000128
+wetting time
+whole plant development stage,whole plant development stage,http://purl.obolibrary.org/obo/PO_0007033
+whole seawater
+window,Window,http://purl.obolibrary.org/obo/NCIT_C48051,Window,http://purl.obolibrary.org/obo/NCIT_C48921,Window Device,http://purl.obolibrary.org/obo/NCIT_C50268,window screen,http://purl.obolibrary.org/obo/IDOMAL_0001028,window function parameter,http://nmrML.org/nmrCV#NMR:1400096
+withering duration
+workload a/t
+workload b/t
+year analysed
+year of harvesting
+years with disease
