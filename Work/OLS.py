@@ -38,4 +38,3 @@ for term in terms:
     s = ','.join(temp) + '\n'
     with open('factor test.csv', 'a') as file:
         file.writelines(s)
-
