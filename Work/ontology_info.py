@@ -1,107 +1,73 @@
-# testing
+# onto_info
 # Created by JKChang
-# 26/06/2018, 14:09
+# 25/07/2018, 11:18
 # Tag:
-# Description: 
+# Description:
 
-class information():
-    ''' basic information of entities'''
+class onto_information():
+    ''' basic onto_information of entities'''
 
     def __init__(self, onto):
         '''initialization'''
         self.onto = onto
 
-    def get_subs(self, txt):
-
-        '''return list of sub classes'''
-
-        print('matching subs of %s' % txt)
+    def get_subs(self, cls):
+        '''return list of sub classes -> list'''
+        print('matching subs of %s' % cls.label)
         sub = []
-        try:
-            onto_c = self.onto.search_one(label=txt)
-            if (len(onto_c) == 0):
-                onto_c = self.onto.search_one(label=txt.lower())
-            if (len(onto_c) == 0):
-                onto_c = self.onto.search_one(label=txt.upper())
-            if (len(onto_c) == 0):
-                onto_c = self.onto.search_one(label=txt.title())
-            print('get ', onto_c.label)
-            list_subs(onto_c, sub)
-            return [list(x)[0] for x in sub if len(x) > 0]
-        except:
-            try:
-                onto_c = self.onto.search_one(iri=txt)
-                list_subs(onto_c, sub)
-                return [list(x)[0] for x in sub if len(x) > 0]
-            except:
-                print('can not find %s' % txt)
-                pass
+        list_subs(cls, sub)
+        # print(type(sub[0]))
+        return sub
 
-    def get_supers(self, txt):
-
+    def get_supers(self, cls):
         ''''return list of super classes'''
-
-        print('matching sups of %s ' % txt)
-
+        print('matching sups of %s ' % cls.label)
         sup = []
-        try:
-            onto_c = self.onto.search_one(label=txt)
-            if (onto_c == None):
-                onto_c = self.onto.search_one(label=txt.lower())
-            if (onto_c == None):
-                onto_c = self.onto.search_one(label=txt.upper())
-            if (onto_c == None):
-                onto_c = self.onto.search_one(label=txt.title())
+        list_supers(cls, sup)
+        return [x for x in sup if len(x.label) > 0]
 
-            list_supers(onto_c, sup)
-            res = [list(x)[0] for x in sup if len(x) > 0]
-            return res
-        except:
-            try:
-                onto_c = self.onto.search_one(iri=txt)
-                list_supers(onto_c, sup)
-                return [list(x)[0] for x in sup if len(x) > 0]
-            except:
-                print('can not find %s' % txt)
-                pass
-
-    def sub_count(self, class_label):
+    def sub_count(self, cls):
         '''return subclass count'''
-        print('counting %s subclass..' % class_label)
+        print('counting subclass of %s..' % cls.label)
+        return len(self.get_subs(cls))
 
-        res = self.get_subs(class_label)
-        return len(res)
+    def sup_count(self, cls):
+        '''return subclass count'''
+        print('counting superclass of %s..' % cls.label)
+        return len(self.get_supers(cls))
 
-    def super_count(self, class_label):
-        print('counting %s superclass..' % class_label)
-        '''return superclass count'''
-        res = self.get_supers(class_label)
-        return len(res)
+    def get_iri(self, cls):
+        return cls.iri
 
-    def get_iri(self, class_label):
-        try:
-            onto_c = self.onto.search_one(label=class_label)
-            # print('matching %s ..' %class_label)
-            return onto_c.iri
-        except:
-            pass
+    def get_factors(self,cls):
+        return list(cls.seeAlso)
 
-    def get_factors(self, txt):
-        try:
-            onto_c = self.onto.search_one(label=txt)
-            if (onto_c == None):
-                onto_c = self.onto.search_one(label=txt.lower())
-            if (onto_c == None):
-                onto_c = self.onto.search_one(label=txt.upper())
-            if (onto_c == None):
-                onto_c = self.onto.search_one(label=txt.title())
-            return list(onto_c.seeAlso)
-        except:
-            try:
-                onto_c = self.onto.search_one(iri=txt)
-                return list(onto_c.seeAlso)
-            except:
-                pass
+class entity():
+    def __init__(self,name = None, iri = None, obo_ID= None, ontoName = None, Zooma_confidence = None):
+        if name is None:
+            self.name = ''
+        else:
+            self.name = name
+
+        if iri is None:
+            self.iri = ''
+        else:
+            self.iri = iri
+
+        if obo_ID is None:
+            self.obo_ID = ''
+        else:
+            self.obo_ID = obo_ID
+
+        if ontoName is None:
+            self.ontoName = ''
+        else:
+            self.ontoName = ontoName
+
+        if Zooma_confidence is None:
+            self.Zooma_confidence = ''
+        else:
+            self.Zooma_confidence = Zooma_confidence
 
 
 def list_supers(onto_c, sup):
@@ -110,7 +76,7 @@ def list_supers(onto_c, sup):
     for parent in onto_c.is_a:
         try:
             list_supers(parent, sup)
-            sup.append(parent.label)
+            sup.append(parent)
         except:
             continue
 
@@ -121,6 +87,6 @@ def list_subs(onto_c, sub):
     for children in onto_c.subclasses():
         try:
             list_subs(children, sub)
-            sub.append(children.label)
+            sub.append(children)
         except:
             continue
