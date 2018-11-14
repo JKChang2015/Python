@@ -12,15 +12,13 @@ from owlready2 import *
 #
 # list(res)[10]._obj()
 
-onto = get_ontology('file://../resources/Metabolights.owl').load()
+onto = get_ontology('file://./resources/Metabolights.owl').load()
 
 typo = IRIS['http://www.geneontology.org/formats/oboInOwl#hasRelatedSynonym']
 exact = IRIS['http://www.geneontology.org/formats/oboInOwl#hasExactSynonym']
-c = onto.search_one(label = "Homo sapiens")
+c = onto.search_one(label="Homo sapiens")
+
+print(type(c))
 
 print(typo[c])
 print(exact[c])
-
-
-
-

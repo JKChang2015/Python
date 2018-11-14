@@ -43,7 +43,7 @@ class onto_information():
         return list(cls.seeAlso)
 
 class entity():
-    def __init__(self,name = None, iri = None, obo_ID= None, ontoName = None, Zooma_confidence = None):
+    def __init__(self, name = None, iri = None, obo_ID= None, ontoName = None, provenance_name = None, provenance_uri = None, Zooma_confidence = None):
         if name is None:
             self.name = ''
         else:
@@ -64,6 +64,17 @@ class entity():
         else:
             self.ontoName = ontoName
 
+        if provenance_name is None:
+            self.provenance_name = ''
+        else:
+            self.provenance_name = provenance_name
+
+        if provenance_uri is None:
+            self.provenance_uri = ''
+        else:
+            self.provenance_uri = provenance_uri
+
+
         if Zooma_confidence is None:
             self.Zooma_confidence = ''
         else:
@@ -82,7 +93,7 @@ def list_supers(onto_c, sup):
 
 
 def list_subs(onto_c, sub):
-    if onto_c.label == '' or onto_c.iri == 'http://www.w3.org/2002/07/owl#Thing':
+    if onto_c.label == '' and onto_c.iri != 'http://www.w3.org/2002/07/owl#Thing':
         return
     for children in onto_c.subclasses():
         try:
