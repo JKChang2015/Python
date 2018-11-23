@@ -1,0 +1,563 @@
+STUDY	BIOENTITY	PROPERTY_TYPE	PROPERTY_VALUE	SEMANTIC_TAG	ANNOTATOR	ANNOTATION_DATE
+study_1	metabo_1	factor	2'-deoxyadenosine	http://purl.obolibrary.org/obo/CHEBI_17256	Jiakang Chang	28/09/2018 12:00
+study_2	metabo_2	factor	A-549 cell	http://purl.obolibrary.org/obo/BTO_0000018	Zoe May Pendlington	01/10/2018 12:00
+study_3	metabo_3	factor	A-549 cellwhole organism	http://www.ebi.ac.uk/efo/EFO_0001086	Zoe May Pendlington	01/10/2018 12:00
+study_4	metabo_4	factor	A2780 cell	http://www.ebi.ac.uk/efo/EFO_0006362	Zoe May Pendlington	01/10/2018 12:00
+study_5	metabo_5	factor	A549	http://www.ebi.ac.uk/efo/EFO_0001086	Zoe May Pendlington	01/10/2018 12:00
+study_6	metabo_6	factor	Achillea millefolium	http://purl.obolibrary.org/obo/NCIT_C74311	Jiakang Chang	28/09/2018 12:00
+study_7	metabo_7	factor	Acorus calamus	http://purl.obolibrary.org/obo/NCIT_C72221	Jiakang Chang	28/09/2018 12:00
+study_8	metabo_8	factor	Acromyrmex octospinosus	http://purl.obolibrary.org/obo/NCBITaxon_64783	Jiakang Chang	28/09/2018 12:00
+study_9	metabo_9	factor	Acropora	http://purl.obolibrary.org/obo/NCBITaxon_6127	Jiakang Chang	28/09/2018 12:00
+study_10	metabo_10	factor	Acropora aspera	http://purl.obolibrary.org/obo/NCBITaxon_140238	Jiakang Chang	28/09/2018 12:00
+study_11	metabo_11	factor	adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001013	Zoe May Pendlington	01/10/2018 12:00
+study_12	metabo_12	factor	Aedes albopictus	http://purl.obolibrary.org/obo/NCBITaxon_7160	Zoe May Pendlington	01/10/2018 12:00
+study_13	metabo_13	factor	Aegopodium podagraria	http://purl.obolibrary.org/obo/NCBITaxon_40902	Jiakang Chang	28/09/2018 12:00
+study_14	metabo_14	factor	aerial part	http://www.ebi.ac.uk/efo/EFO_0001901	Zoe May Pendlington	01/10/2018 12:00
+study_15	metabo_15	factor	Aerva lanata	http://purl.obolibrary.org/obo/NCBITaxon_292353	Jiakang Chang	28/09/2018 12:00
+study_16	metabo_16	factor	Agave americana	http://purl.obolibrary.org/obo/NCIT_C72228	Jiakang Chang	28/09/2018 12:00
+study_17	metabo_17	factor	Ailuropoda melanoleuca	http://purl.obolibrary.org/obo/NCBITaxon_9646	Jiakang Chang	28/09/2018 12:00
+study_18	metabo_18	factor	Alopecurus pratensis	http://purl.obolibrary.org/obo/NCBITaxon_15304	Jiakang Chang	28/09/2018 12:00
+study_19	metabo_19	factor	Althaea officinalis	http://purl.obolibrary.org/obo/NCBITaxon_145745	Jiakang Chang	28/09/2018 12:00
+study_20	metabo_20	factor	Anethum graveolens	http://purl.obolibrary.org/obo/NCBITaxon_40922	Jiakang Chang	28/09/2018 12:00
+study_21	metabo_21	factor	Angelica archangelica	http://purl.obolibrary.org/obo/NCBITaxon_40949	Jiakang Chang	28/09/2018 12:00
+study_22	metabo_22	factor	Anopheles gambiae	http://purl.obolibrary.org/obo/NCBITaxon_7165	Zoe May Pendlington	01/10/2018 12:00
+study_23	metabo_23	factor	anther	http://purl.obolibrary.org/obo/PO_0009066	Zoe May Pendlington	01/10/2018 12:00
+study_24	metabo_24	factor	Anthoxanthum odoratum	http://purl.obolibrary.org/obo/NCBITaxon_29661	Jiakang Chang	28/09/2018 12:00
+study_25	metabo_25	factor	Aphis gossypii	http://purl.obolibrary.org/obo/NCBITaxon_80765	Jiakang Chang	28/09/2018 12:00
+study_26	metabo_26	factor	Apis cerana	http://purl.obolibrary.org/obo/NCBITaxon_7461	Zoe May Pendlington	01/10/2018 12:00
+study_27	metabo_27	factor	Aquatica lateralis	http://purl.obolibrary.org/obo/NCBITaxon_7052	Jiakang Chang	28/09/2018 12:00
+study_28	metabo_28	factor	Aqueous Humor	http://purl.obolibrary.org/obo/NCIT_C13190	Jiakang Chang	28/09/2018 12:00
+study_29	metabo_29	factor	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702	Zoe May Pendlington	01/10/2018 12:00
+study_30	metabo_30	factor	Arachis hypogaea	http://purl.obolibrary.org/obo/NCBITaxon_3818	Zoe May Pendlington	01/10/2018 12:00
+study_31	metabo_31	factor	Aralia elata	http://purl.obolibrary.org/obo/NCBITaxon_82095	Jiakang Chang	28/09/2018 12:00
+study_32	metabo_32	factor	Arctium lappa	http://purl.obolibrary.org/obo/NCBITaxon_4217	Jiakang Chang	28/09/2018 12:00
+study_33	metabo_33	factor	Aronia melanocarpa	http://purl.obolibrary.org/obo/NCBITaxon_661339	Jiakang Chang	28/09/2018 12:00
+study_34	metabo_34	factor	ARPE-19 cell	http://www.ebi.ac.uk/efo/EFO_0006271	Zoe May Pendlington	01/10/2018 12:00
+study_35	metabo_35	factor	Arrhenatherum elatius	http://purl.obolibrary.org/obo/NCBITaxon_52139	Jiakang Chang	28/09/2018 12:00
+study_36	metabo_36	factor	Artemisia absinthium	http://purl.obolibrary.org/obo/NCBITaxon_72332	Jiakang Chang	28/09/2018 12:00
+study_37	metabo_37	factor	Artificial sputum medium	http://purl.obolibrary.org/obo/NCIT_C85504	Jiakang Chang	28/09/2018 12:00
+study_38	metabo_38	factor	Asarum europaeum	http://purl.obolibrary.org/obo/NCBITaxon_49456	Jiakang Chang	28/09/2018 12:00
+study_39	metabo_39	factor	Aspergillus fumigatus	http://purl.obolibrary.org/obo/NCBITaxon_746128	Zoe May Pendlington	01/10/2018 12:00
+study_40	metabo_40	factor	Astragalus mongholicus	http://purl.obolibrary.org/obo/NCBITaxon_119829	Jiakang Chang	28/09/2018 12:00
+study_41	metabo_41	factor	Astragalus propinquus	http://purl.obolibrary.org/obo/NCBITaxon_158324	Jiakang Chang	28/09/2018 12:00
+study_42	metabo_42	factor	Avenula pubescens	http://purl.obolibrary.org/obo/NCBITaxon_87471	Jiakang Chang	28/09/2018 12:00
+study_43	metabo_43	factor	Bacillus drentensis	http://purl.obolibrary.org/obo/NCBITaxon_220684	Jiakang Chang	28/09/2018 12:00
+study_44	metabo_44	factor	Bacillus methanolicus	http://purl.obolibrary.org/obo/NCBITaxon_1471	Jiakang Chang	28/09/2018 12:00
+study_45	metabo_45	factor	Bacillus subtilis	http://purl.obolibrary.org/obo/NCBITaxon_1423	Zoe May Pendlington	01/10/2018 12:00
+study_46	metabo_46	factor	Bacteria	http://purl.obolibrary.org/obo/NCBITaxon_2	Zoe May Pendlington	01/10/2018 12:00
+study_47	metabo_47	factor	bark	http://purl.obolibrary.org/obo/PO_0004518	Zoe May Pendlington	01/10/2018 12:00
+study_48	metabo_48	factor	Bergenia crassifolia	http://purl.obolibrary.org/obo/NCBITaxon_29762	Jiakang Chang	28/09/2018 12:00
+study_49	metabo_49	factor	berry	http://purl.obolibrary.org/obo/PO_0009001	Zoe May Pendlington	01/10/2018 12:00
+study_50	metabo_50	factor	Betula pendula	http://purl.obolibrary.org/obo/NCBITaxon_3505	Zoe May Pendlington	01/10/2018 12:00
+study_51	metabo_51	factor	Bidens tripartita	http://purl.obolibrary.org/obo/NCBITaxon_51276	Jiakang Chang	28/09/2018 12:00
+study_52	metabo_52	factor	blood	http://purl.obolibrary.org/obo/UBERON_0000178	Zoe May Pendlington	01/10/2018 12:00
+study_53	metabo_53	factor	blood plasma	http://purl.obolibrary.org/obo/UBERON_0001969	Zoe May Pendlington	01/10/2018 12:00
+study_54	metabo_54	factor	blood serum	http://purl.obolibrary.org/obo/BTO_0000133	Zoe May Pendlington	01/10/2018 12:00
+study_55	metabo_55	factor	bloodstream form	http://purl.obolibrary.org/obo/BTO_0000134	Jiakang Chang	28/09/2018 12:00
+study_56	metabo_56	factor	bone marrow-derived macrophage	http://purl.obolibrary.org/obo/CL_0000235	Zoe May Pendlington	01/10/2018 12:00
+study_57	metabo_57	factor	Bos taurus	http://purl.obolibrary.org/obo/NCBITaxon_9913	Zoe May Pendlington	01/10/2018 12:00
+study_58	metabo_58	factor	Bos taurus/Ovis aries	http://purl.obolibrary.org/obo/NCBITaxon_9940	Zoe May Pendlington	01/10/2018 12:00
+study_59	metabo_59	factor	Bos taurus/Ovis aries	http://purl.obolibrary.org/obo/NCBITaxon_9913	Zoe May Pendlington	01/10/2018 12:00
+study_60	metabo_60	factor	Brachythecium rutabulum	http://purl.obolibrary.org/obo/NCBITaxon_53005	Jiakang Chang	28/09/2018 12:00
+study_61	metabo_61	factor	brain	http://purl.obolibrary.org/obo/UBERON_0000955	Zoe May Pendlington	01/10/2018 12:00
+study_62	metabo_62	factor	Brassica juncea	http://purl.obolibrary.org/obo/NCBITaxon_3707	Zoe May Pendlington	01/10/2018 12:00
+study_63	metabo_63	factor	Brassica napus	http://purl.obolibrary.org/obo/NCBITaxon_3708	Zoe May Pendlington	01/10/2018 12:00
+study_64	metabo_64	factor	Brassica oleracea	http://purl.obolibrary.org/obo/NCBITaxon_3712	Zoe May Pendlington	01/10/2018 12:00
+study_65	metabo_65	factor	breast cancer cell	http://www.ebi.ac.uk/efo/EFO_0002885	Zoe May Pendlington	01/10/2018 12:00
+study_66	metabo_66	factor	Bronchoalveolar Lavage Fluid	http://purl.obolibrary.org/obo/NCIT_C13195	Jiakang Chang	28/09/2018 12:00
+study_67	metabo_67	factor	brown adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001348	Zoe May Pendlington	01/10/2018 12:00
+study_68	metabo_68	factor	BTO:blood plasma	http://purl.obolibrary.org/obo/UBERON_0001969	Zoe May Pendlington	01/10/2018 12:00
+study_69	metabo_69	factor	bud	http://purl.obolibrary.org/obo/PO_0000055	Zoe May Pendlington	01/10/2018 12:00
+study_70	metabo_70	factor	Buffer	http://www.ebi.ac.uk/efo/EFO_0005434	Zoe May Pendlington	01/10/2018 12:00
+study_71	metabo_71	factor	Bupleurum aureum	http://purl.obolibrary.org/obo/NCBITaxon_428561	Jiakang Chang	28/09/2018 12:00
+study_72	metabo_72	factor	Burkholderia thailandensis	http://purl.obolibrary.org/obo/NCBITaxon_57975	Zoe May Pendlington	01/10/2018 12:00
+study_73	metabo_73	factor	BY4741	http://www.ebi.ac.uk/efo/EFO_0000098	Zoe May Pendlington	01/10/2018 12:00
+study_74	metabo_74	factor	C-10 cell	http://purl.obolibrary.org/obo/BTO_0004532	Jiakang Chang	28/09/2018 12:00
+study_75	metabo_75	factor	C2C12 cell	http://www.ebi.ac.uk/efo/EFO_0001098	Zoe May Pendlington	01/10/2018 12:00
+study_76	metabo_76	factor	C57BL/6	http://www.ebi.ac.uk/efo/EFO_0004472	Zoe May Pendlington	01/10/2018 12:00
+study_77	metabo_77	factor	C57BL/6J	http://www.ebi.ac.uk/efo/EFO_0000606	Zoe May Pendlington	01/10/2018 12:00
+study_78	metabo_78	factor	CACO-2 cell	http://www.ebi.ac.uk/efo/EFO_0001099	Zoe May Pendlington	01/10/2018 12:00
+study_79	metabo_79	factor	Caenorhabditis elegans	http://purl.obolibrary.org/obo/NCBITaxon_6239	Zoe May Pendlington	01/10/2018 12:00
+study_80	metabo_80	factor	Calanus	http://purl.obolibrary.org/obo/NCBITaxon_6836	Jiakang Chang	28/09/2018 12:00
+study_81	metabo_81	factor	Calendula officinalis	http://purl.obolibrary.org/obo/NCBITaxon_41496	Jiakang Chang	28/09/2018 12:00
+study_82	metabo_82	factor	Calliergonella cuspidata	http://purl.obolibrary.org/obo/NCBITaxon_52999	Jiakang Chang	28/09/2018 12:00
+study_83	metabo_83	factor	callus	http://purl.obolibrary.org/obo/PO_0005052	Zoe May Pendlington	01/10/2018 12:00
+study_84	metabo_84	factor	Camellia sinensis	http://purl.obolibrary.org/obo/NCBITaxon_2711	Zoe May Pendlington	01/10/2018 12:00
+study_85	metabo_85	factor	Campylobacter jejuni	http://purl.obolibrary.org/obo/NCBITaxon_197	Zoe May Pendlington	01/10/2018 12:00
+study_86	metabo_86	factor	Campylobacter jejuni subsp. jejuni NCTC 11168	http://purl.obolibrary.org/obo/NCBITaxon_192222	Zoe May Pendlington	01/10/2018 12:00
+study_87	metabo_87	factor	Candida albicans	http://purl.obolibrary.org/obo/NCBITaxon_5476	Zoe May Pendlington	01/10/2018 12:00
+study_88	metabo_88	factor	Candida glabrata	http://purl.obolibrary.org/obo/NCBITaxon_5478	Zoe May Pendlington	01/10/2018 12:00
+study_89	metabo_89	factor	Candida inconspicua	http://purl.obolibrary.org/obo/NCIT_C127697	Jiakang Chang	28/09/2018 12:00
+study_90	metabo_90	factor	Candida parapsilosis	http://purl.obolibrary.org/obo/NCBITaxon_5480	Zoe May Pendlington	01/10/2018 12:00
+study_91	metabo_91	factor	Candida tropicalis	http://purl.obolibrary.org/obo/NCBITaxon_5482	Jiakang Chang	28/09/2018 12:00
+study_92	metabo_92	factor	cardiomyocyte cell line	http://purl.obolibrary.org/obo/BTO_0003324	Jiakang Chang	28/09/2018 12:00
+study_93	metabo_93	factor	Carica papaya	http://purl.obolibrary.org/obo/NCBITaxon_3649	Zoe May Pendlington	01/10/2018 12:00
+study_94	metabo_94	factor	caryopsis	http://www.ebi.ac.uk/efo/EFO_0006814	Zoe May Pendlington	01/10/2018 12:00
+study_95	metabo_95	factor	cecal content	http://purl.jp/bio/11/meo/MEO_0000970	Jiakang Chang	28/09/2018 12:00
+study_96	metabo_96	factor	Cell	http://purl.obolibrary.org/obo/GO_0005623	Zoe May Pendlington	01/10/2018 12:00
+study_97	metabo_97	factor	cell culture	http://purl.obolibrary.org/obo/BTO_0000214	Zoe May Pendlington	01/10/2018 12:00
+study_98	metabo_98	factor	cell lysate	http://purl.obolibrary.org/obo/BTO_0004304	Jiakang Chang	28/09/2018 12:00
+study_99	metabo_99	factor	CELL MEDIA	http://www.ebi.ac.uk/efo/EFO_0000579	Zoe May Pendlington	01/10/2018 12:00
+study_100	metabo_100	factor	cell media	http://www.ebi.ac.uk/efo/EFO_0000579	Zoe May Pendlington	01/10/2018 12:00
+study_101	metabo_101	factor	cell suspension culture	http://purl.obolibrary.org/obo/BTO_0000221	Zoe May Pendlington	01/10/2018 12:00
+study_102	metabo_102	factor	Cells	http://purl.obolibrary.org/obo/OMIT_0003806	Jiakang Chang	28/09/2018 12:00
+study_103	metabo_103	factor	Centaurea jacea	http://purl.obolibrary.org/obo/NCBITaxon_351340	Jiakang Chang	28/09/2018 12:00
+study_104	metabo_104	factor	Centella asiatica	http://purl.obolibrary.org/obo/NCBITaxon_48106	Jiakang Chang	28/09/2018 12:00
+study_105	metabo_105	factor	cerebral cortex	http://purl.obolibrary.org/obo/UBERON_0000956	Zoe May Pendlington	01/10/2018 12:00
+study_106	metabo_106	factor	cerebrospinal fluid	http://purl.obolibrary.org/obo/UBERON_0001359	Zoe May Pendlington	01/10/2018 12:00
+study_107	metabo_107	factor	Chemical	http://purl.obolibrary.org/obo/CHEBI_24431	Zoe May Pendlington	01/10/2018 12:00
+study_108	metabo_108	factor	Chlamydomonas reinhardtii	http://purl.obolibrary.org/obo/NCBITaxon_3055	Zoe May Pendlington	01/10/2018 12:00
+study_109	metabo_109	factor	Chlorella	http://purl.obolibrary.org/obo/OMIT_0004031	Jiakang Chang	28/09/2018 12:00
+study_110	metabo_110	factor	Chloroflexus	http://purl.obolibrary.org/obo/NCBITaxon_1107	Jiakang Chang	28/09/2018 12:00
+study_111	metabo_111	factor	Chloroflexus spp.	http://purl.obolibrary.org/obo/NCBITaxon_1107	Jiakang Chang	28/09/2018 12:00
+study_112	metabo_112	factor	CHO-K1 cell	http://purl.obolibrary.org/obo/BTO_0000457	Jiakang Chang	28/09/2018 12:00
+study_113	metabo_113	factor	Chromobacterium violaceum	http://purl.obolibrary.org/obo/NCBITaxon_536	Jiakang Chang	28/09/2018 12:00
+study_114	metabo_114	factor	Cichorium intybus	http://purl.obolibrary.org/obo/NCBITaxon_13427	Zoe May Pendlington	01/10/2018 12:00
+study_115	metabo_115	factor	Clavispora lusitaniae	http://purl.obolibrary.org/obo/NCBITaxon_36911	Jiakang Chang	28/09/2018 12:00
+study_116	metabo_116	factor	coculture	http://purl.obolibrary.org/obo/BTO_0003143	Jiakang Chang	28/09/2018 12:00
+study_117	metabo_117	factor	Colorectal adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000365	Zoe May Pendlington	01/10/2018 12:00
+study_118	metabo_118	factor	colorectal adenocarcinoma cell	http://www.ebi.ac.uk/efo/EFO_0000365	Zoe May Pendlington	01/10/2018 12:00
+study_119	metabo_119	factor	Convallaria keiskei	http://purl.obolibrary.org/obo/NCBITaxon_182176	Jiakang Chang	28/09/2018 12:00
+study_120	metabo_120	factor	Coral reef sea water	http://purl.obolibrary.org/obo/ENVO_00000150	Jiakang Chang	28/09/2018 12:00
+study_121	metabo_121	factor	Coriandrum sativum	http://purl.obolibrary.org/obo/NCBITaxon_4047	Jiakang Chang	28/09/2018 12:00
+study_122	metabo_122	factor	Corynebacterium glutamicum	http://purl.obolibrary.org/obo/NCBITaxon_1718	Zoe May Pendlington	01/10/2018 12:00
+study_123	metabo_123	factor	Cricetulus griseus	http://purl.obolibrary.org/obo/NCBITaxon_10029	Zoe May Pendlington	01/10/2018 12:00
+study_124	metabo_124	factor	Crocus sativus	http://purl.obolibrary.org/obo/NCBITaxon_82528	Jiakang Chang	28/09/2018 12:00
+study_125	metabo_125	factor	Ctenopharyngodon idella	http://purl.obolibrary.org/obo/NCBITaxon_7959	Jiakang Chang	28/09/2018 12:00
+study_126	metabo_126	factor	Cucumaria georgiana	http://purl.obolibrary.org/obo/NCBITaxon_864626	Jiakang Chang	28/09/2018 12:00
+study_127	metabo_127	factor	Culture Media	http://purl.obolibrary.org/obo/OMIT_0004762	Jiakang Chang	28/09/2018 12:00
+study_128	metabo_128	factor	culture medium	http://purl.obolibrary.org/obo/BTO_0000316	Jiakang Chang	28/09/2018 12:00
+study_129	metabo_129	factor	culture supernatant	http://purl.obolibrary.org/obo/BTO_0002217	Zoe May Pendlington	01/10/2018 12:00
+study_130	metabo_130	factor	Cunila	http://purl.obolibrary.org/obo/NCBITaxon_392618	Jiakang Chang	28/09/2018 12:00
+study_131	metabo_131	factor	Dactylis glomerata	http://purl.obolibrary.org/obo/NCBITaxon_4509	Jiakang Chang	28/09/2018 12:00
+study_132	metabo_132	factor	Danio rerio	http://purl.obolibrary.org/obo/NCBITaxon_7955	Zoe May Pendlington	01/10/2018 12:00
+study_133	metabo_133	factor	Daphnia magna	http://purl.obolibrary.org/obo/NCBITaxon_35525	Zoe May Pendlington	01/10/2018 12:00
+study_134	metabo_134	factor	Daphnia pulex	http://purl.obolibrary.org/obo/NCBITaxon_6669	Zoe May Pendlington	01/10/2018 12:00
+study_135	metabo_135	factor	Daucus carota	http://purl.obolibrary.org/obo/NCBITaxon_4039	Jiakang Chang	28/09/2018 12:00
+study_136	metabo_136	factor	Dicentrarchus labrax	http://purl.obolibrary.org/obo/NCBITaxon_13489	Zoe May Pendlington	01/10/2018 12:00
+study_137	metabo_137	factor	Dictyostelium discoideum	http://purl.obolibrary.org/obo/NCBITaxon_44689	Zoe May Pendlington	01/10/2018 12:00
+study_138	metabo_138	factor	digestive gland	http://purl.obolibrary.org/obo/UBERON_0001007	Zoe May Pendlington	01/10/2018 12:00
+study_139	metabo_139	factor	Dioscorea caucasica	http://purl.obolibrary.org/obo/NCBITaxon_49457	Jiakang Chang	28/09/2018 12:00
+study_140	metabo_140	factor	Drosophila	http://purl.obolibrary.org/obo/NCBITaxon_7215	Zoe May Pendlington	01/10/2018 12:00
+study_141	metabo_141	factor	Drosophila melanogaster	http://purl.obolibrary.org/obo/NCBITaxon_7227	Zoe May Pendlington	01/10/2018 12:00
+study_142	metabo_142	factor	Drosophila melanogaster x Drosophila simulans	http://purl.obolibrary.org/obo/NCBITaxon_1128429	Jiakang Chang	28/09/2018 12:00
+study_143	metabo_143	factor	Drosophila simulans	http://purl.obolibrary.org/obo/NCBITaxon_7240	Zoe May Pendlington	01/10/2018 12:00
+study_144	metabo_144	factor	early whole plant fruit ripening stage	http://purl.obolibrary.org/obo/PO_0007001	Zoe May Pendlington	01/10/2018 12:00
+study_145	metabo_145	factor	Echinacea purpurea	http://purl.obolibrary.org/obo/NCBITaxon_53751	Jiakang Chang	28/09/2018 12:00
+study_146	metabo_146	factor	egg	http://purl.obolibrary.org/obo/BTO_0000369	Jiakang Chang	28/09/2018 12:00
+study_147	metabo_147	factor	Eisenia fetida	http://purl.obolibrary.org/obo/NCBITaxon_6396	Zoe May Pendlington	01/10/2018 12:00
+study_148	metabo_148	factor	Eleutherococcus senticosus	http://purl.obolibrary.org/obo/NCBITaxon_82096	Jiakang Chang	28/09/2018 12:00
+study_149	metabo_149	factor	Eleutherococcus sessiliflorus	http://purl.obolibrary.org/obo/NCBITaxon_105886	Jiakang Chang	28/09/2018 12:00
+study_150	metabo_150	factor	embryo	http://purl.obolibrary.org/obo/UBERON_0000922	Zoe May Pendlington	01/10/2018 12:00
+study_151	metabo_151	factor	epididymis	http://purl.obolibrary.org/obo/UBERON_0001301	Zoe May Pendlington	01/10/2018 12:00
+study_152	metabo_152	factor	epithelial cell	http://purl.obolibrary.org/obo/CL_0000066	Zoe May Pendlington	01/10/2018 12:00
+study_153	metabo_153	factor	Equisetum arvense	http://purl.obolibrary.org/obo/NCBITaxon_3258	Zoe May Pendlington	01/10/2018 12:00
+study_154	metabo_154	factor	Equus caballus	http://purl.obolibrary.org/obo/NCBITaxon_9796	Zoe May Pendlington	01/10/2018 12:00
+study_155	metabo_155	factor	erythrocyte	http://purl.obolibrary.org/obo/CL_0000232	Zoe May Pendlington	01/10/2018 12:00
+study_156	metabo_156	factor	Escherichia coli	http://purl.obolibrary.org/obo/NCBITaxon_562	Zoe May Pendlington	01/10/2018 12:00
+study_157	metabo_157	factor	esophagus	http://purl.obolibrary.org/obo/UBERON_0001043	Zoe May Pendlington	01/10/2018 12:00
+study_158	metabo_158	factor	Espeletia	http://purl.obolibrary.org/obo/NCBITaxon_185152	Jiakang Chang	28/09/2018 12:00
+study_159	metabo_159	factor	ethanol	http://purl.obolibrary.org/obo/CHEBI_16236	Zoe May Pendlington	01/10/2018 12:00
+study_160	metabo_160	factor	Euglena gracilis	http://purl.obolibrary.org/obo/NCBITaxon_3039	Jiakang Chang	28/09/2018 12:00
+study_161	metabo_161	factor	exocarp	http://purl.obolibrary.org/obo/NCIT_C79633	Jiakang Chang	28/09/2018 12:00
+study_162	metabo_162	factor	Exudate	http://purl.obolibrary.org/obo/UBERON_0007780	Jiakang Chang	28/09/2018 12:00
+study_163	metabo_163	factor	feces	http://purl.obolibrary.org/obo/NCIT_C13234	Jiakang Chang	28/09/2018 12:00
+study_164	metabo_164	factor	Festuca rubra	http://purl.obolibrary.org/obo/NCBITaxon_52153	Jiakang Chang	28/09/2018 12:00
+study_165	metabo_165	factor	fetal serum	http://purl.obolibrary.org/obo/BTO_0000448	Jiakang Chang	28/09/2018 12:00
+study_166	metabo_166	factor	Fissidens taxifolius	http://purl.obolibrary.org/obo/NCBITaxon_52983	Jiakang Chang	28/09/2018 12:00
+study_167	metabo_167	factor	flower	http://purl.obolibrary.org/obo/PO_0009046	Zoe May Pendlington	01/10/2018 12:00
+study_168	metabo_168	factor	flower bud	http://purl.obolibrary.org/obo/PO_0000056	Zoe May Pendlington	01/10/2018 12:00
+study_169	metabo_169	factor	flower stalk	http://purl.obolibrary.org/obo/BTO_0002244	Jiakang Chang	28/09/2018 12:00
+study_170	metabo_170	factor	Foeniculum vulgare	http://purl.obolibrary.org/obo/NCBITaxon_48038	Jiakang Chang	28/09/2018 12:00
+study_171	metabo_171	factor	Food	http://purl.obolibrary.org/obo/NCIT_C62695	Jiakang Chang	28/09/2018 12:00
+study_172	metabo_172	factor	foot	http://purl.obolibrary.org/obo/UBERON_0002387	Zoe May Pendlington	01/10/2018 12:00
+study_173	metabo_173	factor	Fragaria vesca	http://purl.obolibrary.org/obo/NCBITaxon_57918	Jiakang Chang	28/09/2018 12:00
+study_174	metabo_174	factor	Frangula alnus	http://purl.obolibrary.org/obo/NCBITaxon_106677	Jiakang Chang	28/09/2018 12:00
+study_175	metabo_175	factor	Fraxinus excelsior	http://purl.obolibrary.org/obo/NCBITaxon_38873	Jiakang Chang	28/09/2018 12:00
+study_176	metabo_176	factor	Fruit	http://purl.obolibrary.org/obo/PO_0009001	Zoe May Pendlington	01/10/2018 12:00
+study_177	metabo_177	factor	Galium mollugo	http://purl.obolibrary.org/obo/NCBITaxon_254777	Jiakang Chang	28/09/2018 12:00
+study_178	metabo_178	factor	Galium verum	http://purl.obolibrary.org/obo/NCBITaxon_462873	Jiakang Chang	28/09/2018 12:00
+study_179	metabo_179	factor	Gallus gallus	http://purl.obolibrary.org/obo/NCBITaxon_9031	Zoe May Pendlington	01/10/2018 12:00
+study_180	metabo_180	factor	Garcinia mangostana	http://purl.obolibrary.org/obo/NCBITaxon_58228	Jiakang Chang	28/09/2018 12:00
+study_181	metabo_181	factor	gastrocnemius	http://purl.obolibrary.org/obo/UBERON_0001388	Zoe May Pendlington	01/10/2018 12:00
+study_182	metabo_182	factor	Geranium pratense	http://purl.obolibrary.org/obo/NCBITaxon_487788	Jiakang Chang	28/09/2018 12:00
+study_183	metabo_183	factor	Ginkgo biloba	http://purl.obolibrary.org/obo/NCBITaxon_3311	Zoe May Pendlington	01/10/2018 12:00
+study_184	metabo_184	factor	glucose	http://purl.obolibrary.org/obo/CHEBI_17234	Zoe May Pendlington	01/10/2018 12:00
+study_185	metabo_185	factor	Glycine max	http://purl.obolibrary.org/obo/NCBITaxon_3847	Zoe May Pendlington	01/10/2018 12:00
+study_186	metabo_186	factor	Glycine max/Rhizoctonia solani	http://purl.obolibrary.org/obo/NCBITaxon_456999	Zoe May Pendlington	01/10/2018 12:00
+study_187	metabo_187	factor	Glycine max/Rhizoctonia solani	http://purl.obolibrary.org/obo/NCBITaxon_3847	Zoe May Pendlington	01/10/2018 12:00
+study_188	metabo_188	factor	glycogen	http://purl.obolibrary.org/obo/CHEBI_28087	Jiakang Chang	28/09/2018 12:00
+study_189	metabo_189	factor	Glycyrrhiza glabra	http://purl.obolibrary.org/obo/NCBITaxon_49827	Jiakang Chang	28/09/2018 12:00
+study_190	metabo_190	factor	gnelater luminosus	http://purl.obolibrary.org/obo/NCBITaxon_2038154	Jiakang Chang	28/09/2018 12:00
+study_191	metabo_191	factor	Gomphrena	http://purl.obolibrary.org/obo/NCBITaxon_169521	Jiakang Chang	28/09/2018 12:00
+study_192	metabo_192	factor	Gossypium hirsutum	http://purl.obolibrary.org/obo/NCBITaxon_3635	Zoe May Pendlington	01/10/2018 12:00
+study_193	metabo_193	factor	Grain	http://www.ebi.ac.uk/efo/EFO_0006814	Zoe May Pendlington	01/10/2018 12:00
+study_194	metabo_194	factor	Grimmia pulvinata	http://purl.obolibrary.org/obo/NCBITaxon_115594	Jiakang Chang	28/09/2018 12:00
+study_195	metabo_195	factor	HaCaT cell	http://www.ebi.ac.uk/efo/EFO_0002056	Zoe May Pendlington	01/10/2018 12:00
+study_196	metabo_196	factor	Haliclona fulva	http://purl.obolibrary.org/obo/NCBITaxon_608202	Jiakang Chang	28/09/2018 12:00
+study_197	metabo_197	factor	Haliclona mucosa	http://purl.obolibrary.org/obo/NCBITaxon_608209	Jiakang Chang	28/09/2018 12:00
+study_198	metabo_198	factor	HCC-1937 cell	http://www.ebi.ac.uk/efo/EFO_0001174	Zoe May Pendlington	01/10/2018 12:00
+study_199	metabo_199	factor	HCC-1954 cell	http://www.ebi.ac.uk/efo/EFO_0001175	Zoe May Pendlington	01/10/2018 12:00
+study_200	metabo_200	factor	HCT-116 cell	http://www.ebi.ac.uk/efo/EFO_0002824	Zoe May Pendlington	01/10/2018 12:00
+study_201	metabo_201	factor	head	http://purl.obolibrary.org/obo/UBERON_0000033	Zoe May Pendlington	01/10/2018 12:00
+study_202	metabo_202	factor	heart	http://purl.obolibrary.org/obo/UBERON_0000948	Zoe May Pendlington	01/10/2018 12:00
+study_203	metabo_203	factor	heart ventricle	http://purl.obolibrary.org/obo/UBERON_0002082	Zoe May Pendlington	01/10/2018 12:00
+study_204	metabo_204	factor	Hedysarum neglectum	http://purl.obolibrary.org/obo/NCBITaxon_1641291	Jiakang Chang	28/09/2018 12:00
+study_205	metabo_205	factor	HEK-293 cell	http://purl.obolibrary.org/obo/BTO_0000007	Zoe May Pendlington	01/10/2018 12:00
+study_206	metabo_206	factor	HeLa-SHMT2-shSHMT2 cell	http://purl.obolibrary.org/obo/CLO_0003684	Jiakang Chang	28/09/2018 12:00
+study_207	metabo_207	factor	Helianthus tuberosus	http://purl.obolibrary.org/obo/NCBITaxon_4233	Jiakang Chang	28/09/2018 12:00
+study_208	metabo_208	factor	Helichrysum arenarium	http://purl.obolibrary.org/obo/NCBITaxon_261776	Jiakang Chang	28/09/2018 12:00
+study_209	metabo_209	factor	Heligmosomoides polygyrus	http://purl.obolibrary.org/obo/NCBITaxon_6339	Zoe May Pendlington	01/10/2018 12:00
+study_210	metabo_210	factor	hemolymph	http://purl.obolibrary.org/obo/BTO_0000572	Jiakang Chang	28/09/2018 12:00
+study_211	metabo_211	factor	Hep-G2 cell	http://www.ebi.ac.uk/efo/EFO_0001187	Zoe May Pendlington	01/10/2018 12:00
+study_212	metabo_212	factor	hepatocyte	http://purl.obolibrary.org/obo/CL_0000182	Zoe May Pendlington	01/10/2018 12:00
+study_213	metabo_213	factor	hepatoma cell	http://purl.obolibrary.org/obo/BTO_0000608	Zoe May Pendlington	01/10/2018 12:00
+study_214	metabo_214	factor	Heracleum sibiricum	http://purl.obolibrary.org/obo/NCBITaxon_414037	Jiakang Chang	28/09/2018 12:00
+study_215	metabo_215	factor	HL-60 cell	http://www.ebi.ac.uk/efo/EFO_0002793	Zoe May Pendlington	01/10/2018 12:00
+study_216	metabo_216	factor	Holcus lanatus	http://purl.obolibrary.org/obo/NCBITaxon_29679	Jiakang Chang	28/09/2018 12:00
+study_217	metabo_217	factor	Homo sapiens	http://purl.obolibrary.org/obo/NCBITaxon_9606	Zoe May Pendlington	01/10/2018 12:00
+study_218	metabo_218	factor	Hordeum vulgare	http://purl.obolibrary.org/obo/NCBITaxon_4513	Zoe May Pendlington	01/10/2018 12:00
+study_219	metabo_219	factor	Human	http://purl.obolibrary.org/obo/NCBITaxon_9606	Zoe May Pendlington	01/10/2018 12:00
+study_220	metabo_220	factor	Humulus lupulus	http://purl.obolibrary.org/obo/NCBITaxon_3486	Zoe May Pendlington	01/10/2018 12:00
+study_221	metabo_221	factor	HUVEC cell	http://www.ebi.ac.uk/efo/EFO_0002451	Zoe May Pendlington	01/10/2018 12:00
+study_222	metabo_222	factor	hydroponic plant culture media	http://purl.obolibrary.org/obo/EO_0007067	Zoe May Pendlington	01/10/2018 12:00
+study_223	metabo_223	factor	Hypericum perforatum	http://purl.obolibrary.org/obo/NCBITaxon_65561	Jiakang Chang	28/09/2018 12:00
+study_224	metabo_224	factor	Hypnum cupressiforme	http://purl.obolibrary.org/obo/NCBITaxon_53011	Jiakang Chang	28/09/2018 12:00
+study_225	metabo_225	factor	Hypnum cupressiforme s. l.	http://purl.obolibrary.org/obo/NCBITaxon_53011	Jiakang Chang	28/09/2018 12:00
+study_226	metabo_226	factor	hypocotyl	http://purl.obolibrary.org/obo/PO_0020100	Zoe May Pendlington	01/10/2018 12:00
+study_227	metabo_227	factor	Ilex paraguariensis	http://purl.obolibrary.org/obo/NCBITaxon_185542	Jiakang Chang	28/09/2018 12:00
+study_228	metabo_228	factor	Inga acreana	http://purl.obolibrary.org/obo/NCBITaxon_485823	Jiakang Chang	28/09/2018 12:00
+study_229	metabo_229	factor	Inga alata	http://purl.obolibrary.org/obo/NCBITaxon_668906	Jiakang Chang	28/09/2018 12:00
+study_230	metabo_230	factor	Inga alba	http://purl.obolibrary.org/obo/NCBITaxon_668907	Jiakang Chang	28/09/2018 12:00
+study_231	metabo_231	factor	Inga auristellae	http://purl.obolibrary.org/obo/NCBITaxon_486050	Jiakang Chang	28/09/2018 12:00
+study_232	metabo_232	factor	Inga brachystachys	http://purl.obolibrary.org/obo/NCBITaxon_597306	Jiakang Chang	28/09/2018 12:00
+study_233	metabo_233	factor	Inga cf brachystacys	http://purl.obolibrary.org/obo/NCBITaxon_597306	Jiakang Chang	28/09/2018 12:00
+study_234	metabo_234	factor	Inga chartacea	http://purl.obolibrary.org/obo/NCBITaxon_668909	Jiakang Chang	28/09/2018 12:00
+study_235	metabo_235	factor	Inga coruscans	http://purl.obolibrary.org/obo/NCBITaxon_670674	Jiakang Chang	28/09/2018 12:00
+study_236	metabo_236	factor	Inga laurina	http://purl.obolibrary.org/obo/NCBITaxon_487684	Jiakang Chang	28/09/2018 12:00
+study_237	metabo_237	factor	Inga leiocalycina	http://purl.obolibrary.org/obo/NCBITaxon_486065	Jiakang Chang	28/09/2018 12:00
+study_238	metabo_238	factor	Inga marginata	http://purl.obolibrary.org/obo/NCBITaxon_468147	Jiakang Chang	28/09/2018 12:00
+study_239	metabo_239	factor	Inga pezizifera	http://purl.obolibrary.org/obo/NCBITaxon_486075	Jiakang Chang	28/09/2018 12:00
+study_240	metabo_240	factor	Inga umbellifera	http://purl.obolibrary.org/obo/NCBITaxon_486089	Jiakang Chang	28/09/2018 12:00
+study_241	metabo_241	factor	intestine	http://purl.obolibrary.org/obo/UBERON_0000160	Zoe May Pendlington	01/10/2018 12:00
+study_242	metabo_242	factor	intracellular	http://purl.obolibrary.org/obo/GO_0005622	Jiakang Chang	28/09/2018 12:00
+study_243	metabo_243	factor	intracellular part	http://purl.obolibrary.org/obo/GO_0044424	Zoe May Pendlington	01/10/2018 12:00
+study_244	metabo_244	factor	Inula helenium	http://purl.obolibrary.org/obo/NCBITaxon_55635	Jiakang Chang	28/09/2018 12:00
+study_245	metabo_245	factor	Ircinia campana	http://purl.obolibrary.org/obo/NCBITaxon_458501	Jiakang Chang	28/09/2018 12:00
+study_246	metabo_246	factor	Jacobaea	http://purl.obolibrary.org/obo/NCBITaxon_405757	Jiakang Chang	28/09/2018 12:00
+study_247	metabo_247	factor	Juniperus communis	http://purl.obolibrary.org/obo/NCBITaxon_58039	Jiakang Chang	28/09/2018 12:00
+study_248	metabo_248	factor	JURKAT cell	http://www.ebi.ac.uk/efo/EFO_0002796	Zoe May Pendlington	01/10/2018 12:00
+study_249	metabo_249	factor	juvenile leaf	http://purl.obolibrary.org/obo/PO_0006339	Zoe May Pendlington	01/10/2018 12:00
+study_250	metabo_250	factor	Kalanchoe fedtschenkoi	http://purl.obolibrary.org/obo/NCBITaxon_63787	Jiakang Chang	28/09/2018 12:00
+study_251	metabo_251	factor	kidney	http://purl.obolibrary.org/obo/UBERON_0002113	Zoe May Pendlington	01/10/2018 12:00
+study_252	metabo_252	factor	Klebsiella pneumoniae	http://purl.obolibrary.org/obo/NCBITaxon_573	Zoe May Pendlington	01/10/2018 12:00
+study_253	metabo_253	factor	Knautia arvensis	http://purl.obolibrary.org/obo/NCBITaxon_105271	Jiakang Chang	28/09/2018 12:00
+study_254	metabo_254	factor	Lactobacillus rhamnosus	http://purl.obolibrary.org/obo/NCBITaxon_47715	Zoe May Pendlington	01/10/2018 12:00
+study_255	metabo_255	factor	Lactuca sativa	http://purl.obolibrary.org/obo/NCBITaxon_4236	Zoe May Pendlington	01/10/2018 12:00
+study_256	metabo_256	factor	Landoltia punctata	http://purl.obolibrary.org/obo/NCBITaxon_50518	Jiakang Chang	28/09/2018 12:00
+study_257	metabo_257	factor	Laternula elliptica	http://purl.obolibrary.org/obo/NCBITaxon_228457	Zoe May Pendlington	01/10/2018 12:00
+study_258	metabo_258	factor	leaf	http://purl.obolibrary.org/obo/PO_0025034	Zoe May Pendlington	01/10/2018 12:00
+study_259	metabo_259	factor	leaf and stem	http://purl.obolibrary.org/obo/PO_0025034	Zoe May Pendlington	01/10/2018 12:00
+study_259	metabo_259	factor	leaf and stem	http://purl.obolibrary.org/obo/PO_0009047	Zoe May Pendlington	01/10/2018 12:00
+study_260	metabo_260	factor	leaf lamina	http://purl.obolibrary.org/obo/PO_0020039	Zoe May Pendlington	01/10/2018 12:00
+study_261	metabo_261	factor	leaf midvein	http://purl.obolibrary.org/obo/PO_0020139	Zoe May Pendlington	01/10/2018 12:00
+study_262	metabo_262	factor	left ventricle	http://purl.obolibrary.org/obo/UBERON_0002084	Zoe May Pendlington	01/10/2018 12:00
+study_263	metabo_263	factor	Leishmania infantum	http://purl.obolibrary.org/obo/NCBITaxon_5671	Zoe May Pendlington	01/10/2018 12:00
+study_264	metabo_264	factor	Leishmania mexicana	http://purl.obolibrary.org/obo/NCBITaxon_5665	Zoe May Pendlington	01/10/2018 12:00
+study_265	metabo_265	factor	Leishmania mexicana species complex	http://purl.obolibrary.org/obo/NCBITaxon_38582	Jiakang Chang	28/09/2018 12:00
+study_266	metabo_266	factor	Lemna gibba	http://purl.obolibrary.org/obo/NCBITaxon_4470	Jiakang Chang	28/09/2018 12:00
+study_267	metabo_267	factor	Lemna paucicostata	http://purl.obolibrary.org/obo/NCBITaxon_89585	Jiakang Chang	28/09/2018 12:00
+study_268	metabo_268	factor	Leonurus quinquelobatus	http://purl.obolibrary.org/obo/NCBITaxon_1081559	Jiakang Chang	28/09/2018 12:00
+study_269	metabo_269	factor	Leucanthemum vulgare	http://purl.obolibrary.org/obo/NCBITaxon_99072	Jiakang Chang	28/09/2018 12:00
+study_270	metabo_270	factor	Levisticum officinale	http://purl.obolibrary.org/obo/NCBITaxon_48042	Jiakang Chang	28/09/2018 12:00
+study_271	metabo_271	factor	Linum usitatissimum	http://purl.obolibrary.org/obo/NCBITaxon_4006	Zoe May Pendlington	01/10/2018 12:00
+study_272	metabo_272	factor	Liothyrella uva	http://purl.obolibrary.org/obo/NCBITaxon_33482	Jiakang Chang	28/09/2018 12:00
+study_273	metabo_273	factor	Litoria verreauxii	http://purl.obolibrary.org/obo/NCBITaxon_681275	Jiakang Chang	28/09/2018 12:00
+study_274	metabo_274	factor	liver	http://purl.obolibrary.org/obo/UBERON_0002107	Zoe May Pendlington	01/10/2018 12:00
+study_275	metabo_275	factor	liver cancer cell	http://purl.obolibrary.org/obo/BTO_0000594	Jiakang Chang	28/09/2018 12:00
+study_276	metabo_276	factor	Lobophora monticola	http://purl.obolibrary.org/obo/NCBITaxon_1638593	Jiakang Chang	28/09/2018 12:00
+study_277	metabo_277	factor	Lobophora obscura	http://purl.obolibrary.org/obo/NCBITaxon_1852700	Jiakang Chang	28/09/2018 12:00
+study_278	metabo_278	factor	Lobophora rosacea	http://purl.obolibrary.org/obo/NCBITaxon_1638598	Jiakang Chang	28/09/2018 12:00
+study_279	metabo_279	factor	Lolium perenne	http://purl.obolibrary.org/obo/NCBITaxon_4522	Zoe May Pendlington	01/10/2018 12:00
+study_280	metabo_280	factor	Lotus burttii	http://purl.obolibrary.org/obo/NCBITaxon_645164	Jiakang Chang	28/09/2018 12:00
+study_281	metabo_281	factor	Lotus corniculatus	http://purl.obolibrary.org/obo/NCBITaxon_47247	Zoe May Pendlington	01/10/2018 12:00
+study_282	metabo_282	factor	Lotus creticus	http://purl.obolibrary.org/obo/NCBITaxon_181267	Jiakang Chang	28/09/2018 12:00
+study_283	metabo_283	factor	Lotus filicaulis	http://purl.obolibrary.org/obo/NCBITaxon_264956	Zoe May Pendlington	01/10/2018 12:00
+study_284	metabo_284	factor	Lotus japonicus	http://purl.obolibrary.org/obo/NCBITaxon_34305	Zoe May Pendlington	01/10/2018 12:00
+study_285	metabo_285	factor	Lotus tenuis	http://purl.obolibrary.org/obo/NCBITaxon_347996	Jiakang Chang	28/09/2018 12:00
+study_286	metabo_286	factor	Lotus uliginosus	http://purl.obolibrary.org/obo/NCBITaxon_181288	Zoe May Pendlington	01/10/2018 12:00
+study_287	metabo_287	factor	lung	http://purl.obolibrary.org/obo/UBERON_0002048	Zoe May Pendlington	01/10/2018 12:00
+study_288	metabo_288	factor	lung fibroblast cell line	http://www.ebi.ac.uk/efo/EFO_0005742	Zoe May Pendlington	01/10/2018 12:00
+study_289	metabo_289	factor	Lysiphlebia japonica	http://purl.obolibrary.org/obo/NCBITaxon_104022	Jiakang Chang	28/09/2018 12:00
+study_290	metabo_290	factor	Macaca mulatta	http://purl.obolibrary.org/obo/NCBITaxon_9544	Zoe May Pendlington	01/10/2018 12:00
+study_291	metabo_291	factor	Macleaya cordata	http://purl.obolibrary.org/obo/NCBITaxon_56857	Jiakang Chang	28/09/2018 12:00
+study_292	metabo_292	factor	Macrobrachium nipponense	http://purl.obolibrary.org/obo/NCBITaxon_159736	Jiakang Chang	28/09/2018 12:00
+study_293	metabo_293	factor	macrophage	http://purl.obolibrary.org/obo/CL_0000235	Zoe May Pendlington	01/10/2018 12:00
+study_294	metabo_294	factor	Malus domestica	http://purl.obolibrary.org/obo/NCBITaxon_3750	Zoe May Pendlington	01/10/2018 12:00
+study_295	metabo_295	factor	Manihot esculenta	http://purl.obolibrary.org/obo/NCBITaxon_3983	Zoe May Pendlington	01/10/2018 12:00
+study_296	metabo_296	factor	Marchantia polymorpha	http://purl.obolibrary.org/obo/NCBITaxon_3197	Jiakang Chang	28/09/2018 12:00
+study_297	metabo_297	factor	Marchantia polymorpha s. l.	http://purl.obolibrary.org/obo/NCBITaxon_3197	Jiakang Chang	28/09/2018 12:00
+study_298	metabo_298	factor	Marseniopsis mollis	http://purl.obolibrary.org/obo/NCBITaxon_696346	Jiakang Chang	28/09/2018 12:00
+study_299	metabo_299	factor	Matricaria chamomilla	http://purl.obolibrary.org/obo/NCBITaxon_98504	Jiakang Chang	28/09/2018 12:00
+study_300	metabo_300	factor	matrix	http://www.ebi.ac.uk/efo/EFO_0008466	Zoe May Pendlington	01/10/2018 12:00
+study_301	metabo_301	factor	MCF-10A cell	http://www.ebi.ac.uk/efo/EFO_0001200	Zoe May Pendlington	01/10/2018 12:00
+study_302	metabo_302	factor	MCF-7 cell	http://www.ebi.ac.uk/efo/EFO_0001203	Zoe May Pendlington	01/10/2018 12:00
+study_303	metabo_303	factor	MDA-MB-231 cell	http://www.ebi.ac.uk/efo/EFO_0001209	Zoe May Pendlington	01/10/2018 12:00
+study_304	metabo_304	factor	media	http://www.ebi.ac.uk/efo/EFO_0000579	Zoe May Pendlington	01/10/2018 12:00
+study_305	metabo_305	factor	Medicago sativa	http://purl.obolibrary.org/obo/NCBITaxon_3879	Zoe May Pendlington	01/10/2018 12:00
+study_306	metabo_306	factor	Medium	http://purl.obolibrary.org/obo/NCIT_C48164	Jiakang Chang	28/09/2018 12:00
+study_307	metabo_307	factor	Melilotus officinalis	http://purl.obolibrary.org/obo/NCBITaxon_47083	Jiakang Chang	28/09/2018 12:00
+study_308	metabo_308	factor	Mentha x piperita	http://purl.obolibrary.org/obo/NCBITaxon_34256	Jiakang Chang	28/09/2018 12:00
+study_309	metabo_309	factor	mesocarp	http://purl.obolibrary.org/obo/BTO_0000856	Jiakang Chang	28/09/2018 12:00
+study_310	metabo_310	factor	metabolite	http://www.ebi.ac.uk/efo/EFO_0004727	Zoe May Pendlington	01/10/2018 12:00
+study_311	metabo_311	factor	Meyerozyma guilliermondii	http://purl.obolibrary.org/obo/NCBITaxon_4929	Jiakang Chang	28/09/2018 12:00
+study_312	metabo_312	factor	Mice	http://purl.obolibrary.org/obo/NCBITaxon_10088	Zoe May Pendlington	01/10/2018 12:00
+study_313	metabo_313	factor	microbial mat	http://purl.obolibrary.org/obo/ENVO_01000008	Jiakang Chang	28/09/2018 12:00
+study_314	metabo_314	factor	Microbiota	http://purl.obolibrary.org/obo/NCBITaxon_408170	Zoe May Pendlington	01/10/2018 12:00
+study_315	metabo_315	factor	Micrococcus luteus	http://purl.obolibrary.org/obo/NCBITaxon_1270	Zoe May Pendlington	01/10/2018 12:00
+study_316	metabo_316	factor	Micromonas pusilla	http://purl.obolibrary.org/obo/NCBITaxon_38833	Jiakang Chang	28/09/2018 12:00
+study_317	metabo_317	factor	midgut	http://purl.obolibrary.org/obo/UBERON_0001045	Zoe May Pendlington	01/10/2018 12:00
+study_318	metabo_318	factor	milk	http://purl.obolibrary.org/obo/BTO_0000868	Jiakang Chang	28/09/2018 12:00
+study_319	metabo_319	factor	minced meat	http://purl.obolibrary.org/obo/FOODON_03315526	Jiakang Chang	28/09/2018 12:00
+study_320	metabo_320	factor	Mix	http://purl.obolibrary.org/obo/NCIT_C64925	Jiakang Chang	28/09/2018 12:00
+study_321	metabo_321	factor	mixture	http://purl.obolibrary.org/obo/NCIT_C45305	Jiakang Chang	28/09/2018 12:00
+study_322	metabo_322	factor	Momordica charantia	http://purl.obolibrary.org/obo/NCBITaxon_3673	Jiakang Chang	28/09/2018 12:00
+study_323	metabo_323	factor	monocyte	http://purl.obolibrary.org/obo/CL_0000576	Zoe May Pendlington	01/10/2018 12:00
+study_324	metabo_324	factor	Montipora	http://purl.obolibrary.org/obo/NCBITaxon_46703	Jiakang Chang	28/09/2018 12:00
+study_325	metabo_325	factor	Montipora aequituberculata	http://purl.obolibrary.org/obo/NCBITaxon_105609	Jiakang Chang	28/09/2018 12:00
+study_326	metabo_326	factor	Mouse	http://purl.obolibrary.org/obo/NCBITaxon_10088	Zoe May Pendlington	01/10/2018 12:00
+study_327	metabo_327	factor	Mouse	http://purl.obolibrary.org/obo/NCBITaxon_10090	Zoe May Pendlington	01/10/2018 12:00
+study_328	metabo_328	factor	Mouse Kidney	http://purl.obolibrary.org/obo/NCIT_C22730	Jiakang Chang	28/09/2018 12:00
+study_329	metabo_329	factor	Mus	http://purl.obolibrary.org/obo/NCBITaxon_10088	Zoe May Pendlington	01/10/2018 12:00
+study_330	metabo_330	factor	Mus musculus	http://purl.obolibrary.org/obo/NCBITaxon_10090	Zoe May Pendlington	01/10/2018 12:00
+study_331	metabo_331	factor	muscle	http://purl.obolibrary.org/obo/UBERON_0002385	Zoe May Pendlington	01/10/2018 12:00
+study_332	metabo_332	factor	Mustela putorius	http://purl.obolibrary.org/obo/NCBITaxon_9668	Jiakang Chang	28/09/2018 12:00
+study_333	metabo_333	factor	mycelium	http://purl.obolibrary.org/obo/BTO_0001436	Zoe May Pendlington	01/10/2018 12:00
+study_334	metabo_334	factor	Mycobacterium bovis	http://purl.obolibrary.org/obo/NCBITaxon_1765	Zoe May Pendlington	01/10/2018 12:00
+study_335	metabo_335	factor	Mycobacterium tuberculosis	http://purl.obolibrary.org/obo/NCBITaxon_1773	Zoe May Pendlington	01/10/2018 12:00
+study_336	metabo_336	factor	Mycoplasma bovis	http://purl.obolibrary.org/obo/NCBITaxon_28903	Jiakang Chang	28/09/2018 12:00
+study_337	metabo_337	factor	Mycoplasma gallisepticum	http://purl.obolibrary.org/obo/NCBITaxon_2096	Zoe May Pendlington	01/10/2018 12:00
+study_338	metabo_338	factor	NCBITAXON:Bos taurus	http://purl.obolibrary.org/obo/NCBITaxon_9913	Zoe May Pendlington	01/10/2018 12:00
+study_339	metabo_339	factor	NCBITAXON:Macaca mulatta	http://purl.obolibrary.org/obo/NCBITaxon_9544	Zoe May Pendlington	01/10/2018 12:00
+study_340	metabo_340	factor	NCBITAXON:Sus scrofa	http://purl.obolibrary.org/obo/NCBITaxon_9823	Zoe May Pendlington	01/10/2018 12:00
+study_341	metabo_341	factor	Nepenthes ampullaria	http://purl.obolibrary.org/obo/NCBITaxon_150949	Jiakang Chang	28/09/2018 12:00
+study_342	metabo_342	factor	Nepenthes rafflesiana	http://purl.obolibrary.org/obo/NCBITaxon_150990	Jiakang Chang	28/09/2018 12:00
+study_343	metabo_343	factor	Nepenthes x hookeriana	http://purl.obolibrary.org/obo/NCBITaxon_1610511	Jiakang Chang	28/09/2018 12:00
+study_344	metabo_344	factor	neutrophil	http://purl.obolibrary.org/obo/CL_0000775	Zoe May Pendlington	01/10/2018 12:00
+study_345	metabo_345	factor	Nicotiana attenuata	http://purl.obolibrary.org/obo/NCBITaxon_49451	Zoe May Pendlington	01/10/2018 12:00
+study_346	metabo_346	factor	Nicotiana tabacum	http://purl.obolibrary.org/obo/NCBITaxon_4097	Zoe May Pendlington	01/10/2018 12:00
+study_347	metabo_347	factor	NIH-3T3 cell	http://purl.obolibrary.org/obo/BTO_0000944	Jiakang Chang	28/09/2018 12:00
+study_348	metabo_348	factor	not applicable	http://purl.obolibrary.org/obo/NCIT_C48660	Jiakang Chang	28/09/2018 12:00
+study_349	metabo_349	factor	odor	http://www.ebi.ac.uk/efo/EFO_0008386	Zoe May Pendlington	01/10/2018 12:00
+study_350	metabo_350	factor	Olea europaea	http://purl.obolibrary.org/obo/NCBITaxon_4146	Jiakang Chang	28/09/2018 12:00
+study_351	metabo_351	factor	Olive Oil	http://purl.obolibrary.org/obo/NCIT_C1175	Jiakang Chang	28/09/2018 12:00
+study_352	metabo_352	factor	Oplopanax elatus	http://purl.obolibrary.org/obo/NCBITaxon_228659	Jiakang Chang	28/09/2018 12:00
+study_353	metabo_353	factor	Origanum vulgare	http://purl.obolibrary.org/obo/NCBITaxon_39352	Jiakang Chang	28/09/2018 12:00
+study_354	metabo_354	factor	Oryctolagus cuniculus	http://purl.obolibrary.org/obo/NCBITaxon_9986	Zoe May Pendlington	01/10/2018 12:00
+study_355	metabo_355	factor	Oryza sativa	http://purl.obolibrary.org/obo/NCBITaxon_4530	Zoe May Pendlington	01/10/2018 12:00
+study_356	metabo_356	factor	ovarian serous adenocarcinoma cell line	http://www.ebi.ac.uk/efo/EFO_0002917	Zoe May Pendlington	01/10/2018 12:00
+study_357	metabo_357	factor	Ovis aries	http://purl.obolibrary.org/obo/NCBITaxon_9940	Zoe May Pendlington	01/10/2018 12:00
+study_358	metabo_358	factor	Panax ginseng	http://purl.obolibrary.org/obo/NCBITaxon_4054	Zoe May Pendlington	01/10/2018 12:00
+study_359	metabo_359	factor	Papio anubis	http://purl.obolibrary.org/obo/NCBITaxon_9555	Zoe May Pendlington	01/10/2018 12:00
+study_360	metabo_360	factor	Papio hamadryas	http://purl.obolibrary.org/obo/NCBITaxon_9557	Zoe May Pendlington	01/10/2018 12:00
+study_361	metabo_361	factor	Paraceradocus miersii	http://purl.obolibrary.org/obo/NCBITaxon_1811419	Jiakang Chang	28/09/2018 12:00
+study_362	metabo_362	factor	Parachlorella	http://purl.obolibrary.org/obo/NCBITaxon_247501	Jiakang Chang	28/09/2018 12:00
+study_363	metabo_363	factor	PBS	http://www.ebi.ac.uk/efo/EFO_0001461	Zoe May Pendlington	01/10/2018 12:00
+study_364	metabo_364	factor	PBS buffer	http://purl.obolibrary.org/obo/CHMO_0001751	Jiakang Chang	28/09/2018 12:00
+study_365	metabo_365	factor	pericarp	http://purl.obolibrary.org/obo/PO_0009084	Zoe May Pendlington	01/10/2018 12:00
+study_366	metabo_366	factor	peritoneal macrophage	http://purl.obolibrary.org/obo/CL_0000581	Zoe May Pendlington	01/10/2018 12:00
+study_367	metabo_367	factor	Petroselinum crispum	http://purl.obolibrary.org/obo/NCBITaxon_4043	Jiakang Chang	28/09/2018 12:00
+study_368	metabo_368	factor	Phaeodactylum tricornutum 1	http://purl.obolibrary.org/obo/NCBITaxon_2850	Zoe May Pendlington	01/10/2018 12:00
+study_369	metabo_369	factor	Phaeodactylum tricornutum 11	http://purl.obolibrary.org/obo/NCBITaxon_2850	Jiakang Chang	28/09/2018 12:00
+study_370	metabo_370	factor	Phaeodactylum tricornutum 2	http://purl.obolibrary.org/obo/NCBITaxon_2850	Jiakang Chang	28/09/2018 12:00
+study_371	metabo_371	factor	Phleum pratense	http://purl.obolibrary.org/obo/NCBITaxon_15957	Jiakang Chang	28/09/2018 12:00
+study_372	metabo_372	factor	Phoenix dactylifera	http://purl.obolibrary.org/obo/NCBITaxon_42345	Jiakang Chang	28/09/2018 12:00
+study_373	metabo_373	factor	phosphate buffered saline	http://www.bioassayontology.org/bao#BAO_0000012	Jiakang Chang	28/09/2018 12:00
+study_374	metabo_374	factor	Photinus pyralis	http://purl.obolibrary.org/obo/NCBITaxon_7054	Jiakang Chang	28/09/2018 12:00
+study_375	metabo_375	factor	Phyllanthus niruri	http://purl.obolibrary.org/obo/NCBITaxon_296034	Jiakang Chang	28/09/2018 12:00
+study_376	metabo_376	factor	Pichia kudriavzevii	http://purl.obolibrary.org/obo/NCBITaxon_4909	Jiakang Chang	28/09/2018 12:00
+study_377	metabo_377	factor	Pimpinella anisum	http://purl.obolibrary.org/obo/NCBITaxon_271192	Jiakang Chang	28/09/2018 12:00
+study_378	metabo_378	factor	Pimpinella saxifraga	http://purl.obolibrary.org/obo/NCBITaxon_40959	Jiakang Chang	28/09/2018 12:00
+study_379	metabo_379	factor	Pinus sylvestris	http://purl.obolibrary.org/obo/NCBITaxon_3349	Zoe May Pendlington	01/10/2018 12:00
+study_380	metabo_380	factor	Plagiomnium undulatum	http://purl.obolibrary.org/obo/NCBITaxon_95766	Jiakang Chang	28/09/2018 12:00
+study_381	metabo_381	factor	Plantago lanceolata	http://purl.obolibrary.org/obo/NCBITaxon_39414	Jiakang Chang	28/09/2018 12:00
+study_382	metabo_382	factor	Plantago major	http://purl.obolibrary.org/obo/NCBITaxon_29818	Jiakang Chang	28/09/2018 12:00
+study_383	metabo_383	factor	plasma	http://purl.obolibrary.org/obo/UBERON_0001969	Zoe May Pendlington	01/10/2018 12:00
+study_384	metabo_384	factor	Plasmodium coatneyi	http://purl.obolibrary.org/obo/NCBITaxon_208452	Jiakang Chang	28/09/2018 12:00
+study_385	metabo_385	factor	"Plasmodium coatneyi,Homo sapiens"	http://purl.obolibrary.org/obo/NCBITaxon_208452	Jiakang Chang	28/09/2018 12:00
+study_386	metabo_386	factor	Plasmodium cynomolgi	http://purl.obolibrary.org/obo/NCBITaxon_5827	Jiakang Chang	28/09/2018 12:00
+study_387	metabo_387	factor	Plasmodium falciparum	http://purl.obolibrary.org/obo/NCBITaxon_5833	Zoe May Pendlington	01/10/2018 12:00
+study_388	metabo_388	factor	Plasmodium knowlesi	http://purl.obolibrary.org/obo/NCBITaxon_5850	Zoe May Pendlington	01/10/2018 12:00
+study_389	metabo_389	factor	Plasmodium vivax	http://purl.obolibrary.org/obo/NCBITaxon_5855	Zoe May Pendlington	01/10/2018 12:00
+study_390	metabo_390	factor	Platycodon grandiflorum	http://purl.obolibrary.org/obo/NCBITaxon_94286	Jiakang Chang	28/09/2018 12:00
+study_391	metabo_391	factor	Platycodon grandiflorus	http://purl.obolibrary.org/obo/NCBITaxon_94286	Jiakang Chang	28/09/2018 12:00
+study_392	metabo_392	factor	pluripotent stem cell-derived cardiomyocyte	http://www.ebi.ac.uk/efo/EFO_0004905	Zoe May Pendlington	01/10/2018 12:00
+study_393	metabo_393	factor	Poa pratensis	http://purl.obolibrary.org/obo/NCBITaxon_4545	Jiakang Chang	28/09/2018 12:00
+study_394	metabo_394	factor	Pocillopora acuta	http://purl.obolibrary.org/obo/NCBITaxon_1491507	Jiakang Chang	28/09/2018 12:00
+study_395	metabo_395	factor	Pocillopora damicornis	http://purl.obolibrary.org/obo/NCBITaxon_46731	Jiakang Chang	28/09/2018 12:00
+study_396	metabo_396	factor	Pocillopora meandrina	http://purl.obolibrary.org/obo/NCBITaxon_46732	Jiakang Chang	28/09/2018 12:00
+study_397	metabo_397	factor	Polemonium caeruleum	http://purl.obolibrary.org/obo/NCBITaxon_174663	Jiakang Chang	28/09/2018 12:00
+study_398	metabo_398	factor	Polytrichum strictum	http://purl.obolibrary.org/obo/NCBITaxon_129214	Jiakang Chang	28/09/2018 12:00
+study_399	metabo_399	factor	Populus balsamifera	http://purl.obolibrary.org/obo/NCBITaxon_73824	Zoe May Pendlington	01/10/2018 12:00
+study_400	metabo_400	factor	Populus deltoides	http://purl.obolibrary.org/obo/NCBITaxon_3696	Zoe May Pendlington	01/10/2018 12:00
+study_401	metabo_401	factor	Populus tremula	http://purl.obolibrary.org/obo/NCBITaxon_113636	Zoe May Pendlington	01/10/2018 12:00
+study_402	metabo_402	factor	Populus tremula x Populus alba	http://purl.obolibrary.org/obo/NCBITaxon_80863	Jiakang Chang	28/09/2018 12:00
+study_403	metabo_403	factor	Populus tremula x Populus tremuloides	http://purl.obolibrary.org/obo/NCBITaxon_47664	Zoe May Pendlington	01/10/2018 12:00
+study_404	metabo_404	factor	Populus tremuloides	http://purl.obolibrary.org/obo/NCBITaxon_3693	Zoe May Pendlington	01/10/2018 12:00
+study_405	metabo_405	factor	Porites	http://purl.obolibrary.org/obo/NCBITaxon_46719	Jiakang Chang	28/09/2018 12:00
+study_406	metabo_406	factor	Porites compressa	http://purl.obolibrary.org/obo/NCBITaxon_46720	Jiakang Chang	28/09/2018 12:00
+study_407	metabo_407	factor	Porites lobata	http://purl.obolibrary.org/obo/NCBITaxon_104759	Jiakang Chang	28/09/2018 12:00
+study_408	metabo_408	factor	Porites rus	http://purl.obolibrary.org/obo/NCBITaxon_262591	Jiakang Chang	28/09/2018 12:00
+study_409	metabo_409	factor	Potentilla erecta	http://purl.obolibrary.org/obo/NCBITaxon_57940	Jiakang Chang	28/09/2018 12:00
+study_410	metabo_410	factor	pre-B-lymphocyte	http://purl.obolibrary.org/obo/BTO_0001133	Jiakang Chang	28/09/2018 12:00
+study_411	metabo_411	factor	primary root	http://purl.obolibrary.org/obo/PO_0020127	Zoe May Pendlington	01/10/2018 12:00
+study_412	metabo_412	factor	Pristionchus pacificus	http://purl.obolibrary.org/obo/NCBITaxon_54126	Zoe May Pendlington	01/10/2018 12:00
+study_413	metabo_413	factor	Prochlorococcus	http://purl.obolibrary.org/obo/NCBITaxon_1218	Jiakang Chang	28/09/2018 12:00
+study_414	metabo_414	factor	Prunus padus	http://purl.obolibrary.org/obo/NCBITaxon_97307	Jiakang Chang	28/09/2018 12:00
+study_415	metabo_415	factor	Pseudo-nitzschia arenysensis CM63	http://purl.obolibrary.org/obo/NCBITaxon_697910	Jiakang Chang	28/09/2018 12:00
+study_416	metabo_416	factor	Pseudo-nitzschia multistriata PmF3.7	http://purl.obolibrary.org/obo/NCBITaxon_697910	Jiakang Chang	28/09/2018 12:00
+study_417	metabo_417	factor	Pseudomonas	http://purl.obolibrary.org/obo/NCBITaxon_286	Zoe May Pendlington	01/10/2018 12:00
+study_418	metabo_418	factor	Pseudomonas aeruginosa	http://purl.obolibrary.org/obo/NCBITaxon_287	Zoe May Pendlington	01/10/2018 12:00
+study_419	metabo_419	factor	Pseudomonas fluorescens	http://purl.obolibrary.org/obo/NCBITaxon_294	Zoe May Pendlington	01/10/2018 12:00
+study_420	metabo_420	factor	Pseudomonas putida	http://purl.obolibrary.org/obo/NCBITaxon_303	Zoe May Pendlington	01/10/2018 12:00
+study_421	metabo_421	factor	Pseudomonas syringae	http://purl.obolibrary.org/obo/NCBITaxon_317	Jiakang Chang	28/09/2018 12:00
+study_422	metabo_422	factor	Pseudostellaria heterophylla	http://purl.obolibrary.org/obo/NCBITaxon_418402	Jiakang Chang	28/09/2018 12:00
+study_423	metabo_423	factor	pure substance	http://purl.obolibrary.org/obo/CHEBI_60003	Jiakang Chang	28/09/2018 12:00
+study_424	metabo_424	factor	Rabbit	http://purl.obolibrary.org/obo/NCBITaxon_9986	Zoe May Pendlington	01/10/2018 12:00
+study_425	metabo_425	factor	Ranunculus acris	http://purl.obolibrary.org/obo/NCBITaxon_3447	Jiakang Chang	28/09/2018 12:00
+study_426	metabo_426	factor	Rattus	http://purl.obolibrary.org/obo/NCBITaxon_10114	Zoe May Pendlington	01/10/2018 12:00
+study_427	metabo_427	factor	Rattus andamanensis	http://purl.obolibrary.org/obo/NCBITaxon_69077	Jiakang Chang	28/09/2018 12:00
+study_428	metabo_428	factor	Rattus norvegicus	http://purl.obolibrary.org/obo/NCBITaxon_10116	Zoe May Pendlington	01/10/2018 12:00
+study_429	metabo_429	factor	Rattus rattus	http://purl.obolibrary.org/obo/NCBITaxon_10117	Zoe May Pendlington	01/10/2018 12:00
+study_430	metabo_430	factor	RAW-264.7 cell	http://purl.obolibrary.org/obo/BTO_0003292	Jiakang Chang	28/09/2018 12:00
+study_431	metabo_431	factor	Recombinant Protein	http://purl.obolibrary.org/obo/NCIT_C17081	Jiakang Chang	28/09/2018 12:00
+study_432	metabo_432	factor	Reference	http://www.ebi.ac.uk/efo/EFO_0001461	Zoe May Pendlington	01/10/2018 12:00
+study_433	metabo_433	factor	Reference compound	http://www.bioassayontology.org/bao#BAO_0002092	Jiakang Chang	28/09/2018 12:00
+study_434	metabo_434	factor	renal epithelial cell	http://purl.obolibrary.org/obo/BTO_0005545	Jiakang Chang	28/09/2018 12:00
+study_435	metabo_435	factor	renal proximal tubule	http://purl.obolibrary.org/obo/BTO_0001498	Jiakang Chang	28/09/2018 12:00
+study_436	metabo_436	factor	renal tubule	http://purl.obolibrary.org/obo/UBERON_0001231	Zoe May Pendlington	01/10/2018 12:00
+study_437	metabo_437	factor	Rhamnus cathartica	http://purl.obolibrary.org/obo/NCBITaxon_3610	Jiakang Chang	28/09/2018 12:00
+study_438	metabo_438	factor	Rhodiola rosea	http://purl.obolibrary.org/obo/NCBITaxon_203015	Jiakang Chang	28/09/2018 12:00
+study_439	metabo_439	factor	Rhopalosiphum padi	http://purl.obolibrary.org/obo/NCBITaxon_40932	Jiakang Chang	28/09/2018 12:00
+study_440	metabo_440	factor	Rhytidiadelphus squarrosus	http://purl.obolibrary.org/obo/NCBITaxon_53008	Jiakang Chang	28/09/2018 12:00
+study_441	metabo_441	factor	right ventricle	http://purl.obolibrary.org/obo/UBERON_0002080	Zoe May Pendlington	01/10/2018 12:00
+study_442	metabo_442	factor	root	http://www.ebi.ac.uk/efo/EFO_0000989	Zoe May Pendlington	01/10/2018 12:00
+study_443	metabo_443	factor	Rosa majalis	http://purl.obolibrary.org/obo/NCBITaxon_57935	Jiakang Chang	28/09/2018 12:00
+study_444	metabo_444	factor	Roseiflexus	http://purl.obolibrary.org/obo/NCBITaxon_120961	Jiakang Chang	28/09/2018 12:00
+study_445	metabo_445	factor	Roseiflexus spp.	http://purl.obolibrary.org/obo/NCBITaxon_120961	Jiakang Chang	28/09/2018 12:00
+study_446	metabo_446	factor	rosette	http://purl.obolibrary.org/obo/PO_0025615	Zoe May Pendlington	01/10/2018 12:00
+study_447	metabo_447	factor	rosette leaf	http://purl.obolibrary.org/obo/PO_0000014	Zoe May Pendlington	01/10/2018 12:00
+study_448	metabo_448	factor	Rubus idaeus	http://purl.obolibrary.org/obo/NCBITaxon_32247	Zoe May Pendlington	01/10/2018 12:00
+study_449	metabo_449	factor	Ruegeria pomeroyi	http://purl.obolibrary.org/obo/NCBITaxon_89184	Zoe May Pendlington	01/10/2018 12:00
+study_450	metabo_450	factor	Saccharomyces cerevisiae	http://purl.obolibrary.org/obo/NCBITaxon_4932	Zoe May Pendlington	01/10/2018 12:00
+study_451	metabo_451	factor	Sake	http://purl.obolibrary.org/obo/NCIT_C66825	Jiakang Chang	28/09/2018 12:00
+study_452	metabo_452	factor	saliva	http://purl.obolibrary.org/obo/BTO_0001202	Zoe May Pendlington	01/10/2018 12:00
+study_453	metabo_453	factor	Salmonella enterica	http://purl.obolibrary.org/obo/NCBITaxon_28901	Jiakang Chang	28/09/2018 12:00
+study_454	metabo_454	factor	Salvia officinalis	http://purl.obolibrary.org/obo/NCBITaxon_38868	Jiakang Chang	28/09/2018 12:00
+study_455	metabo_455	factor	Sambucus nigra	http://purl.obolibrary.org/obo/NCBITaxon_4202	Jiakang Chang	28/09/2018 12:00
+study_456	metabo_456	factor	Schizosaccharomyces pombe	http://purl.obolibrary.org/obo/NCBITaxon_4896	Zoe May Pendlington	01/10/2018 12:00
+study_457	metabo_457	factor	Schizosaccharomyces pombe 972h-	http://purl.obolibrary.org/obo/NCBITaxon_284812	Zoe May Pendlington	01/10/2018 12:00
+study_458	metabo_458	factor	sea water	http://purl.obolibrary.org/obo/CHEBI_15377	Zoe May Pendlington	01/10/2018 12:00
+study_459	metabo_459	factor	seed	http://www.ebi.ac.uk/efo/EFO_0000991	Zoe May Pendlington	01/10/2018 12:00
+study_460	metabo_460	factor	seedling	http://purl.obolibrary.org/obo/PO_0007131	Zoe May Pendlington	01/10/2018 12:00
+study_461	metabo_461	factor	semen	http://purl.obolibrary.org/obo/CL_0000019	Zoe May Pendlington	01/10/2018 12:00
+study_462	metabo_462	factor	seminal plasma	http://purl.obolibrary.org/obo/BTO_0001232	Jiakang Chang	28/09/2018 12:00
+study_463	metabo_463	factor	Seminavis robusta 85A	http://purl.obolibrary.org/obo/NCBITaxon_568900	Jiakang Chang	28/09/2018 12:00
+study_464	metabo_464	factor	Seminavis robusta 85A noSex	http://purl.obolibrary.org/obo/NCBITaxon_568900	Jiakang Chang	28/09/2018 12:00
+study_465	metabo_465	factor	Seminavis robusta 85A Sex	http://purl.obolibrary.org/obo/NCBITaxon_568900	Jiakang Chang	28/09/2018 12:00
+study_466	metabo_466	factor	Seminavis robusta 85B	http://purl.obolibrary.org/obo/NCBITaxon_568900	Jiakang Chang	28/09/2018 12:00
+study_467	metabo_467	factor	Seminavis robusta 85B noSex	http://purl.obolibrary.org/obo/NCBITaxon_568900	Jiakang Chang	28/09/2018 12:00
+study_468	metabo_468	factor	Seminavis robusta 85B Sex	http://purl.obolibrary.org/obo/NCBITaxon_568900	Jiakang Chang	28/09/2018 12:00
+study_469	metabo_469	factor	Senna alexandrina	http://purl.obolibrary.org/obo/NCBITaxon_72402	Jiakang Chang	28/09/2018 12:00
+study_470	metabo_470	factor	Seriatopora hystrix	http://purl.obolibrary.org/obo/NCBITaxon_51070	Jiakang Chang	28/09/2018 12:00
+study_471	metabo_471	factor	Serum	http://purl.obolibrary.org/obo/BTO_0000133	Zoe May Pendlington	01/10/2018 12:00
+study_472	metabo_472	factor	SH-SY5Y cell	http://www.ebi.ac.uk/efo/EFO_0002717	Zoe May Pendlington	01/10/2018 12:00
+study_473	metabo_473	factor	shoot system	http://purl.obolibrary.org/obo/PO_0009006	Zoe May Pendlington	01/10/2018 12:00
+study_474	metabo_474	factor	Silybum marianum	http://purl.obolibrary.org/obo/NCBITaxon_92921	Jiakang Chang	28/09/2018 12:00
+study_475	metabo_475	factor	Simulation experiment	http://edamontology.org/topic_3524	Jiakang Chang	28/09/2018 12:00
+study_476	metabo_476	factor	Sinorhizobium meliloti	http://purl.obolibrary.org/obo/NCBITaxon_382	Zoe May Pendlington	01/10/2018 12:00
+study_477	metabo_477	factor	SK-N-AS cell	http://www.ebi.ac.uk/efo/EFO_0002859	Zoe May Pendlington	01/10/2018 12:00
+study_478	metabo_478	factor	SK-N-BE(2) cell	http://purl.obolibrary.org/obo/BTO_0002696	Jiakang Chang	28/09/2018 12:00
+study_479	metabo_479	factor	skeletal muscle	http://purl.obolibrary.org/obo/UBERON_0001134	Zoe May Pendlington	01/10/2018 12:00
+study_480	metabo_480	factor	skeletal muscle organ	http://purl.obolibrary.org/obo/UBERON_0014892	Zoe May Pendlington	01/10/2018 12:00
+study_481	metabo_481	factor	Skeletonema marinoi	http://purl.obolibrary.org/obo/NCBITaxon_267567	Jiakang Chang	28/09/2018 12:00
+study_482	metabo_482	factor	skin fibroblast cell line	http://www.ebi.ac.uk/efo/EFO_0002009	Zoe May Pendlington	01/10/2018 12:00
+study_483	metabo_483	factor	soil biocrust	http://purl.obolibrary.org/obo/ENVO_01000910	Jiakang Chang	28/09/2018 12:00
+study_484	metabo_484	factor	Solanum habrochaites	http://purl.obolibrary.org/obo/NCBITaxon_62890	Jiakang Chang	28/09/2018 12:00
+study_485	metabo_485	factor	Solanum lycopersicum	http://purl.obolibrary.org/obo/NCBITaxon_4081	Zoe May Pendlington	01/10/2018 12:00
+study_486	metabo_486	factor	Solanum lycopersicum x Solanum pennellii	http://purl.obolibrary.org/obo/NCBITaxon_872925	Jiakang Chang	28/09/2018 12:00
+study_487	metabo_487	factor	solvent	http://purl.obolibrary.org/obo/NCIT_C45790	Jiakang Chang	28/09/2018 12:00
+study_488	metabo_488	factor	Sorghum bicolor	http://purl.obolibrary.org/obo/NCBITaxon_4558	Zoe May Pendlington	01/10/2018 12:00
+study_489	metabo_489	factor	soybean	http://purl.obolibrary.org/obo/NCIT_C72010	Jiakang Chang	28/09/2018 12:00
+study_490	metabo_490	factor	spermatophore/nuptial gift	http://purl.obolibrary.org/obo/CEPH_0000237	Jiakang Chang	28/09/2018 12:00
+study_491	metabo_491	factor	Spheciospongia vesparium	http://purl.obolibrary.org/obo/NCBITaxon_295237	Jiakang Chang	28/09/2018 12:00
+study_492	metabo_492	factor	spike	http://purl.obolibrary.org/obo/BTO_0001278	Jiakang Chang	28/09/2018 12:00
+study_493	metabo_493	factor	Spleen	http://purl.obolibrary.org/obo/UBERON_0002106	Zoe May Pendlington	01/10/2018 12:00
+study_494	metabo_494	factor	Stalk	http://purl.obolibrary.org/obo/NCIT_C62353	Jiakang Chang	28/09/2018 12:00
+study_495	metabo_495	factor	Standard	http://purl.obolibrary.org/obo/NCIT_C44275	Jiakang Chang	28/09/2018 12:00
+study_496	metabo_496	factor	standard mixture	http://purl.obolibrary.org/obo/CHEBI_60004	Jiakang Chang	28/09/2018 12:00
+study_497	metabo_497	factor	Staphylococcus aureus	http://purl.obolibrary.org/obo/NCBITaxon_1280	Zoe May Pendlington	01/10/2018 12:00
+study_498	metabo_498	factor	stationary phase culture	http://purl.obolibrary.org/obo/BTO_0001899	Zoe May Pendlington	01/10/2018 12:00
+study_499	metabo_499	factor	steam	http://purl.obolibrary.org/obo/OMIT_0014104	Jiakang Chang	28/09/2018 12:00
+study_500	metabo_500	factor	stem	http://purl.obolibrary.org/obo/PO_0009047	Zoe May Pendlington	01/10/2018 12:00
+study_501	metabo_501	factor	stem internode	http://purl.obolibrary.org/obo/PO_0020142	Zoe May Pendlington	01/10/2018 12:00
+study_502	metabo_502	factor	stigma	http://purl.obolibrary.org/obo/PO_0009073	Zoe May Pendlington	01/10/2018 12:00
+study_503	metabo_503	factor	Streptomyces coelicolor	http://purl.obolibrary.org/obo/NCBITaxon_1902	Zoe May Pendlington	01/10/2018 12:00
+study_504	metabo_504	factor	Streptomyces viridochromogenes	http://purl.obolibrary.org/obo/NCBITaxon_1938	Jiakang Chang	28/09/2018 12:00
+study_505	metabo_505	factor	study reference pool	http://purl.obolibrary.org/obo/NCIT_C93452	Jiakang Chang	28/09/2018 12:00
+study_506	metabo_506	factor	subcutaneous adipose tissue	http://purl.obolibrary.org/obo/UBERON_0002190	Zoe May Pendlington	01/10/2018 12:00
+study_507	metabo_507	factor	Sulfolobus acidocaldarius	http://purl.obolibrary.org/obo/NCBITaxon_2285	Zoe May Pendlington	01/10/2018 12:00
+study_508	metabo_508	factor	Suricata suricatta	http://purl.obolibrary.org/obo/VTO_0010852	Jiakang Chang	28/09/2018 12:00
+study_509	metabo_509	factor	Sus scrofa	http://purl.obolibrary.org/obo/NCBITaxon_9823	Zoe May Pendlington	01/10/2018 12:00
+study_510	metabo_510	factor	Sus scrofa domesticus	http://purl.obolibrary.org/obo/NCBITaxon_9823	Zoe May Pendlington	01/10/2018 12:00
+study_511	metabo_511	factor	Symbiodinium sp. ex Acropora aspera	http://purl.obolibrary.org/obo/NCBITaxon_280471	Jiakang Chang	28/09/2018 12:00
+study_512	metabo_512	factor	Synechococcus elongatus	http://purl.obolibrary.org/obo/NCBITaxon_32046	Zoe May Pendlington	01/10/2018 12:00
+study_513	metabo_513	factor	Synechococcus sp.	http://purl.obolibrary.org/obo/NCBITaxon_1131	Jiakang Chang	28/09/2018 12:00
+study_514	metabo_514	factor	Synechococcus spp.	http://purl.obolibrary.org/obo/NCBITaxon_1131	Jiakang Chang	28/09/2018 12:00
+study_515	metabo_515	factor	Synechocystis sp. PCC 6803	http://purl.obolibrary.org/obo/NCBITaxon_1148	Zoe May Pendlington	01/10/2018 12:00
+study_516	metabo_516	factor	synovia	http://purl.obolibrary.org/obo/BTO_0001339	Jiakang Chang	28/09/2018 12:00
+study_517	metabo_517	factor	Synthetic	http://purl.obolibrary.org/obo/MI_0794	Jiakang Chang	28/09/2018 12:00
+study_518	metabo_518	factor	Tanacetum vulgare	http://purl.obolibrary.org/obo/NCIT_C72449	Jiakang Chang	28/09/2018 12:00
+study_519	metabo_519	factor	Taraxacum officinale	http://purl.obolibrary.org/obo/NCBITaxon_50225	Zoe May Pendlington	01/10/2018 12:00
+study_520	metabo_520	factor	testis	http://purl.obolibrary.org/obo/UBERON_0000473	Zoe May Pendlington	01/10/2018 12:00
+study_521	metabo_521	factor	Thalassiosira pseudonana	http://purl.obolibrary.org/obo/NCBITaxon_35128	Zoe May Pendlington	01/10/2018 12:00
+study_522	metabo_522	factor	thorax	http://purl.obolibrary.org/obo/UBERON_0000915	Zoe May Pendlington	01/10/2018 12:00
+study_523	metabo_523	factor	THP-1 cell	http://www.ebi.ac.uk/efo/EFO_0001253	Zoe May Pendlington	01/10/2018 12:00
+study_524	metabo_524	factor	Thymus serpyllum	http://purl.obolibrary.org/obo/NCBITaxon_204219	Jiakang Chang	28/09/2018 12:00
+study_525	metabo_525	factor	Tilia cordata	http://purl.obolibrary.org/obo/NCBITaxon_172266	Jiakang Chang	28/09/2018 12:00
+study_526	metabo_526	factor	Tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Jiakang Chang	28/09/2018 12:00
+study_527	metabo_527	factor	Triticum aestivum	http://purl.obolibrary.org/obo/NCBITaxon_4565	Zoe May Pendlington	01/10/2018 12:00
+study_528	metabo_528	factor	Trypanosoma brucei	http://purl.obolibrary.org/obo/NCBITaxon_5691	Zoe May Pendlington	01/10/2018 12:00
+study_529	metabo_529	factor	Trypanosoma brucei brucei	http://purl.obolibrary.org/obo/NCBITaxon_5702	Zoe May Pendlington	01/10/2018 12:00
+study_530	metabo_530	factor	Tussilago farfara	http://purl.obolibrary.org/obo/NCBITaxon_118778	Jiakang Chang	28/09/2018 12:00
+study_531	metabo_531	factor	twig	http://purl.obolibrary.org/obo/NCIT_C79682	Jiakang Chang	28/09/2018 12:00
+study_532	metabo_532	factor	U2-OS cell	http://www.ebi.ac.uk/efo/EFO_0002869	Zoe May Pendlington	01/10/2018 12:00
+study_533	metabo_533	factor	U2-OS cell	http://purl.obolibrary.org/obo/BTO_0001938	Jiakang Chang	28/09/2018 12:00
+study_534	metabo_534	factor	unclassified Cyanobacteria	http://purl.obolibrary.org/obo/NCBITaxon_34079	Jiakang Chang	28/09/2018 12:00
+study_535	metabo_535	factor	urinary metabolite measurement	http://www.ebi.ac.uk/efo/EFO_0005116	Zoe May Pendlington	01/10/2018 12:00
+study_536	metabo_536	factor	Urine	http://purl.obolibrary.org/obo/UBERON_0001088	Zoe May Pendlington	01/10/2018 12:00
+study_537	metabo_537	factor	Urtica dioica	http://purl.obolibrary.org/obo/NCBITaxon_3501	Jiakang Chang	28/09/2018 12:00
+study_538	metabo_538	factor	Vaccinium myrtillus	http://purl.obolibrary.org/obo/NCBITaxon_180763	Jiakang Chang	28/09/2018 12:00
+study_539	metabo_539	factor	Valeriana officinalis	http://purl.obolibrary.org/obo/NCBITaxon_19953	Jiakang Chang	28/09/2018 12:00
+study_540	metabo_540	factor	vegetative shoot system	http://purl.obolibrary.org/obo/PO_0009006	Zoe May Pendlington	01/10/2018 12:00
+study_541	metabo_541	factor	vegetative shoot system	http://purl.obolibrary.org/obo/PO_0025607	Jiakang Chang	28/09/2018 12:00
+study_542	metabo_542	factor	Vero cells (kidney epithelial)	http://purl.obolibrary.org/obo/CLO_0009524	Jiakang Chang	28/09/2018 12:00
+study_543	metabo_543	factor	Viburnum opulus	http://purl.obolibrary.org/obo/NCBITaxon_85293	Jiakang Chang	28/09/2018 12:00
+study_544	metabo_544	factor	Viola tricolor	http://purl.obolibrary.org/obo/NCBITaxon_214053	Jiakang Chang	28/09/2018 12:00
+study_545	metabo_545	factor	Vitis	http://purl.obolibrary.org/obo/NCBITaxon_3603	Jiakang Chang	28/09/2018 12:00
+study_546	metabo_546	factor	Vitis vinifera	http://purl.obolibrary.org/obo/NCBITaxon_29760	Zoe May Pendlington	01/10/2018 12:00
+study_547	metabo_547	factor	water	http://purl.obolibrary.org/obo/CHEBI_15377	Zoe May Pendlington	01/10/2018 12:00
+study_548	metabo_548	factor	wax ester	http://purl.obolibrary.org/obo/CHEBI_10036	Jiakang Chang	28/09/2018 12:00
+study_549	metabo_549	factor	white adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001347	Zoe May Pendlington	01/10/2018 12:00
+study_550	metabo_550	factor	whole	http://purl.obolibrary.org/obo/NCIT_C25326	Jiakang Chang	28/09/2018 12:00
+study_551	metabo_551	factor	Whole body	http://purl.obolibrary.org/obo/BTO_0001489	Jiakang Chang	28/09/2018 12:00
+study_552	metabo_552	factor	whole cell	http://purl.obolibrary.org/obo/GO_0005623	Zoe May Pendlington	01/10/2018 12:00
+study_553	metabo_553	factor	whole organism	http://purl.obolibrary.org/obo/UBERON_0000468	Zoe May Pendlington	01/10/2018 12:00
+study_554	metabo_554	factor	whole plant	http://purl.obolibrary.org/obo/UBERON_0000468	Zoe May Pendlington	01/10/2018 12:00
+study_555	metabo_555	factor	Wine	http://purl.obolibrary.org/obo/NCIT_C66822	Jiakang Chang	28/09/2018 12:00
+study_556	metabo_556	factor	Wolffia	http://purl.obolibrary.org/obo/NCBITaxon_161109	Jiakang Chang	28/09/2018 12:00
+study_557	metabo_557	factor	Xenopus laevis	http://purl.obolibrary.org/obo/NCBITaxon_8355	Zoe May Pendlington	01/10/2018 12:00
+study_558	metabo_558	factor	xylem	http://purl.obolibrary.org/obo/PO_0005352	Zoe May Pendlington	01/10/2018 12:00
+study_559	metabo_559	factor	Yoldia eightsi	http://purl.obolibrary.org/obo/NCBITaxon_1608987	Jiakang Chang	28/09/2018 12:00
+study_560	metabo_560	factor	Zea mays	http://purl.obolibrary.org/obo/NCBITaxon_4577	Zoe May Pendlington	01/10/2018 12:00
+study_561	metabo_561	factor	Zea mays subsp. mays	http://purl.obolibrary.org/obo/NCBITaxon_381124	Zoe May Pendlington	01/10/2018 12:00
