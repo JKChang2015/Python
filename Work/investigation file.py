@@ -42,8 +42,11 @@ studyIDs.sort(key=natural_keys)
 
 res = []
 
-
+print(len(studyIDs))
+c = 0
 for studyID in studyIDs:  # for each study
+    c = c + 1
+
 
     u = 'http://www.ebi.ac.uk/metabolights/' + studyID + '/files/i_Investigation.txt?token=15fef9e0-9187-4c8a-857d-93d8e7df53d0'
     url = urllib.request.urlopen(u)
@@ -57,16 +60,16 @@ for studyID in studyIDs:  # for each study
                             text = text + line.decode()
 
     lines = text.split('\n')
-    term,iri = '',''
+    terms,iris = [],[]
 
     for line in lines:
         if line.startswith('Study Assay Technology Type	'):
-            term = list(set(re.findall(r'"([^"]*)"', line)))
+            terms = list(set(re.findall(r'"([^"]*)"', line)))
         if line.startswith('Study Assay Technology Type Term Accession Number'):
-            iri = list(set(re.findall(r'"([^"]*)"', line)))
+            iris = list(set(re.findall(r'"([^"]*)"', line)))
 
-    for term, iri in zip(term, iri):
-        print(studyID,term,iri)
+    for term, iri in zip(terms, iris):
+        print(c,studyID,term,iri)
         enti = entity(studyID, term, iri)
         res.append(enti)
 
