@@ -7,11 +7,15 @@
 
 import json
 import re
+import traceback
 import urllib.request
 from io import BytesIO
 from zipfile import ZipFile
 
 import pandas as pd
+import psycopg2
+
+import config
 
 
 class factor():
@@ -24,7 +28,7 @@ class factor():
 
 url = 'https://www.ebi.ac.uk/metabolights/webservice/study/list'
 request = urllib.request.Request(url)
-request.add_header('user_token', 'b6cb38b7-8504-43bf-9281-a0c68fc06263')
+request.add_header('user_token', config.Token)
 response = urllib.request.urlopen(request)
 content = response.read().decode('utf-8')
 j_content = json.loads(content)
@@ -43,10 +47,51 @@ studyIDs.sort(key=natural_keys)
 
 res = []
 
+def get_study_status():
+    query_user_access_rights = """
+     select case when status = 0 then 'Submitted' when status = 1 then 'In Curation' when status = 2 then 'In Review' 
+             when status = 3 then 'Public' else 'Dormant' end as status, 
+        acc from studies;
+    """
+    token = config.Token
+
+    def execute_query(query, user_token, study_id=None):
+        try:
+            params = config.DB_PARAMS
+            conn = psycopg2.connect(**params)
+            cursor = conn.cursor()
+            query = query.replace('\\', '')
+            if study_id is None:
+                cursor.execute(query, [user_token])
+            else:
+                query2 = query_user_access_rights.replace("#user_token#", user_token)
+                query2 = query2.replace("#study_id#", study_id)
+                cursor.execute(query2)
+            data = cursor.fetchall()
+            conn.close()
+
+            return data
+
+        except psycopg2.Error as e:
+            print("Unable to connect to the database")
+            print(e.pgcode)
+            print(e.pgerror)
+            print(traceback.format_exc())
+
+    study_list = execute_query(query_user_access_rights, token)
+    study_status = {}
+    for study in study_list:
+        study_status[study[1]] = study[0]
+
+    return study_status
+
+status = get_study_status()
+print(len(studyIDs))
+studyIDs = [studyID for studyID in studyIDs if status[studyID] == 'Public' or status[studyID] == 'In Review']
 print(len(studyIDs))
 c = 0
+
 for studyID in studyIDs:  # for each study
-    print(studyID)
     c = c + 1
 
     u = 'http://www.ebi.ac.uk/metabolights/' + studyID + '/files/i_Investigation.txt?token=15fef9e0-9187-4c8a-857d-93d8e7df53d0'
@@ -75,7 +120,7 @@ for studyID in studyIDs:  # for each study
 
     if len(names) == len(types) == len(iris):
         for name, type, iri in zip(names, types, iris):
-            # print(c, studyID, name, type, iri)
+            print(c, studyID, name, type, iri)
             fact = factor(studyID, name, type, iri)
             res.append(fact)
     else:

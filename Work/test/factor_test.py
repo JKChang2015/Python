@@ -21,7 +21,7 @@ class factor():
 
 
 res = []
-studyID = 'MTBLS9'
+studyID = 'MTBLS33'
 
 u = 'http://www.ebi.ac.uk/metabolights/' + studyID + '/files/i_Investigation.txt?token=15fef9e0-9187-4c8a-857d-93d8e7df53d0'
 url = urllib.request.urlopen(u)
