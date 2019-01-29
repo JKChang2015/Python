@@ -78,4 +78,4 @@ for enti in res:
     temp = pd.Series([enti.studyID,enti.term,enti.iri],index=df.columns)
     df = df.append(temp,ignore_index=True)
 
-df.to_csv('investigation.tsv',sep='\t',index=False)
+df.to_csv('investigation2.tsv',sep='\t',index=False)

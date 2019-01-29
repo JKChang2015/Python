@@ -47,6 +47,7 @@ studyIDs.sort(key=natural_keys)
 
 res = []
 
+
 def get_study_status():
     query_user_access_rights = """
      select case when status = 0 then 'Submitted' when status = 1 then 'In Curation' when status = 2 then 'In Review' 
@@ -85,6 +86,7 @@ def get_study_status():
 
     return study_status
 
+
 status = get_study_status()
 print(len(studyIDs))
 studyIDs = [studyID for studyID in studyIDs if status[studyID] == 'Public' or status[studyID] == 'In Review']
@@ -94,7 +96,9 @@ c = 0
 for studyID in studyIDs:  # for each study
     c = c + 1
 
-    u = 'http://www.ebi.ac.uk/metabolights/' + studyID + '/files/i_Investigation.txt?token=15fef9e0-9187-4c8a-857d-93d8e7df53d0'
+    u = 'https://www.ebi.ac.uk/metabolights/' + studyID + '/files/i_Investigation.txt?token=' + config.Token
+    # u = 'https://www.ebi.ac.uk/metabolights/' + studyID + '/files/i_Investigation.txt'
+    # print(u)
     url = urllib.request.urlopen(u)
     text = ''
 

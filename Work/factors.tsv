@@ -13,12 +13,10 @@ MTBLS77	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS90	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS93	Age	Age	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150
 MTBLS124	Age	Age	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150
-MTBLS135	Age	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS162	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS173	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS174	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS178	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
-MTBLS179	Age	age	http://purl.obolibrary.org/obo/PATO_0000011
 MTBLS237	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS249	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS256	age	age	http://www.ebi.ac.uk/efo/EFO_0000246
@@ -32,11 +30,8 @@ MTBLS385	Age	Age	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150
 MTBLS400	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS404	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS407	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
-MTBLS409	age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS422	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS432	age	age	http://www.ebi.ac.uk/efo/EFO_0000246
-MTBLS516	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
-MTBLS598	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS602	age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS620	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS667	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
@@ -48,7 +43,6 @@ MTBLS372	Age at time of first grafting	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS265	Age group	Age Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20587
 MTBLS266	Age group	Age Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20587
 MTBLS267	Age group	Age Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20587
-MTBLS136	AgeAtBloodDraw	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS495	aging	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS562	aging	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS579	Alanine transaminase	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185
@@ -64,7 +58,6 @@ MTBLS93	Analysis date	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2
 MTBLS124	Analysis date	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS434	analysis_time	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS579	Analytical run order	Run order	
-MTBLS158	Animal ID	Identification	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25737
 MTBLS113	Anoxia incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS376	Antibiotic treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS579	Antibiotics 15 days	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
@@ -89,25 +82,24 @@ MTBLS497	Bacteria	Bacteria	http://purl.obolibrary.org/obo/NCBITaxon_2
 MTBLS555	Bacterial strain	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS328	Bacteroides caccae	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS126	Base	base	http://purl.bioontology.org/ontology/HL7/C1550601
-MTBLS19	Batch	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS99	Batch	Batch Number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504
 MTBLS36	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS47	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS73	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS79	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
-MTBLS99	Batch	Batch Number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504
 MTBLS105	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS193	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS198	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS283	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
-MTBLS401	batch	sample batch	http://purl.obolibrary.org/obo/MS_1000053
 MTBLS404	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS407	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS408	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS434	batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS452	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
-MTBLS464	Batch	sample batch	http://purl.obolibrary.org/obo/MS_1000053
 MTBLS661	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067
-MTBLS76	Batch Number	Batch Number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504
+MTBLS401	batch	sample batch	http://purl.obolibrary.org/obo/MS_1000053
+MTBLS464	Batch	sample batch	http://purl.obolibrary.org/obo/MS_1000053
+MTBLS19	Batch	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS146	Batch number	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS517	Batch run order	Batch	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67073
 MTBLS518	Batch run order	Batch	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67073
@@ -124,10 +116,8 @@ MTBLS311	Bicarbonate treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesau
 MTBLS386	Biofluid	Body Fluid or Substance	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13236
 MTBLS227	Biol. Replicate	biological replicate	http://purl.obolibrary.org/obo/MS_1001809
 MTBLS412	Biological replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS460	Biological replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS493	Biological replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS575	Biological Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS696	Biological Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS449	Birth Weight	Birth Weight	http://purl.bioontology.org/ontology/MESH/D001724
 MTBLS433	Bitterness	Score	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338
 MTBLS315	blood glucose	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
@@ -152,12 +142,11 @@ MTBLS332	BT03	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS200	CA Type	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616
 MTBLS328	Caco2	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS114	Caloric restriction	Percentage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25613
-MTBLS312	Carbon dioxide treatment	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS622	Carbon dioxide treatment	carbon dioxide treatment	http://purl.obolibrary.org/obo/EO_0001020
-MTBLS157	carbon source	substrate	http://www.bioassayontology.org/bao#BAO_0003063
-MTBLS463	Carbon source	Carbon source	http://purl.jp/bio/10/gmo/GMO_000063
+MTBLS312	Carbon dioxide treatment	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS572	Carbon source	Carbon source	http://purl.jp/bio/10/gmo/GMO_000063
 MTBLS706	carbon source	glycerol	http://purl.obolibrary.org/obo/CHEBI_17754
+MTBLS157	carbon source	substrate	http://www.bioassayontology.org/bao#BAO_0003063
 MTBLS113	Carbonate addition	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS5	CarbonDioxide_Quantity_after_01d	air carbon dioxide content	http://purl.obolibrary.org/obo/XCO_0000012
 MTBLS5	CarbonDioxide_Quantity_after_initiation	air carbon dioxide content	http://purl.obolibrary.org/obo/XCO_0000012
@@ -170,13 +159,10 @@ MTBLS111	Carotenoids	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS579	Carriage status	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS449	CD4-Positive T-Lymphocytes	CD4 Lymphocyte Count	http://purl.bioontology.org/ontology/MESH/D018791
 MTBLS227	CDX1/Villin	CDX1/Villin	
-MTBLS230	Cell Culture Media	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504
 MTBLS49	Cell density	Cell Density	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120538
-MTBLS115	cell growth phase	growth phase culture	http://purl.obolibrary.org/obo/BTO_0001900
-MTBLS29	Cell line	Cell Lineage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17895
-MTBLS106	Cell line	cell line	http://purl.obolibrary.org/obo/CLO_0000031
 MTBLS127	Cell line	cell line	http://www.ebi.ac.uk/efo/EFO_0000322
 MTBLS493	Cell line	cell line	http://www.ebi.ac.uk/efo/EFO_0000322
+MTBLS29	Cell line	Cell Lineage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17895
 MTBLS737	Cell line	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002
 MTBLS762	Cell line	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002
 MTBLS29	Cell number	Cell Count	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48938
@@ -188,9 +174,6 @@ MTBLS150	Cell Type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324
 MTBLS152	Cell Type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324
 MTBLS156	cell type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324
 MTBLS309	Cell type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324
-MTBLS89	Challenge	Challenge	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78166
-MTBLS89	Challenge Day	day	http://purl.obolibrary.org/obo/UO_0000033
-MTBLS89	Challenge Time of Day		
 MTBLS275	Chemical exposure	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS48	Chemical Exposure 	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS92	Chemotherapy response	"Yes, No, or Unknown Response"	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38148
@@ -198,21 +181,17 @@ MTBLS120	Chemotype	Chemotype
 MTBLS149	cholestasis	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS161	Chronic Fatigue Syndrome	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS737	clear cell renal cell carcinoma	Clear cell renal cell carcinoma	http://purl.obolibrary.org/obo/HP_0006770
-MTBLS89	Client Identifier	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364
 MTBLS315	clinical outcome	Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25688
 MTBLS457	Clinical state at time of death	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS93	Cluster effect	Cluster effect	
 MTBLS425	CM source	Origin	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42703
 MTBLS21	CO2 Concentration	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS91	CO2 concentration	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
-MTBLS703	Cobalamin	Quantity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25256
-MTBLS708	Cobalamin	Quantity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25256
 MTBLS328	coculture	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS560	Coefficient of digestive utilisation of lipids	feed lipid apparent digestibility	http://purl.org/obo/owlATOL_0001249
 MTBLS560	Coefficient of digestive utilisation of nitrogen	feed nitrogen apparent digestibility	http://purl.org/obo/owlATOL_0001245
 MTBLS560	Coefficient of digestive utilisation of starch	feed starch apparent digestibility	http://purl.org/obo/owlATOL_0001236
 MTBLS72	Cognitive Status	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS179	Collection method	Biospecimen Collection Method	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70700
 MTBLS520	Collection Season	Season	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94729
 MTBLS656	Collection Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS203	Collision energy	collision energy	http://purl.obolibrary.org/obo/MS_1000045
@@ -220,14 +199,13 @@ MTBLS335	collision energy	collision-induced dissociation	http://purl.obolibrary.
 MTBLS176	Colorectal Adenocarcinoma	Colorectal adenocarcinoma	http://purl.bioontology.org/ontology/MEDDRA/10052360
 MTBLS113	Colour	Color	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37927
 MTBLS333	Colour	Color	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37927
-MTBLS89	Column number	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364
 MTBLS249	complex index a/t	complex index	
 MTBLS249	complex index b/t	complex index	
 MTBLS177	compound	Cancer Therapeutic Procedure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16212
 MTBLS226	compound	Compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366
-MTBLS419	compound	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS449	compound	compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366
 MTBLS532	Compound	Compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366
+MTBLS419	compound	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS360	Compound 	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS142	Compound origin	organism	http://purl.obolibrary.org/obo/OBI_0100026
 MTBLS142	Compound origin part	organism part	http://www.ebi.ac.uk/efo/EFO_0000635
@@ -253,16 +231,16 @@ MTBLS16	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_
 MTBLS22	Container_after_initiation	ContainerEnum	http://purl.bioontology.org/ontology/XEO/XEO:00040
 MTBLS41	Container_after_initiation	ContainerEnum	http://purl.bioontology.org/ontology/XEO/XEO:00040
 MTBLS42	Container_after_initiation	ContainerEnum	http://purl.bioontology.org/ontology/XEO/XEO:00040
+MTBLS328	control	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
+MTBLS449	control	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS144	control	control	http://www.ebi.ac.uk/efo/EFO_0001461
 MTBLS154	control	control	http://www.ebi.ac.uk/efo/EFO_0001461
 MTBLS155	control	control	http://www.ebi.ac.uk/efo/EFO_0001461
 MTBLS157	control	control	http://www.ebi.ac.uk/efo/EFO_0001461
-MTBLS243	Control	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
 MTBLS253	control	True False Response Terminology	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105761
 MTBLS279	control	True False Response Terminology	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105761
+MTBLS243	Control	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
 MTBLS280	control	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
-MTBLS328	control	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
-MTBLS449	control	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS100	control sample group	Control	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61299
 MTBLS283	Control/Ikaros	control	http://www.ebi.ac.uk/efo/EFO_0001461
 MTBLS249	COPD Diagnosis	Diagnosis Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49650
@@ -272,9 +250,9 @@ MTBLS342	Coral Species	organism	http://purl.obolibrary.org/obo/OBI_0100026
 MTBLS526	Coronatine treatment	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS137	Country	Country	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25464
 MTBLS333	Cultivar	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136
-MTBLS343	cultivar	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS346	Cultivar	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136
 MTBLS350	Cultivar	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136
+MTBLS343	cultivar	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS36	Cultivars	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136
 MTBLS73	Cultivars	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136
 MTBLS437	Cultivation technique	Cultivation technique	
@@ -282,7 +260,6 @@ MTBLS21	Cultivation Year	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl
 MTBLS333	Cultivation Year	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS113	Culture days before anoxia incubation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS146	Current chronological age	age	http://www.ebi.ac.uk/efo/EFO_0000246
-MTBLS136	CurrentPMH	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS213	D-glucose	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS570	Dataset	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS164	Day	Day	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25301
@@ -295,31 +272,30 @@ MTBLS171	Derivatisation reagent	Reagent	http://ncicb.nci.nih.gov/xml/owl/EVS/The
 MTBLS56	Development stage	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS131	Development stage	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS132	Development stage	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS164	Diabetes	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS307	Diabetes	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS579	Diabetes	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
+MTBLS164	Diabetes	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS427	Diabetes Status	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS237	Diagnosis	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS543	Diagnosis	Diagnosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220
 MTBLS564	Diagnosis	Diagnosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220
 MTBLS664	Diagnosis	Diagnosis	http://purl.bioontology.org/ontology/SNOMEDCT/439401001
+MTBLS237	Diagnosis	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS372	Dieback score	Score	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338
-MTBLS135	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS173	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS198	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS240	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS327	diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS411	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
-MTBLS426	Diet	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS527	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS539	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS545	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS546	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS547	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
-MTBLS548	Diet	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757
 MTBLS614	diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS619	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS724	diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755
+MTBLS426	Diet	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS548	Diet	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757
 MTBLS334	Diet 	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS315	diff_basophils	basophils differential	
 MTBLS315	diff_eosinophils	eosinophils differential	
@@ -339,28 +315,28 @@ MTBLS321	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408
 MTBLS444	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408
 MTBLS237	Disease Characterisation 	disease	http://www.ebi.ac.uk/efo/EFO_0000408
 MTBLS27	Disease staging	disease staging	http://www.ebi.ac.uk/efo/EFO_0000410
-MTBLS162	Disease State	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS256	disease state	disease_state	http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_5159000
 MTBLS354	disease state	disease_state	http://purl.bioontology.org/NEMO/ontology/NEMO.owl#NEMO_5159000
+MTBLS162	Disease State	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS620	Disease status	disease	http://www.ebi.ac.uk/efo/EFO_0000408
 MTBLS249	DLCO b/t	Diffusion capacity of lung	http://purl.bioontology.org/ontology/SNOMEDCT/54715006
 MTBLS249	DLCO pred b/t	Diffusion capacity of lung	http://purl.bioontology.org/ontology/SNOMEDCT/54715006
 MTBLS209	domestication	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS368	Dosage	milligram per kilogram body weight	http://www.ebi.ac.uk/efo/EFO_0005354
+MTBLS789	Dose	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185
 MTBLS31	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS32	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS33	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS34	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS140	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS177	dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
-MTBLS225	Dose	Unit of Dose Calculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66973
 MTBLS226	dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
-MTBLS233	Dose	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS278	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS303	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS449	dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS532	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428
-MTBLS789	Dose	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185
+MTBLS233	Dose	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS225	Dose	Unit of Dose Calculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66973
 MTBLS52	drought treatment	drought environment	http://purl.obolibrary.org/obo/EO_0007404
 MTBLS648	Drug	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS189	drug intervention	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
@@ -376,7 +352,6 @@ MTBLS237	Drug Treatment Systemic steroids	Boolean	http://ncicb.nci.nih.gov/xml/o
 MTBLS315	duration illness prior to hospital admission	duration	http://www.ebi.ac.uk/efo/EFO_0000433
 MTBLS270	Duration of forcing	duration	http://www.ebi.ac.uk/efo/EFO_0000433
 MTBLS61	Ectonucleotidase inhibition	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS83	eg. gender		
 MTBLS363	Elapsed time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS445	Elevation	elevation	http://purl.obolibrary.org/obo/ENVO_00000176
 MTBLS163	Endocannabinoid class	endocannabinoid	http://purl.obolibrary.org/obo/CHEBI_67197
@@ -387,18 +362,16 @@ MTBLS358	Ethinicity	ethnic group	http://www.ebi.ac.uk/efo/EFO_0001799
 MTBLS449	ethnic group	ethnic group	http://www.ebi.ac.uk/efo/EFO_0003156
 MTBLS113	Euglena strain	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS164	Exercise	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS145	Exercise protocol	Exercise	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16567
 MTBLS306	Exercise set	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS17	Experiment	block	http://www.ebi.ac.uk/efo/EFO_0005067
 MTBLS19	Experiment	block	http://www.ebi.ac.uk/efo/EFO_0005067
-MTBLS148	Experiment	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS384	Experiment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS459	Experiment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS643	Experiment	Population Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005
+MTBLS148	Experiment	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS116	Experiment 	Experiment	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42790
-MTBLS453	experiment duration	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS96	Experimental Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS175	Experimental Group	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
+MTBLS96	Experimental Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS216	Experimental Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS217	Experimental Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS361	Experimental group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
@@ -413,8 +386,8 @@ MTBLS143	ExposureDurationPhase1	duration	http://www.ebi.ac.uk/efo/EFO_0000433
 MTBLS143	ExposureDurationPhase2	duration	http://www.ebi.ac.uk/efo/EFO_0000433
 MTBLS237	Extension	Extension	http://purl.bioontology.org/ontology/LNC/LP34039-5
 MTBLS780	Extracellular/Intracellular	intracellular	http://purl.obolibrary.org/obo/GO_0005622
-MTBLS350	Extract	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS370	Extract	Extraction	
+MTBLS350	Extract	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS373	extract	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS581	Extract Type	Extract	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C82948
 MTBLS384	Extraction method	solvent extraction	http://purl.obolibrary.org/obo/CHMO_0001598
@@ -422,8 +395,6 @@ MTBLS74	Extraction replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_00
 MTBLS237	Extraintestinal manifestations	clinical manifestation	http://purl.obolibrary.org/obo/TRAK_0000092
 MTBLS345	Facility	Place	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25319
 MTBLS237	Family disposition	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
-MTBLS269	Fasting time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS549	fasting time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS673	Feeding Diets	diet	http://www.ebi.ac.uk/efo/EFO_0002755
 MTBLS451	Fermetation process	protocol	http://purl.obolibrary.org/obo/OBI_0000272
 MTBLS449	Fetal exposure during pregnancy	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
@@ -437,7 +408,6 @@ MTBLS249	FFMI b/t	fat free mass index (FFMI)	http://purl.obolibrary.org/obo/CMO_
 MTBLS461	Filtration	Filter	http://sweet.jpl.nasa.gov/2.3/reprDataServiceAnalysis.owl#Filter
 MTBLS699	flowering period	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS345	Food	Food	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62695
-MTBLS598	Frailty Index Score	Frailty Index score	http://purl.bioontology.org/ontology/SNOMEDCT/713636003
 MTBLS664	Freeze-Thaw		
 MTBLS333	Freezing method	Freezing	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C48160
 MTBLS520	Fresh weight	plant fresh weight	http://purl.obolibrary.org/obo/TO_0000442
@@ -455,13 +425,9 @@ MTBLS77	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS90	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS93	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS124	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS135	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS136	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS158	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS162	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS174	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS178	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS179	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS249	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS307	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS315	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
@@ -475,7 +441,6 @@ MTBLS417	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS449	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS560	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS579	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS598	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS673	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS690	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS698	gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
@@ -487,8 +452,8 @@ MTBLS319	Gene knockout	gene knock out	http://www.ebi.ac.uk/efo/EFO_0000506
 MTBLS437	Gene suppression	gene silencing	http://purl.obolibrary.org/obo/GO_0016458
 MTBLS387	Gene transfection	gene knockdown by shRNA transfection	http://www.bioassayontology.org/bao#BAO_0002437
 MTBLS320	geneknockout	gene knock out	http://www.ebi.ac.uk/efo/EFO_0000506
+MTBLS661	Genotype	Gene Knockout	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18143
 MTBLS2	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
-MTBLS18	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS26	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS40	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS45	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
@@ -501,18 +466,15 @@ MTBLS98	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS112	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS119	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS129	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
-MTBLS135	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS151	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS160	Genotype	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513
 MTBLS169	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS173	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS197	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
-MTBLS261	genotype	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748
 MTBLS297	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS327	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS330	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS338	Genotype	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513
-MTBLS355	genotype	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748
 MTBLS375	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS380	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS382	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
@@ -532,30 +494,25 @@ MTBLS578	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS602	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS614	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS648	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
-MTBLS661	Genotype	Gene Knockout	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18143
 MTBLS667	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS693	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS724	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
 MTBLS751	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
-MTBLS761	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513
-MTBLS763	Genotype	breed	http://www.ebi.ac.uk/efo/EFO_0005238
+MTBLS261	genotype	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748
+MTBLS355	genotype	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748
 MTBLS434	genotype_commonName	gene	http://purl.obolibrary.org/obo/SO_0000704
 MTBLS434	genotype_systematicName	open reading frame	http://purl.bioontology.org/ontology/CSP/1257-3600
 MTBLS706	gentotype	gene knockdown by RNA interference	http://www.bioassayontology.org/bao#BAO_0002434
 MTBLS372	Geographic location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448
 MTBLS752	Geographical origin	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448
 MTBLS754	Geographical origin	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448
-MTBLS771	Geographical origin	Origin	http://purl.bioontology.org/ontology/LNC/LP62760-1
-MTBLS772	Geographical origin	Origin	http://purl.bioontology.org/ontology/LNC/LP62760-1
 MTBLS449	Gestation Period	gestation period length	http://purl.obolibrary.org/obo/CMO_0000467
 MTBLS273	Glandular tissue	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS185	Glucocorticoids	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS316	glucose	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS29	Glucose source	Isotope	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47933
-MTBLS183	Glutamine	Qualitative Concept	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92722
 MTBLS332	GM41	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS92	Grade	Tumor Regression Grade	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106304
-MTBLS158	Group	Group	http://purl.bioontology.org/ontology/STY/T096
 MTBLS278	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS303	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS304	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
@@ -592,37 +549,27 @@ MTBLS559	Hxa treatment 	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS249	IC b/t	Inspiratory Capacity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111362
 MTBLS249	IC pred b/t	Percent Predicted Inspiratory Capacity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112382
 MTBLS249	IC/TLC ratio	Inspiratory capacity to Total Lung capacity ratio	
-MTBLS244	ID8 coculture	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS434	identifier	identifier	http://ontodm.com/OntoDT#OntoDT_184436
 MTBLS454	In Vitro / In Vitro	Bioassay	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16341
 MTBLS309	Incubation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS311	Incubation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS312	Incubation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS757	incubation	Incubation	http://www.cognitiveatlas.org/ontology/cogat.owl#CAO_00341
-MTBLS761	Incubation	incubation	http://purl.bioontology.org/ontology/npo#NPO_2000
-MTBLS53	Incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS156	incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS183	Incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS184	Incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS228	incubation time	duration	http://www.ebi.ac.uk/efo/EFO_0000433
 MTBLS229	incubation time	duration	http://www.ebi.ac.uk/efo/EFO_0000433
-MTBLS244	incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS412	Incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS479	incubation time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
+MTBLS156	incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
+MTBLS412	Incubation time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS658	Incubation Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS393	Inducer conditions	Inducer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120268
-MTBLS696	Infected	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
-MTBLS96	Infection	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
 MTBLS117	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS118	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS767	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS769	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS210	Infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544
 MTBLS418	infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544
 MTBLS471	Infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544
-MTBLS767	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS769	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS770	Infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544
+MTBLS96	Infection	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
 MTBLS98	infection stage	Phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257
-MTBLS402	infertility	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS575	Infestation	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS432	inflammation	colitis score	
 MTBLS570	Inflammation	inflammation	http://purl.obolibrary.org/obo/MP_0001845
@@ -637,11 +584,8 @@ MTBLS404	Injection order	Injection order
 MTBLS407	Injection order	Injection order	
 MTBLS752	Injection order	Injection order	
 MTBLS754	Injection order	Injection order	
-MTBLS771	Injection order	Injection order	
-MTBLS772	Injection order	Injection order	
 MTBLS74	Injection replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS263	Injection replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS460	Inoculation	Inoculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68774
 MTBLS481	inoculation	Inoculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68774
 MTBLS154	inorganic phosphate	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS545	Intervention	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
@@ -669,18 +613,15 @@ MTBLS330	Life cycle stage	life cycle stage	http://purl.obolibrary.org/obo/UBERON
 MTBLS698	life stage	Life Stage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89335
 MTBLS423	Lifestyle intervention	Preventive Intervention	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15843
 MTBLS567	Light	photon flux density	
-MTBLS703	Light	Brightness	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70753
-MTBLS708	Light	Brightness	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70753
-MTBLS773	Light	light	http://www.ebi.ac.uk/efo/EFO_0000568
 MTBLS311	Light condition	controlled visible light condition	http://purl.obolibrary.org/obo/XCO_0000181
 MTBLS520	Light conditions	light	http://www.ebi.ac.uk/efo/EFO_0000568
 MTBLS298	liver fat	fatty liver disease	http://purl.obolibrary.org/obo/DOID_9452
 MTBLS400	Liver weight	liver weight	http://purl.obolibrary.org/obo/CMO_0000092
-MTBLS333	Location	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
 MTBLS399	Location	geographic location	
 MTBLS445	Location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448
 MTBLS756	location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448
 MTBLS803	Location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448
+MTBLS333	Location	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
 MTBLS298	low dose insulin infusion	low dose insulin infusion	
 MTBLS579	Lymphocytes	volume percentage	http://purl.obolibrary.org/obo/UO_0000165
 MTBLS315	malaria rapid diagnostic test	test result	http://www.ebi.ac.uk/efo/EFO_0000720
@@ -693,8 +634,8 @@ MTBLS404	Material type	material sample	http://purl.obolibrary.org/obo/OBI_000074
 MTBLS407	Material type	material sample	http://purl.obolibrary.org/obo/OBI_0000747
 MTBLS449	Maternal Age	age	http://www.ebi.ac.uk/efo/EFO_0000246
 MTBLS449	Maternal Viral load	Viral Load	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C51952
-MTBLS188	matrix	matrix	http://purl.obolibrary.org/obo/CHMO_0002743
 MTBLS392	matrix	grape fruit product	http://purl.jp/bio/11/meo/MEO_0002322
+MTBLS188	matrix	matrix	http://purl.obolibrary.org/obo/CHMO_0002743
 MTBLS403	Maufacturing process	Manufacture	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43360
 MTBLS237	Mayo-score	Score	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25338
 MTBLS473	Meal	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
@@ -705,7 +646,6 @@ MTBLS542	Mean Pearsons Correlation	Pearson Correlation Test	http://ncicb.nci.nih
 MTBLS497	Media	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504
 MTBLS450	Mediator Arabidopsis complex	core mediator complex	http://purl.obolibrary.org/obo/GO_0070847
 MTBLS49	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504
-MTBLS405	Medium	HeLa medium	http://purl.org/obo/owl/IEV#IEV_0000312
 MTBLS412	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504
 MTBLS767	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504
 MTBLS769	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504
@@ -730,13 +670,12 @@ MTBLS42	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
 MTBLS175	MeJA treatment 	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS92	Menopause	Menopausal Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16151
 MTBLS762	MERS-CoV infection	Middle East respiratory syndrome	http://purl.bioontology.org/ontology/MEDDRA/10075271
+MTBLS400	Metabolic syndrome	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS1	Metabolic syndrome	metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195
 MTBLS174	Metabolic syndrome	metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195
-MTBLS400	Metabolic syndrome	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS296	metabolomics/lipidomics	omics experiment on specimen	http://purl.obolibrary.org/obo/OMIABIS_0001014
 MTBLS496	methanol extract	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185
 MTBLS335	Methanol extraction	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
-MTBLS269	Mice	Subject	http://www.bridgmodel.org/owl#Subject
 MTBLS176	Microbial interaction	Microbial Interactions	http://purl.bioontology.org/ontology/MESH/D056265
 MTBLS6	Min Number Ions	Min Number Ions	
 MTBLS579	Monocytes	volume percentage	http://purl.obolibrary.org/obo/UO_0000165
@@ -772,10 +711,8 @@ MTBLS26	Nutritional status	Nutritional Status	http://ncicb.nci.nih.gov/xml/owl/E
 MTBLS81	Nutritional status	Nutritional Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17993
 MTBLS168	OD600	optical density measurement	http://purl.obolibrary.org/obo/CHMO_0002039
 MTBLS433	Oil quality	quality	http://www.ifomis.org/bfo/1.1/snap#Quality
-MTBLS183	Oligomycin	Qualitative Concept	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92722
 MTBLS297	Organ	plant organ	http://purl.obolibrary.org/obo/PO_0009008
 MTBLS193	Origin	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
-MTBLS89	OSMO		
 MTBLS404	Osmolality	Osmolality	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89824
 MTBLS407	Osmolality	Osmolality	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89824
 MTBLS214	Osmolarity	Osmotic Pressure	http://purl.bioontology.org/ontology/MESH/D009997
@@ -793,8 +730,8 @@ MTBLS337	PARP inhibitor concentration	concentration	http://purl.obolibrary.org/o
 MTBLS306	Participant	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189
 MTBLS356	Participant type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS449	Parturition	Parturition	http://purl.bioontology.org/ontology/MESH/D007751
-MTBLS298	Patient	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189
 MTBLS385	Patient	Patient	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960
+MTBLS298	Patient	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189
 MTBLS315	patient group	disease	http://www.ebi.ac.uk/efo/EFO_0000408
 MTBLS289	Patient ID	Patient	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960
 MTBLS473	Person	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189
@@ -828,9 +765,6 @@ MTBLS163	Plasma fraction	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.ow
 MTBLS124	Plate effect	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS821	Plate No	Order	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C42680
 MTBLS822	Plate No	position	
-MTBLS323	Plate number	Number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25337
-MTBLS76	Plate Position	position	http://purl.obolibrary.org/obo/PATO_0000140
-MTBLS323	Plate position	position	http://purl.obolibrary.org/obo/PATO_0000140
 MTBLS412	Plate surface area	area	http://www.ebi.ac.uk/efo/EFO_0001696
 MTBLS315	platelet count	number density	
 MTBLS148	Polarity	scan polarity	http://purl.obolibrary.org/obo/MS_1000465
@@ -866,91 +800,78 @@ MTBLS14	RelativeHumidity_after_04d	Relative humidity	http://purl.bioontology.org
 MTBLS15	RelativeHumidity_after_04d	Relative humidity	http://purl.bioontology.org/ontology/SNOMEDCT/250829009
 MTBLS16	RelativeHumidity_after_04d	Relative humidity	http://purl.bioontology.org/ontology/SNOMEDCT/250829009
 MTBLS414	Remote ischemic conditioning	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS53	Renal cancer cells	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
-MTBLS516	Reperfusion time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS2	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS18	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS39	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS57	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS69	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS94	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS95	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS99	Replicate	Replicate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28038
 MTBLS117	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS118	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS128	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS140	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS151	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS160	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683
-MTBLS163	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS168	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS214	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS225	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS233	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS234	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS276	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS277	Replicate	replicate	
 MTBLS281	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS291	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS292	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS293	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS298	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS309	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS311	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS312	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS316	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS338	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683
-MTBLS341	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683
-MTBLS350	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS359	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS363	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS373	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS375	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS400	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS401	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS409	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS410	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS414	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS435	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS447	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS451	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS452	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS456	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS459	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS464	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS471	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS472	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS483	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS484	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS492	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS495	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS496	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS519	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS525	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS528	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS531	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS538	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS555	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS558	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS562	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
+MTBLS673	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
+MTBLS762	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
+MTBLS57	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS69	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS95	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS99	Replicate	Replicate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28038
+MTBLS128	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS151	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS160	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683
+MTBLS168	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS233	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS277	Replicate	replicate	
+MTBLS292	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS316	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS338	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683
+MTBLS341	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683
+MTBLS375	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS401	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS451	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS452	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS459	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS471	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS472	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS484	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS496	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS528	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS558	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS567	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS576	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS582	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS618	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS630	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS656	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS661	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS673	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS693	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS703	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS708	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS757	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS761	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS762	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
-MTBLS770	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS773	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS788	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
-MTBLS793	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
+MTBLS2	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS163	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS234	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS291	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS298	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS350	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS373	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS456	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS553	Replicates	replicate	http://www.ebi.ac.uk/efo/EFO_0000683
 MTBLS597	replicates	Replicate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28038
 MTBLS35	replication	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
@@ -966,17 +887,16 @@ MTBLS93	RMSD	Standard Deviation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.o
 MTBLS124	RMSD	Standard Deviation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53322
 MTBLS404	Role	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS407	Role	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS89	Run day	Day	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25301
-MTBLS146	Run order	Run order	
-MTBLS408	Run order	Run order	
-MTBLS493	Run order	Run order	
 MTBLS517	Run order	Run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911
 MTBLS518	Run order	Run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911
-MTBLS532	Run order	Run order	
 MTBLS536	Run order	Run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911
 MTBLS542	Run order	Run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911
 MTBLS664	Run order	Run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911
 MTBLS665	Run order	Run	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47911
+MTBLS146	Run order	Run order	
+MTBLS408	Run order	Run order	
+MTBLS493	Run order	Run order	
+MTBLS532	Run order	Run order	
 MTBLS249	RV b/t	Residual Volume	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89836
 MTBLS249	RV pred b/t	Percent Predicted Residual Volume	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112385
 MTBLS170	SA_inhibition	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
@@ -1029,42 +949,36 @@ MTBLS58	Sample Growth Conditions	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thes
 MTBLS429	Sample location	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
 MTBLS457	Sample mass	mass	http://purl.obolibrary.org/obo/PATO_0000125
 MTBLS264	sample material	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
-MTBLS269	Sample material	Tissue	http://purl.bioontology.org/ontology/STY/T024
 MTBLS194	Sample Matrix	matrix	http://purl.obolibrary.org/obo/CHMO_0002743
 MTBLS187	Sample Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS36	Sample Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS73	Sample Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS71	sample treatment protocol	sample treatment protocol	http://www.ebi.ac.uk/efo/EFO_0003809
-MTBLS6	Sample type	Sample plate type	
-MTBLS28	Sample Type	sample	http://purl.obolibrary.org/obo/MS_1000457
+MTBLS737	Sample type	Biospecimen Type	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70713
+MTBLS465	Sample type	blood component	http://www.ebi.ac.uk/efo/EFO_0001941
+MTBLS470	Sample type	blood component	http://www.ebi.ac.uk/efo/EFO_0001941
 MTBLS55	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS76	Sample Type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS86	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS99	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS148	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS227	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS274	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS281	Sample Type	sample	http://purl.obolibrary.org/obo/MS_1000457
 MTBLS290	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS295	Sample Type	sample	http://purl.obolibrary.org/obo/MS_1000457
-MTBLS323	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS340	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS405	Sample type	material sample	http://purl.obolibrary.org/obo/OBI_0000747
-MTBLS409	sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS410	sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS413	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS428	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS435	sample type	Type	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25284
 MTBLS456	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS465	Sample type	blood component	http://www.ebi.ac.uk/efo/EFO_0001941
-MTBLS470	Sample type	blood component	http://www.ebi.ac.uk/efo/EFO_0001941
-MTBLS519	Sample type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS524	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS540	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS576	Sample type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS737	Sample type	Biospecimen Type	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70713
 MTBLS767	Sample Type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS769	Sample Type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS28	Sample Type	sample	http://purl.obolibrary.org/obo/MS_1000457
+MTBLS281	Sample Type	sample	http://purl.obolibrary.org/obo/MS_1000457
+MTBLS295	Sample Type	sample	http://purl.obolibrary.org/obo/MS_1000457
+MTBLS6	Sample type	Sample plate type	
+MTBLS519	Sample type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
+MTBLS435	sample type	Type	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25284
 MTBLS434	sample_type	sample	http://purl.obolibrary.org/obo/MS_1000457
 MTBLS404	Sampling	Sampling	
 MTBLS407	Sampling	Sampling	
@@ -1072,38 +986,32 @@ MTBLS293	sampling date	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C
 MTBLS428	Sampling date	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS643	Sampling Day	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS457	Sampling group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS18	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS306	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS380	sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS382	sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS390	sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS526	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS616	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS770	Sampling time post infection	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS178	Sasang Constitution	Sasang constitutional medicine type	http://www.ebi.ac.uk/efo/EFO_0007119
 MTBLS233	Scan range	scan	http://purl.obolibrary.org/obo/MS_1000441
+MTBLS693	season	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS445	Season	season	http://purl.obolibrary.org/obo/ENVO_03000096
 MTBLS520	season	season	http://purl.obolibrary.org/obo/ENVO_03000096
-MTBLS693	season	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS90	Season of sample collection	Season	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94729
-MTBLS136	Secondary identifier	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364
 MTBLS282	Section location	3D coordinates	http://purl.org/incf/ontology/Computational_Neurosciences/cno_alpha.owl#cno_0000154
 MTBLS415	Section location	position	http://purl.obolibrary.org/obo/PATO_0000140
-MTBLS179	Sedation	Sedation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21097
 MTBLS437	Selection marker gene	Genetic Marker	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16622
 MTBLS92	Series	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS179	Serum glucose	Serum Glucose Measurement	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C61027
 MTBLS298	serum type	Body Part	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C32221
 MTBLS315	severe malnutrition	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
-MTBLS27	Sex	sex	http://www.ebi.ac.uk/efo/EFO_0000695
 MTBLS219	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS345	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS385	Sex	Sex	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28421
-MTBLS422	Sex	sex	http://purl.obolibrary.org/obo/PATO_0000047
 MTBLS426	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS457	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
 MTBLS602	sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
-MTBLS763	Sex	Sex	http://purl.bioontology.org/ontology/MESH/D012723
+MTBLS27	Sex	sex	http://www.ebi.ac.uk/efo/EFO_0000695
+MTBLS385	Sex	Sex	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28421
+MTBLS422	Sex	sex	http://purl.obolibrary.org/obo/PATO_0000047
 MTBLS457	Sham exposed	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS235	simulated detector noise	detector noise	
 MTBLS235	simulated error profile distortion	error profile distortion	
@@ -1119,11 +1027,11 @@ MTBLS249	Smoking Status	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thes
 MTBLS364	smoking status	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796
 MTBLS374	smoking status	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796
 MTBLS520	Soil humidity	humidity of soil	http://purl.obolibrary.org/obo/ENVO_09200015
-MTBLS209	species	species design	http://www.ebi.ac.uk/efo/EFO_0001753
 MTBLS370	Species	organism	http://purl.obolibrary.org/obo/OBI_0100026
+MTBLS535	Species	organism	http://purl.obolibrary.org/obo/OBI_0100026
 MTBLS383	Species	Species	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45293
 MTBLS520	species	Species	http://www.owl-ontologies.com/BiodiversityOntologyFull.owl#Species
-MTBLS535	Species	organism	http://purl.obolibrary.org/obo/OBI_0100026
+MTBLS209	species	species design	http://www.ebi.ac.uk/efo/EFO_0001753
 MTBLS520	Species code	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364
 MTBLS289	Specimen	Biospecimen	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70699
 MTBLS342	Spectral Normalization	Extract Weight	
@@ -1137,16 +1045,11 @@ MTBLS381	spike-in concentration	concentration	http://purl.obolibrary.org/obo/CHM
 MTBLS59	Spiking	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS752	Spiking level	dose	http://www.ebi.ac.uk/efo/EFO_0000428
 MTBLS754	Spiking level	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
-MTBLS771	Spiking level	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
-MTBLS772	Spiking level	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
-MTBLS752	Spiking mix	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
 MTBLS754	Spiking mix	dose	http://www.ebi.ac.uk/efo/EFO_0000428
-MTBLS771	Spiking mix	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
-MTBLS772	Spiking mix	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
+MTBLS752	Spiking mix	spiking	http://purl.obolibrary.org/obo/CHMO_0002852
 MTBLS538	Stable isotope	Isotope	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47933
 MTBLS227	Stage	disease stage	http://purl.obolibrary.org/obo/OBI_0000278
 MTBLS200	Staging	Staging	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15608
-MTBLS672	starvation period	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS366	station	Station	http://sweet.jpl.nasa.gov/2.3/matrFacility.owl#Station
 MTBLS317	status	wild type	http://www.bioassayontology.org/bao#BAO_0000089
 MTBLS174	Steatosis 	fatty liver	http://www.ebi.ac.uk/efo/EFO_0003934
@@ -1155,8 +1058,8 @@ MTBLS237	Steroid response	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus
 MTBLS355	stimulus	stimulus or stress design	http://www.ebi.ac.uk/efo/EFO_0001762
 MTBLS85	Storage	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS333	Storage conditions	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
-MTBLS55	Storage time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS343	Storage Time	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
+MTBLS55	Storage time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS55	Storage type	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS37	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135
 MTBLS128	strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135
@@ -1164,19 +1067,17 @@ MTBLS345	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135
 MTBLS567	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135
 MTBLS630	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135
 MTBLS57	stress	drought tolerance	http://purl.obolibrary.org/obo/TO_0000276
-MTBLS319	Stress	environmental stress	http://www.ebi.ac.uk/efo/EFO_0000470
 MTBLS320	stress	Drug Exposure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41362
+MTBLS319	Stress	environmental stress	http://www.ebi.ac.uk/efo/EFO_0000470
 MTBLS389	Stress	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
 MTBLS389	Stress duration	duration	http://www.ebi.ac.uk/efo/EFO_0000433
 MTBLS538	Stress duration	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS763	Stress status	Stress	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35041
 MTBLS273	Stroma tissue	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS358	Study Group	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS265	Subject	Clinical Trial Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70668
 MTBLS266	Subject	Clinical Trial Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70668
 MTBLS267	Subject	Clinical Trial Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70668
 MTBLS414	Subject	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189
-MTBLS89	Subject Identifier	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364
 MTBLS404	Subset	Subset	
 MTBLS407	Subset	Subset	
 MTBLS247	Substrate	Substrate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120264
@@ -1184,16 +1085,12 @@ MTBLS520	Substrate	substrate	http://www.ebi.ac.uk/efo/EFO_0005061
 MTBLS492	successional stage	Ecological succession	http://localhost/plosthes.2017-1#11517
 MTBLS123	Survival	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS457	Survival duration	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS793	Symbiont	symbiont	http://purl.obolibrary.org/obo/IDO_0000522
 MTBLS538	Symbiotic partner	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS92	T-stage	tumor stage	http://www.ebi.ac.uk/efo/EFO_0004925
 MTBLS403	tea type	Tea	http://purl.bioontology.org/ontology/MESH/D013662
 MTBLS227	Tech. replicate	technical replicate	http://purl.obolibrary.org/obo/MS_1001808
-MTBLS696	Technical Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS752	Technical replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS754	Technical replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS771	Technical replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
-MTBLS772	Technical replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS187	Technical Replicate Number	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS581	Technical Replicates	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
 MTBLS91	temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
@@ -1201,7 +1098,6 @@ MTBLS113	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
 MTBLS148	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
 MTBLS315	temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
 MTBLS336	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
-MTBLS773	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
 MTBLS270	Temperature of forcing	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
 MTBLS538	Temperature treatment 	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS14	Temperature_after_04d	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
@@ -1212,24 +1108,24 @@ MTBLS322	Tendon release	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS143	TestItemPhase1	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS143	TestItemPhase2	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS6	Threshold	Threshold	
+MTBLS193	Time	Phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257
 MTBLS31	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
 MTBLS32	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
 MTBLS33	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
 MTBLS34	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
+MTBLS218	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
+MTBLS320	time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
+MTBLS751	time	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS129	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS144	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS145	Time	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS154	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS155	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS157	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS191	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS193	Time	Phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257
 MTBLS198	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS212	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS218	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
 MTBLS272	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS319	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS320	time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689
 MTBLS359	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS368	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS425	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
@@ -1237,7 +1133,6 @@ MTBLS461	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS497	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS525	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS571	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS751	time	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS441	Time after Inoculation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS375	Time after treatment	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS187	Time collected	time	http://www.ebi.ac.uk/efo/EFO_0000721
@@ -1251,18 +1146,15 @@ MTBLS630	Time elapsed	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS27	Time elapsed between last chemotherapy and serum collection	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS27	Time elapsed between last radiation therapy and serum collection	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS67	Time in nitrogen starvation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS89	Time of Day	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS372	Time of first grafting	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS602	time of treatment	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS48	time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS89	Time Point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS112	Time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS117	Time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS118	Time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS140	Time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS150	Time Point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS152	Time Point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS158	Time Point	Procedure End Reference Time Point	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117542
 MTBLS233	Time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS242	time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS277	Time point	timepoint	
@@ -1274,25 +1166,24 @@ MTBLS542	Time Point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS620	Time point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS665	Time Point	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS52	time point of drought duration	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
+MTBLS419	time post exposure	hour	http://purl.obolibrary.org/obo/UO_0000032
 MTBLS177	time post exposure	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS226	time post exposure	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS419	time post exposure	hour	http://purl.obolibrary.org/obo/UO_0000032
 MTBLS430	Time post exposure	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS449	time post exposure	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS539	Time post exposure	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS360	Time post exposure 	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS618	Time post infection	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS460	Time post-inoculation	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS424	Time to relapse	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
+MTBLS92	Timepoint	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS283	Timepoint	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS10	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS29	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS92	Timepoint	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS123	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS148	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS165	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS200	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS264	timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
-MTBLS283	Timepoint	time	http://www.ebi.ac.uk/efo/EFO_0000721
 MTBLS451	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS459	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS464	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
@@ -1313,13 +1204,13 @@ MTBLS566	tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS693	tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS289	Tissue location	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
 MTBLS361	Tissue location	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
-MTBLS289	Tissue type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS335	tissue type	plant organ	http://purl.obolibrary.org/obo/PO_0009008
+MTBLS289	Tissue type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS380	tissue type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
-MTBLS385	Tissue type	Tissue Sample	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19697
 MTBLS390	tissue type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS487	tissue type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
 MTBLS626	Tissue type	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801
+MTBLS385	Tissue type	Tissue Sample	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19697
 MTBLS249	TLC b/t	Total Lung Capacity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C111325
 MTBLS249	TLC pred b/t	Percent Predicted Total Lung Capacity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C112388
 MTBLS81	Total acylglycerol in LD	Total acylglycerol in LD	
@@ -1355,55 +1246,45 @@ MTBLS641	Total mass injected	mass	http://purl.obolibrary.org/obo/PATO_0000125
 MTBLS81	Total Protein in LD	Total Protein in LD	
 MTBLS315	total red blood cell count	number density	
 MTBLS315	total white blood cell count	number density	
-MTBLS453	toxic load	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS182	Tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204
-MTBLS183	Tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204
-MTBLS184	Tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204
 MTBLS241	tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204
-MTBLS244	tracer	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS346	Transgene	Transgene	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22190
-MTBLS696	Treated	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
-MTBLS10	Treatment	response to wounding	http://purl.obolibrary.org/obo/GO_0009611
-MTBLS18	Treatment	plant treatment	http://purl.obolibrary.org/obo/EO_0001001
+MTBLS359	treatment	antibacterial agent	http://purl.obolibrary.org/obo/CHEBI_33282
+MTBLS341	Treatment	Fungi	http://purl.obolibrary.org/obo/NCBITaxon_4751
+MTBLS112	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS116	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS123	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS125	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS212	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS452	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS459	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS472	treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS482	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS602	treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
+MTBLS789	Treatment	Inhibitor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154898
 MTBLS23	Treatment	Lipopolysaccharide stimulation	
+MTBLS10	Treatment	response to wounding	http://purl.obolibrary.org/obo/GO_0009611
 MTBLS29	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS31	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS32	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS33	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS34	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS112	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS116	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS123	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS125	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS158	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS212	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS225	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS272	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS341	Treatment	Fungi	http://purl.obolibrary.org/obo/NCBITaxon_4751
-MTBLS359	treatment	antibacterial agent	http://purl.obolibrary.org/obo/CHEBI_33282
-MTBLS405	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS412	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS422	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS430	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS452	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS459	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS464	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS472	treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
-MTBLS482	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS488	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS554	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS561	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS567	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS571	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS573	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS577	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS582	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS602	treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359
 MTBLS626	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS661	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS751	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS788	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS789	Treatment	Inhibitor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154898
 MTBLS334	Treatment 	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS482	Treatment concentration	concentration	http://purl.obolibrary.org/obo/CHMO_0002820
 MTBLS91	treatment days	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
@@ -1414,7 +1295,6 @@ MTBLS479	treatment with human fecal suspension	treatment	http://www.ebi.ac.uk/ef
 MTBLS579	Treatment with inj. Cefazoline	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254
 MTBLS143	TreatPhase1	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
 MTBLS143	TreatPhase2	treatment	http://www.ebi.ac.uk/efo/EFO_0000727
-MTBLS115	tRNA mistranslation	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147
 MTBLS131	Truss number	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS132	Truss number	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091
 MTBLS737	tumor and non tumor renal cell line	Cell Line	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16403
@@ -1423,11 +1303,11 @@ MTBLS227	Tumour site	Tumor site	http://purl.bioontology.org/ontology/SNOMEDCT/37
 MTBLS527	UVB exposure	UV Radiation Exposure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C44462
 MTBLS456	Vaccination	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS116	Variability Level	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341
-MTBLS52	variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709
+MTBLS756	variety	bio-variety	http://purl.obolibrary.org/obo/TAXRANK_0000032
 MTBLS137	Variety	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136
+MTBLS52	variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709
 MTBLS270	Variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709
 MTBLS433	Variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709
-MTBLS756	variety	bio-variety	http://purl.obolibrary.org/obo/TAXRANK_0000032
 MTBLS39	Vineyard	vineyard	http://purl.obolibrary.org/obo/ENVO_00000116
 MTBLS392	vintage	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164
 MTBLS196	Virus	Virus	http://purl.obolibrary.org/obo/NCBITaxon_10239
@@ -1452,9 +1332,9 @@ MTBLS146	Weight	body weight	http://www.ebi.ac.uk/efo/EFO_0004338
 MTBLS315	weight	body weight	http://www.ebi.ac.uk/efo/EFO_0004338
 MTBLS664	Well Position	Position	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104788
 MTBLS691	Well Position	position	
-MTBLS821	Well Position	Well	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70592
 MTBLS822	Well Position	position	
 MTBLS824	Well Position	position	
+MTBLS821	Well Position	Well	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70592
 MTBLS492	wetting time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724
 MTBLS94	whole plant development stage	Whole plant development stage	http://purl.obolibrary.org/obo/po#wholePlantDevelopmentStage
 MTBLS461	Whole seawater	volume percent	http://purl.obolibrary.org/obo/UO_0000165
