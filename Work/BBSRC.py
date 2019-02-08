@@ -49,24 +49,24 @@ df_group.columns = ['groupName', 'Count']
 # # draw graph
 #
 drop_sum = df_group[df_group.Count < 0.03 * np.sum(df_group.Count)].sum()
-df_group = df_group[df_group.Count > 0.03 * np.sum(df_group.Count)]
+df_group = df_group[df_group.Count >= 0.03 * np.sum(df_group.Count)]
 new = {'groupName': 'Other', 'Count': drop_sum[1]}
 df_group.loc[len(df_group)] = new
 
-fig, ax = plt.subplots(figsize=(15, 15), subplot_kw=dict(aspect="equal"))
+fig, ax = plt.subplots(figsize=(18, 18), subplot_kw=dict(aspect="equal"))
 
 
 def func(pct, allvals):
-    absolute = int(pct / 100. * np.sum(allvals))
+    absolute = int(round(pct / 100. * np.sum(allvals)))
     return "{:.1f}%\n({:d})".format(pct, absolute)
 
 
 wedges, texts, autotexts = ax.pie(df_group['Count'], wedgeprops=dict(width=0.5), startangle=-40,
-                                  autopct=lambda pct: func(pct, df_group['Count']), )
+                                  autopct=lambda pct: func(pct, df_group['Count']), textprops={'fontsize': 16})
 
 bbox_props = dict(boxstyle="square,pad=0.3", fc="w", ec="k", lw=0.72)
 kw = dict(xycoords='data', textcoords='data', arrowprops=dict(arrowstyle="-"),
-          bbox=bbox_props, zorder=0, va="center")
+          bbox=bbox_props, zorder=0, va="center", fontsize='12')
 
 for i, p in enumerate(wedges):
     ang = (p.theta2 - p.theta1) / 2. + p.theta1
@@ -78,6 +78,6 @@ for i, p in enumerate(wedges):
     ax.annotate(df_group['groupName'][i], xy=(x, y), xytext=(1.1 * np.sign(x), 1.1 * y),
                 horizontalalignment=horizontalalignment, **kw)
 
-ax.set_title("Metabolights Study Techniques")
+ax.set_title("Metabolights Study Techniques", fontsize=26)
 
 plt.show()
