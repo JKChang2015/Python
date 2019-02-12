@@ -1,0 +1,2592 @@
+studyID	type	iri	targeted?
+MTBLS1	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS1	metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195	target
+MTBLS1	Urine global profiling		un-mapped
+MTBLS1	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS1	Human Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70665	target
+MTBLS1	untargeted metabolites		untargeted
+MTBLS2	Plant Metabolomics		un-mapped
+MTBLS2	Comparative LC/MS-based profiling		un-mapped
+MTBLS2	Pathway Elucidation		un-mapped
+MTBLS2	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS2	untargeted metabolites		untargeted
+MTBLS3	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS3	Free amino acid target analysis		un-mapped
+MTBLS3	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS3	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS3	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS3	targeted metabolites		un-mapped
+MTBLS4	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS4	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS4	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS4	open profiling		un-mapped
+MTBLS4	targeted metabolites		un-mapped
+MTBLS4	phospholipid	http://purl.obolibrary.org/obo/CHEBI_16247	target
+MTBLS5	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS5	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS5	untargeted metabolites		untargeted
+MTBLS5	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS6	PyMS		un-mapped
+MTBLS6	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS6	data processing software	http://purl.obolibrary.org/obo/MS_1001457	target
+MTBLS6	Validation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16237	target
+MTBLS7	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS7	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS7	untargeted metabolites		untargeted
+MTBLS7	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS7	bolting stage	http://purl.obolibrary.org/obo/BTO_0004531	target
+MTBLS8	untargeted metabolites		untargeted
+MTBLS8	systems biology representation	http://purl.obolibrary.org/obo/SBO_0000000	target
+MTBLS8	endometabolome		un-mapped
+MTBLS8	exometabolome		un-mapped
+MTBLS8	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS10	time series design	http://www.ebi.ac.uk/efo/EFO_0001779	target
+MTBLS10	injury design	http://www.ebi.ac.uk/efo/EFO_0001760	target
+MTBLS10	Plant metabolomics		un-mapped
+MTBLS10	correlation study objective	http://purl.obolibrary.org/obo/OBI_0200196	target
+MTBLS10	targeted metabolites		un-mapped
+MTBLS10	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS11	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS11	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS11	untargeted metabolites		untargeted
+MTBLS11	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS11	bolting stage	http://purl.obolibrary.org/obo/BTO_0004531	target
+MTBLS12	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS12	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS12	untargeted metabolites		untargeted
+MTBLS12	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS12	bolting stage	http://purl.obolibrary.org/obo/BTO_0004531	target
+MTBLS13	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS13	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS13	untargeted metabolites		untargeted
+MTBLS13	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS13	bolting stage	http://purl.obolibrary.org/obo/BTO_0004531	target
+MTBLS14	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS14	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS14	untargeted metabolites		untargeted
+MTBLS14	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS14	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS15	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS15	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS15	untargeted metabolites		untargeted
+MTBLS15	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS15	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS16	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS16	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS16	untargeted metabolites		untargeted
+MTBLS16	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS16	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS17	hepatocellular carcinoma	http://www.ebi.ac.uk/efo/EFO_0000182	target
+MTBLS17	cirrhosis of liver	http://www.ebi.ac.uk/efo/EFO_0001422	target
+MTBLS17	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS17	untargeted metabolites		untargeted
+MTBLS18	chemically induced mutation	http://www.ebi.ac.uk/efo/EFO_0000370	target
+MTBLS18	Phytophthora infestans 90128		un-mapped
+MTBLS18	time series design	http://www.ebi.ac.uk/efo/EFO_0001779	target
+MTBLS18	disease state design	http://www.ebi.ac.uk/efo/EFO_0001756	target
+MTBLS18	infection	http://www.ebi.ac.uk/efo/EFO_0000544	target
+MTBLS18	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS18	diode array detector	http://purl.obolibrary.org/obo/CHMO_0002503	target
+MTBLS18	untargeted metabolites		untargeted
+MTBLS19	hepatocellular carcinoma	http://www.ebi.ac.uk/efo/EFO_0000182	target
+MTBLS19	cirrhosis of liver	http://www.ebi.ac.uk/efo/EFO_0001422	target
+MTBLS19	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS19	untargeted metabolites		untargeted
+MTBLS20	untargeted metabolites		untargeted
+MTBLS20	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS20	urinary metabolome		un-mapped
+MTBLS20	spectral library building		un-mapped
+MTBLS20	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS20	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS21	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS21	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS21	Peak detection	http://edamontology.org/operation_3215	target
+MTBLS21	multiple peak alignment		un-mapped
+MTBLS21	multiple alignment performance reference generation		un-mapped
+MTBLS22	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS22	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS22	untargeted metabolites		untargeted
+MTBLS22	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS22	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS23	untargeted metabolites		untargeted
+MTBLS23	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS23	immunometabolism		un-mapped
+MTBLS23	endometabolome		un-mapped
+MTBLS23	genome-scale modeling		un-mapped
+MTBLS23	metabolic network reconstruction		un-mapped
+MTBLS24	Acute kidney injury	http://purl.obolibrary.org/obo/HP_0001919	target
+MTBLS24	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS24	untargeted metabolites		untargeted
+MTBLS25	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS25	targeted metabolites		un-mapped
+MTBLS25	MetaboQuant		un-mapped
+MTBLS25	Latin Square Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C90402	target
+MTBLS26	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS26	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS26	Lipid Droplets	http://purl.bioontology.org/ontology/MESH/D066292	target
+MTBLS26	untargeted mwetabolites		untargeted
+MTBLS26	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS26	Diet, High-Fat	http://purl.bioontology.org/ontology/MESH/D059305	target
+MTBLS26	fasting	http://www.ebi.ac.uk/efo/EFO_0002756	target
+MTBLS26	Steatosis		un-mapped
+MTBLS26	Principal Component Analysis		un-mapped
+MTBLS27	colorectal cancer	http://purl.obolibrary.org/obo/DOID_9256	target
+MTBLS27	blood serum	http://purl.obolibrary.org/obo/BTO_0000133	target
+MTBLS27	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS27	Fatty Acid Metabolism	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26565	target
+MTBLS28	untargeted metabolites		untargeted
+MTBLS28	urine global profiling		un-mapped
+MTBLS28	Tobacco Smoke	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C829	target
+MTBLS28	Early Detection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16209	target
+MTBLS28	lung cancer	http://purl.obolibrary.org/obo/DOID_1324	target
+MTBLS29	Single-Cell Analysis	http://purl.bioontology.org/ontology/MESH/D059010	target
+MTBLS29	matrix-assisted laser desorption-ionisation time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000520	target
+MTBLS29	untargeted metabolites		untargeted
+MTBLS29	Microarrays for Mass Spectrometry (MAMS)		un-mapped
+MTBLS31	targeted metabolites		un-mapped
+MTBLS31	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS31	Bronchoalveolar Lavage Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13195	target
+MTBLS31	Influenza A virus	http://purl.obolibrary.org/obo/NCBITaxon_11320	target
+MTBLS31	inflammatory response	http://purl.obolibrary.org/obo/GO_0006954	target
+MTBLS32	targeted metabolites		un-mapped
+MTBLS32	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS32	Bronchoalveolar Lavage Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13195	target
+MTBLS32	Influenza A virus	http://purl.obolibrary.org/obo/NCBITaxon_11320	target
+MTBLS32	inflammatory response	http://purl.obolibrary.org/obo/GO_0006954	target
+MTBLS33	targeted metabolites		un-mapped
+MTBLS33	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS33	Bronchoalveolar Lavage Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13195	target
+MTBLS33	Influenza A virus	http://purl.obolibrary.org/obo/NCBITaxon_11320	target
+MTBLS33	inflammatory response	http://purl.obolibrary.org/obo/GO_0006954	target
+MTBLS34	targeted metabolites		un-mapped
+MTBLS34	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS34	Bronchoalveolar Lavage Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#Bronchoalveolar_Lavage_Fluid	target
+MTBLS34	Influenza A virus	http://purl.obolibrary.org/obo/NCBITaxon_11320	target
+MTBLS34	inflammatory response	http://purl.obolibrary.org/obo/GO_0006954	target
+MTBLS35	untargeted metabolites		untargeted
+MTBLS35	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS35	endometabolome		un-mapped
+MTBLS35	genome-scale modeling		un-mapped
+MTBLS35	Systems biology	http://edamontology.org/topic_2259	target
+MTBLS36	leaf development	http://purl.obolibrary.org/obo/GO_0048366	target
+MTBLS36	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS36	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS36	untargeted metabolites		untargeted
+MTBLS37	untargeted metabolites		untargeted
+MTBLS37	Algorithm	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16275	target
+MTBLS37	two-dimensional gas chromatography	http://purl.obolibrary.org/obo/CHMO_0002886	target
+MTBLS38	targeted metabolites		un-mapped
+MTBLS38	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS38	MassCascade		un-mapped
+MTBLS38	reference compound	http://www.bioassayontology.org/bao#BAO_0002092	target
+MTBLS39	untargeted metabolites		untargeted
+MTBLS39	Transcriptomics	http://www.mygrid.org.uk/ontology/JERMOntology#Transcriptomics	target
+MTBLS39	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS40	untargeted metabolites		untargeted
+MTBLS40	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS40	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS41	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS41	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS41	untargeted metabolites		untargeted
+MTBLS41	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS41	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS42	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS42	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS42	untargeted metabolites		untargeted
+MTBLS42	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS42	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS43	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS43	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS43	untargeted metabolites		untargeted
+MTBLS43	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS43	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS44	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS44	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS44	untargeted metabolites		untargeted
+MTBLS44	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS44	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS45	untargeted metabolites		untargeted
+MTBLS45	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS45	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS45	Principal Component Analysis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49291	target
+MTBLS46	untargeted metabolites		untargeted
+MTBLS46	cardiovascular disease	http://www.ebi.ac.uk/efo/EFO_0000319	target
+MTBLS46	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS46	atherosclerosis	http://www.ebi.ac.uk/efo/EFO_0003914	target
+MTBLS46	Oxidative Stress	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17741	target
+MTBLS47	untargeted metabolites		untargeted
+MTBLS47	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS47	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS48	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS48	municipal effluent		un-mapped
+MTBLS48	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS48	untargeted metabolites		untargeted
+MTBLS49	drug screening/evaluation	http://purl.bioontology.org/ontology/CSP/0963-9394	target
+MTBLS49	culture medium	http://purl.obolibrary.org/obo/BTO_0000316	target
+MTBLS49	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS49	untargeted metabolites		untargeted
+MTBLS52	drought tolerance	http://purl.obolibrary.org/obo/TO_0000276	target
+MTBLS52	multivariate analysis	http://purl.obolibrary.org/obo/OBCS_0000023	target
+MTBLS52	ultra high performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0000795	target
+MTBLS52	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS52	untargeted metabolites		untargeted
+MTBLS53	tracer-based metabolomics		un-mapped
+MTBLS53	renal carcinoma	http://purl.obolibrary.org/obo/DOID_4451	target
+MTBLS53	Cancer Immunology	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18670	target
+MTBLS53	monocyte	http://purl.obolibrary.org/obo/CL_0000576	target
+MTBLS53	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS54	intervention design	http://purl.bioontology.org/ontology/OBI/OBI_0000115	target
+MTBLS54	stimulus or stress design	http://purl.bioontology.org/ontology/OBI/OBI_0001396	target
+MTBLS54	untargeted metabolites		untargeted
+MTBLS54	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS54	response to salt stress	http://purl.obolibrary.org/obo/GO_0009651	target
+MTBLS55	untargeted metabolites		untargeted
+MTBLS55	Food Quality	http://purl.bioontology.org/ontology/MESH/D063427	target
+MTBLS55	Sangiovese		un-mapped
+MTBLS55	Food Storage	http://purl.bioontology.org/ontology/MESH/D061353	target
+MTBLS55	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS56	untargeted metabolites		untargeted
+MTBLS56	whole plant development stage	http://purl.obolibrary.org/obo/PO_0007033	target
+MTBLS56	portion of plant tissue	http://purl.obolibrary.org/obo/PO_0009007	target
+MTBLS56	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS56	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS57	untargeted metabolites		untargeted
+MTBLS57	Transcriptomics	http://www.mygrid.org.uk/ontology/JERMOntology#Transcriptomics	target
+MTBLS57	Stress tolerance	http://purl.bioontology.org/ontology/SNOMEDCT/39146006	target
+MTBLS57	flavonol	http://purl.obolibrary.org/obo/CHEBI_5078	target
+MTBLS57	anthocyanin	http://purl.obolibrary.org/obo/CHEBI_38697	target
+MTBLS57	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS58	untargeted metabolites		untargeted
+MTBLS58	matrix-assisted laser desorption-ionisation imaging mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000054	target
+MTBLS58	MetaSpace		un-mapped
+MTBLS58	infertility	http://www.ebi.ac.uk/efo/EFO_0000545	target
+MTBLS59	Benchmarking dataset	http://ontology.neuinfo.org/NIF/DigitalEntities/NIF-Investigation.owl#nlx_inv_20090406	target
+MTBLS59	Targeted metabolites		un-mapped
+MTBLS59	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS59	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS59	spiking	http://purl.obolibrary.org/obo/CHMO_0002852	target
+MTBLS61	Pseudoxanthoma elasticum	http://www.orpha.net/ORDO/Orphanet_758	target
+MTBLS61	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS61	Multidrug Resistance-Associated Protein 6	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116948	target
+MTBLS61	ABCC6 Gene	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C116946	target
+MTBLS61	Untargeted metabolites		un-mapped
+MTBLS67	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS67	cellular response to nitrogen starvation	http://purl.obolibrary.org/obo/GO_0006995	target
+MTBLS67	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS67	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS67	untargeted metabolites		untargeted
+MTBLS69	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS69	Phenolics	http://purl.bioontology.org/ontology/RCD/x009P	target
+MTBLS69	Untargeted metabolites		un-mapped
+MTBLS69	colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842	target
+MTBLS69	stem cell	http://purl.obolibrary.org/obo/CL_0000034	target
+MTBLS69	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS71	Untargeted metabolites		un-mapped
+MTBLS71	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS71	urine	http://purl.obolibrary.org/obo/BTO_0001419	target
+MTBLS71	Statistics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17167	target
+MTBLS71	urease pre-treatment		un-mapped
+MTBLS72	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS72	Alzheimer's disease	http://www.ebi.ac.uk/efo/EFO_0000249	target
+MTBLS72	Biomarker	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16342	target
+MTBLS72	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS72	Biocrates		un-mapped
+MTBLS72	Targeted metabolites		un-mapped
+MTBLS72	Untargeted metabolites		un-mapped
+MTBLS72	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS72	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS72	Cognitive Status, Mood and Pain:-:Pt:^Patient:-	http://purl.bioontology.org/ontology/LNC/52487-6	target
+MTBLS73	Plant Metabolomics		un-mapped
+MTBLS73	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS73	Untargeted metabolites		un-mapped
+MTBLS73	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS73	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS74	replicate design	http://www.ebi.ac.uk/efo/EFO_0001776	target
+MTBLS74	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS74	time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000580	target
+MTBLS75	species diversity	http://cerrado.linkeddata.es/ecology/ccon#SpeciesDiversity	target
+MTBLS75	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS75	confocal microscopy	http://purl.obolibrary.org/obo/CHMO_0000103	target
+MTBLS75	real-time PCR	http://www.bioassayontology.org/bao#BAO_0002084	target
+MTBLS75	multi-species biofilm formation	http://purl.org/obo/owl/GO#GO_0044399	target
+MTBLS75	Phototrophic Processes	http://purl.bioontology.org/ontology/MSH/D052817	target
+MTBLS75	microbial mat	http://purl.obolibrary.org/obo/ENVO_01000008	target
+MTBLS75	community dynamics	http://cerrado.linkeddata.es/ecology/ccon#ComunityDynamics	target
+MTBLS75	Untargeted metabolites		un-mapped
+MTBLS75	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS76	open lipid profiling		un-mapped
+MTBLS76	Epidemiologic Studies	http://purl.bioontology.org/ontology/MESH/D016021	target
+MTBLS76	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS76	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS76	untargeted metabolites		untargeted
+MTBLS77	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS77	Callipyge mutation		un-mapped
+MTBLS77	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS77	hypertrophy	http://www.ebi.ac.uk/efo/EFO_0002460	target
+MTBLS77	untargeted metabolites		untargeted
+MTBLS77	Multivariate Analysis	http://purl.bioontology.org/ontology/MESH/D015999	target
+MTBLS77	two-dimensional 1H nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0002443	target
+MTBLS79	Direct infusion mass spectrometry		un-mapped
+MTBLS79	Assay data processing method		un-mapped
+MTBLS79	Quality Control	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	target
+MTBLS79	Signal processing		un-mapped
+MTBLS79	Batch correction		un-mapped
+MTBLS79	Relative standard deviation		un-mapped
+MTBLS79	Reproducibility	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15318	target
+MTBLS79	Data processing workflow		un-mapped
+MTBLS81	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS81	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS81	ATGL-KO mouse		un-mapped
+MTBLS81	Lipid Droplets	http://purl.bioontology.org/ontology/MESH/D066292	target
+MTBLS81	untargeted mwetabolites		untargeted
+MTBLS81	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS81	fasting	http://www.ebi.ac.uk/efo/EFO_0002756	target
+MTBLS81	Steatosis		un-mapped
+MTBLS83	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS83	targeted metabolomics		un-mapped
+MTBLS85	isoprenoid	http://purl.obolibrary.org/obo/CHEBI_24913	target
+MTBLS85	Multivariate Curve Resolution		un-mapped
+MTBLS85	diode array detector	http://purl.obolibrary.org/obo/CHMO_0002503	target
+MTBLS85	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS85	untargeted metabolites		untargeted
+MTBLS86	untargeted metabolites		untargeted
+MTBLS86	carotenoid	http://purl.obolibrary.org/obo/CHEBI_23044	target
+MTBLS86	diode array detector	http://purl.obolibrary.org/obo/CHMO_0002503	target
+MTBLS86	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS86	Multivariate Curve Resolution		un-mapped
+MTBLS87	blood metabolome		un-mapped
+MTBLS87	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS87	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS87	untargeted metabolites		untargeted
+MTBLS88	blood metabolome		un-mapped
+MTBLS88	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS88	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS88	untargeted metabolites		untargeted
+MTBLS89	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS89	untargeted metabolomics		untargeted
+MTBLS89	Human challenge study		un-mapped
+MTBLS90	Cohort Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15208	target
+MTBLS90	Population Based Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53307	target
+MTBLS90	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS90	untargeted metabolites		untargeted
+MTBLS91	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS91	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS91	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS91	Multivariate Analysis	http://purl.bioontology.org/ontology/MESH/D015999	target
+MTBLS91	untargeted metabolites		untargeted
+MTBLS92	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS92	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS92	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS92	Chemotherapy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15632	target
+MTBLS92	untargeted metabolites		untargeted
+MTBLS93	Cohort Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15208	target
+MTBLS93	Population Based Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53307	target
+MTBLS93	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS93	Twin	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73427	target
+MTBLS93	untargeted metabolites		untargeted
+MTBLS94	untargeted metabolites		untargeted
+MTBLS94	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS94	ligand-binding protein		un-mapped
+MTBLS94	Protein-Protein Interaction	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18469	target
+MTBLS94	protein-small molecule interaction		un-mapped
+MTBLS94	Proteomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20085	target
+MTBLS94	size exclusion chromatography		un-mapped
+MTBLS94	Systems biology	http://edamontology.org/topic_2259	target
+MTBLS95	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS95	Pseudomonas syringae pv. tomato str. DC3000	http://purl.obolibrary.org/obo/NCBITaxon_223283	target
+MTBLS95	type III protein secretion system complex	http://purl.obolibrary.org/obo/GO_0030257	target
+MTBLS95	MAPK phosphatase export from nucleus	http://purl.obolibrary.org/obo/GO_0045208	target
+MTBLS95	untargeted metabolites		untargeted
+MTBLS95	avrPto protein, Pseudomonas syringae	http://purl.bioontology.org/ontology/MSH/C081695	target
+MTBLS96	pathogen host	http://purl.obolibrary.org/obo/IDO_0000538	target
+MTBLS96	Opportunistic-Pathogen	http://www.projecthalo.com/aura#Opportunistic-Pathogen	target
+MTBLS96	untargeted metabolites		untargeted
+MTBLS96	Commensal species	http://www.owl-ontologies.com/unnamed.owl#Commensal_species	target
+MTBLS96	Salmonella typhimurium	http://purl.bioontology.org/ontology/SNMI/L-17354	target
+MTBLS96	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS98	malaria	http://www.ebi.ac.uk/efo/EFO_0001068	target
+MTBLS98	parasite development		un-mapped
+MTBLS98	untargeted metabolites		untargeted
+MTBLS98	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS98	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS99	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS99	untargeted metabolites		untargeted
+MTBLS100	Biofluid		un-mapped
+MTBLS100	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS100	untargeted metabolites		untargeted
+MTBLS102	cell line	http://www.ebi.ac.uk/efo/EFO_0000322	target
+MTBLS102	infection	http://www.ebi.ac.uk/efo/EFO_0000544	target
+MTBLS102	Host-Pathogen Interactions	http://purl.bioontology.org/ontology/MESH/D054884	target
+MTBLS102	Proteomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20085	target
+MTBLS102	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS102	untargeted metabolites		untargeted
+MTBLS103	untargeted metabolomics		untargeted
+MTBLS103	targeted metabolites		un-mapped
+MTBLS103	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS103	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS103	predictive markers		un-mapped
+MTBLS103	Type 2 Diabetes Mellitus	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26747	target
+MTBLS104	untargeted metabolites		untargeted
+MTBLS104	neuroblastoma	http://www.ebi.ac.uk/efo/EFO_0000621	target
+MTBLS104	neuropeptide Y2 receptor	http://purl.bioontology.org/ontology/MESH/C095889	target
+MTBLS104	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS104	brain tumor	http://purl.bioontology.org/ontology/PDQ/CDR0000038958	target
+MTBLS104	BIIE 0246	http://purl.bioontology.org/ontology/MESH/C403256	target
+MTBLS104	SK-N-BE2		un-mapped
+MTBLS104	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS105	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS105	hepatocellular carcinoma	http://www.ebi.ac.uk/efo/EFO_0000182	target
+MTBLS105	cirrhosis of liver	http://www.ebi.ac.uk/efo/EFO_0001422	target
+MTBLS105	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS105	targeted metabolites		un-mapped
+MTBLS105	untargeted metabolites		untargeted
+MTBLS106	transcriptomics		un-mapped
+MTBLS106	metabolomics		un-mapped
+MTBLS106	unfolded protein response		un-mapped
+MTBLS106	chronic mistranslation		un-mapped
+MTBLS106	protein misfolding		un-mapped
+MTBLS106	high-performance liquid chromatography		un-mapped
+MTBLS106	targeted metabolomics		un-mapped
+MTBLS107	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS107	plant hormone	http://purl.obolibrary.org/obo/CHEBI_37848	target
+MTBLS107	carotenoid	http://purl.obolibrary.org/obo/CHEBI_23044	target
+MTBLS107	Untargeted metabolites		un-mapped
+MTBLS107	Targeted metabolites		un-mapped
+MTBLS108	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS108	plant hormone	http://purl.obolibrary.org/obo/CHEBI_37848	target
+MTBLS108	carotenoid	http://purl.obolibrary.org/obo/CHEBI_23044	target
+MTBLS108	Untargeted metabolites		un-mapped
+MTBLS108	Targeted metabolites		un-mapped
+MTBLS109	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS109	plant hormone	http://purl.obolibrary.org/obo/CHEBI_37848	target
+MTBLS109	carotenoid	http://purl.obolibrary.org/obo/CHEBI_23044	target
+MTBLS109	Untargeted metabolites		un-mapped
+MTBLS109	Targeted metabolites		un-mapped
+MTBLS110	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS110	plant hormone	http://purl.obolibrary.org/obo/CHEBI_37848	target
+MTBLS110	carotenoid	http://purl.obolibrary.org/obo/CHEBI_23044	target
+MTBLS110	Untargeted metabolites		un-mapped
+MTBLS110	targeted metabolites		un-mapped
+MTBLS111	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS111	plant hormone	http://purl.obolibrary.org/obo/CHEBI_37848	target
+MTBLS111	carotenoid	http://purl.obolibrary.org/obo/CHEBI_23044	target
+MTBLS111	Untargeted metabolites		un-mapped
+MTBLS111	Targeted metabolites		un-mapped
+MTBLS112	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS112	targeted metabolites		un-mapped
+MTBLS112	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS112	Host-Pathogen Interactions	http://purl.bioontology.org/ontology/MESH/D054884	target
+MTBLS112	Vomitoxin	http://purl.obolibrary.org/obo/CHEBI_10022	target
+MTBLS112	scab	http://purl.obolibrary.org/obo/CO_321_0000104	target
+MTBLS112	phenylpropanoid	http://purl.obolibrary.org/obo/CHEBI_26004	target
+MTBLS113	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS113	wax ester	http://purl.obolibrary.org/obo/CHEBI_10036	target
+MTBLS113	untargeted metabolites		untargeted
+MTBLS113	Hypoxia	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3890	target
+MTBLS113	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS114	untargeted metabolites		untargeted
+MTBLS114	Caloric Restriction	http://purl.bioontology.org/ontology/MESH/D031204	target
+MTBLS114	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS114	Exogenous Obesity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120380	target
+MTBLS115	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS115	tRNA modification	http://purl.org/obo/owl/GO#GO_0006400	target
+MTBLS115	mistranslation		un-mapped
+MTBLS115	untargeted metabolites		untargeted
+MTBLS116	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS116	coral reef	http://purl.obolibrary.org/obo/ENVO_00000150	target
+MTBLS116	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS116	species comparison design	http://purl.obolibrary.org/obo/OBI_0001310	target
+MTBLS116	sample variability		un-mapped
+MTBLS116	spiking	http://purl.obolibrary.org/obo/CHMO_0002852	target
+MTBLS116	untargeted metabolites		untargeted
+MTBLS117	Plant metabolomics		un-mapped
+MTBLS117	Host-Pathogen Interactions	http://purl.bioontology.org/ontology/MESH/D054884	target
+MTBLS117	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS117	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS117	untargeted metabolites		untargeted
+MTBLS118	Plant metabolomics		un-mapped
+MTBLS118	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS118	Host-Pathogen Interactions	http://purl.bioontology.org/ontology/MESH/D054884	target
+MTBLS118	untargeted metabolites		untargeted
+MTBLS119	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS119	Transcription Factors	http://purl.bioontology.org/ontology/MESH/D014157	target
+MTBLS119	hydrophilic interaction chromatography	http://purl.obolibrary.org/obo/CHMO_0002262	target
+MTBLS119	untargeted metabolites		untargeted
+MTBLS120	Seed phytate content	http://purl.obolibrary.org/obo/SOY_0001692	target
+MTBLS120	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS120	hydrophilic interaction chromatography	http://purl.obolibrary.org/obo/CHMO_0002262	target
+MTBLS120	untargeted metabolites		untargeted
+MTBLS123	Hemorrhagic Shock	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35017	target
+MTBLS123	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS123	cell culture	http://purl.obolibrary.org/obo/BTO_0000214	target
+MTBLS123	targeted metabolites		un-mapped
+MTBLS124	Cohort Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15208	target
+MTBLS124	Population Based Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53307	target
+MTBLS124	untargeted metabolites		untargeted
+MTBLS124	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS125	untargeted metabolites		untargeted
+MTBLS125	Resveratrol	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1215	target
+MTBLS125	oral administration	http://purl.obolibrary.org/obo/OBI_0000952	target
+MTBLS125	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS125	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS125	skin administration		un-mapped
+MTBLS126	untargeted metabolites		untargeted
+MTBLS126	Resveratrol	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1215	target
+MTBLS126	skin administration		un-mapped
+MTBLS126	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS126	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS127	untargeted metabolites		untargeted
+MTBLS127	Resveratrol	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C1215	target
+MTBLS127	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS127	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS127	cell line	http://www.ebi.ac.uk/efo/EFO_0000322	target
+MTBLS128	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS128	arginine	http://purl.obolibrary.org/obo/CHEBI_29016	target
+MTBLS128	isotopic labelling	http://purl.obolibrary.org/obo/CHMO_0001677	target
+MTBLS128	isotope ratio mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000506	target
+MTBLS128	targeted metabolites		un-mapped
+MTBLS129	Transcriptomics	http://edamontology.org/topic_3308	target
+MTBLS129	flavonoids	http://purl.obolibrary.org/obo/CHEBI_72544	target
+MTBLS129	glycosylation	http://purl.obolibrary.org/obo/GO_0070085	target
+MTBLS129	Secondary Metabolism	http://purl.bioontology.org/ontology/MESH/D064210	target
+MTBLS129	jasmonic acid	http://purl.obolibrary.org/obo/CHEBI_18292	target
+MTBLS129	response to stress	http://purl.obolibrary.org/obo/GO_0006950	target
+MTBLS129	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS129	untargeted metabolites		untargeted
+MTBLS131	targeted metabolites		un-mapped
+MTBLS131	COSY		un-mapped
+MTBLS131	two-dimensional 1H nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0002443	target
+MTBLS132	targeted metabolites		un-mapped
+MTBLS132	COSY		un-mapped
+MTBLS132	two-dimensional 1H nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0002443	target
+MTBLS133	targeted metabolites		un-mapped
+MTBLS133	COSY		un-mapped
+MTBLS133	two-dimensional 1H nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0002443	target
+MTBLS134	targeted metabolites		un-mapped
+MTBLS134	COSY		un-mapped
+MTBLS134	two-dimensional 1H nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0002443	target
+MTBLS135	Fat		un-mapped
+MTBLS135	targeted metabolomics		un-mapped
+MTBLS135	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS135	targeted metabolomics		un-mapped
+MTBLS136	Menopause	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3231	target
+MTBLS136	Hormone	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2315	target
+MTBLS136	estrogen	http://purl.obolibrary.org/obo/CHEBI_50114	target
+MTBLS136	progestin	http://purl.obolibrary.org/obo/CHEBI_59826	target
+MTBLS136	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS136	targeted metabolomics		un-mapped
+MTBLS136	untargeted metabolomics		untargeted
+MTBLS137	untargeted metabolites		untargeted
+MTBLS137	Training Dataset		un-mapped
+MTBLS137	software pipeline	http://purl.obolibrary.org/obo/OBI_0001943	target
+MTBLS137	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS140	untargeted metabolites		untargeted
+MTBLS140	Toxicity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27990	target
+MTBLS140	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS140	cell line	http://www.ebi.ac.uk/efo/EFO_0000322	target
+MTBLS140	chloroacetaldehyde	http://purl.obolibrary.org/obo/CHEBI_27871	target
+MTBLS142	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS142	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS142	Database	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15426	target
+MTBLS142	Natural Product	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66892	target
+MTBLS142	ms-ms search	http://purl.obolibrary.org/obo/MS_1001083	target
+MTBLS142	monoterpene alkaloid	http://purl.obolibrary.org/obo/CHEBI_50522	target
+MTBLS142	indole skeleton	http://purl.obolibrary.org/obo/CHEBI_73398	target
+MTBLS143	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS143	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS143	Tobacco Smoke	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C829	target
+MTBLS143	Cigarette Smoking	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18270	target
+MTBLS143	Modified Risk Tobacco Product	http://scai.fraunhofer.de/CSEO#Modified_Risk_Tobacco_Product	target
+MTBLS143	Mouse Model	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94604	target
+MTBLS143	Chronic Obstructive Pulmonary Disease	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3199	target
+MTBLS143	Shotgun lipidomics		un-mapped
+MTBLS143	targeted metabolites		un-mapped
+MTBLS143	untargeted metabolites		untargeted
+MTBLS144	Phytoplankton	http://www.owl-ontologies.com/unnamed.owl#Phytoplankton	target
+MTBLS144	Carbon Cycle	http://purl.bioontology.org/ontology/MESH/D057486	target
+MTBLS144	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS144	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS144	untargeted metabolites		untargeted
+MTBLS145	exercise	http://www.ebi.ac.uk/efo/EFO_0000483	target
+MTBLS145	circadian rhythm	http://www.ebi.ac.uk/efo/EFO_0004354	target
+MTBLS145	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS145	targeted metabolomics		un-mapped
+MTBLS146	pregnancy	http://www.ebi.ac.uk/efo/EFO_0002950	target
+MTBLS146	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS146	blood plasma	http://purl.obolibrary.org/obo/BTO_0000131	target
+MTBLS146	shotgun lipidomics		un-mapped
+MTBLS146	carnitine profiling		un-mapped
+MTBLS146	non-targeted metabolite profiling		un-mapped
+MTBLS146	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS146	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS147	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS147	cardiovascular disease	http://www.ebi.ac.uk/efo/EFO_0000319	target
+MTBLS147	targeted metabolites		un-mapped
+MTBLS148	untargeted metabolites		untargeted
+MTBLS148	urine	http://purl.obolibrary.org/obo/UBERON_0001088	target
+MTBLS148	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS149	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS149	Cholestasis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C83006	target
+MTBLS149	thioacetamide	http://purl.obolibrary.org/obo/CHEBI_32497	target
+MTBLS149	Bile duct ligation		un-mapped
+MTBLS149	orthogonal partial least squares discriminant analysis (OPLS-DA)		un-mapped
+MTBLS149	Huang Lian	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2626	target
+MTBLS149	Huang-Lian-Jie-Du-Decoction (HLJDD)		un-mapped
+MTBLS149	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS149	untargeted metabolites		untargeted
+MTBLS150	untargeted metabolites		untargeted
+MTBLS150	Ovarian cancer	http://purl.obolibrary.org/obo/OMIM_167000	target
+MTBLS150	Cancer Stem Cell	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68706	target
+MTBLS150	cancer metabolism		un-mapped
+MTBLS150	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS150	two-dimensional gas chromatography	http://purl.obolibrary.org/obo/CHMO_0002886	target
+MTBLS151	untargeted metabolites		untargeted
+MTBLS151	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS151	Chemometrics		un-mapped
+MTBLS151	Nilaparvata lugens	http://purl.bioontology.org/ontology/NCBITAXON/108931	target
+MTBLS152	untargeted metabolites		untargeted
+MTBLS152	Ovarian cancer	http://purl.obolibrary.org/obo/OMIM_167000	target
+MTBLS152	Cancer Stem Cell	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68706	target
+MTBLS152	cancer metabolism		un-mapped
+MTBLS152	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS152	two-dimensional gas chromatography	http://purl.obolibrary.org/obo/CHMO_0002886	target
+MTBLS154	Phytoplankton	http://www.owl-ontologies.com/unnamed.owl#Phytoplankton	target
+MTBLS154	Carbon Cycle	http://purl.bioontology.org/ontology/MESH/D057486	target
+MTBLS154	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS154	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS154	targeted metabolites		un-mapped
+MTBLS154	untargeted metabolites		untargeted
+MTBLS155	Phytoplankton	http://www.owl-ontologies.com/unnamed.owl#Phytoplankton	target
+MTBLS155	Carbon Cycle	http://purl.bioontology.org/ontology/MESH/D057486	target
+MTBLS155	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS155	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS155	targeted metabolites		un-mapped
+MTBLS155	untargeted metabolites		untargeted
+MTBLS156	untargeted metabolites		untargeted
+MTBLS156	high-resolution magic angle spinning	http://purl.obolibrary.org/obo/CHMO_0000618	target
+MTBLS156	hexacationic ruthenium metallaprism		un-mapped
+MTBLS156	cancer cells		un-mapped
+MTBLS156	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS157	Carbon Cycle	http://purl.bioontology.org/ontology/MESH/D057486	target
+MTBLS157	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS157	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS157	targeted metabolites		un-mapped
+MTBLS157	untargeted metabolites		untargeted
+MTBLS158	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS158	targeted metabolomics		un-mapped
+MTBLS160	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513	target
+MTBLS160	hydroponic plant culture media	http://purl.obolibrary.org/obo/EO_0007067	target
+MTBLS160	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS160	untargeted metabolites		untargeted
+MTBLS160	targeted metabolites		un-mapped
+MTBLS161	Chronic Fatigue Syndrome	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3037	target
+MTBLS161	Glycolysis Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39095	target
+MTBLS161	Oxidative Stress	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17741	target
+MTBLS161	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS161	untargeted metabolites		untargeted
+MTBLS161	Energy metabolism	http://scai.fraunhofer.de/AlzheimerOntology#Energy_metabolism	target
+MTBLS161	amino acid	http://purl.obolibrary.org/obo/CHEBI_33709	target
+MTBLS162	Lipogenesis	http://purl.bioontology.org/ontology/MESH/D050155	target
+MTBLS162	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS162	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS162	Dyslipidaemia	http://purl.bioontology.org/ontology/MEDDRA/10058108	target
+MTBLS162	targeted metabolites		un-mapped
+MTBLS163	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701	target
+MTBLS163	endocannabinoid	http://purl.obolibrary.org/obo/CHEBI_67197	target
+MTBLS163	lipoprotein	http://purl.obolibrary.org/obo/CHEBI_6495	target
+MTBLS163	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS163	targeted metabolites		un-mapped
+MTBLS164	untargeted metabolites		untargeted
+MTBLS164	Walking	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73554	target
+MTBLS164	Diabetes Mellitus	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2985	target
+MTBLS164	acetic acid	http://purl.obolibrary.org/obo/CHEBI_15366	target
+MTBLS164	proton transfer reaction mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000570	target
+MTBLS164	acetone	http://purl.obolibrary.org/obo/CHEBI_15347	target
+MTBLS165	untargeted metabolites		untargeted
+MTBLS165	Lactation	http://purl.bioontology.org/ontology/SNOMEDCT/63158009	target
+MTBLS165	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS166	hexabromocyclododecane	http://purl.bioontology.org/ontology/MESH/C089796	target
+MTBLS166	untargeted metabolites		untargeted
+MTBLS166	amino acid	http://purl.obolibrary.org/obo/CHEBI_33709	target
+MTBLS166	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS168	untargeted metabolites		untargeted
+MTBLS168	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS168	epistasis	http://purl.obolibrary.org/obo/MI_0797	target
+MTBLS169	comparative phenotypic assessment	http://purl.obolibrary.org/obo/OBI_0001546	target
+MTBLS169	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS169	time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000580	target
+MTBLS170	Methicillin Resistant Staphylococcus aureus	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123515	target
+MTBLS170	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS170	metabolite profiling	http://purl.obolibrary.org/obo/OBI_0000366	target
+MTBLS170	untargeted metabolites		untargeted
+MTBLS171	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS171	trimethylsilyl derivatisation	http://purl.obolibrary.org/obo/CHMO_0002758	target
+MTBLS171	urine	http://purl.obolibrary.org/obo/BTO_0001419	target
+MTBLS171	untargeted metabolites		untargeted
+MTBLS172	untargeted metabolites		untargeted
+MTBLS172	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS172	colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842	target
+MTBLS172	Anesthesia	http://purl.bioontology.org/ontology/MESH/D000758	target
+MTBLS173	Respiratory capacity		un-mapped
+MTBLS173	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757	target
+MTBLS173	aging	http://purl.obolibrary.org/obo/GO_0007568	target
+MTBLS173	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS173	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS173	targeted metabolites		un-mapped
+MTBLS174	untargeted metabolites		untargeted
+MTBLS174	Steatosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C36185	target
+MTBLS174	metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195	target
+MTBLS174	Human Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70665	target
+MTBLS174	Serum global profiling		un-mapped
+MTBLS174	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS175	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS175	multivariate statistics 		un-mapped
+MTBLS175	(-)-methyl jasmonate	http://purl.obolibrary.org/obo/CHEBI_15929	target
+MTBLS175	Terpenoid Biosynthesis Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38872	target
+MTBLS175	untargeted metabolites		untargeted
+MTBLS175	targeted metabolites		un-mapped
+MTBLS175	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS176	mass spectrometry	http://www.bioassayontology.org/bao#BAO_0000055	target
+MTBLS176	desorption electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000484	target
+MTBLS176	Matrix assisted laser desorption ionisation 		un-mapped
+MTBLS177	targeted metabolites		un-mapped
+MTBLS177	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS177	DNA Damage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16507	target
+MTBLS177	EC 2.4.2.30 (NAD(+) ADP-ribosyltransferase) inhibitor	http://purl.obolibrary.org/obo/CHEBI_62913	target
+MTBLS177	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS178	untargeted metabolites		untargeted
+MTBLS178	Sasang constitutional medicine	http://www.ebi.ac.uk/efo/EFO_0004892	target
+MTBLS178	Multivariate statistics		un-mapped
+MTBLS178	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS179	Airway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89842	target
+MTBLS179	Bacterial Infection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2890	target
+MTBLS179	high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001009	target
+MTBLS179	targeted metabolomics		un-mapped
+MTBLS179	untargeted metabolomics		untargeted
+MTBLS182	tracer-based metabolomics		un-mapped
+MTBLS182	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS182	isotopologue		un-mapped
+MTBLS182	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS183	tracer-based metabolomics		un-mapped
+MTBLS183	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS183	MCF-7	http://www.ebi.ac.uk/efo/EFO_0001203	target
+MTBLS183	isotopologue		un-mapped
+MTBLS183	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS183	Fluxomics	http://www.mygrid.org.uk/ontology/JERMOntology#Fluxomics	target
+MTBLS183	glutamine	http://purl.obolibrary.org/obo/CHEBI_28300	target
+MTBLS183	oligomycin	http://purl.obolibrary.org/obo/CHEBI_25675	target
+MTBLS184	tracer-based metabolomics		un-mapped
+MTBLS184	lung cancer	http://purl.obolibrary.org/obo/DOID_1324	target
+MTBLS184	A549	http://www.ebi.ac.uk/efo/EFO_0001086	target
+MTBLS184	isotopologue		un-mapped
+MTBLS184	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS184	NCI-H460	http://www.ebi.ac.uk/efo/EFO_0003044	target
+MTBLS184	BEAS-2B	http://www.ebi.ac.uk/efo/EFO_0001089	target
+MTBLS184	Fluxomics	http://www.mygrid.org.uk/ontology/JERMOntology#Fluxomics	target
+MTBLS185	untargeted metabolites		untargeted
+MTBLS185	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS185	prednisolone	http://purl.obolibrary.org/obo/CHEBI_8378	target
+MTBLS185	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS187	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS187	microbial mat	http://purl.obolibrary.org/obo/ENVO_01000008	target
+MTBLS187	poly(hydroxyalkanoate)	http://purl.obolibrary.org/obo/CHEBI_53387	target
+MTBLS187	CETYL ESTERS WAX	http://purl.obolibrary.org/obo/DRON_00723553	target
+MTBLS187	untargeted metabolites		untargeted
+MTBLS187	targeted metabolites		un-mapped
+MTBLS187	Chloroflexus	http://purl.bioontology.org/ontology/NCBITAXON/1107	target
+MTBLS188	spike-in quality control role	http://purl.obolibrary.org/obo/OBI_0001140	target
+MTBLS188	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS188	untargeted metabolites		untargeted
+MTBLS189	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS189	untargeted metabolites		untargeted
+MTBLS189	Astragali Radix		un-mapped
+MTBLS189	chemical differences		un-mapped
+MTBLS189	metabolic changes		un-mapped
+MTBLS191	exercise	http://www.ebi.ac.uk/efo/EFO_0000483	target
+MTBLS191	untargeted metabolites		untargeted
+MTBLS191	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS191	Glycolysis Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39095	target
+MTBLS191	high intensity excercise		un-mapped
+MTBLS191	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS191	low volume		un-mapped
+MTBLS193	Batch effects		un-mapped
+MTBLS193	untargeted metabolites		untargeted
+MTBLS193	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS194	Matrix effect		un-mapped
+MTBLS194	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS194	Chemical isotope Labeling		un-mapped
+MTBLS194	targeted metabolites		un-mapped
+MTBLS196	untargeted metabolites		untargeted
+MTBLS196	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS196	Systems biology	http://edamontology.org/topic_2259	target
+MTBLS196	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS196	H1N1 Influenza	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C80444	target
+MTBLS196	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS197	ABCC5	http://purl.obolibrary.org/obo/NCBIGene_10057	target
+MTBLS197	kainic acid	http://purl.obolibrary.org/obo/CHEBI_31746	target
+MTBLS197	glutamate analogs		un-mapped
+MTBLS197	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS197	glutamate conjugates		un-mapped
+MTBLS197	untargeted metabolites		untargeted
+MTBLS197	Blood-Brain-Barrier	http://www.projecthalo.com/aura#Blood-Brain-Barrier	target
+MTBLS197	Neurotoxin	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C688	target
+MTBLS197	drug transport	http://purl.obolibrary.org/obo/GO_0015893	target
+MTBLS197	neurotransmitter transport	http://purl.obolibrary.org/obo/GO_0006836	target
+MTBLS197	MRP5	http://purl.obolibrary.org/obo/NCBIGene_839277	target
+MTBLS198	untargeted metabolites		untargeted
+MTBLS198	Cardiovascular health		un-mapped
+MTBLS198	flavonoids	http://purl.obolibrary.org/obo/CHEBI_72544	target
+MTBLS198	Dietary Intervention	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15447	target
+MTBLS198	Fruit and vegetables		un-mapped
+MTBLS200	Clinical Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15206	target
+MTBLS200	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS200	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS200	untargeted metabolies		untargeted
+MTBLS200	lung cancer	http://purl.obolibrary.org/obo/DOID_1324	target
+MTBLS200	Personalized Medicine	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84342	target
+MTBLS203	untargeted metabolites		untargeted
+MTBLS203	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS203	Natural variation 		un-mapped
+MTBLS203	Herbivory	http://purl.bioontology.org/ontology/MESH/D060434	target
+MTBLS203	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS203	Manduca sexta	http://purl.bioontology.org/ontology/NCBITAXON/7130	target
+MTBLS203	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS208	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS208	nitrogen deprivation		un-mapped
+MTBLS208	triglyceride	http://purl.obolibrary.org/obo/CHEBI_17855	target
+MTBLS208	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS208	untargeted metabolites		untargeted
+MTBLS209	targeted metabolites		un-mapped
+MTBLS209	grape metabolome		un-mapped
+MTBLS209	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS209	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS209	untargeted metabolites		untargeted
+MTBLS209	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS210	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS210	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS210	untargeted metabolites		untargeted
+MTBLS210	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS210	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS212	Wine	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66822	target
+MTBLS212	two-dimensional gas chromatography	http://purl.obolibrary.org/obo/CHMO_0002886	target
+MTBLS212	time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000580	target
+MTBLS212	Sauvignon blanc		un-mapped
+MTBLS212	fermentation	http://purl.obolibrary.org/obo/CHMO_0001624	target
+MTBLS212	untargeted metabolite profiling		untargeted
+MTBLS212	sensory analysis		un-mapped
+MTBLS212	solid-phase micro-extraction	http://purl.obolibrary.org/obo/CHMO_0001586	target
+MTBLS213	untargeted metabolites		untargeted
+MTBLS213	carbon tracking		un-mapped
+MTBLS213	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS213	Diabetic Retinopathy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34538	target
+MTBLS214	hyperosmotic salinity response	http://purl.obolibrary.org/obo/GO_0042538	target
+MTBLS214	untargeted metabolites		untargeted
+MTBLS214	dry eye syndrome	http://www.ebi.ac.uk/efo/EFO_1000906	target
+MTBLS214	hyperosmolarity	http://purl.bioontology.org/ontology/DIAB/DIAB_000012	target
+MTBLS214	osmoprotectants		un-mapped
+MTBLS214	response to osmotic stress	http://purl.obolibrary.org/obo/GO_0006970	target
+MTBLS214	ultra-fast liquid chromatography-mass spectrometry		un-mapped
+MTBLS215	field ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000491	target
+MTBLS215	targeted metabolites		un-mapped
+MTBLS215	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS216	Toxoplasma gondii	http://purl.bioontology.org/ontology/NCBITAXON/5811	target
+MTBLS216	untargeted metabolites		untargeted
+MTBLS216	parasite host	http://purl.obolibrary.org/obo/IDO_0000536	target
+MTBLS216	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS217	Toxoplasma gondii	http://purl.bioontology.org/ontology/NCBITAXON/5811	target
+MTBLS217	untargeted metabolites		untargeted
+MTBLS217	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS217	parasite host	http://purl.obolibrary.org/obo/IDO_0000536	target
+MTBLS218	Bariatric Surgery	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C84399	target
+MTBLS218	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS218	untargeted metabolites		untargeted
+MTBLS218	XCMS	http://purl.obolibrary.org/obo/MS_1001582	target
+MTBLS219	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS219	Gene Knockout	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18143	target
+MTBLS219	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS219	untargeted metabolites		untargeted
+MTBLS225	2,3,7,8-tetrachlorodibenzodioxine	http://purl.obolibrary.org/obo/CHEBI_28119	target
+MTBLS225	Dose-Response Relationship, Drug	http://purl.bioontology.org/ontology/MESH/D004305	target
+MTBLS225	targeted metabolites		un-mapped
+MTBLS225	Hepatotoxicity	http://purl.bioontology.org/ontology/MEDDRA/10019851	target
+MTBLS225	liquid chromatography-tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000701	target
+MTBLS225	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS226	two-dimensional gas chromatography	http://purl.obolibrary.org/obo/CHMO_0002886	target
+MTBLS226	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS226	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS226	Apoptosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17557	target
+MTBLS226	untargeted metabolites		untargeted
+MTBLS227	glycan	http://glycomics.ccrc.uga.edu/ontologies/GlycO#glycan	target
+MTBLS227	colorectal cancer cell line	http://purl.obolibrary.org/obo/BTO_0001616	target
+MTBLS227	nanoflow high-performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0001279	target
+MTBLS227	matrix-assisted laser desorption-ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000519	target
+MTBLS227	untargeted metabolites		untargeted
+MTBLS228	isotope method	http://purl.obolibrary.org/obo/FIX_0000359	target
+MTBLS228	nanoscale high performance liquid chromatography mass spectrometry		un-mapped
+MTBLS228	untargeted metabolites		untargeted
+MTBLS228	DynaMet		un-mapped
+MTBLS229	isotope method	http://purl.obolibrary.org/obo/FIX_0000359	target
+MTBLS229	nanoscale high performance liquid chromatography mass spectrometry		un-mapped
+MTBLS229	untargeted metabolites		untargeted
+MTBLS229	DynaMet		un-mapped
+MTBLS230	untargeted metabolites		untargeted
+MTBLS230	phenotype	http://www.ebi.ac.uk/efo/EFO_0000651	target
+MTBLS230	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS230	cell culture	http://purl.obolibrary.org/obo/BTO_0000214	target
+MTBLS233	untargeted metabolomics		untargeted
+MTBLS233	Scan range splitting		un-mapped
+MTBLS233	HPLC-MS	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS234	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS234	targeted metabolites		un-mapped
+MTBLS234	LC-MS label-free quantitation analysis	http://purl.obolibrary.org/obo/MS_1001834	target
+MTBLS235	targeted metabolites		un-mapped
+MTBLS235	LC-MS label-free quantitation analysis	http://purl.obolibrary.org/obo/MS_1001834	target
+MTBLS235	liquid chromatogaphy-mass spectrometry data simulation		un-mapped
+MTBLS237	untargeted metabolites		untargeted
+MTBLS237	Dysbiosis	http://purl.bioontology.org/ontology/MESH/D064806	target
+MTBLS237	inflammatory bowel disease	http://www.ebi.ac.uk/efo/EFO_0003767	target
+MTBLS237	ulcerative colitis	http://www.ebi.ac.uk/efo/EFO_0000729	target
+MTBLS237	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS237	Crohn's disease	http://www.ebi.ac.uk/efo/EFO_0000384	target
+MTBLS240	colorectal cancer	http://www.ebi.ac.uk/efo/EFO_0005842	target
+MTBLS240	Familial adenomatous polyposis	http://www.orpha.net/ORDO/Orphanet_733	target
+MTBLS240	Apc_Min/+		un-mapped
+MTBLS240	maslinic acid	http://purl.obolibrary.org/obo/CHEBI_66682	target
+MTBLS240	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS240	untargeted metabolites		untargeted
+MTBLS241	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS241	tracer-based metabolomics		un-mapped
+MTBLS241	isotopomer	http://www.semanticweb.org/ontologies/2010/3/Ontology1271664172453.owl#isotopomer	target
+MTBLS241	Fluxomics	http://www.mygrid.org.uk/ontology/JERMOntology#Fluxomics	target
+MTBLS241	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS242	untargeted metabolites		untargeted
+MTBLS242	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS242	gastric bypass	http://www.ebi.ac.uk/efo/EFO_0005244	target
+MTBLS242	Sleeve gastrectomy	http://purl.bioontology.org/ontology/MEDDRA/10070978	target
+MTBLS243	reversed-phase solid-phase extraction	http://purl.obolibrary.org/obo/CHMO_0001585	target
+MTBLS243	inflammation	http://purl.obolibrary.org/obo/MP_0001845	target
+MTBLS243	targeted metabolites		un-mapped
+MTBLS243	arthritis	http://www.ebi.ac.uk/efo/EFO_0005856	target
+MTBLS243	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS243	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS244	peritoneal macrophage	http://purl.obolibrary.org/obo/CL_0000581	target
+MTBLS244	ovarian surface epithelial cell		un-mapped
+MTBLS244	Fluxomics	http://www.mygrid.org.uk/ontology/JERMOntology#Fluxomics	target
+MTBLS244	Co-Culture	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93168	target
+MTBLS244	isotopologue		un-mapped
+MTBLS244	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS244	tracer-based metabolomics		un-mapped
+MTBLS247	PEPA		un-mapped
+MTBLS247	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS247	untargeted metabolites		untargeted
+MTBLS247	tracer		un-mapped
+MTBLS247	exonuclease 3'-5' domain-containing protein 2	http://purl.obolibrary.org/obo/PR_000030843	target
+MTBLS249	chronic obstructive pulmonary disease	http://www.ebi.ac.uk/efo/EFO_0000341	target
+MTBLS249	targeted metabolites		un-mapped
+MTBLS249	Skeletal muscle dysfunction 		un-mapped
+MTBLS249	exercise	http://www.ebi.ac.uk/efo/EFO_0000483	target
+MTBLS249	Endurance training		un-mapped
+MTBLS249	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS253	targeted metabolites		un-mapped
+MTBLS253	chronic hepatitis B infection	http://www.ebi.ac.uk/efo/EFO_0004239	target
+MTBLS253	inflammation	http://purl.obolibrary.org/obo/MP_0001845	target
+MTBLS253	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS253	solid-phase micro-extraction	http://purl.obolibrary.org/obo/CHMO_0001586	target
+MTBLS256	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS256	Pattern_Recognition	http://www.cvrgrid.org/files/ECGOntologyv1.owl#ECG_000000395	target
+MTBLS256	untargeted metabolites		untargeted
+MTBLS256	Duchenne muscular dystrophy	http://www.orpha.net/ORDO/Orphanet_98896	target
+MTBLS256	taurine	http://purl.obolibrary.org/obo/CHEBI_15891	target
+MTBLS259	D.pulex WTN6		un-mapped
+MTBLS259	Environmental sex determination (ESD)		un-mapped
+MTBLS259	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS259	untargeted metabolites		untargeted
+MTBLS260	silver nanoparticle	http://purl.obolibrary.org/obo/CHEBI_50826	target
+MTBLS260	silver(0)	http://purl.obolibrary.org/obo/CHEBI_9141	target
+MTBLS260	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS260	fourier transform ion cyclotron resonance mass spectrometer	http://purl.obolibrary.org/obo/MS_1000079	target
+MTBLS260	untargeted metabolites		untargeted
+MTBLS261	Hepatic steatosis	http://purl.obolibrary.org/obo/HP_0001397	target
+MTBLS261	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS261	targeted metabolites		un-mapped
+MTBLS261	Functional genomics	http://edamontology.org/topic_0085	target
+MTBLS261	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS263	Variation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25713	target
+MTBLS263	blood metabolome		un-mapped
+MTBLS263	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS263	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS263	untargeted metabolites		untargeted
+MTBLS264	blood metabolome		un-mapped
+MTBLS264	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS264	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS264	Variation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25713	target
+MTBLS264	untargeted metabolites		untargeted
+MTBLS265	blood metabolome		un-mapped
+MTBLS265	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS265	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS265	untargeted metabolites		untargeted
+MTBLS266	blood metabolome		un-mapped
+MTBLS266	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS266	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS266	untargeted metabolites		untargeted
+MTBLS267	blood metabolome		un-mapped
+MTBLS267	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS267	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS267	untargeted metabolites		untargeted
+MTBLS269	blood metabolome		un-mapped
+MTBLS269	fasting	http://www.ebi.ac.uk/efo/EFO_0002756	target
+MTBLS269	untargeted metabolites		untargeted
+MTBLS269	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS269	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS270	Horticulture	http://sweet.jpl.nasa.gov/2.3/humanAgriculture.owl#Horticulture	target
+MTBLS270	sesquiterpene	http://purl.obolibrary.org/obo/CHEBI_35189	target
+MTBLS270	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS270	untargeted metabolites		untargeted
+MTBLS272	untargeted metabolites		untargeted
+MTBLS272	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS272	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS272	camalexin	http://purl.obolibrary.org/obo/CHEBI_22990	target
+MTBLS272	glucosinolate	http://purl.obolibrary.org/obo/CHEBI_24279	target
+MTBLS272	lipopolysaccharide	http://purl.obolibrary.org/obo/CHEBI_16412	target
+MTBLS272	Multivariate data analysis	http://journals.plos.org/plosone/browse/#6477	target
+MTBLS272	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS273	desorption electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000484	target
+MTBLS273	untargeted metabolites		untargeted
+MTBLS273	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS274	untargeted metabolites		untargeted
+MTBLS274	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS274	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS274	Botanical Therapy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15250	target
+MTBLS274	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS274	Australian aborigine	http://purl.bioontology.org/ontology/SNOMEDCT/413600007	target
+MTBLS275	untargeted metabolites		untargeted
+MTBLS275	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS275	3,5,6-trichloropyridine-2-one	http://purl.obolibrary.org/obo/CHEBI_83490	target
+MTBLS275	organophosphorus insecticide	http://purl.obolibrary.org/obo/CHEBI_25711	target
+MTBLS275	Subchronic effects		un-mapped
+MTBLS276	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS276	DNA Analysis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17632	target
+MTBLS276	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS276	targeted metabolites		un-mapped
+MTBLS277	nanomaterial	http://purl.bioontology.org/ontology/npo#NPO_199	target
+MTBLS277	toxicity profiling		un-mapped
+MTBLS277	A-549 cell	http://purl.obolibrary.org/obo/BTO_0000018	target
+MTBLS277	THP-1 cell	http://purl.obolibrary.org/obo/BTO_0001370	target
+MTBLS277	lung	http://purl.obolibrary.org/obo/BTO_0000763	target
+MTBLS277	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS277	untargeted metabolites		untargeted
+MTBLS278	PPARs		un-mapped
+MTBLS278	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS278	untargeted metabolites		untargeted
+MTBLS278	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS278	icosanoid	http://purl.obolibrary.org/obo/CHEBI_23899	target
+MTBLS279	targeted metabolites		un-mapped
+MTBLS279	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS279	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS279	chronic hepatitis B infection	http://www.ebi.ac.uk/efo/EFO_0004239	target
+MTBLS280	targeted metabolites		un-mapped
+MTBLS280	amine	http://purl.obolibrary.org/obo/CHEBI_32952	target
+MTBLS280	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS280	chronic hepatitis B infection	http://www.ebi.ac.uk/efo/EFO_0004239	target
+MTBLS280	O-acylcarnitine	http://purl.obolibrary.org/obo/CHEBI_17387	target
+MTBLS281	marine sponge reef	http://purl.obolibrary.org/obo/ENVO_01000161	target
+MTBLS281	dissolved organic matter		un-mapped
+MTBLS281	coral reef	http://purl.obolibrary.org/obo/ENVO_00000150	target
+MTBLS281	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS281	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS281	untargeted metabolites		untargeted
+MTBLS281	targeted metabolites		un-mapped
+MTBLS282	liver cancer	http://purl.obolibrary.org/obo/DOID_3571	target
+MTBLS282	desorption electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000484	target
+MTBLS282	untargeted metabolites		untargeted
+MTBLS283	untargeted metabolites		untargeted
+MTBLS283	STATegra		un-mapped
+MTBLS283	DNA-Binding Protein Ikaros	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68732	target
+MTBLS283	time-course differentiation		un-mapped
+MTBLS283	pre-B cell line B3		un-mapped
+MTBLS283	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS283	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS283	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS286	untargeted metabolites		untargeted
+MTBLS286	seed development	http://purl.obolibrary.org/obo/GO_0048316	target
+MTBLS286	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS287	untargeted metabolites		untargeted
+MTBLS287	seed development	http://purl.obolibrary.org/obo/GO_0048316	target
+MTBLS287	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS288	untargeted metabolites		untargeted
+MTBLS288	seed development	http://purl.obolibrary.org/obo/GO_0048316	target
+MTBLS288	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS289	colorectal adenocarcinoma	http://purl.obolibrary.org/obo/DOID_0050861	target
+MTBLS289	untargeted metabolites		untargeted
+MTBLS289	desorption electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000484	target
+MTBLS290	Parallel factor analysis		un-mapped
+MTBLS290	Compositional data		un-mapped
+MTBLS290	targeted metabolites		un-mapped
+MTBLS290	creatinine	http://purl.obolibrary.org/obo/CHEBI_16737	target
+MTBLS290	Area Under Curve	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64774	target
+MTBLS290	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS290	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS291	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS291	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS291	Lipid identification benchmark		un-mapped
+MTBLS291	Benchmark	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47895	target
+MTBLS291	untargeted metabolites		untargeted
+MTBLS292	circadian rhythm	http://www.ebi.ac.uk/efo/EFO_0004354	target
+MTBLS292	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS292	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	target
+MTBLS292	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS292	targeted metabolites		un-mapped
+MTBLS293	Carbon	http://purl.bioontology.org/ontology/MESH/D002244	target
+MTBLS293	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS293	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS293	untargeted metabolites		untargeted
+MTBLS293	targeted metabolites		un-mapped
+MTBLS295	Phytoplankton	http://www.owl-ontologies.com/unnamed.owl#Phytoplankton	target
+MTBLS295	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS295	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS295	untargeted metabolites		untargeted
+MTBLS295	targeted metabolites		un-mapped
+MTBLS296	yeast product	http://purl.obolibrary.org/obo/ENVO_0010056	target
+MTBLS296	Yeast extract	http://purl.jp/bio/10/gmo/GMO_001003	target
+MTBLS296	Quality Control	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15311	target
+MTBLS296	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS296	untargeted metabolites		untargeted
+MTBLS297	Plant Metabolomics		un-mapped
+MTBLS297	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS297	untargeted metabolites		untargeted
+MTBLS297	targeted metabolites		un-mapped
+MTBLS298	non-alcoholic fatty liver disease	http://www.ebi.ac.uk/efo/EFO_0003095	target
+MTBLS298	Catheterization	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38045	target
+MTBLS298	two-dimensional chromatography	http://purl.obolibrary.org/obo/CHMO_0001018	target
+MTBLS298	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS298	untargeted metabolites		untargeted
+MTBLS303	targeted metabolites		un-mapped
+MTBLS303	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS303	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS303	untargeted metabolites		untargeted
+MTBLS303	PPARs		un-mapped
+MTBLS303	O-acylcarnitine	http://purl.obolibrary.org/obo/CHEBI_17387	target
+MTBLS304	Tuberculosis	http://www.orpha.net/ORDO/Orphanet_3389	target
+MTBLS304	dormancy process	http://purl.obolibrary.org/obo/GO_0022611	target
+MTBLS304	Hypoxia	http://www.co-ode.org/ontologies/galen#Hypoxia	target
+MTBLS304	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS304	untargeted metabolites		untargeted
+MTBLS306	untargeted metabolites		untargeted
+MTBLS306	exercise	http://www.ebi.ac.uk/efo/EFO_0000483	target
+MTBLS306	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS306	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS306	maximal oxygen consumption	http://purl.obolibrary.org/obo/CMO_0000135	target
+MTBLS306	purines	http://purl.obolibrary.org/obo/CHEBI_26401	target
+MTBLS306	O-acylcarnitine	http://purl.obolibrary.org/obo/CHEBI_17387	target
+MTBLS307	drug	http://purl.obolibrary.org/obo/CHEBI_23888	target
+MTBLS307	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS307	metabolic process	http://purl.obolibrary.org/obo/GO_0008152	target
+MTBLS307	spectral similarity		un-mapped
+MTBLS307	biomolecular annotation design	http://www.ebi.ac.uk/efo/EFO_0004665	target
+MTBLS307	untargeted metabolites		untargeted
+MTBLS307	hypertension	http://www.ebi.ac.uk/efo/EFO_0000537	target
+MTBLS309	targeted metabolites		un-mapped
+MTBLS309	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS309	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS309	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS309	hydrogencarbonate	http://purl.obolibrary.org/obo/CHEBI_17544	target
+MTBLS309	guard cell	http://purl.obolibrary.org/obo/CL_0000292	target
+MTBLS309	mesophyll cell	http://www.ebi.ac.uk/efo/EFO_0002439	target
+MTBLS311	targeted metabolites		un-mapped
+MTBLS311	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS311	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS311	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS311	hydrogencarbonate	http://purl.obolibrary.org/obo/CHEBI_17544	target
+MTBLS312	targeted metabolites		un-mapped
+MTBLS312	untargeted metabolites		untargeted
+MTBLS312	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS312	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS312	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS312	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS312	guard cell	http://purl.obolibrary.org/obo/CL_0000292	target
+MTBLS312	carbon dioxide	http://purl.obolibrary.org/obo/CHEBI_16526	target
+MTBLS312	reactive oxygen species	http://purl.obolibrary.org/obo/CHEBI_26523	target
+MTBLS312	jasmonate signalling		un-mapped
+MTBLS312	stomatal movement	http://purl.obolibrary.org/obo/GO_0010118	target
+MTBLS313	Spatial metabolomics		un-mapped
+MTBLS313	Metabolite-Signal Match (MSM) score		un-mapped
+MTBLS313	False Discovery Rate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64214	target
+MTBLS313	matrix-assisted laser desorption-ionisation imaging mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000054	target
+MTBLS313	untargeted metabolites		untargeted
+MTBLS315	fever	http://purl.obolibrary.org/obo/HP_0001945	target
+MTBLS315	sepsis	http://www.ebi.ac.uk/efo/EFO_0001420	target
+MTBLS315	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS315	Diagnosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220	target
+MTBLS315	malaria	http://www.ebi.ac.uk/efo/EFO_0001068	target
+MTBLS315	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS315	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS315	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS315	non-malarial febrile illness		un-mapped
+MTBLS315	untargeted metabolites		untargeted
+MTBLS316	untargeted metabolites		untargeted
+MTBLS316	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS316	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS316	CDP-choline	http://purl.obolibrary.org/obo/CHEBI_16436	target
+MTBLS316	ergothioneine	http://purl.obolibrary.org/obo/CHEBI_4828	target
+MTBLS316	longevity	http://www.ebi.ac.uk/efo/EFO_0004300	target
+MTBLS316	trehalose	http://purl.obolibrary.org/obo/CHEBI_27082	target
+MTBLS317	Simulation experiment		un-mapped
+MTBLS317	Spatial metabolomics		un-mapped
+MTBLS317	Metabolite-Signal Match (MSM) score		un-mapped
+MTBLS317	False Discovery Rate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64214	target
+MTBLS317	matrix-assisted laser desorption-ionisation imaging mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000054	target
+MTBLS317	targeted metabolites		un-mapped
+MTBLS319	Bacteria	http://purl.bioontology.org/ontology/NCBITAXON/629395	target
+MTBLS319	toluene	http://purl.obolibrary.org/obo/CHEBI_17578	target
+MTBLS319	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS319	untargeted metabolites		untargeted
+MTBLS320	Bacteria	http://purl.bioontology.org/ontology/NCBITAXON/2	target
+MTBLS320	propranolol	http://purl.obolibrary.org/obo/CHEBI_8499	target
+MTBLS320	ornithine	http://purl.obolibrary.org/obo/CHEBI_18257	target
+MTBLS320	efflux pump complex	http://purl.obolibrary.org/obo/GO_1990281	target
+MTBLS320	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS320	untargeted metabolites		untargeted
+MTBLS321	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS321	untargeted metabolites		untargeted
+MTBLS321	eRah		un-mapped
+MTBLS322	untargeted metabolites		untargeted
+MTBLS322	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS322	rotator cuff tear	http://www.ebi.ac.uk/efo/EFO_1001250	target
+MTBLS322	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS322	fat cell	http://purl.obolibrary.org/obo/CL_0000136	target
+MTBLS322	Gene Expression	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16608	target
+MTBLS322	Tenotomy	http://purl.bioontology.org/ontology/MESH/D058971	target
+MTBLS322	Anabolic steroids	http://purl.bioontology.org/ontology/CPT/1022248	target
+MTBLS322	Androgen Receptor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17063	target
+MTBLS323	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS323	untargeted metabolites		untargeted
+MTBLS326	untargeted metabolites		untargeted
+MTBLS326	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS326	Inositol 1,4,5 trisphosphate receptor		un-mapped
+MTBLS326	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS327	Lipogenesis	http://purl.bioontology.org/ontology/MESH/D050155	target
+MTBLS327	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS327	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS327	Dyslipidaemia	http://purl.bioontology.org/ontology/MEDDRA/10058108	target
+MTBLS327	targeted metabolites		un-mapped
+MTBLS328	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS328	Co-Culture	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93168	target
+MTBLS328	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS328	untargeted metabolites		untargeted
+MTBLS330	untargeted metabolites		untargeted
+MTBLS330	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS330	WEIZMASS		un-mapped
+MTBLS330	MatchWeiz		un-mapped
+MTBLS331	Food Contamination	http://purl.bioontology.org/ontology/MESH/D005506	target
+MTBLS331	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS331	targeted metabolites		un-mapped
+MTBLS331	Saffron	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71823	target
+MTBLS331	Intentionally Adulterated Product	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C121837	target
+MTBLS332	plant-microbe interactions		un-mapped
+MTBLS332	untargeted metabolites		untargeted
+MTBLS332	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS332	microbiome	http://www.ebi.ac.uk/efo/EFO_0004982	target
+MTBLS332	Burkholderia	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C86222	target
+MTBLS332	Pseudomonas	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76375	target
+MTBLS333	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS333	untargeted metabolites		untargeted
+MTBLS333	procyanidin	http://purl.bioontology.org/ontology/MESH/C017674	target
+MTBLS334	Nutrition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28294	target
+MTBLS334	Obestatin	http://purl.obolibrary.org/obo/CHEBI_80316	target
+MTBLS334	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS334	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS334	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS334	untargeted metabolites		untargeted
+MTBLS335	Secondary Metabolism	http://purl.bioontology.org/ontology/MESH/D064210	target
+MTBLS335	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS335	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS335	untargeted metabolites		untargeted
+MTBLS336	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS336	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS336	heat tolerance	http://purl.obolibrary.org/obo/TO_0000259	target
+MTBLS336	Global Warming	http://purl.bioontology.org/ontology/MESH/D057232	target
+MTBLS336	untargeted metabolites		untargeted
+MTBLS337	Poly (ADP-Ribose) Polymerase Inhibitor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62554	target
+MTBLS337	breast carcinoma	http://www.ebi.ac.uk/efo/EFO_0000305	target
+MTBLS337	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS337	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS337	Radiation Therapy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15313	target
+MTBLS337	cell line	http://www.ebi.ac.uk/efo/EFO_0000322	target
+MTBLS337	untargeted metabolites		untargeted
+MTBLS338	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513	target
+MTBLS338	hydroponic plant culture media	http://purl.obolibrary.org/obo/EO_0007067	target
+MTBLS338	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS338	untargeted metabolites		untargeted
+MTBLS340	atrophic gastritis	http://www.ebi.ac.uk/efo/EFO_1000826	target
+MTBLS340	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS340	Correlative Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16100	target
+MTBLS340	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS340	untargeted metabolites		untargeted
+MTBLS341	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513	target
+MTBLS341	hydroponic plant culture media	http://purl.obolibrary.org/obo/EO_0007067	target
+MTBLS341	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS341	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS341	untargeted metabolites		untargeted
+MTBLS342	Species	http://bioonto.de/ro2.owl#Species	target
+MTBLS342	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS342	untargeted metabolites		untargeted
+MTBLS343	Lettuce	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C72028	target
+MTBLS343	Storage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C60824	target
+MTBLS343	Lipids	http://edamontology.org/topic_0153	target
+MTBLS343	monoacylglycerol phosphate	http://purl.obolibrary.org/obo/CHEBI_16961	target
+MTBLS343	phenols	http://purl.obolibrary.org/obo/CHEBI_33853	target
+MTBLS343	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS343	sesquiterpene lactone	http://purl.obolibrary.org/obo/CHEBI_37667	target
+MTBLS343	untargeted metabolites		untargeted
+MTBLS345	Systems Biology	http://purl.bioontology.org/ontology/MESH/D049490	target
+MTBLS345	microbiome	http://www.ebi.ac.uk/efo/EFO_0004982	target
+MTBLS345	Collaborative Cross		un-mapped
+MTBLS345	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS345	untargeted metabolites		untargeted
+MTBLS346	Genetic Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16621	target
+MTBLS346	untargeted metabolites		untargeted
+MTBLS346	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS346	iPLS		un-mapped
+MTBLS349	untargeted metabolites		untargeted
+MTBLS349	post-mortem interval		un-mapped
+MTBLS349	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS350	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS350	untargeted metabolites		untargeted
+MTBLS350	antioxidant	http://purl.obolibrary.org/obo/CHEBI_22586	target
+MTBLS352	ultra high performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0000795	target
+MTBLS352	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS352	lipid	http://purl.obolibrary.org/obo/CHEBI_18059	target
+MTBLS352	untargeted metabolites		untargeted
+MTBLS354	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS354	glycolipid	http://purl.obolibrary.org/obo/CHEBI_33563	target
+MTBLS354	phospholipid	http://purl.obolibrary.org/obo/CHEBI_16247	target
+MTBLS354	pneumonia	http://www.ebi.ac.uk/efo/EFO_0003106	target
+MTBLS354	sphingolipid	http://purl.obolibrary.org/obo/CHEBI_26739	target
+MTBLS354	ultra high performance liquid chromatography	http://purl.obolibrary.org/obo/CHMO_0000795	target
+MTBLS354	untargeted metabolites		untargeted
+MTBLS355	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748	target
+MTBLS355	stimulus or stress design	http://www.ebi.ac.uk/efo/EFO_0001762	target
+MTBLS355	gas chromatography-mass spectrometry		un-mapped
+MTBLS355	targeted metabolites		un-mapped
+MTBLS355	untargeted metabolites		untargeted
+MTBLS356	antiphospholipid syndrome	http://www.ebi.ac.uk/efo/EFO_0002689	target
+MTBLS356	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS356	untargeted metabolites		untargeted
+MTBLS356	Autoimmunity	http://purl.bioontology.org/ontology/MESH/D015551	target
+MTBLS358	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS358	Tobacco Smoke	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C829	target
+MTBLS358	Cigarette Smoking	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18270	target
+MTBLS358	Prospective Cohort Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53308	target
+MTBLS358	Chronic Obstructive Pulmonary Disease	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3199	target
+MTBLS358	Shotgun lipidomics		un-mapped
+MTBLS358	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS358	untargeted metabolites		untargeted
+MTBLS358	targeted metabolites		un-mapped
+MTBLS358	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS359	antibacterial agent	http://purl.obolibrary.org/obo/CHEBI_33282	target
+MTBLS359	Plant extract	http://purl.bioontology.org/ontology/SNOMEDCT/289941004	target
+MTBLS359	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS359	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS359	untargeted metabolites		untargeted
+MTBLS360	untargeted metabolites		untargeted
+MTBLS360	human african trypanosomiasis	http://www.ebi.ac.uk/efo/EFO_0005225	target
+MTBLS360	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS360	Sphingolipid metabolism	http://purl.obolibrary.org/obo/HINO_0014572	target
+MTBLS360	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS361	renal interstitial fibrosis	http://purl.obolibrary.org/obo/MP_0003215	target
+MTBLS361	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS361	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS361	targeted metabolites		un-mapped
+MTBLS361	unilateral ureteral obstruction		un-mapped
+MTBLS362	targeted metabolites		un-mapped
+MTBLS362	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS363	untargeted metabolites		untargeted
+MTBLS363	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS363	crassulacean acid metabolism		un-mapped
+MTBLS364	xenobiotic	http://purl.obolibrary.org/obo/CHEBI_35703	target
+MTBLS364	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS364	untargeted metabolites		untargeted
+MTBLS364	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS366	sea water	http://purl.obolibrary.org/obo/ENVO_00002149	target
+MTBLS366	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS366	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS366	untargeted metabolites		untargeted
+MTBLS367	targeted metabolites		un-mapped
+MTBLS367	Tracer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2480	target
+MTBLS367	13C-labelled glucose		un-mapped
+MTBLS367	Hypothermic machine perfusion		un-mapped
+MTBLS367	Transplantation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15342	target
+MTBLS367	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS367	two-dimensional nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000598	target
+MTBLS368	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS368	VITAMIN B3	http://purl.bioontology.org/ontology/NDFRT/N0000146087	target
+MTBLS368	nicotinic acid	http://purl.obolibrary.org/obo/CHEBI_15940	target
+MTBLS368	nicotinamide-beta-riboside	http://purl.bioontology.org/ontology/MESH/C018613	target
+MTBLS368	nicotinic acid dinucleotide	http://purl.obolibrary.org/obo/CHEBI_37584	target
+MTBLS368	targeted metabolites		un-mapped
+MTBLS370	Metabolomics	http://purl.bioontology.org/ontology/MESH/D055432	target
+MTBLS370	biofilm	http://purl.obolibrary.org/obo/BTO_0002690	target
+MTBLS370	gas chromatography-mass spectrometry		un-mapped
+MTBLS370	targeted metabolites		un-mapped
+MTBLS370	untargeted metabolites		untargeted
+MTBLS372	Hymenoscyphus fraxineus	http://purl.bioontology.org/ontology/NCBITAXON/746836	target
+MTBLS372	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS372	Iridoid Glucosides	http://purl.bioontology.org/ontology/MESH/D057888	target
+MTBLS372	untargeted metabolites		untargeted
+MTBLS372	Ash dieback		un-mapped
+MTBLS372	Agrilus planipennis	http://purl.bioontology.org/ontology/NCBITAXON/224129	target
+MTBLS372	Danish Test Panel		un-mapped
+MTBLS373	Functional genomics	http://edamontology.org/topic_0085	target
+MTBLS373	non-targeted metabolites		un-mapped
+MTBLS373	enzyme discovery		un-mapped
+MTBLS373	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS374	xenobiotic	http://purl.obolibrary.org/obo/CHEBI_35703	target
+MTBLS374	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS374	untargeted metabolites		untargeted
+MTBLS374	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS375	Arabidopsis thaliana	http://purl.obolibrary.org/obo/NCBITaxon_3702	target
+MTBLS375	reverse transcription polymerase chain reaction	http://purl.obolibrary.org/obo/MMO_0000461	target
+MTBLS375	jasmonic acid	http://purl.obolibrary.org/obo/CHEBI_18292	target
+MTBLS375	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS375	untargeted metabolites		untargeted
+MTBLS376	microbiome	http://www.ebi.ac.uk/efo/EFO_0004982	target
+MTBLS376	capillary electrophoresis-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000702	target
+MTBLS376	untargeted metabolites		untargeted
+MTBLS378	Spatial metabolomics		un-mapped
+MTBLS378	Metabolite-Signal Match score		un-mapped
+MTBLS378	False Discovery Rate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C64214	target
+MTBLS378	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS378	untargeted metabolites		untargeted
+MTBLS379	mite infestation	http://www.owl-ontologies.com/NPOntology.owl#DOID_7894	target
+MTBLS379	Varroa destructor	http://purl.bioontology.org/ontology/NCBITAXON/109461	target
+MTBLS379	ultra-performance liquid chromatography-mass spectrometry		un-mapped
+MTBLS379	untargeted metabolites		untargeted
+MTBLS379	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS380	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS380	targeted metabolomics		un-mapped
+MTBLS380	adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001013	target
+MTBLS380	circadian rhythm	http://www.ebi.ac.uk/efo/EFO_0004354	target
+MTBLS381	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS381	reference compound	http://purl.obolibrary.org/obo/BAO_0002092	target
+MTBLS381	untargeted metabolites		untargeted
+MTBLS382	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS382	untargeted metabolomics		untargeted
+MTBLS382	adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001013	target
+MTBLS382	circadian rhythm	http://www.ebi.ac.uk/efo/EFO_0004354	target
+MTBLS383	Fungi	http://purl.obolibrary.org/obo/NCBITaxon_4751	target
+MTBLS383	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS383	speciation	http://purl.obolibrary.org/obo/CDAO_0000121	target
+MTBLS383	untargeted metabolites		untargeted
+MTBLS383	Rapid Evaporative Ionisation Mass Spectrometry		un-mapped
+MTBLS383	Microbiology Procedures	http://purl.bioontology.org/ontology/CPT/1012134	target
+MTBLS384	beta-agonist		un-mapped
+MTBLS384	growth promoter		un-mapped
+MTBLS384	Livestock	http://purl.bioontology.org/ontology/MESH/D058751	target
+MTBLS384	untargeted metabolites		untargeted
+MTBLS384	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS384	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS384	Omics	http://edamontology.org/topic_3391	target
+MTBLS384	ractopamine	http://purl.obolibrary.org/obo/CHEBI_82644	target
+MTBLS385	lymph node	http://purl.obolibrary.org/obo/BTO_0000784	target
+MTBLS385	neoplasm	http://www.ebi.ac.uk/efo/EFO_0000616	target
+MTBLS385	Metastasis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19151	target
+MTBLS385	desorption electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000484	target
+MTBLS385	untargeted metabolites		untargeted
+MTBLS386	untargeted metabolites		untargeted
+MTBLS386	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS387	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS387	untargeted metabolites		untargeted
+MTBLS387	nuclear magnetic resonance spectrometer	http://purl.obolibrary.org/obo/CHMO_0001807	target
+MTBLS387	13C nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000595	target
+MTBLS387	targeted metabolites		un-mapped
+MTBLS387	isotopic tracer	http://purl.obolibrary.org/obo/CHEBI_35206	target
+MTBLS387	Metastasis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19151	target
+MTBLS387	SNAI1 Gene	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91260	target
+MTBLS389	Plant metabolomics		un-mapped
+MTBLS389	secondary metabolites		un-mapped
+MTBLS389	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748	target
+MTBLS389	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS389	targeted metabolites		un-mapped
+MTBLS390	gas chromatography-flame ionisation detection	http://purl.obolibrary.org/obo/CHMO_0001736	target
+MTBLS390	targeted metabolomics		un-mapped
+MTBLS390	adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001013	target
+MTBLS390	circadian rhythm	http://www.ebi.ac.uk/efo/EFO_0004354	target
+MTBLS391	untargeted metabolites		untargeted
+MTBLS391	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS391	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS391	Software Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17147	target
+MTBLS391	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS391	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS392	Wine	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66822	target
+MTBLS392	fermentation	http://purl.obolibrary.org/obo/CHMO_0001624	target
+MTBLS392	two-dimensional gas chromatography mass spectrometry		un-mapped
+MTBLS392	untargeted metabolites		untargeted
+MTBLS392	Volatile compound	http://purl.bioontology.org/ontology/RCD/X80TL	target
+MTBLS392	fungal population		un-mapped
+MTBLS393	enhanced green fluorescent protein	http://purl.bioontology.org/ontology/MESH/C485184	target
+MTBLS393	untargeted metabolites		untargeted
+MTBLS393	Inducer conditions		un-mapped
+MTBLS393	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS393	Riboswitch	http://purl.bioontology.org/ontology/MESH/D058928	target
+MTBLS394	untargeted metabolites		untargeted
+MTBLS394	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS394	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS394	Software Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17147	target
+MTBLS394	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS394	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS395	Acute Coronary Syndrome	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C53652	target
+MTBLS395	Serum global phenotyping		un-mapped
+MTBLS395	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS395	targeted metabolites		un-mapped
+MTBLS396	untargeted metabolites		untargeted
+MTBLS396	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS396	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS396	Software Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17147	target
+MTBLS396	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS396	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS397	untargeted metabolites		untargeted
+MTBLS397	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS397	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS397	Software Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17147	target
+MTBLS398	untargeted metabolites		untargeted
+MTBLS398	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS398	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS398	Software Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17147	target
+MTBLS398	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS398	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS399	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS399	untargeted metabolites		untargeted
+MTBLS399	cultivated environment	http://purl.obolibrary.org/obo/ENVO_01000311	target
+MTBLS399	germplasm	http://www.ebi.ac.uk/efo/EFO_0007059	target
+MTBLS400	untargeted metabolites		untargeted
+MTBLS400	high-resolution magic angle spinning	http://purl.obolibrary.org/obo/CHMO_0000618	target
+MTBLS400	Fatty Liver	http://purl.bioontology.org/ontology/MESH/D005234	target
+MTBLS400	non-alcoholic fatty liver disease	http://www.ebi.ac.uk/efo/EFO_0003095	target
+MTBLS400	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS400	ob/ob Mouse	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C122236	target
+MTBLS400	One-carbon metabolism		un-mapped
+MTBLS400	Lactate editing		un-mapped
+MTBLS401	untargeted metabolites		untargeted
+MTBLS401	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS401	software pipeline	http://purl.obolibrary.org/obo/OBI_0001943	target
+MTBLS401	drug	http://purl.obolibrary.org/obo/CHEBI_23888	target
+MTBLS402	Female infertility	http://purl.obolibrary.org/obo/HP_0008222	target
+MTBLS402	untargeted metabolites		untargeted
+MTBLS402	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS403	white tea	http://purl.bioontology.org/ontology/NDDF/015575	target
+MTBLS403	withering		un-mapped
+MTBLS403	dynamic change 		un-mapped
+MTBLS403	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS403	untargeted metabolites		untargeted
+MTBLS404	Cohort Study	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15208	target
+MTBLS404	untargeted metabolites		untargeted
+MTBLS404	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS405	targeted metabolites		un-mapped
+MTBLS405	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS405	serine hydroxymethyltransferase 2	http://purl.obolibrary.org/obo/dinto_3397	target
+MTBLS408	Lipids	http://edamontology.org/topic_0153	target
+MTBLS408	Psoriasis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3346	target
+MTBLS408	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS408	untargeted metabolomics		untargeted
+MTBLS409	targeted metabolites		un-mapped
+MTBLS409	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS409	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS409	Parasite	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28176	target
+MTBLS410	targeted metabolomics		un-mapped
+MTBLS410	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS410	Parasite	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28176	target
+MTBLS411	untargeted metabolites		untargeted
+MTBLS411	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS411	Biofluids relationship		un-mapped
+MTBLS411	lactation	http://purl.obolibrary.org/obo/GO_0007595	target
+MTBLS411	Metabolic function		un-mapped
+MTBLS412	isotopic abundance correction		un-mapped
+MTBLS412	targeted metabolites		un-mapped
+MTBLS412	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS413	human african trypanosomiasis	http://www.ebi.ac.uk/efo/EFO_0005225	target
+MTBLS413	Trypanosoma brucei	http://purl.bioontology.org/ontology/NCBITAXON/5691	target
+MTBLS413	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS413	infectious disease biomarker	http://www.ebi.ac.uk/efo/EFO_0006843	target
+MTBLS413	untargeted metabolites		untargeted
+MTBLS414	Remote ischemic conditioning		un-mapped
+MTBLS414	Ischemic Preconditioning	http://purl.bioontology.org/ontology/MESH/D019194	target
+MTBLS414	untargeted metabolites		untargeted
+MTBLS414	2-hydroxybutyrate	http://purl.obolibrary.org/obo/CHEBI_64552	target
+MTBLS414	cardioprotection		un-mapped
+MTBLS414	ischemia	http://purl.obolibrary.org/obo/DOID_326	target
+MTBLS414	Biomarker	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16342	target
+MTBLS414	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS415	desorption electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000484	target
+MTBLS415	untargeted metabolites		untargeted
+MTBLS417	untargeted metabolites		untargeted
+MTBLS417	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS417	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS417	MetaboDIA		un-mapped
+MTBLS417	combined ms-ms + spectral library search	http://purl.obolibrary.org/obo/MS_1002755	target
+MTBLS417	age-related macular degeneration	http://www.ebi.ac.uk/efo/EFO_0001365	target
+MTBLS418	toxoplasmosis	http://www.ebi.ac.uk/efo/EFO_0007517	target
+MTBLS418	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS418	untargeted metabolites		untargeted
+MTBLS418	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS419	docosahexaenoic acid	http://purl.obolibrary.org/obo/CHEBI_36005	target
+MTBLS419	3,4-dihydroxybenzoic acid	http://purl.obolibrary.org/obo/CHEBI_36062	target
+MTBLS419	propionic acid	http://purl.obolibrary.org/obo/CHEBI_30768	target
+MTBLS419	Metabolomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49019	target
+MTBLS419	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS419	nuclear magnetic resonance spectrometer	http://purl.obolibrary.org/obo/CHMO_0001807	target
+MTBLS419	targeted metabolites		un-mapped
+MTBLS420	untargeted metabolites		untargeted
+MTBLS420	Male infertility with spermatogenesis disorder	http://www.orpha.net/ORDO/Orphanet_399775	target
+MTBLS420	chemometrics		un-mapped
+MTBLS420	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS420	nonobstructive azoospermia		un-mapped
+MTBLS422	antibiotic	http://purl.obolibrary.org/obo/CHEBI_22582	target
+MTBLS422	nuclear magnetic resonance spectrometer	http://purl.obolibrary.org/obo/CHMO_0001807	target
+MTBLS422	untargeted metabolites		untargeted
+MTBLS423	lifestyle intervention		un-mapped
+MTBLS423	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS423	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS423	untargeted metabolites		untargeted
+MTBLS424	Early breast cancer		un-mapped
+MTBLS424	Metastatic breast cancer	http://purl.bioontology.org/ontology/MEDDRA/10027475	target
+MTBLS424	metabolic phenotyping	http://purl.obolibrary.org/obo/ERO_0001739	target
+MTBLS424	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS424	targeted metabolites		un-mapped
+MTBLS425	stem cell	http://purl.obolibrary.org/obo/CL_0000034	target
+MTBLS425	Cardiomyocyte	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13002	target
+MTBLS425	Cell Maturation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28594	target
+MTBLS425	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS425	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS425	untargeted metabolites		untargeted
+MTBLS425	cardiovascular disease	http://www.ebi.ac.uk/efo/EFO_0000319	target
+MTBLS426	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS426	maternal undernutrition		un-mapped
+MTBLS426	cardiac fibrosis	http://purl.obolibrary.org/obo/MP_0003141	target
+MTBLS426	sexual dimorphism	http://www.ebi.ac.uk/efo/EFO_0005951	target
+MTBLS426	Autophagy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C71427	target
+MTBLS426	untargeted metabolites		untargeted
+MTBLS426	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS426	MicroRNA	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25966	target
+MTBLS427	Ion Mobility Spectrometry		un-mapped
+MTBLS427	untargeted metabolites		untargeted
+MTBLS427	Exposomics		un-mapped
+MTBLS427	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS427	targeted metabolites		un-mapped
+MTBLS427	Solid-Phase Extraction Ion Mobility Spectrometry Mass Spectrometry		un-mapped
+MTBLS428	Carbon	http://purl.bioontology.org/ontology/MESH/D002244	target
+MTBLS428	targeted metabolites		un-mapped
+MTBLS428	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS429	pyrrolizidine alkaloid	http://purl.obolibrary.org/obo/CHEBI_64948	target
+MTBLS429	insect-plant interactions		un-mapped
+MTBLS429	ultra-performance liquid chromatography-mass spectrometry		un-mapped
+MTBLS429	targeted metabolites		un-mapped
+MTBLS430	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS430	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS430	drug role	http://www.ebi.ac.uk/efo/EFO_0001899	target
+MTBLS430	Metabolic Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C123623	target
+MTBLS430	untargeted metabolites		untargeted
+MTBLS431	untargeted metabolites		untargeted
+MTBLS431	Bacteriophage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14188	target
+MTBLS431	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS431	phage–host interaction		un-mapped
+MTBLS431	Transcriptomics	http://edamontology.org/topic_3308	target
+MTBLS432	inflammatory bowel disease	http://www.ebi.ac.uk/efo/EFO_0003767	target
+MTBLS432	microbiome	http://www.ebi.ac.uk/efo/EFO_0004982	target
+MTBLS432	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS432	gastrointestinal system	http://purl.obolibrary.org/obo/UBERON_0005409	target
+MTBLS432	untargeted metabolites		untargeted
+MTBLS433	Foodomics		un-mapped
+MTBLS433	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS433	untargeted metabolites		untargeted
+MTBLS433	targeted metabolites		un-mapped
+MTBLS434	targeted metabolites		un-mapped
+MTBLS434	amino acid	http://purl.obolibrary.org/obo/CHEBI_33709	target
+MTBLS434	hydrophilic interaction chromatography	http://purl.obolibrary.org/obo/CHMO_0002262	target
+MTBLS434	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS434	haploid deletion library	http://www.ebi.ac.uk/efo/EFO_0007561	target
+MTBLS434	Functional genomics	http://edamontology.org/topic_0085	target
+MTBLS434	prototrophic	http://purl.obolibrary.org/obo/PATO_0000423	target
+MTBLS434	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS434	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS435	Plant Metabolomics		un-mapped
+MTBLS435	Metabolic Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18611	target
+MTBLS435	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS435	isotopic tracer	http://purl.obolibrary.org/obo/CHEBI_35206	target
+MTBLS435	targeted metabolomics		un-mapped
+MTBLS435	benzylisoquinoline alkaloid	http://purl.obolibrary.org/obo/CHEBI_22750	target
+MTBLS435	chelerythrine	http://purl.obolibrary.org/obo/CHEBI_78373	target
+MTBLS435	sanguinarine	http://purl.obolibrary.org/obo/CHEBI_17183	target
+MTBLS435	Secondary Metabolism	http://purl.bioontology.org/ontology/MESH/D064210	target
+MTBLS436	untargeted metabolites		untargeted
+MTBLS436	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS436	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS436	Livestock	http://purl.bioontology.org/ontology/MESH/D058751	target
+MTBLS436	Anabolic Steroid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2360	target
+MTBLS436	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS437	Plants, Genetically Modified	http://purl.bioontology.org/ontology/MESH/D030821	target
+MTBLS437	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS437	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS437	untargeted metabolites		untargeted
+MTBLS441	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS441	untargeted metabolites		untargeted
+MTBLS441	root exudate		un-mapped
+MTBLS441	plant defence		un-mapped
+MTBLS444	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS444	untargeted metabolites		untargeted
+MTBLS444	Keratoconus	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26806	target
+MTBLS444	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS445	untargeted metabolites		untargeted
+MTBLS445	Phylogeography	http://purl.bioontology.org/ontology/MESH/D058974	target
+MTBLS445	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS445	páramo ecosystem		un-mapped
+MTBLS447	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS447	plant callus	http://purl.obolibrary.org/obo/PO_0005052	target
+MTBLS447	TOR signaling	http://purl.obolibrary.org/obo/GO_0031929	target
+MTBLS447	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS447	Shoot Regeneration		un-mapped
+MTBLS447	plant hormone	http://purl.obolibrary.org/obo/CHEBI_37848	target
+MTBLS447	untargeted metabolites		untargeted
+MTBLS449	HIV-1	http://purl.bioontology.org/ontology/MESH/D015497	target
+MTBLS449	Antiretroviral Therapy	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94631	target
+MTBLS449	In Utero Drug Exposure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98954	target
+MTBLS449	Infant, Newborn	http://purl.bioontology.org/ontology/MESH/D007231	target
+MTBLS449	Fetal Blood	http://purl.bioontology.org/ontology/MESH/D005312	target
+MTBLS449	targeted metabolights		un-mapped
+MTBLS449	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS450	untargeted metabolites		untargeted
+MTBLS450	Mediator Complex	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19864	target
+MTBLS450	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS451	Japanese Sake		un-mapped
+MTBLS451	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS451	nanoflow liquid chromatography-electrospray ionisation mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000752	target
+MTBLS451	untargeted metabolites		untargeted
+MTBLS452	benzoxaborole	http://purl.obolibrary.org/obo/CHEBI_78240	target
+MTBLS452	Host-Pathogen Interactions	http://purl.bioontology.org/ontology/MESH/D054884	target
+MTBLS452	Mechanism of Action	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54680	target
+MTBLS452	untargeted metabolites		untargeted
+MTBLS452	pro-drug activation		un-mapped
+MTBLS452	Drug Discovery	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15802	target
+MTBLS452	Therapeutics	http://bioontology.org/ontologies/Activity.owl#Therapeutics	target
+MTBLS452	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS452	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS453	Toxicology	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17206	target
+MTBLS453	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS453	Alcohol Consumption	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16273	target
+MTBLS453	untargeted metabolites		untargeted
+MTBLS454	Isonitrile lipopeptides (INLPs)		un-mapped
+MTBLS454	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS454	untargeted metabolites		untargeted
+MTBLS454	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS455	SHSY5Y	http://scai.fraunhofer.de/AlzheimerOntology#SHSY5Y	target
+MTBLS455	Parkinson's disease	http://www.ebi.ac.uk/efo/EFO_0002508	target
+MTBLS455	Alzheimer's disease	http://www.ebi.ac.uk/efo/EFO_0000249	target
+MTBLS455	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS455	Synuclein Protein	http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#sao4931740958	target
+MTBLS455	Amyloid Protein	http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Molecule.owl#sao7278684532	target
+MTBLS455	Amyloid Fibril	http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#sao1342297498	target
+MTBLS455	Amyloid Aggregate	http://ontology.neuinfo.org/NIF/BiomaterialEntities/NIF-Subcellular.owl#sao4785563283	target
+MTBLS455	untargeted metabolites		untargeted
+MTBLS456	untargeted metabolites		untargeted
+MTBLS456	viral infection-challenge		un-mapped
+MTBLS456	bovine respiratory disease complex	http://www.ebi.ac.uk/efo/EFO_0007180	target
+MTBLS456	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS456	Bovine parainfluenza virus 3	http://purl.obolibrary.org/obo/NCBITaxon_11215	target
+MTBLS457	Fungal biology		un-mapped
+MTBLS457	Conservation biology	http://localhost/plosthes.2016-4#11519	target
+MTBLS457	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS457	untargeted metabolites		untargeted
+MTBLS459	Drug Metabolism	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26633	target
+MTBLS459	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS459	untargeted metabolites		untargeted
+MTBLS459	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS459	nitrile	http://purl.obolibrary.org/obo/CHEBI_18379	target
+MTBLS459	Oxidative Stress	http://www.ebi.ac.uk/efo/EFO_1001905	target
+MTBLS460	biotic stress trait	http://purl.obolibrary.org/obo/TO_0000179	target
+MTBLS460	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS460	Xanthomonas campestris pv. campestris	http://purl.obolibrary.org/obo/NCBITaxon_340	target
+MTBLS460	Brassica oleracea var. italica	http://purl.obolibrary.org/obo/NCBITaxon_36774	target
+MTBLS460	untargeted metabolites		untargeted
+MTBLS460	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS461	targeted metabolites		un-mapped
+MTBLS461	Carbon	http://purl.bioontology.org/ontology/MESH/D002244	target
+MTBLS461	Fourier transform ion cyclotron resonance mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000502	target
+MTBLS461	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS461	untargeted metabolites		untargeted
+MTBLS462	untargeted metabolites		untargeted
+MTBLS462	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS462	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS462	Software Engineering	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17147	target
+MTBLS463	untargeted metabolites		untargeted
+MTBLS463	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504	target
+MTBLS463	siderophore	http://purl.obolibrary.org/obo/CHEBI_26672	target
+MTBLS463	putrescine	http://purl.obolibrary.org/obo/CHEBI_17148	target
+MTBLS463	terpenoid	http://purl.obolibrary.org/obo/CHEBI_26873	target
+MTBLS463	Glycolysis Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39095	target
+MTBLS464	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS464	antimicrobial agent	http://purl.obolibrary.org/obo/CHEBI_33281	target
+MTBLS464	Mechanism of Action	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C54680	target
+MTBLS464	untargeted metabolites		untargeted
+MTBLS464	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS465	metabolic phenotyping	http://purl.obolibrary.org/obo/ERO_0001739	target
+MTBLS465	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS465	untargeted metabolomics		untargeted
+MTBLS465	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS470	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS470	untargeted metabolomics		untargeted
+MTBLS470	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS470	metabolic phenotyping	http://purl.obolibrary.org/obo/ERO_0001739	target
+MTBLS471	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS471	Pseudonocardia	http://purl.bioontology.org/ontology/NCBITAXON/1847	target
+MTBLS471	untargeted metabolites		untargeted
+MTBLS471	Escovopsis	http://purl.bioontology.org/ontology/NCBITAXON/150372	target
+MTBLS472	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS472	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS472	Endoplasmic Reticulum Stress	http://www.ebi.ac.uk/efo/EFO_1001886	target
+MTBLS472	Fatty Liver	http://purl.bioontology.org/ontology/MESH/D005234	target
+MTBLS472	fatty kidney		un-mapped
+MTBLS472	Lipolysis	http://purl.bioontology.org/ontology/MESH/D008066	target
+MTBLS472	fatty acid oxidation	http://purl.obolibrary.org/obo/GO_0019395	target
+MTBLS472	Unfolded Protein Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C118900	target
+MTBLS473	Malus x domestica	http://purl.obolibrary.org/obo/NCBITaxon_3750	target
+MTBLS473	untargeted metabolites		untargeted
+MTBLS473	Pharmacokinetics Pharmacodynamics	http://bioontology.org/ontologies/ResearchArea.owl#Pharmacokinetics_Pharmacodynamics	target
+MTBLS473	Nutrition	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28294	target
+MTBLS473	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS478	untargeted metabolites		untargeted
+MTBLS478	secretory carrier-associated membrane protein 1	http://purl.obolibrary.org/obo/PR_000014483	target
+MTBLS478	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS478	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS479	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS479	Gastrointestinal Microbiome	http://purl.bioontology.org/ontology/MESH/D000069196	target
+MTBLS479	Herbal Medicine	http://purl.bioontology.org/ontology/MESH/D029001	target
+MTBLS479	untargeted metabolites		untargeted
+MTBLS479	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS479	willow bark extract	http://purl.obolibrary.org/obo/CHEBI_79395	target
+MTBLS481	untargeted metabolites		untargeted
+MTBLS481	alkali stress		un-mapped
+MTBLS481	symbiotic rhizobium		un-mapped
+MTBLS481	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS482	untargeted metabolites		untargeted
+MTBLS482	Magnetic Resonance Imaging	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16809	target
+MTBLS482	magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/ERO_0001236	target
+MTBLS482	Hypothermia	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78351	target
+MTBLS482	2-morpholino-5-phenyl-6H-1,3,4-thiadiazine hydrobromide		un-mapped
+MTBLS483	regulation of cellular response to oxidative stress	http://purl.obolibrary.org/obo/GO_1900407	target
+MTBLS483	lipid oxidation	http://purl.org/obo/owl/GO#GO_0034440	target
+MTBLS483	Oxidative Stress	http://www.ebi.ac.uk/efo/EFO_1001905	target
+MTBLS483	phospholipid	http://purl.obolibrary.org/obo/CHEBI_16247	target
+MTBLS483	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS483	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS483	untargeted metabolites		untargeted
+MTBLS484	untargeted metabolites		untargeted
+MTBLS484	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS484	Carnivorous plants	http://localhost/plosthes.2017-1#565	target
+MTBLS484	pitcher plant	http://purl.jp/bio/11/meo/MEO_0001063	target
+MTBLS487	matrix-assisted laser desorption-ionisation imaging mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000054	target
+MTBLS487	Spatial metabolomics		un-mapped
+MTBLS487	lipid	http://purl.obolibrary.org/obo/CHEBI_18059	target
+MTBLS487	software	http://www.ebi.ac.uk/efo/EFO_0002029	target
+MTBLS488	prednisolone	http://purl.obolibrary.org/obo/CHEBI_8378	target
+MTBLS488	cortisol	http://purl.obolibrary.org/obo/CHEBI_17650	target
+MTBLS488	ms level	http://purl.obolibrary.org/obo/MS_1000511	target
+MTBLS488	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS488	targeted metabolites		un-mapped
+MTBLS492	soil	http://purl.obolibrary.org/obo/ENVO_00001998	target
+MTBLS492	Environment	http://www.owl-ontologies.com/BiodiversityOntologyFull.owl#Environment	target
+MTBLS492	environmental system	http://purl.obolibrary.org/obo/ENVO_01000254	target
+MTBLS492	untargeted metabolites		untargeted
+MTBLS492	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS493	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS493	lipid	http://purl.obolibrary.org/obo/CHEBI_18059	target
+MTBLS493	Chinese Hamster Ovary cells		un-mapped
+MTBLS493	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS493	untargeted metabolites		untargeted
+MTBLS494	untargeted metabolites		untargeted
+MTBLS494	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS494	Herbal Medicine	http://purl.bioontology.org/ontology/MESH/D029001	target
+MTBLS494	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS495	aging	http://purl.obolibrary.org/obo/GO_0007568	target
+MTBLS495	untargeted metabolites		untargeted
+MTBLS495	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS495	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS495	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS495	lipid homeostasis	http://www.ebi.ac.uk/efo/EFO_0005880	target
+MTBLS496	ermB		un-mapped
+MTBLS496	antibiotic resistance	http://www.bioassayontology.org/bao#BAO_0000099	target
+MTBLS496	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS496	untargeted metabolites		untargeted
+MTBLS496	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS497	untargeted metabolites		untargeted
+MTBLS497	thermal desorption-gas chromatography mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0002640	target
+MTBLS497	volatile organic compound	http://purl.obolibrary.org/obo/CHEBI_134179	target
+MTBLS497	Bacteria	http://purl.obolibrary.org/obo/NCBITaxon_2	target
+MTBLS497	Expired Air	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78741	target
+MTBLS497	Infection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C128320	target
+MTBLS497	ventilator-associated pneumonia	http://www.ebi.ac.uk/efo/EFO_1001865	target
+MTBLS516	Ischemic stroke	http://purl.obolibrary.org/obo/HP_0002140	target
+MTBLS516	untargeted metabolites		untargeted
+MTBLS516	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS516	aging	http://purl.obolibrary.org/obo/GO_0007568	target
+MTBLS516	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS517	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS517	Anti-malarial treatment		un-mapped
+MTBLS517	artemether	http://purl.obolibrary.org/obo/CHEBI_195280	target
+MTBLS517	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS517	untargeted metabolites		untargeted
+MTBLS518	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS518	Anti-malarial treatment		un-mapped
+MTBLS518	artemether	http://purl.obolibrary.org/obo/CHEBI_195280	target
+MTBLS518	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS518	untargeted metabolites		untargeted
+MTBLS519	untargeted metabolites		untargeted
+MTBLS519	Crassulacean-Acid-Metabolism	http://www.projecthalo.com/aura#Crassulacean-Acid-Metabolism	target
+MTBLS519	Convergent evolution	http://localhost/plosthes.2017-1#3395	target
+MTBLS519	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS519	Photosynthesis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16986	target
+MTBLS520	Ecological characteristics		un-mapped
+MTBLS520	Metabolite features		un-mapped
+MTBLS520	Secondary metabolites		un-mapped
+MTBLS520	ultra-performance liquid chromatography-mass spectrometry		un-mapped
+MTBLS520	untargeted metabolites		untargeted
+MTBLS522	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS522	untargeted metabolites		untargeted
+MTBLS522	Centella asiatica extract	http://purl.bioontology.org/ontology/MESH/C526146	target
+MTBLS522	liver metabolome		un-mapped
+MTBLS523	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS523	untargeted metabolites		untargeted
+MTBLS523	Helminth infections	http://localhost/plosthes.2017-1#1857	target
+MTBLS523	Larvae	http://localhost/plosthes.2017-1#10287	target
+MTBLS523	Pla2g1b (mouse)	http://purl.obolibrary.org/obo/MGI_101842	target
+MTBLS523	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS524	untargeted metabolites		untargeted
+MTBLS524	periodontitis	http://www.ebi.ac.uk/efo/EFO_0000649	target
+MTBLS524	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS524	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS525	untargeted metabolites		untargeted
+MTBLS525	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS526	untargeted metabolites		untargeted
+MTBLS526	Coronatine	http://purl.obolibrary.org/obo/CHEBI_80730	target
+MTBLS526	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS527	untargeted metabolites		untargeted
+MTBLS527	dermatoheliosis	http://purl.obolibrary.org/obo/DERMO_0002865	target
+MTBLS527	Ultraviolet B Radiation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C27987	target
+MTBLS527	Green Tea	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C67048	target
+MTBLS527	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS527	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS528	untargeted metabolites		untargeted
+MTBLS528	Secondary Metabolism	http://purl.bioontology.org/ontology/MESH/D064210	target
+MTBLS528	plant	http://www.bioassayontology.org/bao#BAO_0000605	target
+MTBLS528	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS530	APOE	http://scai.fraunhofer.de/AlzheimerOntology#APOE	target
+MTBLS530	Late Onset Alzheimer's Disease	http://scai.fraunhofer.de/AlzheimerOntology#Late_Onset_Alzheimer_s_Disease	target
+MTBLS530	untargeted metabolites		untargeted
+MTBLS531	ethylene group	http://purl.obolibrary.org/obo/CHEBI_29362	target
+MTBLS531	(+)-abscisic acid	http://purl.obolibrary.org/obo/CHEBI_2365	target
+MTBLS531	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS531	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS531	isoflavonoid	http://purl.obolibrary.org/obo/CHEBI_50753	target
+MTBLS531	flavonoid	http://purl.obolibrary.org/obo/CHEBI_47916	target
+MTBLS531	targeted metabolites		un-mapped
+MTBLS532	Ecotoxicology	http://purl.bioontology.org/ontology/MESH/D054750	target
+MTBLS532	untargeted metabolights		untargeted
+MTBLS532	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS532	triclosan	http://purl.obolibrary.org/obo/CHEBI_164200	target
+MTBLS532	methyl triclosan	http://purl.bioontology.org/ontology/MESH/C502486	target
+MTBLS535	Bacteria	http://purl.obolibrary.org/obo/NCBITaxon_2	target
+MTBLS535	untargeted metabolites		untargeted
+MTBLS535	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS535	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS535	targeted metabolites 		un-mapped
+MTBLS536	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS536	Anti-malarial treatment		un-mapped
+MTBLS536	Artemether		un-mapped
+MTBLS536	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS536	untargeted metabolites		untargeted
+MTBLS538	isotopic tracer	http://purl.obolibrary.org/obo/CHEBI_35206	target
+MTBLS538	coral bleaching process	http://purl.obolibrary.org/obo/ENVO_01000852	target
+MTBLS538	Thermal stresses	http://localhost/plosthes.2017-1#9975	target
+MTBLS538	Cnidaria	http://purl.bioontology.org/ontology/MESH/D003063	target
+MTBLS538	Symbiosis	http://purl.bioontology.org/ontology/MESH/D013559	target
+MTBLS538	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS538	photoinhibition	http://purl.obolibrary.org/obo/GO_0010205	target
+MTBLS538	untargeted metabolites		untargeted
+MTBLS539	atherosclerosis	http://www.ebi.ac.uk/efo/EFO_0003914	target
+MTBLS539	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS539	untargeted metabolites		untargeted
+MTBLS539	Myocardial metabolism	http://purl.bioontology.org/ontology/SNOMEDCT/251058001	target
+MTBLS539	Sulfur amino acid metabolism	http://purl.obolibrary.org/obo/HINO_0016311	target
+MTBLS539	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS539	magic angle spinning nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000615	target
+MTBLS539	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS539	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS539	targeted metabolites		un-mapped
+MTBLS540	untargeted metabolites		untargeted
+MTBLS540	FGENTCARD		un-mapped
+MTBLS540	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS541	Hypoxia	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3890	target
+MTBLS541	cellular response to hypoxia	http://purl.obolibrary.org/obo/GO_0071456	target
+MTBLS541	Tumor Mass	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C98275	target
+MTBLS541	cell culture	http://purl.obolibrary.org/obo/BTO_0000214	target
+MTBLS541	untargeted metabolites		untargeted
+MTBLS541	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS542	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS542	Anti-malarial treatment		un-mapped
+MTBLS542	Artemether		un-mapped
+MTBLS542	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS542	untargeted metabolites		untargeted
+MTBLS543	sepsis	http://purl.obolibrary.org/obo/HP_0100806	target
+MTBLS543	Osteochondrosis	http://www.ebi.ac.uk/efo/EFO_0008575	target
+MTBLS543	osteoarthritis	http://www.ebi.ac.uk/efo/EFO_0002506	target
+MTBLS543	Synovial Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33718	target
+MTBLS543	untargeted metabolites		untargeted
+MTBLS543	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS545	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757	target
+MTBLS545	gut microbiome measurement	http://www.ebi.ac.uk/efo/EFO_0007874	target
+MTBLS545	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS545	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS545	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS545	untargeted metabolites		untargeted
+MTBLS546	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757	target
+MTBLS546	gut microbiome measurement	http://www.ebi.ac.uk/efo/EFO_0007874	target
+MTBLS546	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS546	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS546	targeted metabolites		un-mapped
+MTBLS546	short-chain fatty acid	http://purl.obolibrary.org/obo/CHEBI_26666	target
+MTBLS547	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757	target
+MTBLS547	gut microbiome measurement	http://www.ebi.ac.uk/efo/EFO_0007874	target
+MTBLS547	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS547	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS547	targeted metabolites		un-mapped
+MTBLS547	bile acid	http://purl.obolibrary.org/obo/CHEBI_3098	target
+MTBLS548	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757	target
+MTBLS548	gut microbiome measurement	http://www.ebi.ac.uk/efo/EFO_0007874	target
+MTBLS548	obesity	http://www.ebi.ac.uk/efo/EFO_0001073	target
+MTBLS548	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS548	targeted metabolites		un-mapped
+MTBLS548	fatty acid	http://purl.obolibrary.org/obo/CHEBI_35366	target
+MTBLS549	fasting	http://www.ebi.ac.uk/efo/EFO_0002756	target
+MTBLS549	untargeted metabolites		untargeted
+MTBLS549	human blood		un-mapped
+MTBLS549	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS549	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS552	invasive ductal carcinoma	http://www.ebi.ac.uk/efo/EFO_0000186	target
+MTBLS552	untargeted metabolites		untargeted
+MTBLS552	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS552	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS552	targeted metabolites		un-mapped
+MTBLS553	untargeted metabolites		untargeted
+MTBLS553	targeted metabolites		un-mapped
+MTBLS553	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS553	bialaphos resistance gene		un-mapped
+MTBLS553	phosphinothricin acetyltransferase gene		un-mapped
+MTBLS553	Herbicide Resistance	http://purl.bioontology.org/ontology/MESH/D053209	target
+MTBLS553	Genetically modified crops	http://localhost/plosthes.2017-1#10846	target
+MTBLS554	targeted metabolites		un-mapped
+MTBLS554	thiouracil	http://purl.obolibrary.org/obo/CHEBI_348530	target
+MTBLS554	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS554	Cattle	http://purl.bioontology.org/ontology/MESH/D002417	target
+MTBLS554	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS555	rhizospheric		un-mapped
+MTBLS555	Exometabolomic profiling		un-mapped
+MTBLS555	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS555	untargeted metabolites		untargeted
+MTBLS558	multiple sclerosis	http://www.ebi.ac.uk/efo/EFO_0003885	target
+MTBLS558	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS558	untargeted metabolites		untargeted
+MTBLS559	plant priming		un-mapped
+MTBLS559	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS559	untargeted metabolites		untargeted
+MTBLS559	augmented defence		un-mapped
+MTBLS559	azelaic acid	http://purl.obolibrary.org/obo/CHEBI_48131	target
+MTBLS559	hexanoic acid	http://purl.obolibrary.org/obo/CHEBI_30776	target
+MTBLS559	hydroxycinnamic acid	http://purl.obolibrary.org/obo/CHEBI_24689	target
+MTBLS559	Transcriptomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153189	target
+MTBLS559	Tobacco	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C891	target
+MTBLS560	digestive system	http://purl.obolibrary.org/obo/UBERON_0001007	target
+MTBLS560	Digestive efficiency		un-mapped
+MTBLS560	ileum	http://purl.obolibrary.org/obo/UBERON_0002116	target
+MTBLS560	caecum	http://purl.obolibrary.org/obo/UBERON_0001153	target
+MTBLS560	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS560	untargeted metabolomics		untargeted
+MTBLS561	targeted metabolites		un-mapped
+MTBLS561	thiouracil	http://purl.obolibrary.org/obo/CHEBI_348530	target
+MTBLS561	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS561	Cattle	http://purl.bioontology.org/ontology/MESH/D002417	target
+MTBLS561	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS562	aging	http://purl.obolibrary.org/obo/GO_0007568	target
+MTBLS562	untargeted metabolites		untargeted
+MTBLS562	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS562	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS562	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS562	lipid homeostasis	http://www.ebi.ac.uk/efo/EFO_0005880	target
+MTBLS564	untargeted metabolites		untargeted
+MTBLS564	Rheumatoid Arthritis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2884	target
+MTBLS564	Synovial Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C33718	target
+MTBLS564	Pathogenesis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18264	target
+MTBLS564	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS564	Osteoarthritis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3293	target
+MTBLS566	biosynthetic pathway elucidation		un-mapped
+MTBLS566	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS566	targeted metabolites		un-mapped
+MTBLS567	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS567	targeted metabolites		un-mapped
+MTBLS570	inflammation	http://purl.obolibrary.org/obo/MP_0001845	target
+MTBLS570	untargeted metabolites		untargeted
+MTBLS570	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS570	non-targeted object	http://neurolog.unice.fr/ontoneurolog/v3.0/ontoneurolog-extension-of-dolce.owl#non-targeted-object	target
+MTBLS571	Grazer cues		un-mapped
+MTBLS571	Calanus finmarchicus	http://purl.bioontology.org/ontology/NCBITAXON/6837	target
+MTBLS571	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS571	untargeted metabolites		untargeted
+MTBLS571	marine algal bloom	http://purl.obolibrary.org/obo/ENVO_01000057	target
+MTBLS572	untargeted metabolomics		untargeted
+MTBLS572	Systems Biology	http://purl.bioontology.org/ontology/MESH/D049490	target
+MTBLS572	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS572	xcms	http://www.ebi.ac.uk/efo/swo/SWO_0000729	target
+MTBLS573	Adelphocoris suturalis	http://purl.bioontology.org/ontology/NCBITAXON/323751	target
+MTBLS573	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS573	untargeted metabolites		untargeted
+MTBLS573	Tryptophan metabolism	http://purl.obolibrary.org/obo/IEV_0001462	target
+MTBLS573	alpha-Linolenic Acid Metabolism Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C91418	target
+MTBLS573	plant defence		un-mapped
+MTBLS574	chemical fingerprinting	http://purl.bioontology.org/ontology/CSP/0631-8138	target
+MTBLS574	untargeted metabolites		untargeted
+MTBLS574	Chemical ecology	http://localhost/plosthes.2017-1#2411	target
+MTBLS574	Botany	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16362	target
+MTBLS574	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS575	Sesamia nonagrioides	http://purl.bioontology.org/ontology/NCBITAXON/236805	target
+MTBLS575	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS575	response to biotic stimulus	http://purl.obolibrary.org/obo/GO_0009607	target
+MTBLS575	untargeted metabolites		untargeted
+MTBLS575	plant defence		un-mapped
+MTBLS576	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS576	untargeted metabolites		untargeted
+MTBLS576	replicon independence		un-mapped
+MTBLS576	genome coadaptation		un-mapped
+MTBLS576	experimental transplantation		un-mapped
+MTBLS576	accessory genome		un-mapped
+MTBLS577	Cwh43	http://identifiers.org/ncbigene/231293	target
+MTBLS577	Nutrition Roles	http://www.owl-ontologies.com/Ontology1361987617.owl#NutritionRoles	target
+MTBLS577	ceramide	http://purl.obolibrary.org/obo/CHEBI_17761	target
+MTBLS577	Low glucose		un-mapped
+MTBLS577	Nitrogen starvation		un-mapped
+MTBLS577	untargeted metabolites		untargeted
+MTBLS577	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS577	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS578	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS578	Cwh43	http://identifiers.org/ncbigene/305307	target
+MTBLS578	Nutrition Roles	http://www.owl-ontologies.com/Ontology1361987617.owl#NutritionRoles	target
+MTBLS578	untargeted metabolites 		untargeted
+MTBLS578	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS578	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS579	Biomarker	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16342	target
+MTBLS579	typhoid fever	http://www.ebi.ac.uk/efo/EFO_0006789	target
+MTBLS579	Typhoid carrier	http://purl.bioontology.org/ontology/MEDDRA/10045274	target
+MTBLS579	Salmonella typhi	http://purl.bioontology.org/ontology/MESH/D012485	target
+MTBLS579	Salmonella paratyphi A	http://purl.bioontology.org/ontology/MESH/D012482	target
+MTBLS579	untargeted metabolites		untargeted
+MTBLS579	two-dimensional chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0002004	target
+MTBLS579	Multivariate Analysis	http://purl.bioontology.org/ontology/MESH/D015999	target
+MTBLS579	Diagnosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220	target
+MTBLS581	Lamiaceae	http://purl.bioontology.org/ontology/MESH/D019686	target
+MTBLS581	untargeted metabolites		untargeted
+MTBLS581	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS581	Plant Growth Regulators	http://purl.bioontology.org/ontology/MESH/D010937	target
+MTBLS581	gibberellin	http://purl.obolibrary.org/obo/CHEBI_24250	target
+MTBLS581	N-benzyladenine	http://purl.obolibrary.org/obo/CHEBI_29022	target
+MTBLS581	In Vitro Techniques	http://purl.bioontology.org/ontology/MESH/D066298	target
+MTBLS581	Tissue Culture Techniques	http://purl.bioontology.org/ontology/MESH/D046509	target
+MTBLS581	hydrophilic	http://purl.obolibrary.org/obo/PATO_0001887	target
+MTBLS581	lipophilic	http://purl.bioontology.org/ontology/npo#NPO_114	target
+MTBLS582	insulin resistance	http://www.ebi.ac.uk/efo/EFO_0002614	target
+MTBLS582	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS582	Hepatic steatosis	http://purl.obolibrary.org/obo/HP_0001397	target
+MTBLS582	regulation of lipid biosynthetic process	http://purl.obolibrary.org/obo/GO_0046890	target
+MTBLS582	untargeted metabolites		untargeted
+MTBLS582	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS582	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS591	Metabolomics Facility	http://bioontology.org/ontologies/BiomedicalResourceOntology.owl#Metabolomics_Facility	target
+MTBLS591	Chronic Obstructive Pulmonary Disease	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C3199	target
+MTBLS591	Bronchoalveolar Lavage Fluid	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C13195	target
+MTBLS591	Sample Specific Databases		un-mapped
+MTBLS591	high-performance liquid chromatography-mass spectrometry		un-mapped
+MTBLS591	lipid	http://purl.obolibrary.org/obo/CHEBI_18059	target
+MTBLS591	untargeted metabolites		untargeted
+MTBLS597	matrix-assisted laser desorption ionization	http://purl.obolibrary.org/obo/MS_1000075	target
+MTBLS597	brain	http://purl.obolibrary.org/obo/UBERON_0000955	target
+MTBLS597	intestine	http://purl.obolibrary.org/obo/BTO_0000648	target
+MTBLS597	imaging mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000053	target
+MTBLS597	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS597	targeted metabolites		un-mapped
+MTBLS597	untargeted metabolites		untargeted
+MTBLS598	Frailty	http://doe-generated-ontology.com/OntoAD#C0424594	target
+MTBLS598	Carnitine transporters	http://purl.obolibrary.org/obo/HINO_0019693	target
+MTBLS598	tocotrienol	http://purl.obolibrary.org/obo/CHEBI_33235	target
+MTBLS598	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS598	untargeted metabolites		untargeted
+MTBLS598	targeted metabolites		un-mapped
+MTBLS602	Pesticide	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C737	target
+MTBLS602	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS602	sexual dimorphism	http://www.ebi.ac.uk/efo/EFO_0005951	target
+MTBLS602	constitutive androstane receptor	http://purl.bioontology.org/ontology/MESH/C409467	target
+MTBLS602	untargeted metabolites		untargeted
+MTBLS602	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS614	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS614	Intervention or Procedure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25218	target
+MTBLS614	untargeted metabolites		untargeted
+MTBLS614	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS616	Direct Infusion Mass Spectrometry		un-mapped
+MTBLS616	Intervention or Procedure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25218	target
+MTBLS616	untargeted metabolites		untargeted
+MTBLS616	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS618	Phytophthora infestans	http://purl.obolibrary.org/obo/NCBITaxon_4787	target
+MTBLS618	Phytophthora infestans	http://purl.bioontology.org/ontology/MESH/D055750	target
+MTBLS618	Multivariate Analysis	http://purl.bioontology.org/ontology/MESH/D015999	target
+MTBLS618	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS618	untargeted metabolites		untargeted
+MTBLS618	Host-Pathogen Interactions	http://purl.bioontology.org/ontology/MESH/D054884	target
+MTBLS619	aquaculture process	http://purl.obolibrary.org/obo/ENVO_01000906	target
+MTBLS619	diet	http://www.ebi.ac.uk/efo/EFO_0002755	target
+MTBLS619	carbohydrate	http://purl.obolibrary.org/obo/CHEBI_16646	target
+MTBLS619	Muscle Development	http://purl.bioontology.org/ontology/MESH/D024510	target
+MTBLS619	untargeted metabolites		untargeted
+MTBLS620	diabetes mellitus	http://www.ebi.ac.uk/efo/EFO_0000400	target
+MTBLS620	targeted metabolites		un-mapped
+MTBLS620	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS620	lipid	http://purl.obolibrary.org/obo/CHEBI_18059	target
+MTBLS620	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS622	virus plant treatment	http://purl.obolibrary.org/obo/EO_0007210	target
+MTBLS622	plant disease	http://purl.bioontology.org/ontology/CSP/2341-6246	target
+MTBLS622	Barley yellow dwarf virus-PAV	http://purl.bioontology.org/ontology/NCBITAXON/12040	target
+MTBLS622	carbon dioxide	http://purl.obolibrary.org/obo/CHEBI_16526	target
+MTBLS622	untargeted metabolites		untargeted
+MTBLS622	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS622	climate change	http://purl.obolibrary.org/obo/ENVO_01000629	target
+MTBLS626	Metabolism	http://www.ifomis.org/acgt/1.0#Metabolism	target
+MTBLS626	untargeted metabolites		untargeted
+MTBLS626	Cancer-Associated Fibroblasts	http://purl.bioontology.org/ontology/MESH/D000072645	target
+MTBLS626	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS626	MicroRNA	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25966	target
+MTBLS626	cancer	http://www.ebi.ac.uk/efo/EFO_0000311	target
+MTBLS626	Tracer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2480	target
+MTBLS629	fluorescence-activated cell sorting	http://purl.obolibrary.org/obo/CHMO_0001085	target
+MTBLS629	untargeted metabolites		untargeted
+MTBLS629	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS630	polymyxin	http://purl.obolibrary.org/obo/CHEBI_59062	target
+MTBLS630	untargeted metabolites		untargeted
+MTBLS630	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS630	genome-scale metabolic model		un-mapped
+MTBLS630	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS631	fluorescence-activated cell sorting	http://purl.obolibrary.org/obo/CHMO_0001085	target
+MTBLS631	untargeted metabolites		untargeted
+MTBLS631	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS631	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS633	fluorescence-activated cell sorting	http://purl.obolibrary.org/obo/CHMO_0001085	target
+MTBLS633	capillary electrophoresis-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000702	target
+MTBLS633	untargeted metabolites		untargeted
+MTBLS634	fluorescence-activated cell sorting	http://purl.obolibrary.org/obo/CHMO_0001085	target
+MTBLS634	untargeted metabolites		untargeted
+MTBLS634	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS640	targeted metabolites 		un-mapped
+MTBLS640	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS640	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS640	Parkinson's disease	http://www.ebi.ac.uk/efo/EFO_0002508	target
+MTBLS641	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS641	icosanoid	http://purl.obolibrary.org/obo/CHEBI_23899	target
+MTBLS641	High-Resolution Multiple-Reaction Monitoring Mass Spectrometry		un-mapped
+MTBLS641	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS641	targeted metabolites		un-mapped
+MTBLS641	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS643	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS643	non-uniform sampling	http://nmrML.org/nmrCV#NMR:1000350	target
+MTBLS643	untargeted metabolites		untargeted
+MTBLS643	Food Quality	http://purl.bioontology.org/ontology/MESH/D063427	target
+MTBLS643	beta-adrenergic agonist	http://purl.obolibrary.org/obo/CHEBI_35522	target
+MTBLS643	ractopamine	http://purl.obolibrary.org/obo/CHEBI_82644	target
+MTBLS643	two-dimensional 1H nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0002443	target
+MTBLS643	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS648	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS648	drug	http://purl.obolibrary.org/obo/CHEBI_23888	target
+MTBLS648	aging	http://purl.obolibrary.org/obo/GO_0007568	target
+MTBLS648	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS648	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS654	kimchi	http://purl.jp/bio/11/meo/MEO_0000017	target
+MTBLS654	jeotgal	http://purl.jp/bio/11/meo/MEO_0000271	target
+MTBLS654	Fermentation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C157204	target
+MTBLS654	targeted metabolites		un-mapped
+MTBLS654	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS654	Lactic acid bacteria	http://localhost/plosthes.2017-1#422	target
+MTBLS654	Bacterial succession		un-mapped
+MTBLS654	Metabolite changes		un-mapped
+MTBLS656	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS656	targeted metabolites		un-mapped
+MTBLS656	metabolomic profiling	http://www.ebi.ac.uk/efo/EFO_0000752	target
+MTBLS656	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	target
+MTBLS656	circadian rhythm	http://www.ebi.ac.uk/efo/EFO_0004354	target
+MTBLS658	untargeted metabolites		untargeted
+MTBLS658	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS658	rheumatoid arthritis	http://www.ebi.ac.uk/efo/EFO_0000685	target
+MTBLS661	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS661	thiol	http://purl.obolibrary.org/obo/CHEBI_29256	target
+MTBLS661	Gene Deletion	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16606	target
+MTBLS661	biosynthetic enzymes		un-mapped
+MTBLS661	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS661	Tuberculosis	http://www.orpha.net/ORDO/Orphanet_3389	target
+MTBLS661	targeted metabolites		un-mapped
+MTBLS664	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS664	Biocrates Absolute IDQp180 kit		un-mapped
+MTBLS664	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS664	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS664	untargeted metabolites		untargeted
+MTBLS664	targeted metabolites		un-mapped
+MTBLS665	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS665	Anti-malarial treatment		un-mapped
+MTBLS665	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS665	untargeted metabolites		untargeted
+MTBLS667	aging	http://purl.obolibrary.org/obo/GO_0007568	target
+MTBLS667	untargeted metabolites		untargeted
+MTBLS667	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS669	Ductal Breast Carcinoma In Situ	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2924	target
+MTBLS669	untargeted metabolites		untargeted
+MTBLS669	microfluidics	http://purl.bioontology.org/ontology/CSP/5005-0014	target
+MTBLS669	hypoxia	http://www.ebi.ac.uk/efo/EFO_0009444	target
+MTBLS669	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS669	breast cancer	http://purl.obolibrary.org/obo/DOID_1612	target
+MTBLS672	Archaea	http://purl.obolibrary.org/obo/NCBITaxon_2157	target
+MTBLS672	Cell Motility	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16404	target
+MTBLS672	one-component system		un-mapped
+MTBLS672	signal transduction	http://purl.obolibrary.org/obo/GO_0007165	target
+MTBLS672	Transcriptional Regulation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19077	target
+MTBLS672	untargeted metabolites		untargeted
+MTBLS672	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS673	Sudan grass	http://purl.bioontology.org/ontology/SNOMEDCT/318228008	target
+MTBLS673	Fish flesh quality		un-mapped
+MTBLS673	fat deposition	http://www.radlex.org/RID/#RID5216	target
+MTBLS673	untargeted metabolites		untargeted
+MTBLS673	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS673	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS674	targeted metabolites		un-mapped
+MTBLS674	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS674	biomarker	http://purl.obolibrary.org/obo/CHEBI_59163	target
+MTBLS674	Parkinson's disease	http://www.ebi.ac.uk/efo/EFO_0002508	target
+MTBLS674	flow injection analysis mass spectrometry		un-mapped
+MTBLS674	tandem mass spectrometry		un-mapped
+MTBLS674	BiocrateIDQ p180 kit		un-mapped
+MTBLS687	Metabolomics	http://edamontology.org/topic_3172	target
+MTBLS687	grassland	http://purl.obolibrary.org/obo/ENVO_00000106	target
+MTBLS687	climate	http://purl.obolibrary.org/obo/ENVO_01001082	target
+MTBLS687	soil	http://purl.obolibrary.org/obo/ENVO_00001998	target
+MTBLS687	plant functional traits		un-mapped
+MTBLS687	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS687	untargeted metabolites		untargeted
+MTBLS690	Type 2 Diabetes Mellitus		un-mapped
+MTBLS690	Pre-diabetes	http://purl.bioontology.org/ontology/MEDDRA/10036481	target
+MTBLS691	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS691	Biocrates Absolute IDQp180 kit		un-mapped
+MTBLS691	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS691	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS691	targeted metabolites		un-mapped
+MTBLS693	Lipidomics	http://scai.fraunhofer.de/CSEO#lipidomics	target
+MTBLS693	volatile organic compound	http://purl.obolibrary.org/obo/CHEBI_134179	target
+MTBLS693	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS693	Lipase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C37988	target
+MTBLS693	4-Decenal	http://purl.obolibrary.org/obo/CHEBI_90056	target
+MTBLS693	RNA Interference	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20153	target
+MTBLS694	Source	http://sweet.jpl.nasa.gov/2.3/reprSciComponent.owl#Source	target
+MTBLS694	cross-platform		un-mapped
+MTBLS694	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS694	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS694	untargeted metabolomics		untargeted
+MTBLS696	Macrophages	http://purl.bioontology.org/ontology/LNC/MTHU016340	target
+MTBLS696	Helicobacter pylori	http://purl.bioontology.org/ontology/NCBITAXON/210	target
+MTBLS696	Innate immunity		un-mapped
+MTBLS696	Cystathionine gamma-lyase	http://purl.bioontology.org/ontology/SNMI/F-6C870	target
+MTBLS696	polyamine	http://purl.obolibrary.org/obo/CHEBI_88061	target
+MTBLS696	untargeted metabolites		untargeted
+MTBLS696	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS698	untargeted metabolites		untargeted
+MTBLS698	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS698	Bioluminescence	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62655	target
+MTBLS699	untargeted mwtabolites		untargeted
+MTBLS699	light stress		un-mapped
+MTBLS699	gas chromatography time-of-flight mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000735	target
+MTBLS703	cobalamin metabolic process	http://purl.obolibrary.org/obo/GO_0009235	target
+MTBLS703	Diatoms	http://purl.bioontology.org/ontology/MESH/D017377	target
+MTBLS703	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS703	untargeted metabolites		untargeted
+MTBLS706	Glycolysis/Gluconeogenesis Pathway	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38818	target
+MTBLS706	Trypanosoma	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C125931	target
+MTBLS706	kinetoplastid	http://purl.obolibrary.org/obo/BTO_0002502	target
+MTBLS706	Fructose-1,6-Bisphosphatase 1	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C117102	target
+MTBLS706	glycosome	http://purl.obolibrary.org/obo/GO_0020015	target
+MTBLS706	glucose transporter, Leishmania	http://purl.bioontology.org/ontology/MESH/C115490	target
+MTBLS706	Parasitic Diseases	http://phenomebrowser.net/ontologies/mesh/mesh.owl#D010272	target
+MTBLS706	human african trypanosomiasis	http://www.ebi.ac.uk/efo/EFO_0005225	target
+MTBLS706	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS706	targeted metabolites		un-mapped
+MTBLS708	cobalamin metabolic process	http://purl.obolibrary.org/obo/GO_0009235	target
+MTBLS708	Diatoms	http://purl.bioontology.org/ontology/MESH/D017377	target
+MTBLS708	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS708	untargeted metabolites		untargeted
+MTBLS720	Amino acid supplementation	http://purl.bioontology.org/ontology/RCD/Ub06I	target
+MTBLS720	calf growth		un-mapped
+MTBLS720	Milk substitutes	http://purl.bioontology.org/ontology/UATC/V06DF	target
+MTBLS720	Skeletal muscle	http://purl.bioontology.org/ontology/LNC/LA27779-0	target
+MTBLS720	blood biochemistry		un-mapped
+MTBLS720	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS720	untargeted metabolites		untargeted
+MTBLS723	CXCL12-activated CXCR4 signaling pathway	http://purl.obolibrary.org/obo/GO_0038160	target
+MTBLS723	nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000591	target
+MTBLS723	Danio rerio	http://purl.obolibrary.org/obo/NCBITaxon_7955	target
+MTBLS723	Knock-Out Mouse	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C14339	target
+MTBLS723	ischemia reperfusion injury	http://www.ebi.ac.uk/efo/EFO_0002687	target
+MTBLS723	Gene expression profile	http://edamontology.org/data_0928	target
+MTBLS723	untargeted metabolites		untargeted
+MTBLS724	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS724	untargeted metabolites		untargeted
+MTBLS724	Diet	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15222	target
+MTBLS724	third instar larva stage	http://www.ebi.ac.uk/efo/EFO_0002682	target
+MTBLS737	Clear cell renal cell carcinoma	http://purl.obolibrary.org/obo/HP_0006770	target
+MTBLS737	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS737	untargeted metabolites		untargeted
+MTBLS750	myopathy	http://www.ebi.ac.uk/efo/EFO_0004145	target
+MTBLS750	targeted metabolites		un-mapped
+MTBLS750	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS750	skeletal muscle	http://purl.obolibrary.org/obo/BTO_0001103	target
+MTBLS750	Endoplasmic Reticulum Stress	http://www.ebi.ac.uk/efo/EFO_1001886	target
+MTBLS751	polymyxin	http://purl.obolibrary.org/obo/CHEBI_59062	target
+MTBLS751	Metabolomics	http://bioontology.org/ontologies/ResearchArea.owl#Metabolomics	target
+MTBLS751	Transcriptomics	http://edamontology.org/topic_3308	target
+MTBLS751	liquid chromatography mass spectrum	http://purl.obolibrary.org/obo/CHMO_0001832	target
+MTBLS752	spiking	http://purl.obolibrary.org/obo/CHMO_0002852	target
+MTBLS752	environmental food contaminant	http://purl.obolibrary.org/obo/CHEBI_78299	target
+MTBLS752	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS752	untargeted metabolites		untargeted
+MTBLS752	Food Safety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26037	target
+MTBLS752	XCMS	http://purl.obolibrary.org/obo/MS_1001582	target
+MTBLS754	spiking	http://purl.obolibrary.org/obo/CHMO_0002852	target
+MTBLS754	environmental food contaminant	http://purl.obolibrary.org/obo/CHEBI_78299	target
+MTBLS754	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS754	untargeted metabolites		untargeted
+MTBLS754	Food Safety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26037	target
+MTBLS754	XCMS	http://purl.obolibrary.org/obo/MS_1001582	target
+MTBLS756	untargeted metabolites		untargeted
+MTBLS756	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS756	Solid Phase Extraction	http://purl.bioontology.org/ontology/MESH/D052616	target
+MTBLS757	Lipidomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153193	target
+MTBLS757	lipidomics analysis software	http://purl.obolibrary.org/obo/MS_1002964	target
+MTBLS757	untargeted metabolites		untargeted
+MTBLS757	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002	target
+MTBLS761	galactose	http://purl.obolibrary.org/obo/CHEBI_28260	target
+MTBLS761	magic angle spinning nuclear magnetic resonance spectroscopy	http://purl.obolibrary.org/obo/CHMO_0000615	target
+MTBLS761	untargeted metabolites		untargeted
+MTBLS762	lipid	http://purl.obolibrary.org/obo/CHEBI_18059	target
+MTBLS762	antiviral drug	http://purl.obolibrary.org/obo/CHEBI_36044	target
+MTBLS762	sterol regulatory element-binding protein	http://purl.obolibrary.org/obo/PR_000028988	target
+MTBLS762	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS762	untargeted metabolites		untargeted
+MTBLS763	Broiler Chicken	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C76362	target
+MTBLS763	Chick		un-mapped
+MTBLS763	Postnatal stressful events		un-mapped
+MTBLS763	Stress	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C35041	target
+MTBLS763	Metabolomics	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C49019	target
+MTBLS763	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS763	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS763	untargeted metabolites		untargeted
+MTBLS767	Phytoplankton	http://www.owl-ontologies.com/unnamed.owl#Phytoplankton	target
+MTBLS767	virus-host interaction	http://purl.obolibrary.org/obo/GO_0019048	target
+MTBLS767	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS767	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS767	untargeted metabolites		untargeted
+MTBLS767	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS767	plaque assay	http://purl.bioontology.org/ontology/CSP/0415-4488	target
+MTBLS769	untargeted metabolites		untargeted
+MTBLS769	Phytoplankton	http://www.owl-ontologies.com/unnamed.owl#Phytoplankton	target
+MTBLS769	matrix-assisted laser desorption-ionisation imaging mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000054	target
+MTBLS769	virus-host interaction	http://purl.obolibrary.org/obo/GO_0019048	target
+MTBLS769	plaque assay	http://purl.bioontology.org/ontology/CSP/0415-4488	target
+MTBLS769	Liquid Microjunction-Surface Sampling Probe/Electrospray Ionization imaging mass spectrometry		un-mapped
+MTBLS770	untargeted metabolites		untargeted
+MTBLS770	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS770	behavioral symptom	http://purl.obolibrary.org/obo/SYMP_0019182	target
+MTBLS770	parasitic infection	http://www.ebi.ac.uk/efo/EFO_0001067	target
+MTBLS771	spiking	http://purl.obolibrary.org/obo/CHMO_0002852	target
+MTBLS771	environmental food contaminant	http://purl.obolibrary.org/obo/CHEBI_78299	target
+MTBLS771	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS771	untargeted metabolites		untargeted
+MTBLS771	Food Safety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26037	target
+MTBLS772	spiking	http://purl.obolibrary.org/obo/CHMO_0002852	target
+MTBLS772	environmental food contaminant	http://purl.obolibrary.org/obo/CHEBI_78299	target
+MTBLS772	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS772	untargeted metabolites		untargeted
+MTBLS772	Food Safety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26037	target
+MTBLS773	untargeted metabolites		untargeted
+MTBLS773	high-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000796	target
+MTBLS773	flavonoids	http://purl.obolibrary.org/obo/CHEBI_72544	target
+MTBLS773	anthocyanin	http://purl.obolibrary.org/obo/CHEBI_38697	target
+MTBLS773	flavonols	http://purl.obolibrary.org/obo/CHEBI_28802	target
+MTBLS773	climate	http://purl.obolibrary.org/obo/ENVO_01001082	target
+MTBLS773	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	target
+MTBLS773	short day length regimen	http://purl.obolibrary.org/obo/EO_0007200	target
+MTBLS773	long day length regimen	http://purl.obolibrary.org/obo/EO_0007199	target
+MTBLS773	tandem mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000575	target
+MTBLS780	Strain	http://purl.jp/bio/01/mccv#MCCV_000002	target
+MTBLS780	multi-omic 		un-mapped
+MTBLS780	Platform strain		un-mapped
+MTBLS780	resistance to stress	http://purl.obolibrary.org/obo/FYPO_0002046	target
+MTBLS780	Geno-to-phenotype association		un-mapped
+MTBLS788	Drug Discovery	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15802	target
+MTBLS788	untargeted metabolites		untargeted
+MTBLS788	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS789	mode of action	http://www.bioassayontology.org/bao#BAO_0000074	target
+MTBLS789	Aminotransferase inhibitor	http://purl.bioontology.org/ontology/SNOMEDCT/734564002	target
+MTBLS789	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS789	untargeted metabolites		untargeted
+MTBLS793	Trypanosoma brucei	http://purl.obolibrary.org/obo/NCBITaxon_5691	target
+MTBLS793	Sodalis glossinidius	http://purl.bioontology.org/ontology/NCBITAXON/63612	target
+MTBLS793	symbiosis, encompassing mutualism through parasitism	http://purl.obolibrary.org/obo/GO_0044403	target
+MTBLS793	response to starvation	http://purl.obolibrary.org/obo/GO_0042594	target
+MTBLS793	untargeted metabolites		untargeted
+MTBLS793	liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000524	target
+MTBLS803	gut microbiome measurement	http://www.ebi.ac.uk/efo/EFO_0007874	target
+MTBLS803	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS803	untargeted metabolites		untargeted
+MTBLS821	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS821	Biocrates Absolute IDQp180 kit		un-mapped
+MTBLS821	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS821	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS821	targeted metabolites		un-mapped
+MTBLS822	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS822	Biocrates Absolute IDQp180 kit		un-mapped
+MTBLS822	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS822	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS822	targeted metabolites		un-mapped
+MTBLS824	Malaria	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C34797	target
+MTBLS824	Biocrates Absolute IDQp180 kit		un-mapped
+MTBLS824	ultra-performance liquid chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000715	target
+MTBLS824	flow injection analysis	http://purl.obolibrary.org/obo/MS_1000058	target
+MTBLS824	targeted metabolites		un-mapped
+MTBLS826	method development	http://purl.bioontology.org/ontology/CSP/4001-0081	target
+MTBLS826	untargeted metabolites		untargeted
+MTBLS826	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS826	Seawater	http://purl.bioontology.org/ontology/MESH/D012623	target
+MTBLS839	method development	http://purl.bioontology.org/ontology/CSP/4001-0081	target
+MTBLS839	untargeted metabolites		untargeted
+MTBLS839	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS839	Seawater	http://purl.bioontology.org/ontology/MESH/D012623	target
+MTBLS843	method development	http://purl.bioontology.org/ontology/CSP/4001-0081	target
+MTBLS843	untargeted metabolites		untargeted
+MTBLS843	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS843	Seawater	http://purl.bioontology.org/ontology/MESH/D012623	target
+MTBLS844	method development	http://purl.bioontology.org/ontology/CSP/4001-0081	target
+MTBLS844	untargeted metabolites		untargeted
+MTBLS844	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS844	Seawater	http://purl.bioontology.org/ontology/MESH/D012623	target
+MTBLS848	method development	http://purl.bioontology.org/ontology/CSP/4001-0081	target
+MTBLS848	untargeted metabolites		untargeted
+MTBLS848	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS848	Seawater	http://purl.bioontology.org/ontology/MESH/D012623	target
+MTBLS849	method development	http://purl.bioontology.org/ontology/CSP/4001-0081	target
+MTBLS849	untargeted metabolites		untargeted
+MTBLS849	gas chromatography-mass spectrometry	http://purl.obolibrary.org/obo/CHMO_0000497	target
+MTBLS849	Seawater	http://purl.bioontology.org/ontology/MESH/D012623	target
