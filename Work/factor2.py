@@ -125,6 +125,7 @@ for studyID in studyIDs:
 df = pd.DataFrame(columns=['studyID', 'name', 'type', 'iri'])
 for fact in res:
     try:
+
         temp = pd.Series([fact.studyID, fact.name, fact.type, fact.iri], index=df.columns)
         df = df.append(temp, ignore_index=True)
     except:

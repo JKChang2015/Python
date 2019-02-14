@@ -11,7 +11,7 @@ import paramiko
 
 import config
 from Work.extractor.studyList import getStudyIDs
-
+import math
 
 class MAFstatus():
     def __init__(self, studyID, fullsize, annotated, unknown):
@@ -50,7 +50,7 @@ def assay_reader(filePath, colName):
 
 FolderPath = r'/Volumes/GoogleDrive/My Drive/study_metadata_backup/'
 # studyIDs = getStudyIDs(publicStudy=True)
-studyIDs = ['MTBLS358']
+studyIDs = ['MTBLS1']
 res = {}
 count = 0
 unknown_terms = []
@@ -69,27 +69,72 @@ for studyID in studyIDs:
         mafList = list(set(mafList))
 
 
-    if len(mafList) >0:
-        for maf_file in mafList:
-                df = pd.read_csv(studyPath + maf_file, sep='\t',encoding = "latin1")
-                df = df.astype(str)
-                annotated = df[
-                    (df['database_identifier'].notnull()) | (df['metabolite_identification'].notnull())]
-                unknown = annotated[~annotated['database_identifier'].str.startswith(('CHEBI','HMDB','CSID','TG','DG','P','L','PubChem'))]
-                term = list(unknown['database_identifier'].unique())
-                unknown_terms = unknown_terms + list(set(term) - set(unknown_terms))
-                study_full += df.shape[0]
-                study_annotated += (annotated.shape[0] - unknown.shape[0])
-                study_unknown += unknown.shape[0]
+    try:
+        assayList = investigation_reader(studyID, 'Study Assay File Name')
+        mafList = []
 
+        for assay in assayList:
+            mafList += assay_reader(studyPath + assay, 'Metabolite Assignment File')
+            mafList = list(set(mafList))
 
-    status = MAFstatus(studyID, fullsize=study_full, annotated=study_annotated, unknown=study_unknown)
-    res[studyID] = status
+        if len(mafList) > 0:
+            for maf_file in mafList:
+                try:
+                    df = pd.read_csv(studyPath + maf_file, sep='\t')
+                    count = df['reliability'].value_counts(dropna=False).to_dict()
+
+                    res[studyID] = count
+                    print(count)
+                except:
+                    print('Fail to read maf file:', maf_file)
+    except:
+        print('fail to read investigation file of ', studyID)
+        pass
+
+data = res['MTBLS1']
+for i in data.keys():
+    print(i,type(i))
+
+    # if len(mafList) >0:
+    #     for maf_file in mafList:
+    #         df = pd.read_csv(studyPath + maf_file, sep='\t')
+    #         # df = df.astype(str)
+    #         annotated = df.loc[(df['database_identifier'].notnull()) | (df['metabolite_identification'].notnull())]
+    #         unknown = annotated.loc[~annotated['database_identifier'].astype(str).str.startswith(
+    #             ('CHEBI', 'HMDB', 'CSID', 'TG', 'DG', 'P', 'L', 'C', 'SM', 'PubChem'),na=True)]
+    #
+    #         term = list(unknown['database_identifier'].unique())
+    #         unknown_terms = unknown_terms + list(set(term) - set(unknown_terms))
+    #         study_full += df.shape[0]
+    #         study_annotated += (annotated.shape[0] - unknown.shape[0])
+    #         study_unknown += unknown.shape[0]
+    #
+    #
+    # status = MAFstatus(studyID, fullsize=study_full, annotated=study_annotated, unknown=study_unknown)
+    # res[studyID] = status
 
 
     # if(count > 10):
     #     break
 
 
-print(unknown_terms)
+# print(unknown_terms)
 
+
+
+# import pandas as pd
+#
+# # file = 'm_mtbls1_metabolite_profiling_NMR_spectroscopy_v2_maf.tsv'
+# file = 'm_live_mtbl8_metabolite profiling_mass spectrometry_v2_maf.tsv'
+# FolderPath = r'/Users/jkchang/desktop/'
+# df = pd.read_csv(FolderPath + file, sep='\t')
+# # df = df.astype(str)
+# annotated = df.loc[(df['database_identifier'].notnull()) & (df['metabolite_identification'].notnull())]
+# annotated2 = df.loc[(df['database_identifier'].notnull()) | (df['metabolite_identification'].notnull())]
+# unknown = annotated.loc[~annotated['database_identifier'].str.startswith(
+#                             ('CHEBI', 'HMDB', 'CSID', 'TG', 'DG', 'P', 'L', 'C', 'SM', 'PubChem'))]
+# a = annotated.shape[0]
+# b = annotated2.shape[0]
+# c = unknown.shape[0]
+# d = df.shape[0]
+# print()
