@@ -51,7 +51,7 @@ for studyID in studyIDs:
                     key += list(set(count.keys()))
                     if len(count) > 0:
                         study_count += 1
-                        print(studyID+';' ,  count)
+                        print(studyID + ';', count)
                 except:
                     print('Fail to read maf file:', maf_file)
     except:
