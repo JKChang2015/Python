@@ -10,8 +10,7 @@ import pandas as pd
 import paramiko
 
 import config
-from Work.extractor.studyList import getStudyIDs
-import math
+
 
 class MAFstatus():
     def __init__(self, studyID, fullsize, annotated, unknown):
@@ -68,7 +67,6 @@ for studyID in studyIDs:
         mafList += assay_reader(studyPath + assay, 'Metabolite Assignment File')
         mafList = list(set(mafList))
 
-
     try:
         assayList = investigation_reader(studyID, 'Study Assay File Name')
         mafList = []
@@ -93,7 +91,7 @@ for studyID in studyIDs:
 
 data = res['MTBLS1']
 for i in data.keys():
-    print(i,type(i))
+    print(i, type(i))
 
     # if len(mafList) >0:
     #     for maf_file in mafList:
@@ -113,13 +111,10 @@ for i in data.keys():
     # status = MAFstatus(studyID, fullsize=study_full, annotated=study_annotated, unknown=study_unknown)
     # res[studyID] = status
 
-
     # if(count > 10):
     #     break
 
-
 # print(unknown_terms)
-
 
 
 # import pandas as pd

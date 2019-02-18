@@ -4,8 +4,9 @@
 # Tag:
 # Description: read investigation / assay / MAF file
 
-import config
 import pandas as pd
+
+import config
 
 
 def investigation_reader(studyID, prefix):
@@ -30,7 +31,6 @@ def investigation_reader(studyID, prefix):
 
 
 def assay_reader(filePath, colName, dropna=True):
-
     df = pd.read_csv(filePath, sep='\t')
     # return list of content in colName
     if dropna:
