@@ -7,7 +7,7 @@
 import pandas as pd
 from owlready2 import *
 
-from Work.ontology_info import *
+from Work.ontology.ontology_info import *
 
 # load ontologies:
 onto_list = ['bto', 'efo', 'ncbitaxon']  # 'bto', 'efo'

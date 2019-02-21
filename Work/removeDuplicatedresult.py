@@ -4,7 +4,7 @@
 # Tag:
 # Description: 
 
-from Work.ontology_info import entity
+from Work.ontology.ontology_info import entity
 
 
 def removeDuplicated(res_list):

@@ -9,7 +9,7 @@ import urllib.parse
 
 from owlready2 import urllib
 
-from Work.ontology_info import entity
+from Work.ontology.ontology_info import entity
 
 
 

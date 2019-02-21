@@ -5,7 +5,7 @@
 # Description: 
 
 from owlready2 import *
-from Work.onto_info import *
+from Work.ontology.onto_info import *
 
 onto = get_ontology('../resources/Metabolights.owl').load()
 info = information(onto)

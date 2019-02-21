@@ -8,7 +8,7 @@ import json
 import ssl
 import urllib.request
 
-from Work.ontology_info import entity
+from Work.ontology.ontology_info import entity
 
 
 def getOLS(query):

@@ -6,7 +6,7 @@
 
 from owlready2 import *
 import pandas as pd
-from Work.ontology_info import *
+from Work.ontology.ontology_info import *
 
 
 onto = get_ontology('file://./test/infor.owl').load()

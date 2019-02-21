@@ -7,7 +7,7 @@
 import pandas as pd
 from owlready2 import *
 
-from Work.ontology_info import *
+from Work.ontology.ontology_info import *
 #
 onto = get_ontology('./efo.owl').load()
 # df = pd.read_csv('./efo.csv')
