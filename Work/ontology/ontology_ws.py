@@ -4,133 +4,93 @@
 # Tag:
 # Description: rewrite ontology-ws
 
-import datetime
-import json
-import logging
-import ssl
+from owlready2 import IRIS
+from owlready2 import get_ontology
 
-import numpy as np
-import pandas as pd
-from flask import jsonify
-from flask import request, abort, current_app as app
-from flask_restful import Resource, reqparse
-from flask_restful_swagger import swagger
-from owlready2 import get_ontology, urllib, IRIS
+from Work.ontology.ontology_info import entity
+from Work.ontology.ontology_info import onto_information
 
 
-class entity():
-    def __init__(self, name=None, iri=None, obo_ID=None, ontoName=None, provenance_name=None, provenance_uri=None,
-                 Zooma_confidence=None):
-        if name is None:
-            self.name = ''
-        else:
-            self.name = name
+def getMetaboTerm(keyword, branch):
+    # logger.info('Getting Ontology term %s', keyword)
+    onto = get_ontology('../resources/Metabolights.owl').load()
+    info = onto_information(onto)
 
-        if iri is None:
-            self.iri = ''
-        else:
-            self.iri = iri
+    res_cls = []
+    result = []
+    if keyword:
+        if branch:  # term = 1, branch = 1, search term in the branch
+            try:
+                start_cls = onto.search_one(label=branch)
+                clses = info.get_subs(start_cls)
+            except Exception as e:
+                print(e.args)
+                return []
+        else:  # term = 1, branch = 0, search term in the whole ontology
+            try:
+                clses = list(onto.classes())
+            except Exception as e:
+                print(e.args)
+                return []
 
-        if obo_ID is None:
-            self.obo_ID = ''
-        else:
-            self.obo_ID = obo_ID
+        #  exact match
+        for cls in clses:
+            if keyword.lower() == cls.label[0].lower():
+                subs = info.get_subs(cls)
+                res_cls = [cls] + subs
 
-        if ontoName is None:
-            self.ontoName = ''
-        else:
-            self.ontoName = ontoName
+        # if not exact match, do fuzzy match
+        if len(res_cls) == 0:
+            for cls in clses:
+                if cls.label[0].lower().startswith(keyword.lower()):
+                    res_cls.append(cls)
+                    res_cls += info.get_subs(cls)
 
-        if provenance_name is None:
-            self.provenance_name = ''
-        else:
-            self.provenance_name = provenance_name
+        # synonym match
+        if branch == 'taxonomy' or branch == 'factors':
+            for cls in clses:
+                try:
+                    map = IRIS['http://www.geneontology.org/formats/oboInOwl#hasExactSynonym']
+                    Synonym = list(map[cls])
+                    if keyword.lower() in [syn.lower() for syn in Synonym]:
+                        res_cls.append(cls)
+                except Exception as e:
+                    print(e.args)
+                    pass
 
-        if provenance_uri is None:
-            self.provenance_uri = ''
-        else:
-            self.provenance_uri = provenance_uri
-
-        if Zooma_confidence is None:
-            self.Zooma_confidence = ''
-        else:
-            self.Zooma_confidence = Zooma_confidence
-
-
-class ontology():
-
-    def get_subclass(self):
-        pass
-
-    def get_superclass(self):
-        pass
-
-    def get_zooma(self):
-        pass
-
-    def get_OLS(self):
-        pass
-
-    def get_bioportal(self):
-        res = []
+    elif keyword is None and branch:  # term = 0, branch = 1, return whole branch
         try:
-            url = 'http://data.bioontology.org/search?q=' + keyword.replace(' ', "+")  # + '&require_exact_match=true'
-            request = urllib.request.Request(url)
-            request.add_header('Authorization', 'apikey token=c60c5add-63c6-4485-8736-3f495146aee3')
-            response = urllib.request.urlopen(request)
-            content = response.read().decode('utf-8')
-            j_content = json.loads(content)
-
-            iri_record = []
-
-            for term in j_content['collection']:
-                iri = term['@id']
-                if iri in iri_record:
-                    continue
-
-                if 'mesh' in iri.lower():
-                    ontoName = 'MESH'
-                elif 'nci' in iri.lower():
-                    ontoName = 'NCIT'
-                elif 'bao' in iri.lower():
-                    ontoName = 'BAO'
-                else:
-                    ontoName = __get_onto_name__(iri)
-
-                enti = entity(name=term['prefLabel'],
-                              iri=iri,
-                              obo_ID=iri.rsplit('/', 1)[-1],
-                              ontoName=ontoName)
-                res.append(enti)
-                iri_record.append(iri)
-                if len(res) >= 5:
-                    break
+            start_cls = onto.search_one(label=branch)
         except Exception as e:
-            # TODO
-            print('getBioportal' + str(e))
-            # logger.error('getBioportal' + str(e))
-        return res
+            print(e.args)
+            return []
+        res_cls = info.get_subs(start_cls)
+
+    else:  # term = 0, branch = 0, return []
+        return []
+
+    if len(res_cls) > 0:
+        for cls in res_cls:
+            if 'MTBLS' in cls.iri:
+                ontoName = 'MTBLS'
+            else:
+                ontoName = getOnto_Name(cls.iri)
+
+            enti = entity(name=cls.label[0], iri=cls.iri, obo_ID=cls.name, ontoName=ontoName,
+                          provenance_name='Metabolights', provenance_uri='https://www.ebi.ac.uk/metabolights/')
+            result.append(enti)
+        return result
+    return []
 
 
-def __get_onto_name__(iri):
+def getOnto_Name(iri):
     # get ontology name by giving iri of entity
     substring = iri.rsplit('/', 1)[-1]
     return ''.join(x for x in substring if x.isalpha())
 
 
+keyword = 'cell'
+branch = None
 
-term = False
-branch = False
-exact = False
-
-if term == True:
-    if branch == True:  # term == True branch == True
-        pass
-    else:  # term == True branch == False
-        pass
-
-else:
-    if branch == True:  # term == False branch == True
-        pass
-    else:  # term == False branch == False
-        pass
+res = getMetaboTerm(keyword, branch)
+print()
