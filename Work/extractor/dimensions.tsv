@@ -1,0 +1,152 @@
+StudyID	1D/2D	Technique
+MTBLS247	1D	1D 13C with power-gated decoupling (zgpg)
+MTBLS400	1D	1D 1H spectrum (zg)
+MTBLS643	1D	1D 1H spectrum (zg)
+MTBLS761	1D	1D 1H T2-filter sequence eliminating J-modulation with water presaturation
+MTBLS116	1D	1D 1H with presaturation (presat)
+MTBLS123	1D	1D 1H with presaturation (presat)
+MTBLS240	1D	1D 1H with presaturation (presat)
+MTBLS342	1D	1D 1H with presaturation (presat)
+MTBLS524	1D	1D 1H with presaturation (presat)
+MTBLS619	1D	1D 1H with presaturation (presat)
+MTBLS654	1D	1D 1H with presaturation (presat)
+MTBLS346	1D	1D 1H with presaturation (wet)
+MTBLS331	1D	1D 1H with presaturation (zgpr)
+MTBLS349	1D	1D 1H with presaturation (zgpr)
+MTBLS386	1D	1D 1H with presaturation (zgpr)
+MTBLS444	1D	1D 1H with presaturation (zgpr)
+MTBLS453	1D	1D 1H with presaturation (zgpr)
+MTBLS560	1D	1D 1H with presaturation (zgpr)
+MTBLS9	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS48	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS77	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS103	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS114	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS123	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS147	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS172	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS174	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS189	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS237	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS239	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS242	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS275	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS326	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS340	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS374	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS395	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS400	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS422	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS424	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS455	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS463	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS539	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS543	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS560	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS563	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS564	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS576	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS619	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS658	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS667	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS675	1D	1D CPMG with presaturation (cpmgpr1d)
+MTBLS475	1D	1D CPMG with presaturation (cpmgpr1d) and 2D JRES with homonuclear J-resolved 2D correlation (jresesgp
+MTBLS46	1D	1D CPMG with presaturation (cpmgpr1d)/1D NOESY with presaturation (noesypr1d)
+MTBLS400	1D	"1D homonuclear MQS with selective pulses, without gradients, selects both ZQC and DQC (SSelMQC_refoc_ph)"
+MTBLS798	1D	1D NOE
+MTBLS241	1D	"1D NOESY 12C 13C custom filtered with presaturation, phase-sensitive gradients, and 13C decoupling (c12c13filternoesygpc13cpd)"
+MTBLS241	1D	"1D NOESY 12C custom filtered with presaturation, phase-sensitive gradients, and 13C decoupling (c12filternoesygpc13cpd)"
+MTBLS399	1D	1D NOESY with presaturation (metnoesy)
+MTBLS705	1D	1D NOESY with presaturation (noessygppr1d)
+MTBLS764	1D	1D NOESY with presaturation (noessygppr1d)
+MTBLS800	1D	1D NOESY with presaturation (noesypr 1d)
+MTBLS800	1D	1D NOESY with presaturation (noesypr 1d)
+MTBLS1	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS9	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS24	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS48	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS102	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS115	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS123	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS156	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS161	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS177	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS189	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS200	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS230	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS247	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS285	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS337	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS340	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS369	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS374	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS382	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS400	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS425	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS516	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS602	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS622	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS646	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS667	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS800	1D	1D NOESY with presaturation (noesypr1d)
+MTBLS100	1D	1D NOESY with presaturation (tnnoesy)
+MTBLS101	1D	1D NOESY with presaturation (tnnoesy)
+MTBLS256	1D	1D NOESY with presaturation (tnnoesy)
+MTBLS261	1D	1D NOESY with presaturation (tnnoesy)
+MTBLS387	1D	1D NOESY with presaturation (tnnoesy)
+MTBLS104	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS149	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS166	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS237	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS238	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS241	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS361	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS367	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS419	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS430	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS431	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS640	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS669	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS720	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS723	1D	1D NOESY with presaturation and spoil gradients (noesygppr1d)
+MTBLS626	1D	"2D HSQC using echo-antiecho-TPPI gradient selection, constant time, trim pulses, shaped pulses for inversion, no refocussing, off-resonance pulse (hsqcctetgpsp.2)"
+MTBLS626	1D	1D NOESY with presaturation during relaxation delay and mixing time and spoil gradient (noesygppr1d_kr)
+MTBLS249	1D	1D with water suppression using excitation sculpting with gradients (zgesgp)
+MTBLS794	1D	1D-tnnoesy with a 990 ms presaturation on water
+MTBLS593	1D	1H with water presaturation (zg30_f2pr)
+MTBLS832		1H-Presat
+MTBLS25	2D	2D 1H-13C HSQC (hsqcetgppr)
+MTBLS356	2D	2D homonuclear correlation via dipolar coupling (noesyesgpph)
+MTBLS241	2D	2D HSQC using echo-antiecho and adiabatic pulses for inversion and refocusing with additional water suppression (hsqcetgpsp.2.cl)
+MTBLS367	2D	2D HSQC using echo-antiecho and adiabatic pulses for inversion and refocusing with additional water suppression (hsqcetgpsp.2.cl)
+MTBLS387	2D	2D HSQC using PEP and adiabatic pulses for inversion and refocusing with gradients in back-inept and suppression of COSY type artefacts (hsqcetgpsisp2.3)
+MTBLS247	2D	2D HSQC with presaturation (hsqcphpr)
+MTBLS643	2D	2D Interleaved Ultrafast COSY (iufcosy)
+MTBLS336	2D	2D JRES with excitation sculpting & additional water suppression (jresesgp2)
+MTBLS249	2D	2D JRES with homonuclear J-resolved 2D correlation (jresesgp)
+MTBLS247	2D	2D TOCSY with presaturation using MLEV (mlevphpr)
+MTBLS643	2D	2D Zero-quantum-filtered total correlation spectra (zTOCSY-em-3)
+MTBLS190	1D	Bruker noesypr1d
+MTBLS678	1D	Bruker noesypr1d
+MTBLS832		Carr-Purcell-Meiboom-Gill (CPMG)
+MTBLS623		Carr-Purcell-Meiboom-Gill (CPMG) spin echo
+MTBLS151		Conventional 1H spectrum (zg30)
+MTBLS189		Conventional 1H spectrum (zg30)
+MTBLS347	1D	cpmgpr1d
+MTBLS781	1D	cpmgpr1d
+MTBLS841	1D	cpmgpr1d
+MTBLS734	2D	"first increment of a 2-dimensional-1H,1H-NOESY, with a recycling delay (d1) of 10 ms followed by a water presaturation delay of 900 ms at 6 dB, a 100 ms NOE mixing time, a 4 s acquisition time and a spectral width of 7200 Hz"
+MTBLS781		hsqcedetgp
+MTBLS236		hsqcetgpsp2ug2
+MTBLS131	2D	M3S COSY
+MTBLS132	2D	M3S COSY
+MTBLS133	2D	M3S COSY
+MTBLS134	2D	M3S COSY
+MTBLS781		mlevesgpph
+MTBLS639	1D	noesygppr1d
+MTBLS694	1D	noesygppr1d
+MTBLS796	1D	noesypr1d
+MTBLS236	1D	noesypr1dug5
+MTBLS740		zgpr
+MTBLS806		zgpr
+MTBLS847		zgpr
