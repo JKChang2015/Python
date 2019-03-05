@@ -47,8 +47,9 @@ def drawSimpleGraph(dataFrame, title):
     fig1, ax = plt.subplots()
     explode = (0, 0.1)
     # dataFrame[col[1]]
-    wedges, texts, autotexts = ax.pie(dataFrame[col[1]], labels = dataFrame[col[0]], wedgeprops=dict(width=0.7), startangle=-20,
-                                  autopct=lambda pct: func(pct, dataFrame[col[1]]))
+    wedges, texts, autotexts = ax.pie(dataFrame[col[1]], labels=dataFrame[col[0]], wedgeprops=dict(width=0.7),
+                                      startangle=-20,
+                                      autopct=lambda pct: func(pct, dataFrame[col[1]]))
 
     ax.axis('equal')
     ax.set_title(title)
@@ -57,6 +58,7 @@ def drawSimpleGraph(dataFrame, title):
 
 def drawRingGraph(dataFrame, title):
     pass
+
 
 def mapCols(dataFrame, colName, newColName, namePair, fillna=False, naValue=''):
     # map colName with namepair and save in newColName
@@ -92,7 +94,6 @@ df = split(df, colName='Technique', sep=';')
 # ===========================================================================
 
 
-
 # ==================== Full name mapping=================================
 # names = pd.read_csv('./resources/full name.csv')
 # namePair = dict(zip(names['Study type'], names['Full Name']))
@@ -111,7 +112,7 @@ df = split(df, colName='Technique', sep=';')
 
 # =======================Count for each Technique ==============================
 res = colCount(df, 'Technique')
-dff = pd.DataFrame.from_dict(res,orient='index')
+dff = pd.DataFrame.from_dict(res, orient='index')
 dff.reset_index(level=0, inplace=True)
 dff.columns = ['Technique', 'Counts']
 names = pd.read_csv('./resources/full name.csv')
@@ -120,10 +121,9 @@ namePair = dict(zip(names['Study type'], names['Full Name']))
 res_df = mapCols(dataFrame=dff, colName='Technique', newColName='Type', namePair=groupPair)
 res_df = mapCols(dataFrame=res_df, colName='Technique', newColName='Full Name', namePair=namePair)
 
-res_df = res_df[['Type','Counts','Technique','Full Name']]
+res_df = res_df[['Type', 'Counts', 'Technique', 'Full Name']]
 res_df.to_csv('counted2.tsv', sep='\t', encoding='utf-8', index=False)
 print()
-
 
 #
 #

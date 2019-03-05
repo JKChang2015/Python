@@ -9,7 +9,7 @@
 
 import pandas as pd
 from owlready2 import *
-from Work.ontology.ontology_info import *
+from Work.ontology.onto_info import *
 
 onto_path = '/Users/jkchang/Github/Python/large file/ncbitaxon.owl'
 
