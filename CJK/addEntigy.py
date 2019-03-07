@@ -5,8 +5,6 @@
 # Description: 
 
 temp = """
-
-
     <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000007 -->
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000007">
@@ -14,6 +12,4 @@ temp = """
         <rdfs:label xml:lang="en">ADW:Commensal species</rdfs:label>
     </owl:Class>
     """
-
-
 
