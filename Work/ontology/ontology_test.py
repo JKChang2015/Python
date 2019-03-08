@@ -6,12 +6,17 @@
 
 import requests
 
-with open('../resources/ontology test URLs.txt') as fp:
+with open('../resources/ontology test URLs dev.txt') as fp:
     lines = fp.readlines()
+
+
     for line in lines:
         if line.startswith('http'):
+            print('==' * 30)
             print(line)
             try:
+                data = requests.get(line)
+                print(data.json())
                 r = requests.head(line)
                 if r.status_code != 200:
                     print(r.status_code)
