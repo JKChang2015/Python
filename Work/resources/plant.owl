@@ -25,6 +25,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/apple">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apple define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">apple</rdfs:label>
     </owl:Class>
     
@@ -34,6 +35,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/clove">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">clove define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">clove</rdfs:label>
     </owl:Class>
     
@@ -43,6 +45,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/flower">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/plant"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">flower define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">flower</rdfs:label>
     </owl:Class>
     
@@ -52,6 +55,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/fruit">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/plant"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fruit define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">fruit</rdfs:label>
     </owl:Class>
     
@@ -61,6 +65,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/lily">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lily define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">lily</rdfs:label>
     </owl:Class>
     
@@ -70,6 +75,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/orange">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">orange define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">orange</rdfs:label>
     </owl:Class>
     
@@ -79,6 +85,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/pear">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pear define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">pear</rdfs:label>
     </owl:Class>
     
@@ -87,6 +94,7 @@
     <!-- http://www.ebi.ac.uk/metabolights/ontology/plant -->
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/plant">
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plant define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">plant</rdfs:label>
     </owl:Class>
     
@@ -96,6 +104,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/rose">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rose define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">rose</rdfs:label>
     </owl:Class>
     
@@ -105,6 +114,7 @@
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/watermelon">
         <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+        <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">watermelon define</rdfs:isDefinedBy>
         <rdfs:label xml:lang="en">watermelon</rdfs:label>
     </owl:Class>
 </rdf:RDF>

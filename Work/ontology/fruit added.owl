@@ -1,0 +1,77 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+         xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+         xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+         xmlns:owl="http://www.w3.org/2002/07/owl#"
+         xml:base="http://www.ebi.ac.uk/metabolights/jkchang/ontologies/untitled-ontology-174"
+         xmlns="http://www.ebi.ac.uk/metabolights/jkchang/ontologies/untitled-ontology-174#">
+
+<owl:Ontology rdf:about="http://www.ebi.ac.uk/metabolights/jkchang/ontologies/untitled-ontology-174"/>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/apple">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+  <rdfs:label xml:lang="en">apple</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">apple define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/fruit">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/plant"/>
+  <rdfs:label xml:lang="en">fruit</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">fruit define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/clove">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+  <rdfs:label xml:lang="en">clove</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">clove define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/flower">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/plant"/>
+  <rdfs:label xml:lang="en">flower</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">flower define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/plant">
+  <rdfs:label xml:lang="en">plant</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">plant define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/lily">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+  <rdfs:label xml:lang="en">lily</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">lily define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/orange">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+  <rdfs:label xml:lang="en">orange</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">orange define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/pear">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+  <rdfs:label xml:lang="en">pear</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">pear define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/rose">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+  <rdfs:label xml:lang="en">rose</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">rose define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/watermelon">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+  <rdfs:label xml:lang="en">watermelon</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">watermelon define</rdfs:isDefinedBy>
+</owl:Class>
+
+<owl:Class rdf:about="#MTBLS100">
+  <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/fruit"/>
+  <rdfs:label rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kiwi</rdfs:label>
+  <rdfs:isDefinedBy rdf:datatype="http://www.w3.org/2001/XMLSchema#string">kind of green fruit</rdfs:isDefinedBy>
+</owl:Class>
+
+
+</rdf:RDF>
