@@ -1,0 +1,1001 @@
+Study Submission Date	MTBLS ID	Study Type	Species	Study Publication Date	Status	Submitter Name	Place Holder	WND	Assigned to	Isatab completeness	Metabolites Added	Additional files	Paper	PMID/DOI	Data in repository	Last Updated Date	Google Drive folder Name	Validation	Author feedback	COSMOS / PhenoMeNal partner study?	Blue?	Light Purple 3?	ChEBI/MAF update required	Current Status	Additional Notes	Size (MB)	Accumalated size	Month since Jan 2012	Average size of studies:	26130	935
+2012-02-14	MTBLS1	NMR	Homo sapiens	2012-02-14	Public	Reza Salek				Done	Yes - Full		Pubmed link		Full	2017-11-02	MTBLS1 - 20171102_LEG	Passes			1			Pending	Metabolites to be sorted. 	147.95	148	2			
+2012-05-22	MTBLS2	UPLC-QTOF-MS	Arabidopsis thaliana	2012-05-22	Public	Steffen Neumann				Done	Yes - Full		Pubmed link		Full	2016-01-29	MTBLS2 - 20150803_LEG	Passes		Y	1			Pending	Metabolites to be sorted. 	6,357.95	6,506	5			
+2012-02-14	MTBLS3	GC-Q-MS	Caenorhabditis elegans	2012-02-14	Public	Reza Salek			Reza	Done	Yes - Full		Pubmed link		Full	2015-12-03	MTBLS3 - 20151203_LEG	Passes			1			Pending	Metabolites to be sorted. 	208.89	6,715	2			
+2012-02-14	MTBLS4	UPLC-LTQ-MS	Homo sapiens	2012-02-14	Public	Albert Koulman			Reza	Done	Yes - Full		Pubmed link		Full	2012-02-14	MTBLS4 - 20150803_LEG	Passes		Y	1			Pending	Better.  LysoPC in MIF needs to be corrected to lysoPC.	3,485.77	10,201	2			
+2015-09-11	MTBLS5	GC-TOF-MS	Synechocystis sp. PCC 6803	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm1A_MTBLS5 - 20150903_LEG	Passes		Y	1			Full	Golm1	1,317.36	11,518	45			
+2012-03-29	MTBLS6	GC-Q-MS	Bos taurus;reference compound	2012-03-29	Public	Sean O'Callaghan			Reza	Done	No		Pubmed link		Full	2015-12-03	MTBLS6 - 20151203_LEG				1			Basic		261.48	11,779	3			
+2015-09-11	MTBLS7	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	No		No		Full	2017-03-22	Golm2A_MTBLS7 - 20150903_LEG	Passes		Y	1			Basic	Golm2	4,270.75	16,050	45			
+2012-04-19	MTBLS8	GC-TOF-MS	Saccharomyces cerevisiae	2012-04-19	Public	Juan Castrillo			Reza	Done	Yes - Full		Pubmed link		Full	2015-12-04	MTBLS8 - 20151203_LEG	Passes			1				Most recent metabolite annotation file needs to be uploaded.	5,006.29	21,056	4			
+2017-09-18	MTBLS9	NMR	Arabidopsis thaliana	2017-09-18	Submitted	James Ellis		R	Mark	Done	Yes - Full	Excel	Pubmed link		Full	2018-09-20	MTBLS9 - 20170918_LEG	Passes	Awaiting					Full	Submit to main.  Validation needed 2012 config file. Author was going to add reliability data to MAF.  No reply repeatedly. Publish as is current.  RESURRECTED.	1.65	21,058	69			
+2012-08-14	MTBLS10	HPLC-QTOF-MS	Nicotiana attenuata	2012-08-14	Public	Steffen Neumann			Mark	Done	Yes - Full		Pubmed link		Full	2015-11-05	MTBLS10 - 20150930_LEG	Passes		Y	1			Full		180.49	21,239	8			
+2015-09-11	MTBLS11	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		No		Full	2017-03-22	Golm3A_MTBLS11 - 20150903_LEG	Passes		Y	1			Full	Golm3	4,043.94	25,282	45			
+2015-09-11	MTBLS12	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		No		Full	2017-03-22	Golm4A_MTBLS12 - 20150903_LEG	Passes		Y	1			Full	Golm4	2,607.70	27,890	45			
+2015-09-11	MTBLS13	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		No		Full	2017-03-22	Golm5A_MTBLS13 - 20150903_LEG	Passes		Y	1			Full	Golm5	3,136.61	31,027	45			
+2015-09-11	MTBLS14	GC-TOF-MS	Lotus japonicus;Lotus burttii;Lotus creticus;Lotus filicaulis;Lotus corniculatus;Lotus uliginosus;Lotus tenuis	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm6A_MTBLS14 - 20150903_LEG	Passes		Y	1			Full	Golm6	3,613.74	34,641	45			
+2015-09-11	MTBLS15	GC-TOF-MS	Lotus burttii;Lotus creticus;Lotus tenuis;Lotus corniculatus;Lotus japonicus;Lotus uliginosus;Lotus filicaulis	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm7A_MTBLS15 - 20150903_LEG	Passes		Y	1			Full	Golm7	3,576.28	38,217	45			
+2015-09-11	MTBLS16	GC-TOF-MS	Lotus japonicus;Lotus uliginosus;Lotus tenuis;Lotus filicaulis;Lotus corniculatus;Lotus burttii	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm8A_MTBLS16 - 20150903_LEG	Passes		Y	1			Full	Golm8	3,124.55	41,341	45			
+2013-06-11	MTBLS17	UPLC-QTOF-MS	Homo sapiens	2013-06-30	Public	Jinlian Wang, Habtom Ressom			Mark	Done	Yes - Full		Pubmed link		Full	2015-12-04	MTBLS17 - 20151204_LEG	Passes			1			Full	 	28,240.66	69,582	18			
+2015-06-08	MTBLS18	UPLC-QTOF-MS;UPLC-DAD	Arabidopsis thaliana	2018-10-31	In Review	Steffen Neumann			Mark	Done	Yes - Full		Pubmed link		Full	2017-11-02	MTBLS18 - 20170918_LEG	Passes		Y	1			Pending	Waiting for another R script and final approval from Steffan before it gors PUBLIC. Curation completed.	62,612.34	132,194	42			
+2013-06-11	MTBLS19	UPLC-QTOF-MS	Homo sapiens	2013-06-30	Public	Jinlian Wang, Habtom Ressom			Mark	Done	Yes - No data		Pubmed link		Full	2015-12-04	MTBLS19 - 20151204_LEG	Passes			1			Full	 	9,339.49	141,534	18			
+2012-08-06	MTBLS20	FIA-LTQ-MS/MS;UPLC-LTQ-MS/MS	reference compound;Homo sapiens	2013-07-26	Public	Christophe Junot			Mark	Done	Yes - Full		Pubmed link		Full	2015-12-04	MTBLS20 - 20151204_LEG	Passes			1			Full		4,673.08	146,207	8			
+2012-09-21	MTBLS21	GC-QIT-MS	Triticum aestivum	2012-09-21	Public	Nils Hoffmann			Mark	Done	No		Pubmed link		Full	2015-12-11	MTBLS21 - 20151211_LEG	Passes			1			Full		935.08	147,142	9			
+2015-09-11	MTBLS22	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm9A_MTBLS22 - 20150903_LEG	Passes		Y	1			Full	Golm9	1,123.14	148,265	45			
+2012-08-24	MTBLS23	GC-Q-MS	Mus musculus	2012-09-05	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2015-12-17	MTBLS23 - 20151217_LEG	Passes			1			Full	 	212.10	148,477	8			
+2012-10-21	MTBLS24	NMR	Homo sapiens	2012-10-21	Public	Helena Zacharias			Mark	Done	Yes - Full		Pubmed link		Full	2015-12-17	MTBLS24 - 20151217_LEG	Passes			1			Full	 	63.80	148,541	10			
+2013-01-03	MTBLS25	NMR	Homo sapiens	2013-01-10	Public	Matthias Klein			Mark	Done	Yes - Full				Full	2015-12-17	MTBLS25 - 20151217_LEG	Passes			1			Full		35.41	148,576	13			
+2012-11-14	MTBLS26	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS	Mus musculus	2014-08-19	Public	Harald Köfeler			Mark	Done	No		Pubmed link		Full	2016-02-01	MTBLS26 - 20160122_LEG	Passes			1			Full	Also see MTBLS81	4,668.09	153,245	11			
+2014-10-24	MTBLS27	GC-TOF-MS	reference compound;Homo sapiens	2016-12-15	Public	Faith Coldren, Aalim Weljie			Mark	Done	Yes - Full		Thesis		Full	2016-12-15	MTBLS27 - 20160204_LEG	Passes			1			Full	Ken contacted Faith: There is not a publication yet for this study.	1,241.29	154,486	34			
+2013-01-18	MTBLS28	UPLC-QTOF-MS	Homo sapiens	2014-05-06	Public	Majda Haznadar			Mark	Done	Yes - Partial		Pubmed link		Full	2016-02-17	MTBLS28 - 20160217_LEG	Passes			1			Full	/ebi/ftp/private/mtblight/upload/Reza/MajdaHaznadar_data_NCI	118,019.78	272,506	13			
+2013-05-10	MTBLS29	MALDI-TOF/TOF-MS	Saccharomyces cerevisiae;reference compound	2013-05-22	Public	Alfredo Ibanez			Mark	Done	Yes - No data		Pubmed link		Full	2017-02-03	MTBLS29 - 20160218_LEG	Passes			1			Pending	Update study with new maf.	1,285.55	273,791	17			
+2013-02-08	MTBLS30	GC-Q-MS;FIA-TQ-MS/MS	Mus musculus	2013-04-10	Submitted	Reza Salek		R	Mark	Done	Yes - Full		Pubmed link		Metadata Only	2018-09-20	MTBLS30 - 20170919_LEG	Passes		Y				Pending	Where is the RAW data !!!!!!!	4.79	273,796	14			
+2013-05-09	MTBLS31	LC-LTQ-MS/MS	Mus musculus	2013-05-09	Public	Peter Askovich			Mark	Done	Yes - Full		Pubmed link		Full	2018-01-26	MTBLS31 - 20180126_LEG	Passes			1			Full		86.62	273,883	17			
+2013-05-09	MTBLS32	LC-LTQ-MS/MS	Mus musculus	2013-05-30	Public	Peter Askovich			Mark	Done	Yes - Full		Pubmed link		Full	2018-01-26	MTBLS32 - 20180126_LEG	Passes			1			Full		133.31	274,016	17			
+2013-05-09	MTBLS33	LC-LTQ-MS/MS	Mus musculus	2013-05-30	Public	Peter Askovich			Mark	Done	Yes - Full		Pubmed link		Full	2018-01-26	MTBLS33 - 20180126_LEG	Passes			1			Full		35.48	274,051	17			
+2013-05-09	MTBLS34	LC-LTQ-MS/MS	Mus musculus	2013-05-30	Public	Peter Askovich			Mark	Done	Yes - Full		Pubmed link		Full	2018-01-26	MTBLS34 - 20180126_LEG	Passes			1			Full		29.44	274,081	17			
+2013-05-01	MTBLS35	GC-Q-MS	Salmonella enterica	2013-05-02	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-02	MTBLS35 - 20160531_LEG	Passes			1			Full		440.18	274,521	17			
+2014-02-07	MTBLS36	UPLC-LTQ-MS/MS	Solanum lycopersicum	2014-02-07	Public	Stephan Beisken			Mark	Done	Yes - Full		Pubmed link		Full	2017-10-18	MTBLS36 - 20160601_LEG	Passes			1			Full	Metabolites need CHEBI IDs assigning.  Add doi:10.1038/sdata.2014.29	70,093.89	344,615	26			
+2013-03-28	MTBLS37	GCxGC-TOF-MS	Chlamydomonas reinhardtii	2013-05-08	Public	Nils Hoffmann			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-02	MTBLS37 - 20160601_LEG	Passes			1			Full		28,151.05	372,766	15			
+2014-02-07	MTBLS38	UPLC-LTQ-MS/MS	reference compound	2014-02-07	Public	Stephan Beisken			Mark	Done	Yes - Full		DOI		Full	2016-06-02	MTBLS38 - 20160602_LEG	Passes			1			Full		10,396.34	383,162	26			
+2013-04-12	MTBLS39	HPLC-LTQ-MS/MS	Vitis vinifera	2013-11-04	Public	Silvia Dal Santo			Mark	Done	Yes - Full		Pubmed link		Full	2017-01-24	MTBLS39 - 20160603_LEG	Passes			1			Full		56.76	383,219	16			
+2013-04-15	MTBLS40	GC-TOF-MS	Arabidopsis thaliana;Alkane standard	2014-03-01	Public	Atsushi Fukushima			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-06	MTBLS40 - 20160606_LEG	Passes			1			Full		5,238.15	388,457	16			
+2015-09-11	MTBLS41	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm10A_MTBLS41 - 20150903_LEG	Passes		Y	1			Full	Golm10	1,048.29	389,505	45			
+2015-09-11	MTBLS42	GC-TOF-MS	Arabidopsis thaliana	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm11A_MTBLS42 - 20150903_LEG	Passes		Y	1			Full	Golm11	1,123.18	390,629	45			
+2015-09-11	MTBLS43	GC-TOF-MS	Lotus japonicus	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm12A_MTBLS43 - 20150903_LEG	Passes		Y	1			Full	Golm12	1,773.90	392,403	45			
+2015-09-11	MTBLS44	GC-TOF-MS	Lotus japonicus	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm13A_MTBLS44 - 20150903_LEG	Passes		Y	1			Full	Golm13	1,736.20	394,139	45			
+2013-05-30	MTBLS45	GC-TOF-MS	Arabidopsis thaliana;Alkane standard	2014-03-01	Public	Atsushi Fukushima			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-07	MTBLS45 - 20160606_LEG	Passes			1			Full		5,546.65	399,685	17			
+2013-06-05	MTBLS46	NMR	Homo sapiens	2015-03-03	Public	Leonardo Tenori			Mark	Done	Yes - No data		Pubmed link		Full	2016-06-08	MTBLS46 - 20160608_LEG	Passes		Y	1			Full		118.85	399,804	18			
+2013-07-01	MTBLS47	GC-TOF-MS	Alkane standard;Arabidopsis thaliana	2014-03-01	Public	Atsushi Fukushima			Mark	Done	Yes - No data		Pubmed link		Full	2016-06-07	MTBLS47 - 20160607_LEG	Passes			1			Full		65,617.82	465,422	19			
+2013-07-08	MTBLS48	NMR	Mus musculus	2018-10-11	Public	Yan Zhang			Mark	Done	Yes - No data				Full	2018-10-11	MTBLS48 - 20170324_LEG	Passes			1			Full		53.00	465,475	19			
+2013-07-11	MTBLS49	LC-LTQ-MS	Trypanosoma brucei	2015-05-14	Public	Darren Creek			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-14	MTBLS49 - 20160609_LEG	Passes	In contact		1			Full		2,484.04	467,959	19			
+2013-07-17	MTBLS50	UPLC-LTQ-MS/MS;GC-Q-MS	Homo sapiens	2016-06-01	Submitted	Raymond Langley		R - Metabolon	Xuefei	Medium	No		Pubmed link		Metadata Only	2016-06-10	MTBLS50 - 20160609_LEG	Passes	Awaiting					Pending	Metabolon ran assay therefore no raw data as yet! Add PMID:23884467.  Potential metabolites in .xls file. the data is semiquantitative, no raw data, the submitters need to discuss about sharing raw data, separate different timepoint into different assay, there iare 12 assays in the study now.	19.60	467,979	19			
+2013-07-17	MTBLS51	UPLC-LTQ-MS/MS;GC-Q-MS	Homo sapiens	2016-07-01	Submitted	Raymond Langley		R - Metabolon	Xuefei	Medium	No		Pubmed link		Metadata Only	2015-10-02	MTBLS51 - 20150507	Passes	Awaiting					Pending	Metabolon ran assay therefore no raw data as yet! Add PMID:23884467.  Potential metabolites in MTBLS50 .xls file???????? No raw data, for 	1.07	467,980	19			
+2013-08-05	MTBLS52	UPLC-DAD;HPLC-QIT-MS	Hordeum vulgare	2014-11-20	Public	Anna Piasecka			Mark	Done	Yes - Full				Full	2016-06-30	MTBLS52 - 20160630_LEG	Passes			1			Full	Full spectral data in folder MTBLS52_TS_20130805_083324~akar@igr.poznan.pl~~20140803~barley_archive.  Ken: copied to the public ftp site.  Two chromatography instruments used so split into two assays.	93.76	468,074	20			
+2013-08-08	MTBLS53	GC-Q-MS	reference compound;Homo sapiens	2016-11-19	In Review	Silvia Marin		L	Mark	Done	No				Full	2015-11-27	MTBLS53 - 20160615_LEG	Passes		Y	1			Full	No protocol for sample extraction. ontology, no publication, no MAF	19.66	468,093	20			
+2015-09-11	MTBLS54	GC-TOF-MS	Lotus japonicus	2015-09-14	Public	Joachim Kopka			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-22	Golm14A_MTBLS54 - 20150903_LEG	Passes		Y	1			Full	Golm14	1,509.77	469,603	45			
+2014-02-25	MTBLS55	UPLC-QTOF-MS	Vitis vinifera	2014-02-25	Public	Panagiotis Arapitsas			Mark	Done	Yes - No data		DOI		Full	2016-06-17	MTBLS55 - 20160616_LEG	Passes			1			Full	Some metabolites without CHEBI ID.some amino acids pointing to zwitterion; some metabolites without CHEBI ID; (â)-epigallocatechin not displayed as - in altMTBLS55.  Study originally 2 assays, then expanded to 4 with subsequent .maf problems which are now resolved.	13,489.96	483,093	26			
+2013-09-24	MTBLS56	NMR	Solanum lycopersicum	2013-09-24	Public	Daniel Jacob			Mark	Done	Yes - Full		DOI		Full	2016-06-17	MTBLS56 - 20160617_LEG	Passes		Y	1			Full	 	20.71	483,114	21			
+2013-10-08	MTBLS57	UPLC-QTOF-MS	Arabidopsis thaliana	2013-12-06	Public	Ryo Nakabayashi			Mark	Done	No		Pubmed link		Full	2017-03-24	MTBLS57 - 20170323_LEG	Passes			1			Pending		3,535.44	486,649	22			
+2017-05-05	MTBLS58		Rattus norvegicus	2018-05-17	Public	Regis Lavigne										2018-05-17									Was initially placeholder for Arvind.Subbaraj@agresearch.co.nz, but got reallocated (by mistake, Ken) to METASPACE	7,068.93	493,718	65			
+2013-10-14	MTBLS59	UPLC-QTOF-MS	reference compound;Malus domestica	2013-10-24	Public	Pietro Franceschi			Mark	Done	Yes - No data		Pubmed link		Full	2016-06-20	MTBLS59 - 20160620_LEG	Passes			1			Full		927.36	494,645	22			
+2013-10-17	MTBLS60	GCxGC-TOF-MS;UPLC-QTOF-MS	Homo sapiens	2016-11-01	Submitted	Matej Oresic		R	Mark	Done	Yes - Full		Pubmed link		Metadata Only	2017-09-25	MTBLS60 - 20170920_LEG	Passes		Y				Pending	Some potential metabolites in the paper. Add protocols. Ken: Changed release date to 17th Jan 2017. E-mail to the submitter Now is Miko 	6.77	494,652	22			
+2013-11-14	MTBLS61	HPLC-LTQ-MS/MS	Homo sapiens;Mus musculus	2013-11-14	Public	Robert Jansen			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-21	MTBLS61 - 20160621_LEG	Passes			1			Full	 	1,296.17	495,948	23			
+2017-08-22	MTBLS62	UPLC-LTQ-MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done	Yes - No data				Full	2019-03-01	MTBLS62-20190218	Passes	In contact		1					822,894.09	1,318,842	68			
+2017-09-05	MTBLS63	UPLC-LTQ-MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done	Yes - No data				Full	2019-03-01	MTBLS63-20190218	Passes	In contact		1					445,648.90	1,764,491	69			
+2017-09-05	MTBLS64	UPLC-LTQ-MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done	Yes - No data				Full	2019-03-01	MTBLS64-20190218	Passes	In contact		1					800,416.79	2,564,908	69			
+2017-09-05	MTBLS65	UPLC-LTQ-MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done	Yes - No data				Full	2019-03-01	MTBLS65-20190218	Passes	In contact		1					342,573.71	2,907,482	69			
+2017-09-05	MTBLS66	UPLC-LTQ-MS/MS;GC-Q-MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done					Full	2019-03-04	MTBLS66-20190218	Passes	In contact		1					1,319,678.45	4,227,160	69			
+2013-11-19	MTBLS67	HPLC-LTQ-MS	Schizosaccharomyces pombe	2013-11-26	Public	Tomas Pluskal			Mark	Done	Yes - Full		Pubmed link		Full	2015-11-03	MTBLS67 - 20151029	Passes			1			Full		2,078.91	4,229,239	23			
+2017-09-05	MTBLS68	UPLC-LTQ-MS/MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done					Full	2019-03-01	MTBLS68-20190218	Passes	In contact							856,516.72	5,085,756	69			
+2014-02-05	MTBLS69	UPLC-QTOF-MS	Sorghum bicolor	2014-05-01	Public	Aaron Massey			Mark	Done	No		Pubmed link		Full	2016-06-22	MTBLS69 - 20160621_LEG	Passes			1			Full	Paper in folder maybe the one associated with the study.  If so then some metabolites may be identified.	2,308.87	5,088,065	26			
+2014-02-05	MTBLS70	UPLC-QTOF-MS	Sorghum bicolor	2016-02-05	Dormant	Aaron Massey			Mark	in progress	No		No		Full	2015-09-30	MTBLS70 - 290914		In contact						Inferior duplicate of MTBLS69. Delete.	2,308.64	5,090,373	26			
+2014-05-19	MTBLS71	GC-Q-MS	Homo sapiens	2014-05-21	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2016-06-23	MTBLS71 - 20160622_LEG	Passes			1			Full	 	5,989.87	5,096,363	29			
+2014-03-06	MTBLS72	FIA-TQ-MS/MS;UPLC-QTOF-MS/MS	reference compound;Homo sapiens	2014-03-09	Public	Robert Padilla			Mark	Done	No		Pubmed link		Full	2016-06-27	MTBLS72 - 20160627_LEG				1			Full	Some potential metabolites could be addded from the literature.  Supplementary file added to folder.	32,996.45	5,129,360	27			
+2014-03-12	MTBLS73	UPLC-LTQ-MS/MS	reference compound;Solanum lycopersicum	2017-10-18	Public	Mark Earll			Reza	Done	No		Pubmed link		Full	2017-11-02	MTBLS73 - 20171102_LEG	Passes			1			Pending	(20170929) Sample group as MTBLS36. No sign of any literature and no MAF. Release as is?	8,804.44	5,138,164	27			
+2014-11-05	MTBLS74	UPLC-QTOF-MS	Arabidopsis thaliana	2014-11-06	Public	Steffen Neumann			Mark	Done	Yes - Full		DOI		Full	2014-11-06	MTBLS74 - 20160628_LEG	Passes		Y	1			Full	Sample name mismatch with what the columns are labelled with in the maf .tsv file.  This results in no information being displayed in the plugin.  Potential metabolites in .tsv file. Updated investigation file when moved to "MTBLS74 - 031114". Mismatch resolved. 20141107, new investigation file from steffen, updated (Ken)	10,056.10	5,148,220	35			
+2014-06-24	MTBLS75	GC-Q-MS	unclassified Cyanobacteria	2014-06-24	Public	Tom Metz			Mark	Done	Yes - No data		Pubmed link		Full	2016-06-28	MTBLS75 - 20160628_LEG	Passes			1			Full		445.13	5,148,665	30			
+2014-03-19	MTBLS76	DI-LTQ-MS	Homo sapiens	2016-07-01	In Review	Albert Koulman		L	Mark	Done	Yes - Full		No		Full	2016-06-29	MTBLS76 - 20160628_LEG	Passes		Y	1			Full	Jules presented this as having about 25GB of data, we have about 12GB?	10,328.72	5,158,994	27			
+2015-01-26	MTBLS77	NMR	Ovis aries	2015-01-31	Public	Juan Li			Mark	Done	Yes - No data		Pubmed link		Full	2016-06-29	MTBLS77 - 20160629_LEG	Passes	In contact		1			Full	Add PMID:24937646. Add protocols from paper.  Metabolite information can be harvested from Word .docx file present in folder. Protocols have been added along with the PUBMED ID.	6.70	5,159,001	37			
+2017-09-05	MTBLS78			2018-09-05	Submitted	Placeholder Placeholder	1									2017-09-05									DELETED	0.02	5,159,001	69			
+2014-03-24	MTBLS79	DI-FT-ICR-MS	Ovis aries;Bos taurus/Ovis aries;Bos taurus	2014-06-05	Public	Ralf Weber			Mark	Done	No		Pubmed link		Full	2016-07-28	MTBLS79 - 20160629_LEG				1			Basic	(Missing values in mass spectrometry .....).  Paper published in June 2014.  One of those weird awkward studies. LEAVE MOSTLY ALONE :-)	55,958.36	5,214,959	27			
+2017-12-14	MTBLS80	UPLC-MS/MS		2018-12-31	Submitted	User Cochrane, Mark Williams			Keeva							2017-12-18									DELETED	8,830.20	5,223,789	72			
+2014-08-19	MTBLS81	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS	Mus musculus	2014-08-19	Public	Harald Köfeler			Mark	Done	Yes - Full		Pubmed link		Full	2016-02-03	MTBLS81 - 20160203_LEG				1			Full		3,433.79	5,227,223	32			
+2018-01-09	MTBLS82	UPLC-MS/MS		2019-01-09	Submitted	User Cochrane, Reza Salek, Peter Li										2018-01-09										106,756.47	5,333,980	73			
+2018-03-22	MTBLS83	UPLC-MS/MS	Homo sapiens	2025-04-30	In Review	User Cochrane										2018-04-27										6,886.70	5,340,866	75			
+2018-04-27	MTBLS84	UPLC-MS/MS		2025-04-30	Submitted	Richard Robinson, User Cochrane										2018-04-27										2.75	5,340,869	76			
+2014-06-09	MTBLS85	UPLC-DAD	Vitis vinifera;reference compound	2014-07-01	Public	Ron Wehrens			Mark	Done	No		DOI		Full	2017-03-23	MTBLS85 - 20160701_LEG	Passes			1			Full	http://dx.doi.org/10.1007/s00216-012-6555-9 needs changing to 10.1007/s00216-012-6555-9 so it displays properly.  Ontology terms need to be added. Parameter value (Column model) has a non-standard characters. Metabolites to be added? (Ask Reza).  Study factors need to be sorted. Change title to "High-throughput carotenoid profiling using multivariate curve resolution (Stability of isoprenoids in grape extract)"	1,883.30	5,342,752	30			
+2014-06-09	MTBLS86	UPLC-DAD	reference compound;Manihot esculenta	2014-07-01	Public	Ron Wehrens			Mark	Complete	No		DOI		Full	2016-07-21	MTBLS86 - 20160701_LEG	Passes			1			Pending	Ontology terms need to be added. Parameter value (Column model) has a  non-standard characters. Metabolites to be added? (Ask Reza). Change title to "Metabolite profiling in LC-DAD using multivariate curve resolution: the alsace package in R"	3,014.64	5,345,767	30			
+2014-07-08	MTBLS87	HPLC-LTQ-MS/MS	Homo sapiens;Schizosaccharomyces pombe	2014-07-08	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2016-07-01	MTBLS87 - 20160701_LEG	Passes			1			Full		2,548.92	5,348,316	31			
+2014-07-08	MTBLS88	HPLC-LTQ-MS/MS	Homo sapiens	2014-07-08	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2016-07-01	MTBLS88 - 20160701_LEG	Passes			1			Full		1,819.86	5,350,136	31			
+2018-05-15	MTBLS89	UPLC-MS/MS	Homo sapiens	2019-05-15	In Review	User Cochrane, Karsten Suhre		LM	Keeva	Done	Yes - Full				Full	2018-11-23		Passes	In contact						Metabolon - waiting for author to confirm study factor info	53,413.87	5,403,550	77			
+2014-06-05	MTBLS90	UPLC-QTOF-MS/MS	Homo sapiens	2014-08-30	Public	Andrea Ganna			Mark	Done	Yes - Partial		DOI		Full	2016-07-01	MTBLS90 - 20160701_LEG	Passes			1			Full	 	459,270.16	5,862,820	30			
+2014-06-08	MTBLS91	DI-FT-ICR-MS	Calanus	2015-10-13	Public	Ulf Sommer			Mark	Done	Yes - No data		Pubmed link		Full	2016-07-21	MTBLS91 - 20160720_LEG	Passes	In contact		1			Full		1,409.42	5,864,229	30			
+2014-06-12	MTBLS92	UPLC-QTOF-MS	Homo sapiens	2014-06-17	Public	Mika Hilvo			Mark	Done	Yes - Full		Pubmed link		Full	2016-07-26	MTBLS92 - 20160725_LEG	Passes			1			Full	CHEBI IDs need to be assigned to most metabolites. Some special characters need to be inserted.  Lipid study.	10,500.89	5,874,730	30			
+2014-06-14	MTBLS93	UPLC-QTOF-MS/MS	Homo sapiens	2014-08-30	Public	Andrea Ganna			Mark	Done	Yes - Full		Pubmed link		Full	2016-07-26	MTBLS93 - 20160726_LEG	Passes			1			Full	CHEBI IDs need to be assigned to most metabolites. Some special characters need to be inserted.  Lipid study. Ken 20141113: Andrea is wanting some changes but will have to back to us later.  Change title to match the paper	695,658.35	6,570,388	30			
+2018-05-24	MTBLS94	UPLC-LTQ-MS		2018-07-19	Public	Michal Gorka			Mark	Done	Yes - Full		Pubmed link	29853640	Full	2018-07-20	MTBLS94 - 20180716	Passes	In contact		1					120,360.98	6,690,749	77			
+2014-06-24	MTBLS95	GC-Q-MS	Arabidopsis thaliana	2014-06-24	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2016-07-27	MTBLS95 - 20160726_LEG	Passes			1			Full	CHEBI IDs need to be assigned to most metabolites. Some special characters need to be inserted.	508.59	6,691,258	30			
+2014-06-24	MTBLS96	GC-Q-MS	Mus musculus	2014-06-24	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2016-07-28	MTBLS96 - 20160726_LEG	Passes			1			Full	CHEBI IDs need to be assigned to some metabolites.  Organism part should be faeces.	596.73	6,691,855	30			
+2014-07-01	MTBLS97	GC-TOF-MS;UPLC-TOF-MS	Homo sapiens	2016-01-01	Submitted	Elon Correa		MFR	Keeva	Done	No		DOI		Metadata Only	2016-07-28	MTBLS97 - 20160728_LEG			Y				Pending	Some Protocols missing.  Supplementary file containing metabolite information added to folder. In contact with W.Dunn@bham.ac.uk (16 May 2017) - will pull together the raw data files - expect sept 2017	9.55	6,691,864	31			
+2014-07-04	MTBLS98	DI-LTQ-MS	Homo sapiens;Homo sapiens;Plasmodium falciparum	2016-09-14	Public	Simon Brown			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-10-30	MTBLS98 - 20160914_LEG				1			Full	No MAF, 6 raw file.  Raw Spectral Data File column in the assay sheet is only partially filled.	41.50	6,691,906	31			
+2015-01-19	MTBLS99	UPLC-QTOF-MS	Malus domestica	2015-06-05	Public	Ron Wehrens			Xuefei	Done	No				Full	2016-07-28	MTBLS99 - 20160728_LEG	Passes			1			Full	Live	8,019.07	6,699,925	37			
+2014-07-16	MTBLS100	NMR	Homo sapiens	2015-09-01	Public	Zerihun Dame			Keeva	Done	Yes - Full		DOI		Full	2017-05-02	MTBLS100 - 20170421_LEG	Passes	Awaiting					Pending		4.35	6,699,929	31			
+2014-07-16	MTBLS101	NMR	Homo sapiens	2017-02-01	Submitted	Rupa Mandal			Keeva	Done	Yes - Full		Pubmed link		Full	2017-04-19	MTBLS101 - 20160804_LEG	Passes	Awaiting					Pending	 Need information about study factor: gender.	13.93	6,699,943	31			
+2014-07-21	MTBLS102	NMR	Homo sapiens;Staphylococcus aureus	2015-07-01	Public	Kristin Surmann			Xuefei	Done	Yes - Full		Pubmed link		Full	2016-08-05	MTBLS102 - 20160805_LEG	Passes			1			Full	Live	18.63	6,699,962	31			
+2014-08-01	MTBLS103	NMR;UPLC-QTOF-MS	Homo sapiens	2015-04-09	Public	Sara Samino			Mark	Done	Yes - Full		Pubmed link		Full	2016-08-25	MTBLS103 - 20160823_LEG	Passes			1			Full	Assign CHEBI IDs.  Add na to any of the blank PubMED fields.  missing special characters 	4,847.94	6,704,810	32			
+2014-09-30	MTBLS104	NMR	Homo sapiens	2014-10-01	Public	Bo Wang			Mark	Done	Yes - No data		Pubmed link		Full	2016-09-07	MTBLS104 - 20160826_LEG	Passes			1			Full	Assign CHEBI IDs to a few metabolites.	19.32	6,704,829	33			
+2014-08-13	MTBLS105	GC-Q-MS;GC-TOF-MS	Homo sapiens	2015-08-13	Public	Habtom Ressom			Mark	Done	Yes - No data		Pubmed link		Full	2016-09-07	MTBLS105 - 20160830_LEG	Passes			1			Full	Add instrument data etc.	6,909.65	6,711,739	32			
+2018-05-24	MTBLS106		Homo sapiens	2019-05-24	In Review	Dimitri Scherbakov		L	Keeva	Done	Yes - Full				Full	2018-07-23	MTBLS106 - 20180723	Passes	In contact						Metabolon	492.59	6,712,231	77			
+2014-08-22	MTBLS107	UPLC-LTQ-MS	Solanum lycopersicum	2014-08-31	Public	Lieven van Meulebroek			Mark	Done	Yes - No data		DOI		Full	2016-09-12	MTBLS107 - 20160909_LEG	Passes			1			Full	Add DOI 10.1007/s11306-014-0728-9. Add ontology terms. Supplementary .docx file in folder may contain metabolites to be assigned.  Probably more metabolite info in the published paper.	1,680.27	6,713,912	32			
+2014-08-22	MTBLS108	UPLC-LTQ-MS	Solanum lycopersicum	2014-08-31	Public	Lieven van Meulebroek			Mark	Done	Yes - No data		DOI		Full	2016-09-12	MTBLS108 - 20160909_LEG	Passes			1			Full	Add DOI 10.1007/s11306-014-0728-9. Add ontology terms. Supplementary .docx file in folder may contain metabolites to be assigned.  Probably more metabolite info in the published paper.	1,721.86	6,715,633	32			
+2014-08-22	MTBLS109	UPLC-LTQ-MS	Solanum lycopersicum	2014-08-31	Public	Lieven van Meulebroek			Mark	Done	Yes - No data		DOI		Full	2016-09-12	MTBLS109 - 20160909_LEG	Passes			1			Full	Add DOI 10.1007/s11306-014-0728-9. Add ontology terms. Supplementary .docx file in folder may contain metabolites to be assigned.  Probably more metabolite info in the published paper.	1,706.39	6,717,340	32			
+2014-08-22	MTBLS110	UPLC-LTQ-MS	Solanum lycopersicum	2014-08-31	Public	Lieven van Meulebroek			Mark	Done	Yes - No data		DOI		Full	2016-09-12	MTBLS110 - 20160909_LEG	Passes			1			Full	Add DOI 10.1007/s11306-014-0728-9. Add ontology terms. Supplementary .docx file in folder may contain metabolites to be assigned.  Probably more metabolite info in the published paper.	1,686.98	6,719,027	32			
+2014-08-22	MTBLS111	UPLC-LTQ-MS	Solanum lycopersicum	2014-08-31	Public	Lieven van Meulebroek			Mark	Done	Yes - No data		DOI		Full	2016-09-12	MTBLS111 - 20160909_LEG	Passes			1			Full	Add DOI 10.1007/s11306-014-0728-9. Add ontology terms. Supplementary .docx file in folder may contain metabolites to be assigned.  Probably more metabolite info in the published paper.	1,743.45	6,720,770	32			
+2014-10-17	MTBLS112	GC-Q-MS	Triticum aestivum	2014-10-17	Public	Benedikt Warth		R	Mark	Done	Yes - Full		DOI		Metadata Only	2016-09-07	MTBLS112 - 20160831_LEG	Passes						Full	Add DOI 10.1007/s11306-014-0731-1. Add ontology terms.  Edit study design description.	0.82	6,720,771	34			
+2014-09-03	MTBLS113	GC-TOF-MS	reference compound;Euglena gracilis	2014-09-04	Public	Takeshi Furuhashi			Mark	Done	Yes - No data		DOI		Full	2016-09-07	MTBLS113 - 20160905_LEG	Passes			1			Full	Add DOI 10.1007/s11306-014-0687-1. Supplementary files from the paper are in the folder.  Probably wise to not attempt rationalising what is in the wax esters and leave as it is.	622.54	6,721,394	33			
+2014-09-05	MTBLS114	NMR	Rattus norvegicus	2014-09-05	Public	Gustav Nestor			Mark	Done	No		DOI		Full	2016-09-07	MTBLS114 - 20160905_LEG	Passes			1			Full	Change unit values to ontology terms.	7.61	6,721,401	33			
+2014-09-23	MTBLS115	NMR	Saccharomyces cerevisiae	2019-07-01	In Review	Brian Goodfellow		L	Keeva	Done	Yes - No data		No		Full	2018-10-22	MTBLS115 - 20160912_LEG	Passes			1			Full	Add ontology terms. Assign CHEBI IDs to a few metabolites. Submitter asked release date updated to July 2019	31.45	6,721,433	33			
+2014-09-27	MTBLS116	NMR	Montipora aequituberculata;Seriatopora hystrix;Pocillopora damicornis;Porites lobata;Porites compressa	2014-11-20	Public	Emilia Sogin			Mark	Done	Yes - No data		Pubmed link		Full	2016-09-13	MTBLS116 - 20160912_LEG	Passes			1			Full	Add ontology terms. Add protocols. Add PMID:25354140.	5.72	6,721,438	33			
+2014-10-29	MTBLS117	DI-LTQ-MS/MS	Glycine max;Glycine max/Rhizoctonia solani	2014-11-15	Public	Konstantinos Aliferis			Mark	Done	Yes - No data		Pubmed link		Full	2016-10-24	MTBLS117 - 20160930_LEG	Passes			1			Full	Awaiting paper from authors. Have the material and methods	111.66	6,721,550	34			
+2014-10-29	MTBLS118	GC-Q-MS	Glycine max;Glycine max/Rhizoctonia solani	2014-11-15	Public	Konstantinos Aliferis			Mark	Done	Yes - No data		Pubmed link		Full	2016-09-30	MTBLS118 - 20160930_LEG	Passes			1			Full	Awaiting paper from authors. Have the material and methods	1,151.37	6,722,701	34			
+2014-10-08	MTBLS119	UPLC-QTOF-MS/MS	Populus tremula x Populus alba	2015-01-31	Public	Richard Helm			Mark	Done	Yes - Full		Pubmed link		Full	2016-02-04	MTBLS119 - 20160204_LEG	Passes			1			Full	 	31,686.64	6,754,388	34			
+2015-06-09	MTBLS120	UPLC-QTOF-MS/MS	Glycine max	2016-02-04	Public	Richard Helm, Christin Kastl			Mark	Done	Yes - Full		Pubmed link		Full	2016-02-04	MTBLS120 - 20160204_LEG	Passes			1			Full		19,183.98	6,773,572	42			
+2018-06-01	MTBLS121			2019-07-01	Dormant	MetaboLights Team	1									2018-07-20									 	0.09	6,773,572	78			
+2018-06-01	MTBLS122			2019-06-01	Dormant	MetaboLights Team	1		Xuefei	Complete	No				Full	2018-06-21	MTBLS122 - 20150108	Passes						Pending	Special characters need adding.  The special charater in the chromatography protocol is probably a '-'. See PMID:22225612 for another study by the same group.  ADDITIONAL ASSAY in the MTBLS122_additional_assay. NOT IN THE DATABASE, Resubmitted as MTBLS129??	0.03	6,773,572	78			
+2014-10-14	MTBLS123	NMR	Sus scrofa domesticus	2015-01-31	Public	Charles Determan			Mark	Done	Yes - Full		DOI		Full	2016-10-24	MTBLS123 - 20161024_LEG	Passes			1			Full	Errors when trying to update the release date,  Reza has worked with Charles on this in the past. Ken sent email, we need to help Charles now	647.93	6,774,220	34			
+2014-10-17	MTBLS124	UPLC-QTOF-MS	Homo sapiens	2015-03-23	Public	Andrea Ganna			Mark	Done	Yes - Full		DOI		Full	2016-07-26	MTBLS124 - 20160726_LEG	Passes			1			Full	Potential metabolites from paper?  Add ontology terms.  Raw data in MTBLS124_raw + some other in /ebi/ftp/private/mtblight/upload/andrea	237,378.48	7,011,599	34			
+2014-10-21	MTBLS125	HPLC-LTQ-MS	Mus musculus	2014-12-15	Public	Romanas Chaleckis			Mark	Done	Yes - Full		Pubmed link		Full	2016-11-22	MTBLS125 - 20161122_LEG	Passes			1			Full		12,118.46	7,023,717	34			
+2014-10-21	MTBLS126	HPLC-LTQ-MS	Mus musculus	2014-12-15	Public	Romanas Chaleckis			Mark	Done	Yes - Full		Pubmed link		Full	2016-11-22	MTBLS126 - 20161122_LEG	Passes			1			Full		16,329.36	7,040,046	34			
+2014-12-15	MTBLS127	HPLC-LTQ-MS	Homo sapiens;Mus musculus	2014-12-15	Public	Romanas Chaleckis			Mark	Done	Yes - Full		Pubmed link		Full	2016-11-22	MTBLS127 - 20161122_LEG	Passes			1			Full		4,108.96	7,044,155	36			
+2014-10-27	MTBLS128	UPLC-QTOF-MS	Corynebacterium glutamicum	2015-10-06	Public	Frederik Walter			Keeva	Done	Yes - Full		Pubmed link		Full	2016-11-22	MTBLS128 - 20161122_LEG	Passes			1			Full		176.98	7,044,332	34			
+2014-10-23	MTBLS129	UPLC-TOF-MS;UPLC-LTQ-MS	Arabidopsis thaliana	2016-10-03	Public	Shivshankar Umashankar			Keeva	Done	Yes - No data		DOI		Full	2016-11-22	MTBLS129 - 20161122_LEG	Passes			1			Full	Missing Q-TOF (.d files) 	10,584.68	7,054,917	34			
+2018-06-01	MTBLS130			2019-06-01	Dormant	MetaboLights Team	1									2018-06-01										0.03	7,054,917	78			
+2014-10-24	MTBLS131	NMR	Solanum lycopersicum	2015-01-28	Public	Daniel Jacob			Namrata	Done	Yes - Full		DOI			2016-11-23	MTBLS131 - 20161123_LEG			Y	1			Full		197.23	7,055,114	34			
+2014-10-24	MTBLS132	NMR	Solanum lycopersicum	2015-11-11	Public	Daniel Jacob			Mark	Done	Yes - Full		DOI			2016-11-23	MTBLS132 - 20161123_LEG			Y	1			Full		267.29	7,055,382	34			
+2014-10-24	MTBLS133	NMR	reference compound	2015-11-11	Public	Daniel Jacob			Mark	Done	Yes - Full		DOI			2016-11-23	MTBLS133 - 20161123_LEG			Y	1			Full		184.71	7,055,566	34			
+2014-10-24	MTBLS134	NMR	reference compound	2015-11-11	Public	Daniel Jacob			Mark	Done	Yes - Full		DOI			2016-11-23	MTBLS134 - 20161123_LEG			Y	1			Full		184.70	7,055,751	34			
+2018-06-01	MTBLS135	UPLC-MS/MS	Mus musculus	2019-06-01	In Review	Massimo Loda			Keeva	Done	Yes - Full		No		Full	2019-01-11	MTBLS135 - 20180112									2,484.80	7,058,236	78			
+2018-06-02	MTBLS136		Homo Sapiens	2019-06-02	In Review	Victoria Stevens		L	Keeva	Done	Yes - Full				Full	2018-07-25	MTBLS136 - 20180723	Passes	In contact						Metabolon study	96,446.85	7,154,683	78			
+2014-11-05	MTBLS137	UPLC-QTOF-MS	Vitis vinifera	2014-11-09	Public	Panagiotis Arapitsas			Mark	Done	No		Pubmed link		Full	2016-11-23	MTBLS137 - 20161123_LEG	Passes			1			Full	Steffen Neumann is reviewer of the unpublished paper and has requested the submitter updating the protocol section, Pablo updated manually 2 protocols under Panagioitis request.  Change title to "MetaDB a Data Processing Workflow in Untargeted MS-Based Metabolomics Experiments"	6,034.04	7,160,717	35			
+2018-07-13	MTBLS138	GC-Q-MS		2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1		Keeva							2018-07-13		Passes						Pending	Metabolon study	0.43	7,160,717	79			
+2018-06-11	MTBLS139			2019-06-11	Submitted	Jules Griffin										2018-06-11										0.06	7,160,717	78			
+2014-11-06	MTBLS140	HPLC-LTQ-MS/MS	Homo sapiens;reference compound	2015-09-07	Public	Marc Rurik			Mark	Done	Yes - Full		Pubmed link		Full	2016-11-24	MTBLS140 - 20161124_LEG	Passes			1			Full	Live	17,630.26	7,178,347	35			
+2014-11-13	MTBLS141		Arabidopsis thaliana	2016-11-01	Submitted	Richard Helm			Mark	Quick and Dirty	No				Metadata Only	2016-08-23	MTBLS141	Warnings only							Tweaked by Philippe, not ready to go yet.  Also see emails around MTBLS119 to get the full picture 	122,400.55	7,300,748	35			
+2018-06-12	MTBLS142	HPLC-QTOF-MS/MS		2018-12-03	Public	Mehdi BENIDDIR		L	Mark	Done	Yes - No data				Full	2019-02-07	MTBLS142-20181213	Passes	In contact		1					52.11	7,300,800	78			
+2014-11-20	MTBLS143	UPLC-LTQ-MS	Mus musculus	2015-11-19	Public	Sam Ansari			Mark	Done	Yes - Full				Full	2016-11-24	MTBLS143 - 20161124_LEG	Passes			1			Full		482.33	7,301,282	35			
+2014-11-25	MTBLS144	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS	Thalassiosira pseudonana	2014-12-12	Public	Krista Longnecker			Mark	Done	Yes - Full		DOI		Full	2016-01-14	MTBLS144 - 20160112	Passes	In contact		1			Full	 	7,506.58	7,308,789	35			
+2018-07-13	MTBLS145		Mus musculus	2019-02-01	In Review	Jonathan Sobel		L	Keeva	Done	Yes - Full				Full	2018-08-07	MTBLS145 - 20180807	Passes	In contact						Metabolon	5,551.90	7,314,341	79			
+2014-11-26	MTBLS146	HPLC-LTQ-MS	Homo sapiens	2015-03-03	Public	Robert Davidson			Mark	Done	No		DOI		Full	2016-11-25	MTBLS146 - 20161125_LEG	Passes			1			Full	The submission as no title etc. waiting for email	10,639.31	7,324,980	35			
+2014-12-16	MTBLS147	NMR	Homo sapiens	2015-01-01	Public	Claudio Santucci			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-23	MTBLS147 - 20161125_LEG	Passes			1			Full		2,298.40	7,327,279	36			
+2014-12-18	MTBLS148	UPLC-LTQ-MS	Homo sapiens	2014-12-18	Public	Etienne Thevenot			Namrata	Done	Yes - No data		DOI		Full	2016-11-29	MTBLS148 - 20161125_LEG	Passes		Y	1			Full		20,663.56	7,347,942	36			
+2014-12-19	MTBLS149	NMR	Rattus norvegicus	2016-06-08	Public	Junsong Wang			Keeva	Done	Yes - Full		No		Full	2018-05-09	MTBLS149 - 20180509_LEG	Passes	In contact		1			Pending	Paper info requested 07062016 - replied, no paper as of 08062016. MAF file is complete however only 4 metabolites being recognised on web page ...poss issue with | separation being looked into.	125.24	7,348,067	36			
+2014-12-31	MTBLS150	GCxGC-TOF-MS	Homo sapiens	2014-12-31	Public	Kathleen Vermeersch			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-23	MTBLS150 - 20161125_LEG	Passes			1			Full	Waiting for approx 40 metabolites to be curated in ChEBI.	219.32	7,348,287	37			
+2015-01-05	MTBLS151	NMR	Oryza sativa	2016-11-25	Public	umaporn uawisetwathana			Mark	Done	Yes - Full		DOI		Full	2016-11-25	MTBLS151 - 20150105	Passes			1			Full		67.00	7,348,354	37			
+2015-01-08	MTBLS152	GCxGC-TOF-MS	Homo sapiens	2015-01-08	Public	Kathleen Vermeersch			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-23	MTBLS152 - 20160205_LEG	Passes			1			Full		235.01	7,348,589	37			
+2015-01-09	MTBLS153	GC-Q-MS	Triticum aestivum	2016-10-03	Submitted	Benedikt Warth		R	Xuefei		Yes - Full		DOI		Metadata Only	2016-03-17	MTBLS153 - 20160316-new	Passes	Awaiting						No raw files, 	1.67	7,348,590	37			
+2015-01-12	MTBLS154	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS;UPLC-TQ-MS	Thalassiosira pseudonana	2015-01-27	Public	Krista Longnecker		L.	Mark	Done	Yes - Full		DOI	10.1002/lol2.10043	Full	2017-05-17	MTBLS154 - 20170517_LEG	Passes			1			Full		9,840.34	7,358,431	37			
+2015-01-15	MTBLS155	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS;UPLC-TQ-MS	Synechococcus elongatus	2015-01-26	Public	Krista Longnecker			Mark	Done	Yes - Full		Pubmed link		Full	2016-12-05	MTBLS155 - 20161205_LEG	Passes			1			Full		9,623.04	7,368,054	37			
+2015-01-16	MTBLS156	MAS-NMR	Homo sapiens	2015-01-16	Public	Martina Vermathen			Mark	Done	Yes - No data		Pubmed link		Full	2016-12-07	MTBLS156 - 20161205_LEG	Passes			1			Full	Extraction protocol parameters need to be edited.	81.02	7,368,135	37			
+2015-01-17	MTBLS157	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS;UPLC-TQ-MS	Ruegeria pomeroyi	2015-01-29	Public	Krista Longnecker			Mark	Done	Yes - Full		Pubmed link		Full	2016-12-05	MTBLS157 - 20161205_LEG	Passes			1			Full		19,185.48	7,387,320	37			
+2018-07-13	MTBLS158		Mus musculus	2019-07-13	In Review	Bjoern Titz	1									2019-01-07										5,180.28	7,392,501	79			
+2018-07-13	MTBLS159			2019-07-13	In Review	Pinchas Cohen, Metabolon Submission	1									2019-03-07										1,433.93	7,393,934	79			
+2015-05-22	MTBLS160	UPLC-QTOF-MS	Arabidopsis thaliana	2016-07-15	Public	Steffen Neumann			Mark	Done	Yes - Full		Pubmed link		Full	2016-07-15	MTBLS160 - 20160216	Passes		Y	1			Full	Various files under : /nfs/production/metabolights/steffen/metabolights	12,778.43	7,406,713	41			
+2015-01-23	MTBLS161	NMR	Homo sapiens	2015-06-08	Public	Christopher Armstrong			Namrata	Done	Yes - Full		DOI		Full	2017-03-23	MTBLS161 - 20161207_LEG	Passes			1			Full	Added back the missing columns.	1.00	7,406,714	37			
+2015-01-29	MTBLS162	DI-LTQ-MS	Homo sapiens	2015-10-05	Public	Xinzhu Wang			Xuefei	Done	Yes - Full		Pubmed link		Full	2016-12-12	MTBLS162 - 20161212_LEG	Passes			1			Full		630.36	7,407,344				
+2015-01-31	MTBLS163	LC-TQ-MS/MS	Homo sapiens	2015-03-11	Public	Mesut Bilgin			Mark	Done	Yes - No data		DOI		Full	2016-12-14	MTBLS163 - 20161213_LEG	Passes			1			Full		87.89	7,407,432	38			
+2015-02-05	MTBLS164	PTR-MS	Homo sapiens	2016-12-14	Public	Phil Brown			Mark	Done	Yes - No data		Pubmed link			2017-03-23	MTBLS164 - 20161214_LEG	Passes			1			Full		2.30	7,407,434	38			
+2015-02-11	MTBLS165	HPLC-LTQ-MS/MS	Ailuropoda melanoleuca	2015-03-31	Public	Tong Zhang			Mark	Done	Yes - No data		Pubmed link		Full	2016-12-15	MTBLS165 - 20161214_LEG	Passes	In contact		1			Full	Awaiting information to come back from submitter.  Potential dump and run submitter.	10,055.42	7,417,490	38			
+2015-02-14	MTBLS166	NMR	Mus musculus	2015-02-14	Public	Wentao Zhu			Mark	Done	Yes - No data		Pubmed link		Full	2016-12-15	MTBLS166 - 20161215_LEG	Passes			1			Full		15.75	7,417,506	38			
+2015-02-18	MTBLS167	GC-TQ-MS;UPLC-QTOF-MS;UPLC-DAD	Vitis vinifera	2017-05-01	In Curation	Pietro Franceschi		MLR	Keeva	In progress	No		No		Full	2017-01-24	MTBLS167 - 20160527_LEG	Passes	Not yet contacted					Pending	Have sorted out the raw data files, the following need addressed with author; In HILIC pos & neg data set the same MS assay name appears, B008_MER_08_NP_neg - there is no pos version & no data file for pos or neg. The following data file is duplicated in HILIC neg study B146_SYR_08_NP_neg. No data files found for the following in GC study QC_02-08_GC_034, QC_02-20_GC_125, QC_02-24_GC_155, although 125 & 155 are also given sample name with assoc data file QC_02-20_GC_125_111220143707.cdf, QC_02-24_GC_155_111222120500.cdf, is this duplication? No data files associated with the Aromatic precursor study at all. No MAF files. Assays 5 and 7 have no valid RAW datafiles only .csv files.	454,948.63	7,872,454	38			
+2015-02-21	MTBLS168	UPLC-TQ-MS	Saccharomyces cerevisiae	2016-12-16	Public	Mohammad Tauqeer Alam			Mark	Done	No		Pubmed link		Full	2017-05-09	MTBLS168 - 20161216_LEG	Passes			1			Full	No protocols. Study relase date updated	68.77	7,872,523	38			
+2015-09-08	MTBLS169	UPLC-QTOF-MS	Arabidopsis thaliana	2015-09-15	Public	Steffen Neumann			Mark	Done	No		DOI		Full	2016-12-16	MTBLS169 - 20161216_LEG	Passes		Y	1			Full		1,385.89	7,873,909	45			
+2015-02-24	MTBLS170	GC-Q-MS	Ilex paraguariensis	2015-03-19	Public	Caroline Rempe			Mark	Done	Yes - No data		Pubmed link		Full	2017-01-24	MTBLS170 - 20161219_LEG	Passes			1			Full	our submission reference is PONE-D-14-55643R1[EMID:ac8815ba701a8978]. I will send you the DOI as soon as we get it.	548.43	7,874,457	38			
+2015-02-24	MTBLS171	GC-Q-MS	Rattus norvegicus	2015-09-28	Public	Hayley Abbiss			Mark	Done	Yes - Full		DOI		Full	2016-12-19	MTBLS171 - 20161219_LEG	Passes			1					681.78	7,875,139	38			
+2015-02-24	MTBLS172	NMR	Homo sapiens	2015-11-17	Public	veronica ghini			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-23	MTBLS172 - 20161219_LEG	Passes			1			Full		40.69	7,875,180	38			
+2015-02-26	MTBLS173	UPLC-LTQ-MS/MS;UPLC-TQ-MS;UPLC-QTOF-MS	Mus musculus	2015-11-17	Public	Xinzhu Wang		M 	Mark	Done	Yes - Full		Pubmed link		Full	2017-08-22	MTBLS173 - 20161219_LEG	Passes			1			Full	One assay has no MAF. According to information paper, the missing MAF data should be about lipid measured by LC-MS.	12,088.11	7,887,268	38			
+2015-06-15	MTBLS174	NMR	Homo sapiens	2015-12-07	Public	Ewa Gralka			Mark	Done	Yes - Full		DOI		Full	2016-12-19	MTBLS174 - 20161219_LEG	Passes			1			Full		3.51	7,887,271	42			
+2015-03-03	MTBLS175	GC-Q-MS;UPLC-QTOF-MS	Centella asiatica	2015-03-03	Public	Fidele Tugizimana			Mark	Done	Yes - No data		DOI		Full	2016-12-21	MTBLS175 - 20161221_LEG	Passes			1			Full		2,989.01	7,890,260	39			
+2015-03-06	MTBLS176	3D MALDI imaging MS;3D DESI imaging MS	Bacillus subtilis;Streptomyces coelicolor;Mus musculus;Homo sapiens	2016-07-27	Public	Janina Oetjen			Reza		No		No			2016-11-17	MTBLS176									98,904.17	7,989,165	39			
+2015-03-10	MTBLS177	NMR	Homo sapiens	2015-08-01	Public	Vijesh Bhute			Mark	Done	Yes - Full		DOI		Full	2017-01-10	MTBLS177 - 20170110_LEG	Passes			1			Full	Release date updated	62.47	7,989,227	39			
+2015-03-11	MTBLS178	UPLC-QTOF-MS/MS	Homo sapiens	2015-03-11	Public	Cho Kyoungwon		PL	Mark	Done	Yes - No data		No		Full	2017-01-10	MTBLS178 - 20170110_LEG	Passes			1					2,006.95	7,991,234	39			
+2018-07-13	MTBLS179			2018-11-30	In Review	John Tregoning		ML	Keeva	Done	Yes - Partial				Full	2018-11-28	MTBLS179 - 20181128	Warnings only	In contact				Yes		MAF needs to be updated. ISA WARNING: The ISA-TAB field "Parameter Value[Data file content]" should appear at most 1 time(s) in current table	3,620.76	7,994,855	79			
+2018-07-13	MTBLS180			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	7,994,855	79			
+2018-07-13	MTBLS181			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	7,994,856	79			
+2015-03-11	MTBLS182	GC-Q-MS	reference compound;Homo sapiens	2018-05-02	Public	Silvia Marin			Mark	Done	No		Pubmed link		Full	2018-05-02	MTBLS182 - 20180502_LEG	Passes		Y	1			Full		55.81	7,994,911	39			
+2015-03-11	MTBLS183	GC-Q-MS	Homo sapiens	2016-11-26	In Review	Silvia Marin		L	Mark	Done	No		No		Full	2015-11-27	MTBLS183 - 20151126	Passes		Y	1			Full		349.19	7,995,261	39			
+2015-03-11	MTBLS184	GC-Q-MS	reference compound;Homo sapiens	2016-11-26	In Review	Silvia Marin		L	Mark	Done	No		No		Full	2015-11-27	MTBLS184 - 20151127	Passes		Y	1			Full		125.84	7,995,387	39			
+2015-03-18	MTBLS185	UPLC-LTQ-MS	Bos taurus	2017-01-12	Public	Nathalie De Clercq			Mark	Done	No		DOI		Full	2017-01-12	MTBLS185 - 20170110_LEG	Passes			1			Full		3,310.88	7,998,697	39			
+2018-07-13	MTBLS186			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	7,998,698	79			
+2015-03-20	MTBLS187	GC-Q-MS	Synechococcus spp.;Roseiflexus spp.;Chloracidobacterium spp.;Candidatus Thermochlorobacter spp.;Chloroflexus spp.	2015-07-09	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2017-01-12	MTBLS187 - 20170112_LEG	Passes			1			Full	Submitted by Reza to reserve the accession number.  20150702, updated by Thomas	8,433.55	8,007,131	39			
+2015-04-08	MTBLS188	UPLC-QTOF-MS	reference material;Arabidopsis thaliana	2015-05-10	Public	Steffen Neumann			Mark	Done	No		Pubmed link		Full	2017-01-13	MTBLS188 - 20170113_LEG	Passes		Y	1			Full		789.88	8,007,921	40			
+2015-03-29	MTBLS189	NMR	Mus musculus;Astragalus mongholicus	2017-01-16	Public	Zhenyu Li			Mark	Done	Yes - Full		Pubmed link		Full	2017-01-16	MTBLS189 - 20170113_LEG	Passes			1			Full	Emailed with some instructions	105.48	8,008,027	39			
+2015-03-28	MTBLS190	NMR	Rattus andamanensis	2016-03-28	Submitted	Miaomiao Jiang		MPLR		Medium	Yes - No data		No		Full	2015-09-30	MTBLS190 - 20150330									0.25	8,008,027	39			
+2015-04-08	MTBLS191	GC-Q-MS	Homo sapiens	2015-06-15	Public	Jessica Danaher			Mark	Done	Yes - No data		DOI		Full	2017-01-17	MTBLS191 - 20170116_LEG	Passes			1			Full	No protocols, nor metabolites- email sent to the submitter for protocols; protocols in word doc	430.60	8,008,458	40			
+2015-04-15	MTBLS192	FIA-LTQ-MS/MS	Homo sapiens	2016-04-15	Dormant	Harmen Draisma		MRP	Mark		Yes - Partial		No			2015-09-30	MTBLS192								Ken: 20170116: Requested raw files. Older comment: with one .xls document in the folder, a lot of metabolites without ID, no study factor, ontology define needs to change, protocol needs more information	9.20	8,008,467	40			
+2015-04-21	MTBLS193	UPLC-QTOF-MS	matrix;Chlorella;Parachlorella	2016-10-03	Public	Shivshankar Umashankar			Keeva	Done	No		DOI		Full	2017-01-17	MTBLS193 - 20170116_LEG	Passes			1			Full	20150505: moved raw files into real study.  We now need to curate to see if we want any changes	126,714.88	8,135,182	40			
+2015-04-23	MTBLS194	HPLC-FT-ICR-MS	Mus musculus	2015-07-01	Public	Wei Han			Mark	Done	No		DOI		Full	2017-03-23	MTBLS194 - 20170117_LEG	Passes			1			Full		1,660.43	8,136,842	40			
+2015-04-23	MTBLS195		Arabidopsis thaliana	2016-04-22	Submitted	Sidney James			Mark							2015-12-21	Carry On Curating								Carry On MTBLS2, 	12.17	8,136,854	40			
+2015-04-24	MTBLS196	GC-Q-MS;UPLC-LTQ-MS/MS	Mustela putorius	2016-05-11	Public	Tom Metz			Mark	Done	No		Pubmed link		Full	2016-05-11	MTBLS196 - 20160509	Passes			1			Full		8,732.02	8,145,586	40			
+2015-05-01	MTBLS197	HPLC-LTQ-MS	Mus musculus	2015-11-02	Public	Robert Jansen			Mark	Done	Yes - No data		Pubmed link		Full	2017-01-24	MTBLS197 - 20170117_LEG	Passes			1					4,730.29	8,150,317	41			
+2015-05-11	MTBLS198	HPLC-LTQ-MS/MS	Homo sapiens	2017-01-19	Public	Maria Ulaszewska			Mark	Done	Yes - No data		No		Full	2017-01-19	MTBLS198 - 20170118_LEG	Passes			1			Full	Moved from /ebi/ftp/private/mtblight/private/MTBLS198_Ulaszewska/ftp.fmach.it to the main study folder. There were only about half of the files that where unique, so went down from 71GB to 25GB. Unfortunately, half the files have been deleted. Ho hum.	19,311.80	8,169,628	41			
+2015-05-15	MTBLS199	DI-LTQ-MS/MS	reference compound;Homo sapiens	2017-05-02	Submitted	Albert Koulman		LR	Xuefei	Complete	Yes - Full		No		No	2018-05-25	MTBLS199 - 20151127	Passes		Y				Pending	Need raw data, ontology updated, no publication	0.97	8,169,629	41			
+2015-05-21	MTBLS200	NMR;GC-TOF-MS	Homo sapiens	2016-06-15	Public	Farshad Farshidfar			Xuefei	Done	Yes - No data		DOI		Full	2017-01-19	MTBLS200 - 20170117_LEG	Passes			1			Full	1 need mass spetrometry protocol 2 Waiting for MAF for both NMR (with metabolites no data) and GC-MS(emptying tsv)	494.05	8,170,123	41			
+2018-07-13	MTBLS201			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,170,124	79			
+2015-05-22	MTBLS202	GC-TOF-MS	Homo sapiens	2015-07-08	Dormant	katherine hollywood		R	Reza	Medium	Yes - No data		DOI		Metadata Only	2017-01-20	MTBLS202 - 20170117_LEG							Pending	Reza working on this for Roy's team	0.18	8,170,124	41			
+2015-06-01	MTBLS203	UPLC-QTOF-MS/MS	Nicotiana attenuata	2015-06-15	Public	Dapeng Li			Namrata	Done	No		Pubmed link		Full	2017-01-20	MTBLS203 - 20170117_LEG	Passes			1			Full	No protocols-Email sent to submitter	1,334.57	8,171,459	42			
+2018-07-13	MTBLS204			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,171,459	79			
+2018-07-13	MTBLS205			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,171,459	79			
+2018-07-13	MTBLS206			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,171,460	79			
+2018-07-13	MTBLS207			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,171,460	79			
+2015-06-02	MTBLS208	GC-TOF-MS	Chlamydomonas reinhardtii	2015-06-29	Public	Jeong-Jin Park			Xuefei	Done	Yes - Full		Pubmed link		Full	2017-01-23	MTBLS208 - 20170123_LEG	Passes			1			Full		1,087.31	8,172,548	42			
+2015-06-20	MTBLS209	UPLC-QTOF-MS;UPLC-TQ-MS	Vitis labrusca x Vitis vinifera;Vitis arizonica;Vitis Vinifera x Vitis berlandieri;Vitis vinifera;Vitis californica;Vitis;Vitis berlandieri x V. riparia/Xiphinema index/Glomus intraradices mixed EST library;Vitis cinerea	2017-01-23	Public	Luca Narduzzi			Xuefei	Done	No		No		Full	2017-01-23	MTBLS209 - 20170123_LEG 	Passes			1			Full	study passed all the validation, however, there was no MAF. and some detail information are needed to clarify inthe protocol	55,868.63	8,228,416	42			
+2015-06-26	MTBLS210	DI-FT-ICR-MS/MS	Aedes albopictus	2016-03-11	Public	Ulf Sommer		M	Mark	Done	Yes - No data		Pubmed link		Full	2017-01-24	MTBLS210 - 20170123_LEG	Passes			1			Full	Raw files in private/stage/MTBLS210_RAW.zip; Made PUBLIC for convenience, but work needs doing. MAF file from hell.	14,967.05	8,243,383	42			
+2015-07-08	MTBLS211	Smash into a million pieces!!!	symbiotic microbe	2016-08-01	Dormant	Ben Bowen					No				Metadata Only	2015-09-30	MTBLS211								The Ultimate Time Waster	0.04	8,243,383	43			
+2015-07-22	MTBLS212	SPME-GCxGC-TOF-MS	Vitis vinifera	2015-08-19	Public	Margaret Whitener			Mark	Done	Yes - No data		DOI		Full	2017-01-24	MTBLS212 - 20170124_LEG	Passes			1			Full	Data in ftp, "Margaret9875" folder	103,470.97	8,346,854	43			
+2015-07-27	MTBLS213	UPLC-MS	Homo sapiens	2015-09-15	Public	Sara Samino			Mark	Done	Yes - Full		Pubmed link		Full	2017-01-24	MTBLS213 - 20170124_LEG	Passes			1			Full	No protocols	384.47	8,347,239	43			
+2015-07-31	MTBLS214	UFLC-QTOF-MS/MS	Homo sapiens	2015-08-31	Public	Liyan Chen			Xuefei	Done	Yes - Full		Pubmed link		Full	2017-01-24	MTBLS214 - 20170124_LEG	Passes			1			Full		1,120.03	8,348,359	44			
+2015-07-31	MTBLS215	GC-TOF-MS	reference compound	2015-12-27	Public	Takeshi Furuhashi			Mark	Done	Yes - No data		Pubmed link		Full	2017-01-24	MTBLS215 - 20170124_LEG	Passes			1			Full	DVD in the post	2,581.65	8,350,940	44			
+2015-08-10	MTBLS216	LC-QTOF-MS	Mus musculus	2017-01-25	Public	liu jinwen			Mark	Done	Yes - No data		Pubmed link		Full	2017-01-25	MTBLS216 - 20170125_LEG	Passes			1			Full		711.31	8,351,652	44			
+2015-08-10	MTBLS217	HPLC-QTOF-MS	Mus musculus	2017-01-27	Public	liu jinwen			Mark	Done	Yes - No data		Pubmed link		Full	2017-01-27	MTBLS217 - 20170125_LEG	Passes			1			Full		2,513.13	8,354,165	44			
+2015-08-11	MTBLS218	UPLC-LTQ-MS	Homo sapiens	2015-09-15	Public	Sophie Narath			Mark	Done	Yes - No data		Pubmed link		Full	2017-01-27	MTBLS218 - 20170127_LEG	Passes			1			Full		5,133.43	8,359,298	44			
+2015-08-12	MTBLS219	GC-TOF-MS	alkane reference;Mus musculus	2015-09-28	Public	Michael Rutzler			Mark	Done	Yes - Full		Pubmed link		Full	2017-01-27	MTBLS219 - 20170127_LEG	Passes	In contact		1			Full		4,724.70	8,364,023	44			
+2018-07-13	MTBLS220			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,364,023	79			
+2018-07-13	MTBLS221			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,364,024	79			
+2015-08-24	MTBLS222	CE-TOF-MS	Homo sapiens	2017-03-29	Submitted	Yoshinori Ito		RF	Mark	Done	Yes - Full		DOI		Metadata Only	2017-01-30	MTBLS222 - 20170127_LEG	Passes						Pending	User submitted and got error: "Chromatography Instument" too long. Pablo fixed it and submitted to prod.  Study factors defined but not present in Sample Definition Sheet. No raw data files in assay sheet.	0.95	8,364,025	44			
+2015-08-24	MTBLS223	FIA-LTQ-MS/MS;LC-LTQ-MS/MS	calibrant;Homo sapiens;PBS	2017-11-03	Submitted	Pooja Jain			Xuefei		Yes - No data		No		Full	2016-12-14	MTBLS223 - 20161214	Passes	awaiting						Raw files in the private ftp:  /private/pooja8247 (more files than needed?), no MAF	472.71	8,364,497	44			
+2015-08-27	MTBLS224	DI-LTQ-MS	Phyllanthus niruri	2017-01-31	Submitted	Navneet Kaur		R	Mark	Done	Yes - No data		DOI		Full	2018-09-20	MTBLS224 - 20170130_LEG	Passes						Full	Raw files needed. Ken 20160331 - follow up email sent.  "Hello Kenneth I am sorry to inform you but I have tried my best to get raw files. I performed this study at NIPER, Mohali and due to some software error they have deleted all the raw data they had. So I will be unable to provide you the same."	2.29	8,364,500	44			
+2015-09-03	MTBLS225	UPLC-TQ-MS;HPLC-TQ-MS/MS	Mus musculus	2017-02-02	Public	Rance Nault			Mark	Done	Yes - Partial		Pubmed link		Full	2017-02-02	MTBLS225 - 20170131_LEG	Passes			1			Full	Urine protocols need to be added. Urine Paper requested through Researchgate.	4,535.55	8,369,035	45			
+2015-09-09	MTBLS226	GCxGC-TOF-MS	Homo sapiens	2015-10-19	Public	Suganthagunthalam Dhakshinamoorthy			Mark	Done	Yes - Full		Pubmed link		Full	2017-03-23	MTBLS226 - 20170202_LEG	Passes			1			Full	raw files are csv	100.09	8,369,135	45			
+2015-09-15	MTBLS227	HPLC-IT-MS;MALDI-TOF/TOF-MS/MS	Homo sapiens	2017-02-03	Public	Stephanie Holst		M	Mark	Done	Yes - Partial		Pubmed link		Full	2017-02-03	MTBLS227 - 20170203_LEG	Passes			1			Full	raw files in ftp; horrible list of glycans as metabolites; no publication	4,857.62	8,373,993	45			
+2015-09-16	MTBLS228	HPLC-LTQ-MS	Bacillus methanolicus	2015-10-19	Public	Patrick Kiefer			Mark	Done	Yes - Full		Pubmed link			2017-02-03	MTBLS228 - 20170203_LEG	Passes			1			Full		482.43	8,374,475	45			
+2015-09-16	MTBLS229	HPLC-LTQ-MS	Escherichia coli	2015-10-19	Public	Patrick Kiefer			Mark	Done	Yes - Full		Pubmed link			2017-02-03	MTBLS229 - 20170203_LEG	Passes			1			Full		1,034.37	8,375,510	45			
+2015-09-17	MTBLS230	NMR	Negative Media;conditioned DMEM Media;Homo sapiens;Buffer;McCoys Media	2017-11-22	In Review	Pooja Jain		L	Xuefei	Done	Yes - Full		No		Full	2017-02-03	MTBLS230 - 20170203_LEG	Passes	Awaiting		1				need paper, MAF is there with data. Pooja confirmed that MTBLS230,231, and 232 will not be updated any more on 28/10/2016. Only MTBLS223 will be updated.	42.22	8,375,552	45			
+2015-09-17	MTBLS231	FIA-LTQ-MS/MS;HPLC-LTQ-MS/MS	Homo sapiens;calibrant	2017-11-23	Dormant	Pooja Jain			Xuefei		No				Full	2016-10-27	MTBLS231 - 20160726	Passes	Awaiting						26/07/2016the  assay is separated into 3 assay as it included FIA postive and nagtive and LCMS postive in one assay, no maf, no paper.  Pooja confirmed that MTBLS230,231, and 232 will not be updated any more on 28/10/2016. Only MTBLS223 will be updated.	184.91	8,375,737	45			
+2015-09-18	MTBLS232	UPLC-TQ-MS	Homo sapiens	2017-11-22	Dormant	Pooja Jain			Xuefei		No				Full	2016-10-27	MTBLS232 - 20160419	Passes	Awaiting						This study would be included two asays other than one. UPLC should be separated from FIA?? no MAF, no paper,.  Pooja confirmed that MTBLS230,231, and 232 will not be updated any more on 28/10/2016. Only MTBLS223 will be updated.	45.67	8,375,783	45			
+2015-09-22	MTBLS233	HPLC-LTQ-MS	Homo sapiens	2016-06-09	Public	Marc Rurik			Xuefei	Done	No		Pubmed link		Full	2017-02-06	MTBLS233 - 20170206_LEG	Passes			1			Full		51,149.60	8,426,932	45			
+2015-09-23	MTBLS234	LC-QTOF-MS	Homo sapiens	2015-12-16	Public	Erhan Kenar			Mark	Done	No		Pubmed link		Full	2015-12-16	MTBLS234 - 20151216	Passes			1			Full	Missing protocols	2,090.93	8,429,023	45			
+2015-09-25	MTBLS235	LC-MS simulation	simulated data	2015-12-16	Public	Erhan Kenar			Mark	Done	No		Pubmed link		Full	2015-12-16	MTBLS235 - 20151216	Passes			1			Full		8,885.58	8,437,909	45			
+2015-09-30	MTBLS236	NMR	Homo sapiens	2018-03-13	Submitted	Karen Atkins		LPM	Xuefei		No				Full	2017-03-13	MTBLS236 - 20170206_LEG	Passes	Awaiting	1					No MAF (Empty tsv), no paper,   No response at all	6,092.96	8,444,002	45			
+2015-09-30	MTBLS237	NMR	Homo sapiens	2017-02-07	Public	Karen Atkins			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-02-07	MTBLS237 - 20170206_LEG	Passes	Awaiting	1	1			Full	No MAF (empty), with paper, No response at all	46.27	8,444,048	45			
+2015-09-30	MTBLS238	NMR	Homo sapiens	2016-10-07	Submitted	Karen Atkins		LPM	Xuefei		No				Full	2018-05-25	MTBLS238 - 20170207_LEG	Passes	Awaiting	1					no MAF (empty), no paper, no data transformation and metabolite identification protocols	40.50	8,444,088	45			
+2015-09-30	MTBLS239	NMR	Homo sapiens	2018-03-10	Submitted	Karen Atkins		LPM	Mark	Done	No		Pubmed link	29032767	Full	2017-03-10	MTBLS239 - 20170207_LEG	Passes	Awaiting	1		1			No MAF (empty tsv), no paper	264.58	8,444,353	45			
+2015-10-01	MTBLS240	NMR	Mus musculus	2017-02-09	Public	Karen Atkins			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-02-09	MTBLS240 - 20170208_LEG	Passes	Awaiting	1	1			Pending	Need metabolites data for MAF. Metabolites ( including Chebi and smiles, inchi keyadded based on paper. Waiting submitter provide the data.	60.79	8,444,414	46	 		
+2015-10-01	MTBLS241	NMR	reference compound;Homo sapiens	2018-05-02	Public	Karen Atkins		M	Xuefei	Done	No		Pubmed link		Full	2018-05-02	MTBLS241 - 20180502_LEG	Passes		1	1			Pending		687.52	8,445,101	46			
+2015-10-02	MTBLS242	NMR	Homo sapiens	2016-12-08	Public	Leonardo Tenori			Xuefei	Done	Yes - Full		Pubmed link		Full	2017-02-10	MTBLS242 - 20170210_LEG	Passes		1	1			Full	Metabolites in the MAF file have been correctly assigned.	1,664.33	8,446,766	46			
+2015-10-02	MTBLS243	HPLC-TQ-MS/MS	Mus musculus	2015-11-04	Public	Michael van Vliet			Mark	Done	Yes - Full		DOI		Full	2017-02-10	MTBLS243 - 20170210_LEG	Passes		1	1			Full		46.80	8,446,813	46			
+2015-10-01	MTBLS244	GC-Q-MS	Mus musculus	2018-05-01	In Review	Silvia Marin		L	Reza	Done	No				Full	2017-09-26	MTBLS244 - 20170926_LEG	Passes		1	1			Pending		8.96	8,446,821	46			
+2015-10-02	MTBLS245	UPLC-QTOF-MS	Homo sapiens	2019-03-01	Submitted	Manuja Kaluarachchi		LM	Keeva	Done	No				Full	2018-03-17	MTBLS245 - 20170213_LEG	Passes						Pending	Same study as MTBLS246, and combind name MTBLS245-246- 20160628, remain as individual MTBLS245 (HILIC), no MAF	57,729.87	8,504,551	46			
+2015-10-02	MTBLS246	UPLC-QTOF-MS	Homo sapiens	2019-03-01	Submitted	Manuja Kaluarachchi		LM	Keeva	Done	No				Full	2018-03-15	MTBLS246 - 20170213_LEG	Passes						Pending	Same study as 245, and the ccomind name MTBLS245-246- 20160628, remain as invidual MTBLS246 (reverse phase), No MAF	167,313.69	8,671,865	46			
+2015-10-03	MTBLS247	NMR	Homo sapiens	2017-02-23	Public	Maria Vinaixa			Mark	Done	Yes - Full		DOI		Full	2017-02-23	MTBLS247 - 20170220_LEG	Passes			1			Full		389.67	8,672,255	46			
+2015-10-07	MTBLS248	UPLC-QTOF-MS	Homo sapiens	2016-10-07	Submitted	Manuja Kaluarachchi		LM	Keeva	Done	No				Full	2018-05-25	MTBLS248 - 20170213_LEG	Passes						Pending	Same study with MTBLS250, HILIC phase, no MAF	16,524.51	8,688,779	46			
+2015-10-07	MTBLS249	NMR	Homo sapiens	2017-03-10	Public	Karen Atkins			Mark	Done	Yes - Full		DOI		Full	2017-03-10	MTBLS249 - 20170306_LEG	Passes		1	1					197.95	8,688,977	46			
+2015-10-07	MTBLS250	UPLC-QTOF-MS	Homo sapiens	2016-06-15	Submitted	Manuja Kaluarachchi		LM	Keeva	Done	No				Full	2018-05-25	MTBLS250 - 20170213_LEG	Passes						Pending	Same study with MTBLS248, reverse phase, No MAF	7,763.00	8,696,740	46			
+2015-10-07	MTBLS251	FIA-MS	Homo sapiens	2015-12-15	Dormant	Philippe Rocca-Serra	1				No					2015-10-07	MTBLS251 - 20151014			1						2.79	8,696,743	46			
+2015-10-07	MTBLS252	MS	Mus musculus	2015-12-25	Dormant	Philippe Rocca-Serra	1				No					2015-10-07	MTBLS252 - 20151014			1						8.75	8,696,752	46			
+2015-10-08	MTBLS253	HPLC-TQ-MS	Homo sapiens	2016-06-06	Public	Michael van Vliet			Mark	Done	Yes - Full		DOI		Full	2017-03-13	MTBLS253 - 20170310_LEG	Passes		1	1					319.63	8,697,071	46			
+2015-10-08	MTBLS254	FIA-MS	Homo sapiens	2016-10-05	Dormant	Philippe Rocca-Serra	1				No					2015-10-08	MTBLS254 - 20151014			1						1.72	8,697,073	46			
+2018-07-13	MTBLS255			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,697,073	79			
+2015-10-09	MTBLS256	NMR	Mus musculus	2017-03-14	Public	Jules Griffin			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-11-07	MTBLS256 - 20170313_LEG	Passes		1	1				with raw data, no MAF	3.16	8,697,077	46			
+2015-10-09	MTBLS257	UPLC-TQ-MS/MS	Mus musculus	2016-08-01	Dormant	Jules Griffin			Xuefei	Done	Yes - Full		DOI		Metadata Only	2017-03-14	MTBLS257 - 20170313_LEG	Passes		1					No raw data, with MAF. publication added.Jules find raw data but he needs to identified which one was used in this report	2.12	8,697,079	46			
+2015-10-19	MTBLS258	FIA-MS	Mus musculus;not applicable;Homo sapiens	2015-11-15	Dormant	Philippe Rocca-Serra	1				No					2015-10-19	MTBLS258 - 20151022			1						82.79	8,697,162	46			
+2015-10-20	MTBLS259	DI-FT-ICR-MS	Daphnia pulex;solvent	2017-04-03	Public	Alex Gavin			Keeva	Done	Yes - No data		DOI		Full	2017-05-08	MTBLS259 - 20170508_LEG	Passes	Awaiting		1			Pending	Emailed author re. Maf & literature - no reply. Paper found online & MAF hacked together from results.	1,139.31	8,698,301	46			
+2015-10-20	MTBLS260	DI-FT-ICR-MS	Daphnia magna	2017-05-08	Public	Alex Gavin			Keeva	Done	Yes - No data		Thesis		Full	2017-05-08	MTBLS260 - 20170508_LEG	Passes	Awaiting		1			Pending	Emailed author re. Maf & literature. Thesis found online & MAF hacked from it.	861.50	8,699,162	46			
+2015-10-21	MTBLS261	NMR	Mus musculus	2018-10-11	Public	Jules Griffin		M	Xuefei	Done	No		DOI		Full	2018-10-11	MTBLS261 - 20170315_LEG	Passes							Raw data included, but no MAF, GC-MS see MTBLS314, 	59.13	8,699,221	46			
+2015-10-23	MTBLS262	FIA-MS	Mus musculus	2018-10-01	Dormant	Philippe Rocca-Serra	1			Quick and Dirty	No					2015-10-23	MTBLS262 - 20151023	Untested		1					Test creation from Biocrates, work in progress	1.55	8,699,223	46			
+2015-10-26	MTBLS263	HPLC-LTQ-MS	Homo sapiens	2016-03-10	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2017-03-20	MTBLS263 - 20170317_LEG	Passes			1			Full	Add Pubmed ID when Paper is published	432.08	8,699,655	46			
+2015-10-26	MTBLS264	HPLC-LTQ-MS	Homo sapiens	2016-03-10	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2017-03-20	MTBLS264 - 20170317_LEG	Passes			1			Full	Add Pubmed ID when Paper is published	3,462.88	8,703,118	46			
+2015-10-26	MTBLS265	HPLC-LTQ-MS	Homo sapiens	2016-03-10	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2017-03-20	MTBLS265 - 20170317_LEG	Passes			1			Full	Add Pubmed ID when Paper is published	2,507.73	8,705,626	46			
+2015-10-26	MTBLS266	HPLC-LTQ-MS	Homo sapiens	2016-03-10	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2017-03-20	MTBLS266 - 20170317_LEG	Passes			1			Full	Add Pubmed ID when Paper is published	2,420.87	8,708,047	46			
+2015-10-26	MTBLS267	HPLC-LTQ-MS	Homo sapiens	2016-03-10	Public	Romanas Chaleckis			Mark	Done	Yes - Full		DOI		Full	2017-03-20	MTBLS267 - 20170317_LEG	Passes			1			Full	Add Pubmed ID when Paper is published	2,568.93	8,710,616	46			
+2015-10-26	MTBLS268	HPLC-LTQ-MS	Homo sapiens	2016-12-31	Submitted	Romanas Chaleckis		L	Mark	Done	Yes - Full		No		Full	2019-01-21	MTBLS268 - 20170320_LEG	Passes			1			Full		2,667.36	8,713,283	46			
+2015-10-26	MTBLS269	HPLC-LTQ-MS	Mus musculus	2016-12-31	In Review	Romanas Chaleckis		L	Mark	Done	Yes - Full		No		Full	2017-03-21	MTBLS269 - 20170320_LEG	Passes			1			Full		2,398.70	8,715,682	46			
+2015-10-29	MTBLS270	HPLC-QTOF-MS	Cichorium intybus	2016-01-04	Public	Carlo Annaratone		L	Mark	Done	Yes - Full		No		Full	2017-03-21	MTBLS270 - 20170320_LEG	Passes			1			Full		918.82	8,716,600	46			
+2015-11-04	MTBLS271	3D MALDI imaging MS	Rattus norvegicus	2015-12-15	Submitted	Nina Weishaupt		RP	Mark	Done	No		Pubmed link		Metadata Only	2017-04-28	MTBLS271 - 20170428_LEG	Passes								0.84	8,716,601	47			
+2015-11-06	MTBLS272	UPLC-QTOF-MS/MS	Arabidopsis thaliana	2017-05-03	Public	Fidele Tugizimana			Mark	Done	Yes - No data		Pubmed link		Full	2017-05-03	MTBLS272 - 20170502_LEG	Passes			1					21,902.15	8,738,503	47			
+2015-11-06	MTBLS273	3D DESI imaging MS	Homo sapiens	2016-04-28	Public	James S McKenzie			Mark	Done	No		Pubmed link		Full	2016-04-28	MTBLS273 - 20160420	Passes			1			Full		37,111.08	8,775,614	47			
+2015-11-12	MTBLS274	UPLC-QTOF-MS	Carica papaya	2017-05-04	Public	Thao Nguyen			Mark	Done	Yes - No data		Pubmed link		Full	2017-05-04	MTBLS274 - 20170503_LEG	Passes			1					2,051.16	8,777,666	47			
+2015-11-12	MTBLS275	NMR	Mus musculus	2017-05-05	Public	Yan Zhang			Mark	Done	Yes - No data		Pubmed link		Full	2017-05-05	MTBLS275 - 20170504_LEG	Passes			1					1.96	8,777,668	47			
+2015-11-13	MTBLS276	UPLC-LTQ-MS/MS	Escherichia coli;reference compound;Xenopus laevis	2015-11-16	Public	Ana Sofia Henriques da Costa			Mark	Done	Yes - No data		Pubmed link		Full	2017-05-05	MTBLS276 - 20170505_LEG	Passes			1			Full	Just awaiting Pubmed and DOI info when paper is formally published.	671.38	8,778,339	47			
+2015-11-13	MTBLS277	HPLC-LTQ-MS	Homo sapiens	2016-12-05	Public	Marc Rurik		ML	Keeva	Done	No		No		Full	2017-05-05	MTBLS277 - 20170505_LEG	Passes	In contact		1			Pending	Author has asked for study to be made public as per his EU project request - MAF file & literature are to be completed & submitted at later date	77,244.38	8,855,583	47			
+2015-11-16	MTBLS278	UPLC-TQ-MS/MS	Rattus norvegicus	2016-05-13	Public	Zsuzsanna Ament			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-05-08	MTBLS278 - 20170505_LEG	Passes			1				second paper published, refer to MTBLS303	1.47	8,855,585	47			
+2015-11-17	MTBLS279	UPLC-QTOF-MS	Homo sapiens	2016-06-06	Public	Michael van Vliet			Mark	Done	Yes - Full		DOI		Full	2017-03-13	MTBLS279 - 20170310_LEG	Passes		1	1			Full		46,124.69	8,901,710	47			
+2015-11-17	MTBLS280	UPLC-QTOF-MS	Homo sapiens	2016-06-06	Public	Michael van Vliet			Mark	Done	Yes - Full		DOI		Full	2017-03-13	MTBLS280 - 20170310_LEG	Passes		1	1			Full		74.68	8,901,784	47			
+2015-11-17	MTBLS281	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS;UPLC-TQ-MS	Coral reef sea water;Spheciospongia vesparium;Ircinia campana;Pooled quality control;sea water	2016-02-01	Public	Cara Fiore			Mark	Done	Yes - Full		Pubmed link		Full	2017-05-08	MTBLS281 - 201700508_LEG	Passes			1					3,454.20	8,905,238	47			
+2015-11-20	MTBLS282	3D DESI imaging MS	Homo sapiens/Mus musculus xenograft	2016-04-28	Public	James S McKenzie			Mark	Done	No		Pubmed link		Full	2016-04-28	MTBLS282 - 20160420				1			Full		54,286.42	8,959,525	47			
+2015-11-24	MTBLS283	GC-Q-MS;UPLC-TQ-MS/MS	Mus musculus	2016-12-15	Public	RAFAEL HERNANDEZ		L	Mark	Done	Yes - Full		No		Full	2017-05-09	MTBLS283 - 20170508_LEG	Passes			1			Full		606.96	8,960,132	47			
+2018-07-13	MTBLS284			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	8,960,132	79			
+2015-11-26	MTBLS285	NMR	Homo sapiens	2016-11-26	Submitted	Horst Joachim Schirra		R	Mark	Done	Yes - No data		DOI	10.1007/s11306-016-1102-x	Metadata Only	2017-05-10	MTBLS285 - 20170509_LEG	Passes	Awaiting							0.26	8,960,132	47			
+2015-11-29	MTBLS286	UPLC-QTOF-MS	Oryza sativa	2016-05-03	Public	Chaoyang Hu			Mark	Done	Yes - Full		Pubmed link		Full	2017-05-09	MTBLS286 - 20170509_LEG	Passes			1			Full		4,097.05	8,964,230	47			
+2015-11-30	MTBLS287	UPLC-QTOF-MS	Oryza sativa	2016-05-03	Public	Chaoyang Hu			Mark	Done	Yes - Full		Pubmed link		Full	2017-05-09	MTBLS287 - 20170509_LEG	Passes			1			Full		2,203.22	8,966,433	47			
+2015-11-30	MTBLS288	GC-Q-MS	Oryza sativa	2016-05-03	Public	Chaoyang Hu			Mark	Done	Yes - Full		Pubmed link		Full	2017-05-09	MTBLS288 - 20170509_LEG	Passes			1			Full		4,947.69	8,971,380	47			
+2015-12-03	MTBLS289	3D DESI imaging MS	Homo sapiens/Mus musculus xenograft	2016-04-28	Public	James S McKenzie			Mark	Done	No		Pubmed link		Full	2016-04-29	MTBLS289 - 20160429	Passes			1			Full		289,462.59	9,260,843	48			
+2015-12-11	MTBLS290	HPLC-LTQ-MS/MS	Homo sapiens	2017-05-11	Public	Radana Karlikova			Mark	Done	Yes - Full		DOI		Full	2017-05-11	MTBLS290 - 20170510_LEG	Passes			1				Raw data is one .wiff file.  Also LC/MS assay is positive/negative!!!	81.53	9,260,925	48			
+2015-12-11	MTBLS291	UPLC-TOF-MS	reference compound;Caenorhabditis elegans	2017-03-09	Public	Christoph Ruttkies, Steffen Neumann, Michael Witting			Mark	Done	Yes - Full		DOI		Full	2017-05-16	MTBLS291 - 20170516_LEG	Passes		1	1				One of Steffan's studies with no actual metabolites reported in the MAF file.	460.87	9,261,385	48			
+2015-12-11	MTBLS292	UPLC-TQ-MS	Mus musculus;Homo sapiens	2017-04-05	Public	Saikumari Krishnaiah			Keeva	Done	Yes - Full		Pubmed link		Full	2018-07-23	MTBLS292 - 20170516_LEG	Passes	In contact		1			Pending		1,450.17	9,262,836	48			
+2015-12-21	MTBLS293	LC-FT-ICR-MS;LC-LTQ-FT-MS/MS;LC-TQ-MS	sea water	2016-01-14	Public	Krista Longnecker		L	Mark	Done	Yes - Full		No		Full	2017-05-17	MTBLS293 - 20170516_LEG				1					5,818.43	9,268,654	48			
+2015-12-23	MTBLS294	No data supplied		2016-03-01	Dormant	Yang Wang										2015-12-29										0.06	9,268,654	48			
+2015-12-31	MTBLS295	UPLC-FT-ICR-MS;UPLC-LTQ-FT-MS/MS;UPLC-TQ-MS	Micromonas pusilla	2016-02-01	Public	Cara Fiore		L	Mark	Done	Yes - Full		DOI	10.1002/lol2.10043	Full	2017-06-16	MTBLS295 - 20170616_LEG	Passes			1					19,403.32	9,288,057	49			
+2016-01-05	MTBLS296	UPLC-QTOF-MS/MS	Saccharomyces cerevisiae	2016-10-13	Public	Yanqun Fan			Keeva	Done	Yes - No data		Pubmed link		Full	2017-06-16	MTBLS296 - 20170616_LEG	Passes			1			Pending	Author emailed re. further info for protocol refs, lip column, Maf	213,036.82	9,501,094	49			
+2016-01-08	MTBLS297	UPLC-QTOF-MS	Solanum lycopersicum;Solanum habrochaites	2017-04-25	Public	Steffen Neumann			Mark	Done	Yes - Full		Pubmed link		Full	2017-06-19	MTBLS297 - 20170616_LEG	Passes		1	1					6,148.82	9,507,243	49			
+2016-01-09	MTBLS298	GCxGC-TOF-MS	Homo sapiens	2016-12-15	Public	Matej Oresic			Mark	Done	Yes - Full		Pubmed link		Full	2017-06-19	MTBLS298 - 20170619_LEG	Passes		1	1				Some factor columns with no values present as yet.	16.14	9,507,259	49			
+2018-07-13	MTBLS299	No data supplied		2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	9,507,260	79			
+2018-07-13	MTBLS300			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13									Deleted	0.43	9,507,260	79			
+2018-07-13	MTBLS301			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13									Deleted	0.43	9,507,260	79			
+2018-07-13	MTBLS302			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13									Deleted	0.43	9,507,261	79			
+2016-01-20	MTBLS303	UPLC-TQ-MS/MS	Rattus norvegicus	2016-05-13	Public	Zsuzsanna Ament			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-06-23	MTBLS303 - 20170623_LEG	Passes			1				second paper published, study description refer to MTBL278	13.90	9,507,275	49			
+2016-01-20	MTBLS304	UPLC-QTOF-MS	Mycobacterium tuberculosis	2018-10-22	Public	Sajith Raghunandanan		L	Keeva	Done	Yes - Full		No		Full	2018-10-22	MTBLS304 - 20181008_LEG	Passes	Awaiting					Pending	Author contacted 08062016 re. abstract / MAF	11,640.27	9,518,915	49			
+2016-01-21	MTBLS305	No data supplied		2016-01-28	Dormant	Jiyoung Kim										2016-01-21										63.29	9,518,978	49			
+2016-01-24	MTBLS306	HPLC-LTQ-MS/MS	Homo sapiens	2017-05-16	Public	Ali Muhsen Ali			Mark	Done	Yes - No data		Pubmed link		Full	2017-05-16	MTBLS306 - 20170512_LEG	Passes			1					57,451.43	9,576,430	49			
+2016-01-26	MTBLS307	LC-LTQ-MS/MS	reference compound;Homo sapiens	2016-05-23	Public	Justin van Der Hooft			Keeva	Done	Yes - Full		DOI		Full	2017-06-23	MTBLS307 - 20160705	Passes	In contact		1			Full	Added DOI	18,524.90	9,594,955	49			
+2016-01-26	MTBLS308	UPLC-TQ-MS/MS	Mus musculus	2017-01-26	Dormant	Zsuzsanna Ament			Xuefei	Done	Yes - Partial		No		Metadata Only	2016-03-22	MTBLS308 -20160127	Passes							No raw data. Zip is empty, same study with mtbls278, mtbls303, (Jules wants delete the study!)	0.32	9,594,955	49			
+2016-01-28	MTBLS309	HPLC-LTQ-MS/MS;GC-TQ-MS;GC-Q-MS	Brassica napus	2017-03-31	Public	Biswapriya Misra			Mark	Done	Yes - Partial		Pubmed link		Full	2017-06-23	MTBLS309 - 20170321_LEG	Passes			1					9,584.58	9,604,540	49			
+2018-07-13	MTBLS310			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1																			0.43	9,604,540	79			
+2016-01-29	MTBLS311	HPLC-LTQ-MS/MS;GC-TQ-MS	Arabidopsis thaliana	2017-04-25	Public	Biswapriya Misra			Mark	Done	Yes - Partial		Pubmed link		Full	2017-04-25	MTBLS311 - 20170425_LEG	Passes			1					23,076.34	9,627,616	49			
+2016-01-29	MTBLS312	HPLC-LTQ-MS/MS;GC-TQ-MS;UPLC-QTOF-MS	Brassica napus	2017-04-25	Public	Biswapriya Misra			Mark	Done	Yes - Partial		Pubmed link		Full	2017-04-25	MTBLS312 - 20170425_LEG	Passes			1				RAW files for UPLC and GC data not submitted. Submitter had MS2 files but not these.	58.00	9,627,674	49			
+2016-02-01	MTBLS313	3D MALDI imaging MS	Mus musculus;Rattus rattus	2017-04-10	Public	Andrew Palmer		M	Keeva	Done	Yes - Partial		Pubmed link		Full	2017-07-06	MTBLS313 - 20170706_LEG	Passes	In contact		1			Full	MAF file contains HMDB ref - being converted to ChEBI but study public in mean time	5,455.33	9,633,130	50			
+2016-02-03	MTBLS314	GC-Q-MS	Mus musculus	2017-02-01	Submitted	Jules Griffin		R	Xuefei	Complete	Yes - Full		DOI		Metadata Only	2017-03-17	MTBLS314 - 20170315_LEG	Passes		1					No raw data, zip is emptying, waiting for raw data. A lot of unknow metabolite in MAF, same paper with MTBLS261	1.68	9,633,131	50			
+2016-02-05	MTBLS315	GC-TOF-MS;UPLC-LTQ-MS;LC-QTOF-MS	Homo sapiens	2016-03-17	Public	Saskia Decuypere			Mark	Done	Yes - Full		Pubmed link		Full	2017-06-26	MTBLS315 - 20170623_LEG	Passes			1				GC-MS ChEBI IDs need to be added.  Redundancy in LC-MS MAF needs to be sorted. BOTH DONE, however, LC-MS MAF should be taken as is.	7,396.98	9,640,528	50			
+2016-02-09	MTBLS316	HPLC-LTQ-MS/MS	Schizosaccharomyces pombe/Puccinia graminis mixed DNA library	2017-07-06	Public	Takayuki Teruya			Mark	Done	Yes - Full		Pubmed link		Full	2017-07-06	MTBLS316 - 20170705_LEG	Passes			1					882.07	9,641,410	50			
+2016-02-12	MTBLS317	3D MALDI imaging MS simulation	Simulation experiment	2016-12-05	Public	Andrew Palmer			Keeva	Done	No		DOI		Full	2017-07-06	MTBLS317 - 20170706_LEG	Passes	In contact		1			Full	Simulation study so no MAF file relevant. List of chemical formula used in simulation added to MAF file but not linked to particular IDs	119.14	9,641,530	50			
+2018-07-13	MTBLS318			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	9,641,530	79			
+2016-02-18	MTBLS319	GC-TOF-MS	Pseudomonas putida	2016-08-23	Public	Drupad Trivedi			Keeva	Done	Yes - Full		DOI		Full	2016-08-23	MTBLS319 - 20160610	Passes			1			Full		13,747.24	9,655,277	50			
+2016-02-19	MTBLS320	GC-TOF-MS	Pseudomonas putida	2016-08-23	Public	Ali Sayqal			Keeva				Pubmed link		Full	2016-08-23	MTBLS320 - 20160616	Passes			1			Full		11,798.90	9,667,076	50			
+2016-02-24	MTBLS321	GC-QTOF-MS	Homo sapiens	2016-09-22	Public	Sara Samino			Keeva	Done	Yes - Full		Pubmed link		Full	2017-07-07	MTBLS321 - 20170706_LEG	Passes			1			Full		492.24	9,667,568	50			
+2016-02-25	MTBLS322	UPLC-QTOF-MS/MS	Ovis aries	2017-07-14	Public	Martin FlÃ¼ck			Mark	Done	Yes - No data		Pubmed link		Full	2017-07-14	MTBLS322 - 20170707_LEG	Passes	Awaiting		1					11,646.79	9,679,215	50			
+2016-03-03	MTBLS323	DI-LTQ-MS/MS	Homo sapiens	2017-03-01	In Review	Albert Koulman		L	Xuefei	Done	Yes - Full		No		Full	2017-07-17	MTBLS323 - 20170714_LEG	Passes		1	1				No paper, MAF done, Genotype data included as word document, delete the excel(request by albert)	8,547.39	9,687,763	51			
+2016-03-09	MTBLS324	A Very Good Question	Homo sapiens	2016-06-15	Dormant	Philippe Rocca-Serra	1									2016-03-09				1						1,279.93	9,689,042	51			
+2016-03-13	MTBLS325	HPLC-LTQ-MS	Homo sapiens	2016-12-31	Submitted	Romanas Chaleckis		L	Mark	Done	Yes - Full				Full	2019-01-21	MTBLS325 - 20160407				1			Full		1,617.15	9,690,660	51			
+2016-03-16	MTBLS326	NMR	Homo sapiens	2017-07-18	Public	aru singh			Mark	Done	Yes - Full		Pubmed link		Full	2017-07-18	MTBLS326 - 20170717_LEG	Passes			1					26.21	9,690,686	51			
+2016-03-16	MTBLS327	DI-LTQ-MS	Mus musculus	2017-03-01	Public	Jules Griffin			Xuefei	Done	Yes - Full		Pubmed link		Full	2017-03-02	MTBLS327 - 20161212_LEG	Passes	Awaiting	1	1			Full	Same paper with MTBLS162(human),raw data uploaded to metabolights, MAF included, and study factor included	345.46	9,691,031	51			
+2016-03-21	MTBLS328	GC-Q-MS	Homo sapiens;Lactobacillus rhamnosus;Lactobacillus rhamnosus;Bacteroides caccae;Lactobacillus rhamnosus;Homo sapiens;Bacteroides caccae;Homo sapiens	2017-07-28	Public	Christian Jaeger			Keeva	Done	Yes - No data		Pubmed link		Full	2017-07-28	MTBLS328 - 20170728_LEG	Passes	Awaiting		1				Author did not respond to email. MAF file 'hacked' together from supplementary info	736.91	9,691,768	51			
+2016-03-22	MTBLS329	No data supplied		2016-10-01	Dormant	hu yuan										2016-03-22										0.16	9,691,768	51			
+2016-03-22	MTBLS330	UPLC-QTOF-MS		2018-03-05	Public	NIR SHAHAF			Mark	Done	Yes - No data		Pubmed link		Full	2018-03-05	MTBLS330 - 20180201_LEG	Passes	In contact		1				3 studies in the same submission. Very unhappy, have not heard back since initial submission. Study now sorted. Submitters may add an additional assay containing chemical standards in the future.	1,787.37	9,693,556	51			
+2016-03-22	MTBLS331	NMR	Crocus sativus	2017-07-20	Public	Farshad Farshidfar			Keeva	Done	Yes - No data		DOI		Full	2017-07-20	MTBLS331 - 20170720_LEG	Passes	Awaiting		1			Pending		8.18	9,693,564	51			
+2016-03-23	MTBLS332	GC-Q-MS	Populus deltoides WV94	2017-07-25	Public	Collin Timm			Mark	Done	Yes - Full		Pubmed link		Full	2017-07-25	MTBLS332 - 20170720_LEG	Passes			1					98.90	9,693,663	51			
+2016-03-28	MTBLS333	UPLC-QTOF-MS	Rubus idaeus	2016-08-23	Public	Elisabete Carvalho			Keeva	Done	No		Pubmed link		Full	2017-07-25	MTBLS333 - 20170725_LEG	Passes	In contact		1			Full		1,010.04	9,694,673	51			
+2016-04-01	MTBLS334	UPLC-LTQ-MS	Mus musculus	2016-05-01	Public	Elaine Cowan			Mark	Done	Yes - Full		Pubmed link		Full	2017-07-25	MTBLS334 - 20170725_LEG	Passes			1			Full		16,107.69	9,710,781	52			
+2016-04-08	MTBLS335	UPLC-QTOF-MS/MS	Nicotiana attenuata	2016-12-02	Public	Dapeng Li			Keeva	Done	Yes - No data		Pubmed link		Full	2017-07-27	MTBLS335 - 20170727_LEG	Passes	In contact		1			Full		3,271.30	9,714,052	52			
+2016-04-16	MTBLS336	NMR;UPLC-LTQ-MS	Laternula elliptica;Marseniopsis mollis;Liothyrella uva;Cucumaria georgiana;Yoldia eightsi;Paraceradocus	2016-06-23	Public	Ulf Sommer			Keeva	Done	Yes - No data		Pubmed link		Full	2017-07-28	MTBLS336 - 20170727_LEG	Passes	In contact		1			Full		5,060.57	9,719,112	52			
+2016-04-18	MTBLS337	NMR	Homo sapiens	2016-11-07	Public	Vijesh Bhute			Keeva	Done	Yes - Full		Pubmed link		Full	2017-07-28	MTBLS337 - 20170728_LEG	Passes	In contact		1			Pending		83.30	9,719,196	52			
+2016-04-21	MTBLS338	UPLC-QTOF-MS;GC-Q-MS	Arabidopsis thaliana	2016-09-30	Public	Steffen Neumann, Susann Moenchgesang			Keeva	Done	Yes - Full		Pubmed link		Full	2017-07-28	MTBLS338 - 20170728_LEG	Passes		1	1			Full		32,907.54	9,752,103	52			
+2016-04-22	MTBLS339	UPLC-LTQ-MS	Anopheles gambiae;Homo sapiens	2016-05-23	Submitted	Cody Champion		R - Metabolon			Yes - Partial		DOI		Metadata Only	2016-12-14	MTBLS339 - 20170728_LEG								Query being made re. submission of raw data - Metabolon	5.21	9,752,108	52			
+2016-04-27	MTBLS340	NMR	Rattus norvegicus	2016-08-31	Public	Jiajia Cui			Keeva	Done	Yes - Full		Pubmed link		Full	2017-07-31	MTBLS340 - 20170323_LEG	Passes			1			Full		15.98	9,752,124	52			
+2016-04-27	MTBLS341	UPLC-QTOF-MS;GC-Q-MS	Arabidopsis thaliana	2016-07-15	Public	Steffen Neumann			Keeva	Done	Yes - Partial		Pubmed link		Full	2017-07-31	MTBLS341 - 20170731_LEG	Passes	In contact	1	1			Full		9,634.30	9,761,759	52			
+2016-05-06	MTBLS342	NMR	Scleractinian	2017-08-01	Public	Emilia Sogin			Mark	Done	Yes - No data		Pubmed link		Full	2017-08-01	MTBLS342 - 20170801_LEG	Passes			1					8.09	9,761,767	53			
+2016-05-06	MTBLS343	UPLC-QTOF-MS	Lactuca sativa	2017-08-03	Public	Francisco Tomas-Barberan			Mark	Done	Yes - Full		Pubmed link		Full	2017-08-03	MTBLS343 - 20170801_LEG	Passes			1					20.10	9,761,787	53			
+2016-05-06	MTBLS344	GC-TOF-MS;UPLC-LTQ-MS	Pork and Beef minced meat	2017-05-01	Submitted	Drupad Trivedi		RM	Mark	Done	No		Pubmed link	26911805	Metadata Only	2017-08-03	MTBLS344 - 20170803_LEG									0.40	9,761,787	53			
+2016-05-06	MTBLS345	GC-Q-MS	Mus musculus;Food	2016-10-05	Public	Tom Metz			Keeva	Done	Yes - Full		Pubmed link		Full	2017-08-16	MTBLS345 - 20170816_LEG	Passes	In contact		1			Full		2,998.32	9,764,786	53			
+2016-05-13	MTBLS346	NMR	Vitis vinifera L.	2017-08-18	Public	Alessia Trimigno			Mark	Done	Yes - No data		DOI		Full	2017-08-18	MTBLS346 - 20170817_LEG	Passes			1					6.21	9,764,792	53			
+2016-05-18	MTBLS347	NMR	Microbiota	2016-08-31	Submitted	Zhihua Li		RPLM			No					2016-05-18									I think the paper for this study is Bacterial community succession and metabolite changes during doubanjiang-meju fermentation, a Chinese traditional fermented broad bean (Vicia faba L.) paste. PMID:27719946 Xuefei to pursue this.	0.04	9,764,792	53			
+2016-05-18	MTBLS348	No data supplied		2016-05-31	Dormant	Fatemeh Mousavi					No					2016-05-18										156.09	9,764,948	53			
+2016-05-27	MTBLS349	NMR	Rabbit	2017-08-23	Public	Vadim Yanshole			Mark	Done	Yes - Full		DOI		Full	2017-08-23	MTBLS349 - 20170823_LEG	Passes			1					10.07	9,764,958	53			
+2016-06-01	MTBLS350	GC-TOF-MS	Panax ginseng	2016-11-18	Public	Sun Tae Kim			Mark	Done	Yes - Full		DOI		Full	2017-08-23	MTBLS350 - 20161118	Passes			1			Full		636.64	9,765,595	54			
+2016-06-03	MTBLS351	GCxGC-TOF-MS;UPLC-QTOF-MS	Homo sapiens	2017-08-31	Submitted	Matej Oresic		R	Mark	Done	Yes - Full		Pubmed link		Metadata Only	2018-09-20	MTBLS351 - 20170824_LEG	Passes		1						11.85	9,765,607	54			
+2016-06-06	MTBLS352	UPLC-QTOF-MS	Homo sapiens	2017-04-26	Public	Yanqun Fan		L	Keeva	Done	Yes - Partial		Pubmed link	28505362	Full	2017-04-26	MTBLS352 - 20170426_LEG	Passes	Awaiting		1			Pending	Emailed author re. 296 & 352 ; protocol Extract references, Lipodomics column name, MAF files & paper	380,812.62	10,146,419	54			
+2019-02-27	MTBLS353			2020-02-27	Submitted	Placeholder Placeholder										2019-02-27										0.01	10,146,419	86			
+2016-06-08	MTBLS354	UPLC-QTOF-MS	Homo sapiens	2016-08-11	Public	Yan Bingpeng			Xuefei	Done	Yes - Full		Pubmed link		Full	2017-09-05	MTBLS354 - 20160810	Passes			1			Full		69,749.93	10,216,169	54			
+2016-06-16	MTBLS355	DI-FT-ICR-MS;GC-TOF-MS	Arabidopsis thaliana	2017-07-17	Public	Elisabeth Georgii			Keeva	Done	Yes - Partial		Pubmed link		Full	2017-09-05	MTBLS355 - 20170904_LEG	Passes	In contact		1			Full		5,240.56	10,221,410	54			
+2016-06-19	MTBLS356	NMR	Homo sapiens	2017-09-06	Public	Angelica Palisi			Mark	Done	Yes - Full		Pubmed link		Full	2017-09-06	MTBLS356 - 20170904_LEG	Passes			1					98.68	10,221,508	54			
+2016-06-24	MTBLS357	No data supplied		2017-05-01	Dormant	Zhengjun Wang					No					2016-06-24										33.04	10,221,541	54			
+2016-06-29	MTBLS358	UPLC-LTQ-MS;DI-LTQ-MS	Homo sapiens	2017-02-20	Public	Sam Ansari			Keeva	Done	Yes - Full		Pubmed link		Full	2017-09-06	MTBLS358 - 20170906_LEG	Passes			1			Full		1,065.96	10,222,607	54			
+2016-07-03	MTBLS359	LC-LTQ-MS	Salmonella Typhimurium DT104 strain 2576	2017-02-16	Public	Caroline Rempe			Keeva	Done	Yes - Full		DOI		Full	2017-09-07	MTBLS359 - 20170906_LEG	Passes	Not yet contacted		1			Full		23,912.35	10,246,520	55			
+2016-07-06	MTBLS360	UPLC-LTQ-MS/MS	Trypanosoma brucei brucei;nil	2017-10-09	Public	Darren Creek			Mark	Done	Yes - Full		DOI		Full	2017-10-09	MTBLS360 - 20170907_LEG				1					593.87	10,247,114	55			
+2016-07-12	MTBLS361	NMR	Rattus norvegicus	2017-10-09	Public	Zhenyu Li			Mark	Done	Yes - Full		Pubmed link		Full	2017-10-09	MTBLS361 - 20170911_LEG	Passes			1					23.32	10,247,137	55			
+2016-07-13	MTBLS362	LC-LTQ-MS/MS	Photinus pyralis;N/A	2016-12-22	Public	Timothy R Fallon			Mark	Done	Yes - Partial		DOI		Full	2017-10-11	MTBLS362 - 20171010_LEG	Passes			1					1,481.08	10,248,618	55			
+2016-07-16	MTBLS363	GC-Q-MS	Agave americana;Arabidopsis thaliana	2017-10-13	Public	Nancy Engle			Mark	Done	Yes - Full		Pubmed link		Full	2017-10-13	MTBLS363 - 20171011_LEG	Passes			1					834.60	10,249,453	55			
+2016-07-18	MTBLS364	UPLC-QTOF-MS	Homo sapiens	2017-01-09	Public	Manuja Kaluarachchi			Xuefei	Done	Yes - Full		DOI		Full	2017-03-07	MTBLS364 - 20170301_LEG	Passes	In contact		1			Full	This data set is from same study with MTBLS374 which includes NMR data, DOI added	48,632.02	10,298,085	55			
+2018-07-13	MTBLS365			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	10,298,085	79			
+2016-07-22	MTBLS366	DI-FT-ICR-MS	sea water	2016-10-31	Public	Krista Longnecker			Mark	Done	Yes - Full		DOI		Full	2017-10-13	MTBLS366 - 20171013_LEG	Passes			1			Full		1,505.69	10,299,591	55			
+2016-07-22	MTBLS367	NMR	Sus scrofa domesticus	2017-10-16	Public	Alexander Hollis			Mark	Done	Yes - No data		Pubmed link		Full	2017-10-17	MTBLS367 - 20171013_LEG	Passes			1					323.98	10,299,915	55			
+2016-07-28	MTBLS368	HPLC-QTOF-MS;UPLC-TQ-MS/MS	Homo sapiens;Mus musculus;reference compound	2016-09-09	Public	Samuel Trammell			Keeva	Done	Yes - Partial		Pubmed link		Full	2017-10-18	MTBLS368 - 20171017_LEG	Passes	In contact		1			Full		2,743.79	10,302,658	55			
+2016-08-08	MTBLS369	NMR	Homo sapiens	2016-08-31	Submitted	Christopher Armstrong		R	Mark	Done	Yes - No data		DOI	10.1007/s11306-016-1145-z		2017-10-19	MTBLS369 - 20171018_LEG									0.32	10,302,659	56			
+2016-08-11	MTBLS370	GC-LTQ-MS	Internal Standard;coculture;Staphylococcus aureus;Bos taurus;Standard;Candida albicans;Culture Media	2017-02-20	Public	Stefan Weidt			Keeva	Done	Yes - Full		DOI		Full	2017-10-20	MTBLS370 - 20171020_LEG	Passes	In contact		1			Full		17,049.77	10,319,709	56			
+2016-08-15	MTBLS371	UPLC-LTQ-MS/MS;GC-Q-MS	Phoenix dactylifera	2016-09-21	Submitted	Nisha Stephan		R - Metabolon			Yes - Partial					2016-09-13									3/4 assays mentioned in protocols.  Only one submitted.  Needs to be FAILED in validator.	1.04	10,319,710	56			
+2016-08-17	MTBLS372	HPLC-QTOF-MS/MS	Fraxinus excelsior	2016-11-09	Public	Christine Sambles			Mark	Done	No				Full	2017-09-12	MTBLS372 - 20161107	Passes			1					7,886.26	10,327,596	56			
+2016-08-24	MTBLS373	FIA-QTOF-MS	Escherichia coli	2016-12-13	Public	Fuhrer Tobias		M	Mark	Done	No				Full	2016-12-13	MTBLS373 - 20161121	Passes			1			Full	Metabolites are in the Excel file in the folder. A major job!	1,943,446.73	12,271,043	56			
+2016-09-07	MTBLS374	NMR	Homo sapiens	2017-03-07	Public	Manuja Kaluarachchi			Xuefei	Done	Yes - No data		DOI		Full	2017-03-07	MTBLS374 - 20170301_LEG	Passes	In contact		1			Full	This data set is from same study with MTBLS364 which includes LC-MS data, paper added	375.40	12,271,418	57			
+2016-09-11	MTBLS375	UPLC-LTQ-MS	Arabidopsis thaliana	2017-10-23	Public	Jingjing Cao			Xuefei	Done	Yes - Full		Pubmed link		Full	2017-10-23	MTBLS375 - 20171020_LEG	Passes	In contact						No paper	2,781.12	12,274,199	57			
+2016-09-12	MTBLS376	CE-TOF-MS	Mus musculus	2017-02-20	Public	Hiroyuki Yamamoto		L	Keeva	Done	Yes - Full		No		Full	2017-10-23	MTBLS376 - 20171023_LEG	Passes	In contact		1			Full		60,898.20	12,335,097	57			
+2016-09-12	MTBLS377	Insufficient data supplied	mus musculus	2017-09-12	Submitted	Manoj Bhasin					No					2016-09-12										0.06	12,335,097	57			
+2016-09-14	MTBLS378	LC-LTQ-MS/MS	Mus musculus	2016-12-05	Public	Andrew Palmer			Keeva	Done	Yes - No data		Pubmed link		Full	2017-10-24	MTBLS378 - 20171024_LEG	Passes	In contact		1			Full		2,928.93	12,338,026	57			
+2016-09-15	MTBLS379	UPLC-QTOF-MS/MS	Apis cerana	2017-10-27	Public	mengnan huang			Keeva	Done	Yes - Full		Pubmed link		Full	2017-10-27	MTBLS379 - 20171024_LEG	Passes	In contact		1				Submitter removed the ML id after validation errors: "Progenesis QI software is used for metabolite identification"	24,143.43	12,362,170	57			
+2016-09-16	MTBLS380	UPLC-QTOF-MS	Mus musculus	2016-11-15	Public	Cecilia Castro			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-10-27	MTBLS380 - 20171027_LEG	Passes	In contact	1	1			Full	processed data provided in excel same study with MTBLS382, MTBLS390, MAF added without data		12,362,170	57			
+2016-09-22	MTBLS381	UPLC-QTOF-MS	reference compound	2016-10-24	Public	Steffen Neumann			Mark	Done	Yes - No data		DOI		Full	2016-10-24	MTBLS381 - 20161024	Passes		1	1			Full		776.72	12,362,946	57			
+2016-09-23	MTBLS382	NMR	Mus musculus	2017-10-27	Public	Cecilia Castro		M	Xuefei	Done	No		Pubmed link		Full	2017-10-27	MTBLS382 - 20171027_LEG	Passes	In contact	1	1			Full	No MAF, processed data provided in excel. same study with MTBLS380, MTBLS390	22.81	12,362,969	57			
+2016-09-26	MTBLS383	REI-QTOF-MS	Candida lusitaniae;Candida albicans;Candida krusei;Candida inconspicua;Candida tropicalis;Candida glabrata;Candida parapsilosis	2017-11-01	Public	Simon Cameron			Xuefei	Done	Yes - No data		Pubmed link		Full	2017-11-01	MTBLS383 - 20171027_LEG	Passes			1				No data for MAF	11,308.40	12,374,278	57			
+2016-09-28	MTBLS384	HPLC-LTQ-MS	Sus scrofa domesticus	2017-06-12	Public	tao peng, Yann GUITTON			Mark	Done	Yes - No data		DOI		Full	2017-06-12	MTBLS384 - 20170608_LEG	Passes	In contact		1					4,608.39	12,378,886	57			
+2016-09-28	MTBLS385	3D DESI imaging MS	Homo sapiens	2017-01-10	Public	James S McKenzie			Keeva	Done	No		DOI		Full	2017-01-10	MTBLS385 - 20170110	Passes	In contact		1			Full	No metabolites identified	3,438.22	12,382,324	57			
+2016-09-30	MTBLS386	NMR	Homo sapiens	2017-11-06	Public	Vadim Yanshole			Mark	Done	Yes - Full		DOI		Full	2017-11-06	MTBLS386 - 20171103_LEG	Passes			1					26.86	12,382,351	57			
+2016-10-04	MTBLS387	NMR	cellular organism	2017-11-07	Public	Jueun Lee			Mark	Done	Yes - No data		Pubmed link		Full	2017-11-07	MTBLS387 - 20171106_LEG	Passes			1					8.01	12,382,359	58			
+2016-10-05	MTBLS388	Insufficient data supplied		2016-10-12	Dormant	Weidong Dai										2016-10-05										1.91	12,382,361	58			
+2016-10-18	MTBLS389	UPLC-TOF-MS	Arabidopsis thaliana	2018-02-05	Public	Steffen Neumann			Keeva	Done	Yes - Full		DOI		Full	2018-02-05	MTBLS389 - 20171108_LEG	Passes	In contact	1	1			Pending		110,045.98	12,492,407	58			
+2016-10-18	MTBLS390	GC-FID	Mus musculus	2016-12-01	Public	Cecilia Castro		M	Xuefei	Done	No		Pubmed link		Full	2017-10-27	MTBLS390 - 20171027_LEG	Passes	In contact	1	1			Full	No MAF, processed data provided in excel. same study with MTBLS380, MTBLS382	180.18	12,492,587	58			
+2016-10-19	MTBLS391	HPLC-LTQ-MS;UPLC-LTQ-MS;UPLC-QTOF-MS/MS	reference compound	2017-10-27	Public	Juergen Hartler		M	Mark	Done					Full	2017-11-29	MTBLS391 - 20171124_LEG	Passes			1			Full	Nightmare, piped, lipid metabolites MAF file. Have left for the time being.	278.53	12,492,866	58			
+2016-10-24	MTBLS392	GCxGC-TOF-MS	Vitis vinifera	2017-11-14	Public	Irene Stefanini		M	Mark	Done	Yes - No data		Pubmed link		Full	2017-11-14	MTBLS392 - 20171108_LEG	Passes			1				Massive dump of metabolites. Approx 350 have CHEBI IDS and the rest have Chem Spider IDs (around 800-900).	48,744.59	12,541,610	58			
+2016-10-26	MTBLS393	GC-TOF-MS	Escherichia coli	2017-11-16	Public	Yun Xu			Mark	Done	Yes - Full		Pubmed link		Full	2017-11-16	MTBLS393 - 20171114_LEG	Passes			1					4,521.75	12,546,132	58			
+2016-10-26	MTBLS394	HPLC-QTOF-MS;UPLC-QTOF-MS/MS;HPLC-LTQ-MS;UPLC-LTQ-MS	reference compound	2017-10-27	Public	Juergen Hartler		M	Reza	Done					Full	2017-11-29	MTBLS394 - 20171124_LEG	Passes			1			Full		36,181.23	12,582,313	58			
+2016-10-28	MTBLS395	NMR	Homo sapiens	2018-10-02	Public	Alessia Vignoli		LF	Keeva	Done	Yes - Full		No		Full	2018-10-02	MTBLS395 - 20171130_LEG	Passes	In contact		1					547.81	12,582,861	58			
+2016-10-28	MTBLS396	HPLC-QTOF-MS;UPLC-QTOF-MS/MS;HPLC-LTQ-MS;UPLC-LTQ-MS	Mus musculus	2017-11-07	Public	Juergen Hartler		M	Reza	Done					Full	2017-11-29	MTBLS396 - 20171124_LEG	Passes			1			Full		23,720.40	12,606,582	58			
+2016-10-30	MTBLS397	UPLC-LTQ-MS	Mus musculus;reference compound	2017-11-07	Public	Juergen Hartler		M	Reza	Done					Full	2017-11-29	MTBLS397 - 20171124_LEG	Passes			1			Full		4,373.19	12,610,955	58			
+2016-10-31	MTBLS398	HPLC-LTQ-MS;UPLC-LTQ-MS;UPLC-QTOF-MS/MS	reference compound	2017-11-07	Public	Juergen Hartler		M	Reza	Done					Full	2017-11-29	MTBLS398 - 20171124_LEG	Passes			1			Full		14,609.32	12,625,564	59			
+2016-11-01	MTBLS399	NMR	Radix	2018-01-25	Public	Yujiao Hua		F	Mark	Done	Yes - Full		Pubmed link		Full	2018-01-25	MTBLS399 - 20171130_LEG	Passes			1					6.77	12,625,571	59			
+2016-11-02	MTBLS400	MAS-NMR	Mus musculus	2018-01-31	Public	Mikheil Gogiashvili			Mark	Done	Yes - No data		Pubmed link		Full	2018-01-31	MTBLS400 - 20180130_LEG	Passes			1					71.65	12,625,642	59			
+2016-11-03	MTBLS401	HPLC-LTQ-MS	Homo sapiens	2017-08-23	Public	Stephanie Herman			Mark	Done	No		DOI		Full	2017-08-23	MTBLS401 - 20161207_LEG	Passes		1	1			Full		293,713.89	12,919,356	59			
+2016-11-04	MTBLS402	UPLC-LTQ-MS	Homo sapiens	2018-10-30	In Review	Zeng Vera		ML	Mark	Done	No		DOI		Full	2018-01-31	MTBLS402 - 20180131_LEG	Passes			1					2,540.45	12,921,897	59			
+2016-11-08	MTBLS403	UPLC-QTOF-MS	Camellia sinensis	2017-03-23	Public	Weidong Dai			Keeva	Done	Yes - Full		DOI		Full	2018-01-31	MTBLS403 - 20180131_LEG	Passes			1					97.73	12,921,995	59			
+2016-11-14	MTBLS404	UPLC-LTQ-MS	Homo sapiens	2017-01-20	Public	Etienne Thevenot			Keeva	Done	Yes - Full		Pubmed link		Full	2018-02-01	MTBLS404 - 20180131_LEG	Passes		1	1					34,101.54	12,956,096	59			
+2016-11-14	MTBLS405	HPLC-TQ-MS/MS	Homo sapiens	2018-11-14	In Review	Jiefei Tong		L	Mark	Done	Yes - Full				Full	2018-02-07	MTBLS405 - 20180201_LEG	Passes	In contact		1					882.59	12,956,979	59			
+2019-01-08	MTBLS406			2020-01-08	Submitted	Metabolon Submission, Placeholder Placeholder			Xuefei		Yes - Partial				Metadata Only	2019-01-08	MTBLS406 - 20161117								data from a company same with MTBLS409	0.01	12,956,979	85			
+2019-01-11	MTBLS407			2019-01-11	Submitted	Placeholder Placeholder			Xuefei		Yes - Partial				Metadata Only	2019-02-11	MTBLS407 - 20161121								data from a company same with MTBLS410	0.01	12,956,979	85			
+2016-11-18	MTBLS408	UPLC-QTOF-MS	Homo sapiens	2017-08-22	Public	Zeng Vera			Keeva	Done	Yes - No data		Pubmed link		Full	2018-03-06	MTBLS408 - 20180306_LEG	Passes	In contact		1					215,246.77	13,172,225	59			
+2016-11-19	MTBLS409	UPLC-QTOF-MS/MS	Lysiphlebia japonica	2019-01-12	In Review	Xueke Gao		L	Mark	Done	Yes - Full				Full	2018-10-11	MTBLS409 - 20180306_LEG	Passes								7,757.90	13,179,983	59			
+2016-11-19	MTBLS410	UPLC-QTOF-MS	Aphis gossypii	2018-03-07	Public	Xueke Gao			Xuefei	Done	Yes - Partial		Pubmed link		Full	2018-03-07	MTBLS410 - 20180306_LEG	Passes			1				paper added	7,890.10	13,187,873	59			
+2016-11-21	MTBLS411	GC-TOF-MS	Bos taurus	2018-03-16	Public	Huizeng Sun			Mark	Done	Yes - No data		Pubmed link		Full	2018-03-16	MTBLS411 - 20180306_LEG	Passes			1					9.79	13,187,883	59			
+2016-11-22	MTBLS412	GC-Q-MS	Homo sapiens	2017-12-18	Public	Philippe Rocca-Serra		L	Mark	Done	Yes - No data				Full	2018-03-16	MTBLS412 - 20171102_LEG	Passes	In contact	1	1					61.36	13,187,945	59			
+2016-11-24	MTBLS413	UPLC-LTQ-MS	Standard;solvent;Homo sapiens	2018-01-24	Public	Stefan Weidt		M	Xuefei	Done	Yes - Full		Pubmed link		Full	2018-01-24	MTBLS413 - 20180117	Passes	In contact		1				~200 metabolites still need CHEBI IDs assigning	22,122.67	13,210,067	59			
+2016-11-29	MTBLS414	UPLC-QTOF-MS	Homo sapiens	2016-12-20	Public	Mogens Johannsen			Mark	Done	Yes - Full		Pubmed link		Full	2018-03-16	MTBLS414 - 20161220	Passes			1			Full		24,387.42	13,234,455	59			
+2016-11-29	MTBLS415	3D DESI imaging MS	Homo sapiens	2017-03-21	Public	James S McKenzie			Keeva	Done	Yes - No data		DOI		Full	2017-03-22	MTBLS415 - 20170316	Passes	In contact		1				No metabolites identified in study	12,442.78	13,246,897	59			
+2016-12-01	MTBLS416	Insufficient data supplied		2017-05-11	Dormant	Yuan Song										2016-12-03										0.66	13,246,898	60			
+2016-12-10	MTBLS417	UPLC-QTOF-MS/MS		2018-03-26	Public	Hyungwon Choi		M	Mark	Done	Yes - No data		Pubmed link		Full	2018-03-26	MTBLS417 - 20180306_LEG	Passes			1					10,370.56	13,257,269	60			
+2016-12-12	MTBLS418	UPLC-QTOF-MS	Mus musculus	2018-04-16	Public	mengnan huang			Xuefei	Done	Yes - No data		Pubmed link		Full	2018-04-16	MTBLS418 - 20180413_LEG	Passes	Awaiting		1					19,716.70	13,276,985	60			
+2016-12-28	MTBLS419	NMR	Homo sapiens	2017-03-02	Public	veronica ghini			Keeva	Done	Yes - Partial		Pubmed link		Full	2018-04-17	MTBLS419 - 20180416_LEG	Passes	Awaiting		1			Full		88.86	13,277,074	60			
+2017-01-09	MTBLS420	GC-QIT-MS	Homo sapiens	2018-04-19	Public	Kambiz Gilany		M	Mark	Done	Yes - No data		Pubmed link		Full	2018-04-19	MTBLS420 - 20180417_LEG	Passes			1					618.88	13,277,693	61			
+2017-01-17	MTBLS421	NMR	Homo sapiens	2017-02-20	Submitted	Anna Maria D'Ursi, Angelica Palisi		RPLAM					Thesis	elea.unisa.it/jspui/bitstream/10556/2565/1/tesi%20A.%20Palisi.pdf		2017-01-17										0.04	13,277,693	61			
+2017-01-19	MTBLS422	NMR	Mus musculus	2017-03-03	Public	Tokuwa Kanno			Keeva	Done	Yes - Full		DOI		Full	2018-04-23	MTBLS422 - 20180423_LEG	Passes	In contact		1					39.19	13,277,732	61			
+2017-01-20	MTBLS423	UPLC-QTOF-MS	Homo sapiens	2018-02-09	Public	Sara Samino			Keeva	Done	Yes - Full		Pubmed link		Full	2018-04-24	MTBLS423 - 20180423_LEG	Passes	In contact		1					2,324.68	13,280,057	61			
+2017-01-23	MTBLS424	NMR	Homo sapiens	2017-03-02	Public	veronica ghini			Keeva	Done	Yes - Full		Pubmed link		Full	2018-04-24	MTBLS424 - 20180424_LEG	Passes	Awaiting		1			Full		533.90	13,280,591	61			
+2017-01-25	MTBLS425	NMR	Homo sapiens	2018-04-24	Public	Vijesh Bhute			Keeva	Done	Yes - Full		Pubmed link		Full	2018-04-24	MTBLS425 - 20180424_LEG	Passes	In contact		1			Pending		74.82	13,280,666	61			
+2017-01-25	MTBLS426	UPLC-LTQ-MS/MS	Papio hamadryas	2018-04-30	Public	Tom Metz			Mark	Done	Yes - Full		Pubmed link		Full	2018-04-30	MTBLS426 - 20180430_LEG	Passes			1			Full		1,612.98	13,282,279	61			
+2017-01-31	MTBLS427	SPE-IMS-MS	Homo sapiens	2017-02-14	Public	Tom Metz			Mark	Done	No		Pubmed link		Full	2018-05-01	MTBLS427 - 20180501_LEG	Passes			1			Full		13,962.41	13,296,241	62			
+2017-02-06	MTBLS428	LC-LTQ-MS/MS	sea water;reference compound	2017-05-23	Public	Krista Longnecker		L	Mark	Done	Yes - Full				Full	2017-05-23	MTBLS428 - 20170518_LEG	Passes			1					55.50	13,296,297	62			
+2017-02-09	MTBLS429	UPLC-TQ-MS/MS	Jacobaea	2018-05-01	Public	Patrick Mulder			Keeva	Done	Yes - Full		DOI		Full	2018-05-01	MTBLS429 - 20180501_LEG	Passes	In contact		1				ISAcreator won't currently recognise DOI (8.3.2017) DOI: 10.1007/s11306-017-1184-0	19.54	13,296,316	62			
+2017-02-14	MTBLS430	NMR	Homo sapiens	2018-05-03	Public	Yili Hu			Mark	Done	Yes - Full		DOI		Full	2018-05-08	MTBLS430 - 20180502_LEG	Passes			1					134.07	13,296,450	62			
+2017-02-20	MTBLS431	NMR	Pseudomonas	2018-05-03	Public	xia zhao			Mark	Done	Yes - Full		Pubmed link		Full	2018-05-03	MTBLS431 - 20180502_LEG	Passes			1					4.86	13,296,455	62			
+2017-02-20	MTBLS432	UPLC-IT-TOF-MS/MS	Mus musculus	2017-07-14	Public	Maria Glymenaki			Mark	Done	Yes - Full		Pubmed link		Full	2018-05-03	MTBLS432 - 20170822_LEG	Passes			1			Full		1,675.16	13,298,130	62			
+2017-02-21	MTBLS433	UPLC-QTOF-MS/MS	Olea europaea	2017-05-04	Public	Natasa Kalogiouri, Steffen Neumann			Keeva	Done	Yes - Full		Pubmed link		Full	2018-05-03	MTBLS433 - 20180503_LEG	Passes	Awaiting	1	1				MAF file gave m/x & retention time with no metabolites identified - used supplementary data to assign some metabolites.	204.41	13,298,335	62			
+2017-02-23	MTBLS434	UPLC-TQ-MS/MS	Saccharomyces cerevisiae	2018-05-25	Public	Michael Muelleder			Mark	Done	Yes - Full		Pubmed link	27693354	Full	2018-05-25	MTBLS434 - 20180523_LEG	Passes	In contact		1				Contacted submitter. Awaiting reply.	1,663.11	13,299,998	62			
+2017-03-02	MTBLS435	UPLC-QTOF-MS	Macleaya cordata	2017-04-24	Public	Xiubin Liu			Xuefei	Done	Yes - Full		Pubmed link		Full	2018-05-04	MTBLS435 - 20180503_LEG	Passes			1				Same study with MTBLS439	10,676.31	13,310,674	63			
+2017-03-10	MTBLS436	HPLC-LTQ-MS	Bos taurus	2018-05-08	Public	Roberto Stella			Mark	Done	Yes - No data		DOI		Full	2018-05-08	MTBLS436 - 20180504_LEG	Passes			1					90,919.76	13,401,594	63			
+2017-03-13	MTBLS437	GC-QTOF-MS	Oryza sativa	2017-08-30	Public	Takumi Ogawa			Xuefei	Done	Yes - Full		Pubmed link	28701756	Full	2018-06-19	MTBLS437 - 20180618_LEG	Passes	In contact		1				MAF contains multiple replicate of metabolites with different retention time, no paper	934.94	13,402,529	63			
+2017-03-20	MTBLS438	UPLC-QTOF-MS	Mus musculus	2017-05-25	Submitted	Xiaoqing Chen		R	Mark				Pubmed link	28720125		2017-03-20										0.05	13,402,529	63			
+2017-03-22	MTBLS439	UPLC-QTOF-MS	Macleaya cordata	2017-03-29	Dormant	Liu xiubin			Xuefei	Medium	No		No		Full	2017-03-28			In contact						Same study with MTBLS435	5,354.42	13,407,883	63			
+2018-07-13	MTBLS440		Macleaya cordata	2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1																				13,407,883				
+2017-03-31	MTBLS441	UPLC-QTOF-MS	Arabidopsis thaliana	2017-08-25	Public	Steffen Neumann			Mark	Done	Yes - Partial		Pubmed link		Full	2017-08-25	MTBLS441 - 20170825_LEG	Passes	In contact		1					13,516.59	13,421,400	64			
+2018-07-13	MTBLS442			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	13,421,400	79			
+2017-04-05	MTBLS443	HPLC-LTQ-MS	Leishmania infantum;Leishmania mexicana species complex	2018-09-06	Submitted	Shawgi Almugadam		RL								2018-08-30										0.08	13,421,400	64			
+2017-04-07	MTBLS444	NMR	Homo sapiens;	2018-06-20	Public	Vadim Yanshole			Reza	Done	Yes - Full		DOI	10.1007/s11306-017-1281-0	Full	2018-06-20	MTBLS444 - 20180620_LEG	Passes			1					37.57	13,421,438	64			
+2017-04-10	MTBLS445	UPLC-LTQ-MS	Espeletia	2018-11-20	Public	Guillermo Padilla-Gonzalez			Mark	Done	Yes - Full		Pubmed link	28821838	Full	2018-11-20	MTBLS445 - 20180620_LEG	Passes			1				Organism => Espeletia; Create Variamt column.	10,597.32	13,432,035	64			
+2017-04-13	MTBLS446	Insufficient data supplied		2017-06-16	Dormant	Thomas simmons										2017-04-13										3,704.45	13,435,740	64			
+2017-04-18	MTBLS447	GC-TOF-MS	Solanum lycopersicum	2018-06-29	Public	Rameshwar Sharma			Mark	Done	Yes - No data		Pubmed link	28481937	Full	2018-06-29	MTBLS447 - 20180627_LEG	Passes			1					698.18	13,436,438	64			
+2017-04-19	MTBLS448	GC-TOF-MS	Oryza sativa	2017-12-01	Submitted	Yin Wang		RLP	Mark				DOI	10.1021/acs.jafc.7b00105		2017-04-19										0.82	13,436,439	64			
+2017-04-19	MTBLS449	UPLC-QTOF-MS		2018-06-06	Public	Michael van Vliet			Mark	Done	Yes - Full		Pubmed link	28633455	Full	2018-06-06	MTBLS449 - 20180601_LEG	Passes	In contact		1					88,630.61	13,525,069	64			
+2017-04-20	MTBLS450	UPLC-TQ-MS	Arabidopsis thaliana	2018-01-30	Public	Ilka N Abreu		M	Mark	Done	Yes - Full		Pubmed link		Full	2018-01-30	MTBLS450 - 20180125	Passes			1				Some of the indeciferable metabolites MGDG etc have been assigned unknown.	258.98	13,525,328	64			
+2017-04-20	MTBLS451	LC-LTQ-MS/MS	Japanese sake	2018-06-29	Public	Wataru Aoki			Keeva	Done	Yes - No data		Pubmed link	29298316	Full	2018-06-29	MTBLS451 - 20180629_LEG	Passes			1					19,854.94	13,545,183	64			
+2017-04-25	MTBLS452	UPLC-LTQ-MS/MS	Trypanosoma brucei;reference compound	2018-02-12	Public	Isabel Vincent			Mark	Done	Yes - No data		Pubmed link		Full	2018-02-12	MTBLS452 - 20180212	Passes			1					20,424.66	13,565,608	64			
+2017-05-02	MTBLS453	NMR	Rattus norvegicus	2018-09-30	In Review	Mariya Krestina		L	Mark	Done	Yes - No data				Full	2018-06-29	MTBLS453 - 20180629_LEG	Passes			1					135.43	13,565,743	65			
+2017-05-07	MTBLS454	HPLC-QTOF-MS/MS	Escherichia coli	2017-07-18	Public	Nick Harris			Keeva							2018-07-12										0.62	13,565,744	65			
+2017-05-08	MTBLS455	NMR	Homo sapiens	2018-06-11	Public	Marie Margaret Phelan			Mark	Done	Yes - Full		Pubmed link	29142509	Full	2018-06-11	MTBLS455 - 20180608_LEG	Passes			1					50.25	13,565,794	65			
+2017-05-08	MTBLS456	UPLC-QTOF-MS	Bos taurus	2018-07-13	Public	Darren Gray			Mark	Done	Yes - No data		Pubmed link	29621258	Full	2018-07-13	MTBLS456 - 20180712_LEG	Passes			1					76,637.73	13,642,432	65			
+2017-05-09	MTBLS457	GC-Q-MS	endometabolome	2018-01-09	Public	Joel Gummer		L	Mark	Done	Yes - No data		Pubmed link	29509187	Full	2018-01-09	MTBLS457 - 20170818_LEG	Passes	In contact		1					8,376.36	13,650,808	65			
+2017-05-16	MTBLS458	CE-TOF-MS	Homo sapiens	2017-07-15	Submitted	Yoshinori Ito		LPR	Mark				DOI	10.1007/s11306-017-1268-x		2017-05-16										0.18	13,650,808	65			
+2017-05-16	MTBLS459	UPLC-LTQ-MS/MS	Trypanosoma brucei	2017-06-07	Public	Isabel Vincent			Mark	Done	Yes - No data		Pubmed link		Full	2017-06-07	MTBLS459 - 20170522_LEG	Passes	In contact		1					170,204.96	13,821,013	65			
+2017-05-16	MTBLS460	UPLC-QTOF-MS/MS	Brassica oleracea var. italica	2018-02-26	In Review	Maria Tortosa			Mark	Done	Yes - Full				Full	2018-02-21	MTBLS460 - 20180221_LEG	Passes	In contact		1					6,795.36	13,827,809	65			
+2017-05-16	MTBLS461	LC-FT-ICR-MS;LC-LTQ-FT-MS/MS;LC-TQ-MS	sea water	2017-05-23	Public	Krista Longnecker		L	Mark	Done	Yes - Full				Full	2017-05-23	MTBLS461 - 20170518_LEG	Passes	In contact		1					3,113.12	13,830,922	65			
+2017-05-18	MTBLS462	UPLC-LTQ-MS/MS	Mus musculus;reference compound	2017-11-07	Public	Juergen Hartler		M	Reza	Done	Yes - Full		Pubmed link		Full	2017-11-29	MTBLS462 - 20171124_LEG	Passes	In contact		1					6,152.93	13,837,075	65			
+2017-05-19	MTBLS463	NMR	Pseudomonas fluorescens	2018-09-01	In Review	Marie Margaret Phelan		L	Mark	Done	Yes - Full				Full	2018-06-12	MTBLS463 - 20180612_LEG	Passes	In contact		1					24.28	13,837,099	65			
+2017-05-23	MTBLS464	UPLC-LTQ-MS/MS	Escherichia coli	2017-06-16	Public	Isabel Vincent			Mark	Done	Yes - No data		Pubmed link		Full	2017-06-16	MTBLS464 - 20170614	Passes	In contact		1					112,209.93	13,949,309	65			
+2017-05-24	MTBLS465	UPLC-QTOF-MS	Homo sapiens	2018-07-25	Public	Manuja Kaluarachchi			Xuefei	Done	Yes - No data		DOI	10.1007/s11306-018-1332-1	Full	2018-07-25	MTBLS465-20180725_LEG	Passes	In contact		1					74,522.54	14,023,832	65			
+2017-05-26	MTBLS466	ISACreator itself submitted		2017-06-02		bertrand rochat										2017-05-26										0.02	14,023,832	65			
+2018-07-13	MTBLS467			2019-07-13	Submitted	Metabolon Submission, Placeholder Placeholder	1									2018-07-13										0.43	14,023,832	79			
+2018-07-25	MTBLS468		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	14,023,832	79			
+2017-05-29	MTBLS469	HPLC-LTQ-MS	Homo sapiens	2018-05-29	Submitted	Maria Ulaszewska		ML	Mark	Complete					Full	2017-06-13	MTBLS469 - 20170612	Passes	In contact						Waiting for metabolites to be picked and a MAF deposited.	3,996.27	14,027,828	65			
+2017-05-30	MTBLS470	UPLC-QTOF-MS	Homo sapiens	2018-07-25	Public	Manuja Kaluarachchi			Xuefei	Done	Yes - No data		DOI	10.1007/s11306-018-1332-1	Full	2018-07-25	MTBLS470-20180725_LEG	Passes	In contact		1					66.45	14,027,895	65			
+2017-06-01	MTBLS471	UPLC-LTQ-MS/MS	Acromyrmex octospinosus	2018-07-26	Public	Kellen DeLaney			Mark	Done	Yes - No data		DOI	10.1021/acschembio.7b00038	Full	2018-07-26	MTBLS471-20180725_LEG	Passes			1					13,793.62	14,041,688	66			
+2017-06-01	MTBLS472	UPLC-QTOF-MS	Mus musculus	2017-06-23	Public	Lynn Teesch			Mark	Done	No		Pubmed link		Full	2017-06-23	MTBLS472 - 20170621	Passes	In contact		1					8,849.33	14,050,538	66			
+2017-06-08	MTBLS473	HPLC-LTQ-MS	Homo sapiens	2018-10-11	Public	Maria Ulaszewska		M	Mark	Done	Yes - No data				Full	2018-10-11	MTBLS473-20180726	Passes	In contact		1				Waiting for metabolites to be picked and a MAF deposited. Only some metabolites have been assigned CHEBI IDs. Finish off in the future.	51,996.12	14,102,534	66			
+2017-06-09	MTBLS474	Insufficient data supplied		2017-06-16	Dormant	Onur Turkoglu										2017-06-09										0.56	14,102,534	66			
+2017-06-12	MTBLS475	UPLC-QTOF-MS/MS;NMR	Homo sapiens	2019-02-08	Submitted	Jun Liu		MFR	Mark	Done	Yes - Full		Pubmed link	28804275		2018-02-08	MTBLS475 - 20170901_LEG	Passes	In contact							26.71	14,102,561	66			
+2017-06-14	MTBLS476	LC-LTQ-MS	Homo sapiens	2017-06-30	Submitted	bertrand rochat		ML	Mark							2017-06-14										147,598.78	14,250,160	66			
+2018-07-25	MTBLS477		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	14,250,160	79			
+2017-06-16	MTBLS478	UPLC-QTOF-MS/MS	Populus tremula x Populus tremuloides	2018-01-08	Public	Ilka N Abreu			Mark	Done	Yes - Full		Pubmed link		Full	2018-01-08	MTBLS478 - 20180108	Passes	In contact		1					13,503.43	14,263,663	66			
+2017-06-19	MTBLS479	UPLC-LTQ-MS/MS	Salix	2017-12-14	Public	Eva-Maria Pferschy-Wenzig			Mark	Done	Yes - No data		Pubmed link	29326584	Full	2017-12-14	MTBLS479 - 20170619	Passes	In contact		1					30,706.43	14,294,370	66			
+2017-06-19	MTBLS480	GC-Q-MS	Mus musculus	2018-06-19	Submitted	Manuel Schlimpert		ML								2017-06-19										93.01	14,294,463	66			
+2017-06-22	MTBLS481	GC-TOF-MS	Rhizobium	2018-07-27	Public	Hua Cai			Mark	Done	Yes - No data		Pubmed link	28744296	Full	2018-07-27	MTBLS481-20180727	Passes			1					837.47	14,295,300	66			
+2017-06-26	MTBLS482	In vivo MRS	Rattus norvegicus	2018-07-27	Public	Oleg Shevelev			Mark	Done	Yes - Full		Pubmed link	28678857	Full	2018-07-27	MTBLS482 - 20170629	Passes	In contact		1					2.44	14,295,303	66			
+2017-06-27	MTBLS483	UPLC-QTOF-MS	Rattus norvegicus	2018-07-31	Public	Zhixu Ni		M	Mark	Done	Yes - No data		DOI	10.1021/acs.analchem.7b01126	Full	2018-07-31	MTBLS483-20180730_LEG	Passes			1					3,591.48	14,298,894	66			
+2017-06-29	MTBLS484	UPLC-QTOF-MS	Nepenthes ampullaria;Nepenthes rafflesiana;Nepenthes x hookeriana	2018-07-31	Public	HOE HAN GOH			Mark	Done	Yes - Full		Pubmed link	28795107	Full	2018-07-31	MTBLS484-20180731_LEG	Passes			1					1,043.61	14,299,938	66			
+2017-07-04	MTBLS485	Insufficient data supplied		2018-07-01	Submitted	Jiuliang Xu										2017-07-04										0.08	14,299,938	67			
+2017-07-05	MTBLS486	Insufficient data supplied	soybean	2017-10-01	Submitted	Jiuliang Xu										2017-07-05										0.07	14,299,938	67			
+2017-07-06	MTBLS487	3D MALDI imaging MS	Mus musculus	2017-08-31	Public	Zoe Hall			Xuefei	Done	No		Pubmed link	28989334	Full	2017-07-06	MTBLS487 - 20170831	Passes	In contact		1				No metabolites indentified for this study. Software package development	209.73	14,300,148	67			
+2017-07-13	MTBLS488	UPLC-LTQ-MS	Bos taurus	2018-01-23	Public	Beata Pomian			Keeva	Done	Yes - No data		Pubmed link		Full	2018-07-31	MTBLS488-20180731_LEG				1					153,162.31	14,453,310	67			
+2018-07-25	MTBLS489		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	14,453,310	79			
+2018-07-25	MTBLS490		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25									Duplicate of MTBLS528 - DELETE	0.02	14,453,310	79			
+2017-07-19	MTBLS491	LC-LTQ-MS	Leishmania mexicana	2017-09-01	Submitted	Julie Kovarova		PMLR					Pubmed link	29554142		2017-07-19										63.73	14,453,374	67			
+2017-07-20	MTBLS492	UPLC-QTOF-MS/MS;UPLC-LTQ-MS/MS	mixed community	2018-07-31	Public	Tami Swenson			Mark	Done	Yes - No data		Pubmed link	29296020	Full	2018-07-31	MTBLS492-20180731_LEG	Passes			1					25,043.24	14,478,417	67			
+2017-07-24	MTBLS493	UPLC-QTOF-MS	Cricetulus griseus	2018-07-17	Public	Hock Chuan Yeo			Mark	Done	No		DOI	10.1007/s11306-018-1394-0	Full	2018-07-17	MTBLS493 - 20170726	Passes	In contact		1					9,533.07	14,487,950	67			
+2017-07-25	MTBLS494	UPLC-QTOF-MS	Platycodon grandiflorum	2018-08-02	Public	Jinping Liu		M	Mark	Done	Yes - Full		Pubmed link	28769024	Full	2018-08-02	MTBLS494-20180731_LEG	Passes			1					2,626.61	14,490,577	67			
+2017-07-30	MTBLS495	UPLC-QTOF-MS/MS	Mus musculus	2018-08-03	Public	jia tu		M	Mark	Done	Yes - Full		DOI	10.1007/s11306-017-1304-x	Full	2018-08-03	MTBLS495-20180802_LEG	Passes			1				See also MTBLS562 for +ve assay.	182.41	14,490,759	67			
+2017-07-31	MTBLS496	UPLC-QTOF-MS	Campylobacter jejuni subsp. jejuni NCTC 11168	2018-08-07	Public	qin fu			Mark	Done	Yes - No data		Pubmed link	29453015	Full	2018-08-07	MTBLS496-20180802_LEG	Passes			1					4,393.66	14,495,153	68			
+2017-08-01	MTBLS497	TD-GC-TOF-MS	Sorbent blank;Pseudomonas aeruginosa;Klebsiella pneumoniae;Staphylococcus aureus;Nutrient broth;Escherichia coli;Artificial sputum medium	2018-08-08	Public	Oluwasola Lawal			Mark	Done	Yes - No data		Pubmed link	28947683	Full	2018-08-08	MTBLS497-20180802_LEG	Passes			1					1,588.61	14,496,741	68			
+2017-08-04	MTBLS498		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,496,741	68			
+2017-08-04	MTBLS499		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,496,741	68			
+2017-08-04	MTBLS500		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										3,553.11	14,500,294	68			
+2017-08-04	MTBLS501		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										175.82	14,500,470	68			
+2017-08-04	MTBLS502		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										1,202.11	14,501,672	68			
+2017-08-04	MTBLS503		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										2,515.66	14,504,188	68			
+2017-08-04	MTBLS504		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										993.68	14,505,182	68			
+2017-08-04	MTBLS505		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS506		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS507		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS508		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS509		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS510		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS511		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS512		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS513		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS514		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-04	MTBLS515		Homo sapiens	2017-12-31	Submitted	Metaspace Project	1									2017-08-04										0.02	14,505,182	68			
+2017-08-08	MTBLS516	NMR	Rattus rattus	2019-02-01	In Review	Vijesh Bhute		L	Mark	Done	Yes - Partial				Full	2019-02-01	MTBLS516-20180810_LEG	Passes			1					192.96	14,505,375	68			
+2017-08-25	MTBLS517	HPLC-LTQ-MS	Macaca mulatta;Plasmodium cynomolgi	2017-12-01	Public	Jessica Kissinger			Keeva	Done	Yes - Partial				Full	2019-03-08	MTBLS517 - 20171106	Passes	In contact						In contact with Mustafa - MAF needs updated when can auto add ChEBI entries	654,301.95	15,159,677	68			
+2017-08-08	MTBLS518	HPLC-LTQ-MS	Homo sapiens;Macaca mulatta;Plasmodium cynomolgi	2017-09-25	Public	Jessica Kissinger			Keeva	Done	Yes - Partial				Full	2019-03-08	MTBLS518 - 20171128	Passes	In contact						In contact with Mustafa - MAF needs updated when can auto add ChEBI entries	710,022.52	15,869,699	68			
+2017-08-08	MTBLS519	GC-Q-MS	Kalanchoe fedtschenkoi	2018-01-09	Public	Nancy Engle			Xuefei	Done	Yes - Full		Pubmed link		Full	2018-01-09	MTBLS519 - 20180109	Passes	In contact		1					202.29	15,869,902	68			
+2017-08-09	MTBLS520	UPLC-QTOF-MS	Rhytidiadelphus squarrosus;Marchantia polymorpha s. l.;Calliergonella cuspidata;Calliergonella cuspidata;Fissidens taxifolius;Polytrichum strictum;Brachythecium rutabulum;Grimmia pulvinata;Plagiomnium undulatum	2018-06-18	Public	Kristian Peters		L	Keeva	Done	Yes - Partial		DOI	10.1002/ece3.4361	Full	2018-08-10					1					20,669.30	15,890,571	68			
+2017-08-11	MTBLS521	UPLC-QTOF-MS	Gossypium hirsutum	2018-08-10	Submitted	Hui Lu		RL								2017-08-11										0.07	15,890,571	68			
+2017-08-11	MTBLS522	GC-TQ-MS	Rattus norvegicus	2018-10-11	Public	Rossarin Tansawat			Mark	Done	Yes - Full				Full	2018-10-11	MTBLS522-20180810_LEG	Passes			1					2,309.43	15,892,880	68			
+2017-08-11	MTBLS523	HPLC-LTQ-MS	Heligmosomoides polygyrus	2018-08-13	Public	James MacRae			Mark	Done	Yes - No data		Pubmed link	29024642	Full	2018-08-13	MTBLS523-20180813_LEG	Passes			1					4,643.17	15,897,524	68			
+2017-08-11	MTBLS524	NMR	Homo sapiens	2018-08-14	Public	Mohamed Nawfal Triba			Mark	Done	Yes - No data		Pubmed link	28837579	Full	2018-08-14	MTBLS524-20180813_LEG	Passes			1					54.03	15,897,578	68			
+2017-08-13	MTBLS525	UPLC-QTOF-MS/MS	Burkholderia thailandensis;Chromobacterium violaceum;Pseudomonas syringae	2017-10-26	Public	John Chodkowski		L	Mark	Done	Yes - Full		Pubmed link	29152587	Full	2017-10-26	MTBLS525 - 20170929	Passes	In contact		1					22,260.31	15,919,838	68			
+2017-08-14	MTBLS526	GC-Q-MS	Lemna paucicostata	2018-09-11	Public	Hyung-Kyoon Choi			Mark	Done	Yes - Full		Pubmed link	29099862	Full	2018-09-11	MTBLS526-20180910_LEG	Passes			1					446.33	15,920,284	68			
+2017-08-17	MTBLS527	GC-TOF-MS;UPLC-QTOF-MS	Mus musculus	2018-09-14	Public	Eun Sung Jung			Mark	Done	Yes - Partial		Pubmed link	29117187	Full	2018-09-14	MTBLS527-20180911_LEG				1					2,901.08	15,923,185	68			
+2017-08-21	MTBLS528	HPLC-LTQ-MS	Arabidopsis thaliana	2018-04-03	Public	Takayuki Tohge			Mark	Done	Yes - Full		Pubmed link	29611844	Full	2018-04-03	MTBLS528 - 20180328	Passes	In contact		1					35,225.43	15,958,411	68			
+2017-08-25	MTBLS529	HPLC-LTQ-MS	Lolium perenne	2019-03-01	Public	Arvind Subbaraj	1	L	Mark	Done	No				Full	2019-03-01	MTBLS529-20190218	Passes	In contact		1					830,064.61	16,788,475	68			
+2017-08-28	MTBLS530	LC-TOF-MS	Mus musculus	2017-09-05	Public	Tal Nuriel			Mark	Done	Yes - Full		Pubmed link	29133888	Full	2017-10-09	MTBLS530 - 20170831	Passes	In contact		1					997.51	16,789,473	68			
+2017-08-29	MTBLS531	HPLC-QTOF-MS/MS	Glycine max	2018-09-20	Public	Sun Tae Kim			Mark	Done	Yes - Full		Pubmed link	29457974	Full	2018-09-20	MTBLS531-20180917_LEG	Passes			1					1,316.82	16,790,790	68			
+2017-09-01	MTBLS532	GC-Q-MS	Eisenia fetida	2018-09-17	Public	Joseph Gillis			Mark	Done	Yes - No data		Thesis	https://www.researchgate.net/profile/Dan_Gillis/publication/326044413_Assessment_of_emerging_organic_contaminant_toxicity_to_the_earthworm_Eisenia_fetida_using_GC-MS_metabolomics/links/5b35192ca6fdcc8506db522c/Assessment-of-emerging-organic-contaminant-toxicity-to-the-earthworm-Eisenia-fetida-using-GC-MS-metabolomics.pdf	Full	2018-09-17	MTBLS532-20180917_LEG	Passes			1					4,192.52	16,794,982	69			
+2017-09-05	MTBLS533	LC-LTQ-MS	Homo sapiens	2017-11-01	Submitted	Fabao Liu		PR - Metabolon					Pubmed link	29058718		2017-10-25										2.30	16,794,985	69			
+2017-09-07	MTBLS534	Insufficient data supplied		2018-09-07	Submitted	xiaoshi wei										2017-09-07										45.59	16,795,030	69			
+2017-09-09	MTBLS535	GC-Q-MS;HPLC-QTOF-MS	Mycoplasma bovis;Mycoplasma gallisepticum	2017-10-10	Public	Yumiko Masukagami		L	Mark	Done	Yes - No data		Pubmed link	29034329	Full	2017-10-10	MTBLS535 - 20171010	Passes	In contact		1					410.43	16,795,441	69			
+2017-09-11	MTBLS536	HPLC-LTQ-MS	Homo sapiens;Macaca mulatta;Plasmodium coatneyi	2017-10-22	Public	Jessica Kissinger			Keeva							2019-03-11										23,152.46	16,818,593	69			
+2017-09-12	MTBLS537	GC-TOF-MS	Gallus gallus	2018-09-12	Submitted	Takumi Ogawa		PLTD								2017-09-12										299.16	16,818,892	69			
+2017-09-13	MTBLS538	GC-Q-MS	Acropora aspera;Symbiodinium sp. ex Acropora aspera	2018-12-04	Public	Katie Hillyer			Mark	Done	Yes - No data		DOI	10.1007/s11306-017-1306-8	Full	2018-12-04	MTBLS538-20180921_LEG	Passes	In contact		1					1,887.07	16,820,779	69			
+2017-09-13	MTBLS539	UPLC-QTOF-MS/MS;NMR;MAS-NMR	C57BL/6J	2018-09-27	Public	Jueun Lee			Mark	Done	Yes - No data		Pubmed link	29051579	Full	2018-09-27	MTBLS539-20180920_LEG	Passes			1					6,159.63	16,826,939	69			
+2017-09-13	MTBLS540	NMR	Homo sapiens	2018-07-23	Public	Andrea Rodriguez			Mark	Done	Yes - No data		Pubmed link	28937204	Full	2018-07-23	MTBLS540-20180720_LEG	Passes	In contact		1					10,390.07	16,837,329	69			
+2017-09-23	MTBLS541	NMR	Homo sapiens	2018-08-13	Public	Marie Margaret Phelan		L	Mark	Done	Yes - Full				Full	2018-08-13	MTBLS541-20180720_LEG	Passes	In contact		1					86.67	16,837,416	69			
+2017-09-26	MTBLS542	HPLC-LTQ-MS	Homo sapiens;Macaca mulatta;Plasmodium coatneyi	2017-12-11	Public	Jessica Kissinger			Keeva							2019-03-08										380,564.76	17,217,980	69			
+2017-09-29	MTBLS543	NMR	Equus caballus	2018-07-20	Public	Marie Margaret Phelan			Mark	Done	Yes - Full		DOI	10.1021/acs.jproteome.8b00190	Full	2018-07-20	MTBLS543 - 20180720_LEG		In contact		1					16.70	17,217,997	69			
+2017-09-29	MTBLS544	LC-QTOF-MS	Leucanthemum vulgare;Knautia arvensis;Centaurea jacea;Plantago lanceolata	2019-05-11	Submitted	Christian Ristok, Steffen Neumann										2018-05-23										11.23	17,218,008	69			
+2017-10-03	MTBLS545	GC-TOF-MS	Mus musculus	2017-11-23	Public	Xiaojiao Zheng		L	Mark	Done	Yes - Full		Pubmed link	29241453	Full	2017-11-23	MTBLS545 - 20171120_LEG	Passes	In contact		1					363.47	17,218,372	70			
+2017-10-03	MTBLS546	GC-TOF-MS	Mus musculus	2017-11-23	Public	Xiaojiao Zheng		L	Mark	Done	Yes - Full		Pubmed link	29241453	Full	2017-11-23	MTBLS546 - 20171120_LEG	Passes	In contact		1					343.97	17,218,716	70			
+2017-10-04	MTBLS547	UPLC-TQ-MS	Mus musculus	2017-11-23	Public	Xiaojiao Zheng		L	Mark	Done	Yes - Full		Pubmed link	29241453	Full	2017-11-23	MTBLS547 - 20171120_LEG	Passes	In contact		1					37.48	17,218,753	70			
+2017-10-04	MTBLS548	UPLC-QTOF-MS	Mus musculus	2017-11-23	Public	Xiaojiao Zheng		L	Mark	Done	Yes - Full		Pubmed link	29241453	Full	2017-11-23	MTBLS548 - 20171120_LEG	Passes	In contact		1					1,083.05	17,219,836	70			
+2017-10-04	MTBLS549	HPLC-LTQ-MS/MS	Homo sapiens	2018-12-09	In Review	Takayuki Teruya			Mark	Done	Yes - Full				Full	2018-10-09	MTBLS549-20180927_LEG	Passes			1					9,666.74	17,229,503	70			
+2017-10-06	MTBLS550	UPLC-QTOF-MS	Brassica oleracea	2018-10-05	Submitted	Maria Tortosa		ML	Mark	Done			Pubmed link	29315593	Full	2018-10-10	MTBLS550-20181009_LEG	Passes							Similar to MTBLS460. MAF and publication still needed.	937.20	17,230,440	70			
+2018-07-25	MTBLS551		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	17,230,440	79			
+2017-10-07	MTBLS552	GC-Q-MS;HPLC-LTQ-MS/MS	Homo sapiens	2018-10-16	Public	TUSHAR MORE			Mark	Done	Yes - No data		Pubmed link	29416801	Full	2018-10-16	MTBLS552-20181012_LEG	Passes			1					6,262.84	17,236,703	70			
+2017-10-07	MTBLS553	UPLC-QTOF-MS/MS	Glycine max;Brassica napus;reference compound;Arabidopsis thaliana;Streptomyces viridochromogenes;Triticum aestivum;Brassica juncea	2017-12-05	Public	Bastien Christ			Mark	Done	Yes - No data		Pubmed link		Full	2017-12-05	MTBLS553 - 20171130	Passes	In contact		1					33,681.81	17,270,385	70			
+2017-10-10	MTBLS554	UPLC-LTQ-MS	Bos taurus	2018-02-22	Public	Beata Pomian			Mark	Done	Yes - No data		Pubmed link	29649241	Full	2018-02-22	MTBLS554 - 20180216	Passes	In contact		1					16,307.44	17,286,692	70			
+2017-10-13	MTBLS555	HPLC-QTOF-MS	Arabidopsis thaliana	2018-10-16	Public	Richard Jacoby			Keeva	Done	Yes - Partial		Pubmed link	29457542	Full	2018-10-16	MTBLS555-20181016_LEG	Passes	In contact		1				No metabolites identified but submitter has added the list of m/z features to the MAF file	713.38	17,287,406	70			
+2018-07-25	MTBLS556		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	17,287,406	79			
+2017-10-18	MTBLS557	GC-TQ-MS	Brassica oleracea	2018-10-15	Submitted	Steffen Neumann							DOI			2017-10-22										1.16	17,287,407	70			
+2017-10-19	MTBLS558	HPLC-LTQ-MS/MS	Homo sapiens	2018-08-13	Public	Stephanie Herman			Keeva	Done	Yes - No data		DOI	10.7150/thno.26249	Full	2018-08-13	MTBLS558-20181016_LEG	Passes	Awaiting		1					199,228.15	17,486,635	70			
+2017-10-19	MTBLS559	UPLC-QTOF-MS	Nicotiana tabacum	2018-10-17	Public	Fidele Tugizimana			Mark	Done	Yes - No data		Pubmed link	29187153	Full	2018-10-17	MTBLS559-20181016_LEG	Passes			1					9,064.22	17,495,699	70			
+2017-10-24	MTBLS560	NMR	Gallus gallus	2018-05-02	Public	Stephane Beauclercq			Keeva	Done	Yes - Full		Pubmed link		Full	2018-05-02	MTBLS560 - 20180501	Passes	In contact		1					138.59	17,495,838	70			
+2017-10-24	MTBLS561	UPLC-LTQ-MS/MS	Bos taurus	2018-02-22	Public	Beata Pomian			Mark	Done	Yes - No data		Pubmed link	29649241	Full	2018-02-22	MTBLS561 - 20180216	Passes	In contact		1					16,495.25	17,512,333	70			
+2017-10-27	MTBLS562	UPLC-QTOF-MS/MS	Mus musculus	2018-08-03	Public	jia tu		M	Mark	Done	Yes - Full		DOI	10.1007/s11306-017-1304-x	Full	2018-08-03	MTBLS562-20180803_LEG	Passes			1				See also MTBLS495 for -ve assay	8,843.77	17,521,177	70			
+2017-10-27	MTBLS563	NMR	Homo sapiens	2018-11-01	Submitted	Marie Margaret Phelan		TDL	Mark	Done	Yes - Full				Full	2018-07-20	MTBLS563-20180720_LEG	Passes	In contact		1					79.37	17,521,256	70			
+2017-11-01	MTBLS564	NMR	Homo sapiens	2018-10-11	Public	Marie Margaret Phelan			Mark	Done	Yes - Full				Full	2018-10-11	MTBLS564-20180720_LEG	Passes	In contact		1					40.95	17,521,297	71			
+2018-07-25	MTBLS565		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	17,521,297	79			
+2017-11-02	MTBLS566	UPLC-LTQ-MS	Rhodiola rosea	2018-01-25	Public	Tomas Pluskal			Keeva	Done	Yes - No data		Pubmed link		Full	2018-10-18	MTBLS566-20181018_LEG	Passes	In contact		1					34.09	17,521,331	71			
+2017-11-06	MTBLS567	LC-LTQ-MS/MS	Prochlorococcus	2018-10-23	Public	Krista Longnecker		L	Mark	Done	Yes - Full				Full	2018-10-23	MTBLS567-20181018_LEG	Passes	In contact		1					302.53	17,521,634	71			
+2017-11-09	MTBLS568			2018-11-09	Submitted	Qun Liu										2017-11-09										5.11	17,521,639	#REF!			
+2018-07-25	MTBLS569		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	17,521,639	71			
+2017-11-14	MTBLS570	HPLC-LTQ-MS	Mus musculus;reference compound;solvent	2018-03-13	Public	Kevin Rattigan			Mark	Done	Yes - Full		Pubmed link		Full	2018-03-15	MTBLS570 - 20180315	Passes	In contact		1					9,043.00	17,530,682	71			
+2017-11-14	MTBLS571	HPLC-QTOF-MS/MS	Skeletonema marinoi	2018-10-23	Public	GÃ¶ran Nylund			Mark	Done	Yes - Full		Pubmed link	29599523	Full	2018-10-23	MTBLS571-20181022_LEG	Passes			1					4,709.11	17,535,391	71			
+2017-11-14	MTBLS572	HPLC-QTOF-MS/MS	Escherichia coli	2018-03-08	Public	Tao Huan			Mark	Done	Yes - No data		Pubmed link		Full	2018-03-08	MTBLS572 - 20180308	Passes	In contact		1					6,036.12	17,541,427	71			
+2017-11-17	MTBLS573	UPLC-QTOF-MS	Gossypium hirsutum	2018-11-16	In Review	Hui Lu			Mark	Done	Yes - Full		DOI (preprint)	10.20944/preprints201809.0058.v1	Full	2018-10-23	MTBLS573-20181023_LEG	Passes			1					25,322.22	17,566,749	71			
+2017-11-21	MTBLS574	UPLC-QTOF-MS	Inga umbellifera;Inga alba;Inga microcoma;Inga marginata;Inga laurina;Inga leiocalycina;Inga cf brachystacys;Inga obidensis;Inga pezizifera;Inga auristellae;Inga chartacea;Inga alata;Inga acreana;Inga coruscans	2018-01-22	Public	Thomas Kursar			Mark	Done	No		Pubmed link		Full	2018-02-15	MTBLS574 - 20180119	Passes	In contact		1					13,143.78	17,579,893	71			
+2017-11-21	MTBLS575	UPLC-QTOF-MS/MS	Zea mays subsp. mays	2018-05-16	Public	Victor Rodriguez			Mark	Done	Yes - No data		Pubmed link		Full	2018-05-16	MTBLS575 - 20180514	Passes	In contact		1					38.51	17,579,932	71			
+2017-11-21	MTBLS576	NMR	Sinorhizobium meliloti	2018-11-01	In Review	veronica ghini		L	Mark	Done	Yes - Full		DOI (preprint)	10.1101/296483	Full	2018-10-25	MTBLS576-20181023_LEG	Passes			1					45.23	17,579,977	71			
+2017-11-22	MTBLS577	HPLC-LTQ-MS/MS	Schizosaccharomyces pombe	2018-08-17	Public	Takayuki Teruya			Mark	Done	Yes - Full		Pubmed link	30072439	Full	2018-08-17	MTBLS577-20180817	Passes	In contact		1					1,038.66	17,581,016	71			
+2017-11-22	MTBLS578	HPLC-LTQ-MS/MS	Schizosaccharomyces pombe	2018-08-21	Public	Takayuki Teruya			Mark	Done	Yes - Full		Pubmed link	30072439	Full	2018-08-21	MTBLS578-20180820	Passes	In contact		1					1,289.70	17,582,305	71			
+2017-11-27	MTBLS579	GCxGC-TOF-MS	Homo sapiens	2018-01-17	Public	Elin Näsström			Mark	Done	Yes - Full		Pubmed link		Full	2018-01-29	MTBLS579 - 20180116	Passes	In contact		1					66,832.26	17,649,138	71			
+2017-11-27	MTBLS580	GC-Q-MS	Mus musculus	2017-12-05	In Curation	Jian Ji			Keeva				Pubmed link	29491435		2018-05-21										1,725.32	17,650,863	71			
+2017-11-30	MTBLS581	UPLC-QTOF-MS	Cunila menthoides	2018-05-24	Public	Joana Paula Oliveira			Mark	Done	Yes - Partial				Full	2018-10-25	MTBLS581 - 20180206	Passes	In contact		1					6,294.94	17,657,158	71			
+2017-12-04	MTBLS582	UPLC-LTQ-MS/MS	Homo sapiens	2018-04-26	Public	Zon Weng Lai		M	Mark	Done	Yes - Full		Pubmed link		Full	2018-04-26	MTBLS582 - 20180424	Passes	In contact		1				Massive list of lipids in the MAF files (~800). Assign in the future.	2,715.09	17,659,873	72			
+2017-12-08	MTBLS583	GC-TOF-MS	Arachis hypogaea	2018-12-08	In Curation	Feng Cui		PM	Mark				Pubmed link	29520289		2018-05-21	MTBLS583-20190312_LEG					1				591.22	17,660,464	72			
+2017-12-09	MTBLS584	Insufficient data supplied		2017-12-16	Dormant	Shengming Sun										2017-12-09										0.01	17,660,464	72			
+2017-12-13	MTBLS585	GC-Q-MS	Macrobrachium nipponense	2017-12-20	In Curation	Shengming Sun		PM	Keeva				Pubmed link	29686619		2018-05-21						1				2,347.06	17,662,811	72			
+2017-12-13	MTBLS586	UPLC-QTOF-MS	Mus musculus	2018-01-20	In Curation	Xiaoqing Chen		PM	Mark				Pubmed link	29922602		2018-11-15						1				38,354.71	17,701,166	72			
+2017-12-15	MTBLS587	3D MALDI imaging MS	Mus musculus	2018-01-21	In Curation	Pere Rafols Soler		PM	Keeva				Pubmed link	29729739		2018-05-21						1				167.77	17,701,334	72			
+2017-12-15	MTBLS588	3D MALDI imaging MS	Mus musculus	2018-01-21	Submitted	Pere Rafols Soler			Keeva				Pubmed link	30540827		2017-12-15										385.47	17,701,719	72			
+2017-12-15	MTBLS589	3D MALDI imaging MS	Mus musculus	2018-01-21	Submitted	Pere Rafols Soler			Keeva				Pubmed link	30540827		2017-12-15										343.85	17,702,063	72			
+2017-12-17	MTBLS590	Insufficient data supplied		2017-12-31	Dormant	Hao Fang										2017-12-17										0.02	17,702,063	72			
+2017-12-26	MTBLS591	HPLC-QTOF-MS	Homo sapiens	2018-02-09	Public	Scott Walmsley			Keeva	Done	Yes - Full		Pubmed link	29664467	Full	2018-02-09	MTBLS591 - 20180126	Passes	In contact							12,147.78	17,714,211	72			
+2018-07-25	MTBLS592		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25										0.02	17,714,211	79			
+2017-12-27	MTBLS593	NMR	Mus musculus	2018-07-31	In Curation	Ludgero Tavares		P	Mark				DOI	10.3389/fimmu.2018.00701		2018-05-21						1				269.69	17,714,480	72			
+2018-01-04	MTBLS594	UPLC-QTOF-MS	Mus musculus	2018-03-01	Submitted	Anders Nordström		ML								2018-01-04										31,916.08	17,746,397	73			
+2018-01-05	MTBLS595	UPLC-QTOF-MS	Garcinia mangostana	2018-08-06	Submitted	WAN AIZAT		R					Pubmed link	29876463		2018-07-11										1.53	17,746,398	73			
+2018-01-09	MTBLS596	UPLC-LTQ-MS/MS	Mus musculus	2018-02-28	In Curation	Emilien Jamin		M	Mark				Pubmed link	29950287		2018-11-15						1			For NMR assays see MTBLS602	1,260.98	17,747,659	73			
+2018-01-10	MTBLS597	3D MALDI imaging MS	Rattus norvegicus	2018-05-21	Public	Shane Ellis		L	Keeva	Done	Yes - Full		No		Full	2018-06-15	MTBLS597 - 20180111	Passes	In contact						Author will update MAF protocol & result again once publication is complete/finalised	60,512.62	17,808,172	73			
+2018-01-16	MTBLS598	UPLC-LTQ-MS	Homo sapiens	2019-07-01	In Review	Nicholas Rattray		L	Keeva	Done	Yes - Full		No		Full	2019-02-11	MTBLS598 - 20180129	Manuscript resubmitted to Nat Med - hope for reply by Jan, release date changed to Feb 2019	In contact							42,543.81	17,850,716	73			
+2018-01-18	MTBLS599	UPLC-TOF-MS	Drosophila melanogaster;Drosophila simulans	2018-01-25	Submitted	Xiaotao Shen		ML	Keeva				DOI	10.1101/305201		2018-11-15						1				8,778.17	17,859,494	73			
+2018-01-18	MTBLS600		Drosophila melanogaster;Drosophila simulans	2018-01-25	Submitted	User Cochrane, Mark Williams										2018-01-18										0.04	17,859,494	73			
+2018-01-18	MTBLS601	UPLC-TOF-MS	Mus musculus	2018-02-05	In Curation	Xiaotao Shen		ML	Keeva				DOI	10.1101/305201		2018-01-30						1				2,834.89	17,862,329	73			
+2018-01-19	MTBLS602	NMR	Mus musculus	2018-05-01	Public	Sandrine Ellero-Simatos		L	Mark	Done	Yes - No data		Pubmed link	29950287	Full	2018-05-01	MTBLS602 - 20180426	Passes	In contact		1				For LC-MS assays see MTBLS596	503.30	17,862,832	73			
+2018-01-19	MTBLS603	Insufficient data supplied		2018-01-26	Submitted	Katherine Zink										2018-01-19										13,159.71	17,875,992	73			
+2018-01-20	MTBLS604	Insufficient data supplied		2018-05-05	Submitted	Shi-Jun Yue										2018-01-20										543.05	17,876,535	73			
+2018-01-20	MTBLS605	Insufficient data supplied		2018-01-27	Submitted	Hanqing Pang										2018-01-20										4,692.22	17,881,227	73			
+2018-01-20	MTBLS606	UPLC-TOF-MS	Mus musculus	2018-02-06	In Curation	Xiaotao Shen		ML	Keeva				DOI	10.1101/305201		2018-01-30						1				2,971.41	17,884,198	73			
+2018-01-21	MTBLS607	UPLC-TOF-MS	Drosophila melanogaster;Drosophila simulans	2018-01-28	Submitted	Xiaotao Shen		ML	Keeva				DOI	10.1101/305201		2018-01-21						1				4,232.02	17,888,430	73			
+2018-01-22	MTBLS608	GC-Q-MS;LC-TQ-MS	Reference compound	2019-01-22	In Curation	Manuel Schlimpert			Keeva				Pubmed link	29497074		2018-05-21						1				1,148.19	17,889,579	73			
+2018-01-23	MTBLS609	Insufficient data supplied		2018-02-01	Submitted	Jessica Cleary							Pubmed link	30175236		2018-01-23										0.04	17,889,579	73			
+2018-01-23	MTBLS610	Insufficient data supplied		2018-02-01	Submitted	Jessica Cleary							Pubmed link	30175236		2018-01-23										0.04	17,889,579	73			
+2018-01-25	MTBLS611	NMR;LC-MS	Pristionchus pacificus	2018-02-01	Submitted	Maro Kariya, Sreekanth Chalasani		All bar L					Pubmed link	29555902		2018-01-25									1 LC-MS RAW file and 1 NMR spectral file. Puplished in Nature Comm!!!!	301.80	17,889,880	73			
+2018-01-27	MTBLS612	UPLC-QTOF-MS	Drosophila melanogaster	2018-02-03	In Curation	Xiaotao Shen		ML	Keeva				DOI (preprint)	10.1101/305201		2018-01-28						1			MTBLS612 for positive and MTBLS615 for negative modes	4,546.20	17,894,427	73			
+2018-01-29	MTBLS613	UPLC-QTOF-MS	Gomphrena	2018-02-28	In Curation	Ilka N Abreu		L	Mark							2018-05-21						1				4,188.60	17,898,615	73			
+2018-01-29	MTBLS614	UPLC-LTQ-MS		2018-03-12	Public	Jules Griffin		ML	Mark	Done	Yes - Full				Full	2018-03-12	MTBLS614 - 20180312	Passes	In contact		1					3,308.93	17,901,924	73			
+2018-01-29	MTBLS615	UPLC-TOF-MS	Drosophila melanogaster;Drosophila simulans	2018-02-05	In Curation	Xiaotao Shen		ML	Keeva				DOI (preprint)	10.1101/305201		2018-01-29						1			MTBLS612 for positive and MTBLS615 for negative modes	4,232.02	17,906,156	73			
+2018-01-29	MTBLS616	DI-LTQ-MS	Homo sapiens	2018-03-13	Public	Jules Griffin		L	Mark	Done	Yes - Full				Full	2018-03-13	MTBLS616 - 20180312	Passes	In contact		1					2,504.11	17,908,660	73			
+2018-02-01	MTBLS617	TD-GC-TOF-MS	Enterobacter cloacae;Pseudomonas aeruginosa	2019-02-01	Submitted	Oluwasola Lawal		R	Mark	Done	Yes - Full		Pubmed link	29725275	Metadata Only	2018-08-09	MTBLS617-20180808	Passes			1					0.10	17,908,660	74			
+2018-02-01	MTBLS618	UPLC-QTOF-MS	Solanum lycopersicum	2019-01-24	Public	Paula Liliana Galeano			Mark	Done	Yes - No data		DOI	10.3390/molecules23123330	Full	2019-02-08	MTBLS618-20190122	Passes			1				Some metabolites (ca. 35) need bulk uploading to CHEBI.	1,979.20	17,910,640	74			
+2018-02-01	MTBLS619	NMR;MAS-NMR	Dicentrarchus labrax	2019-01-22	Public	Ludgero Tavares			Mark	Done	Yes - Full		DOI	10.1007/s11306-018-1390-4	Full	2019-01-22	MTBLS619-20190116	Passes			1				PDF requested on ResearchGate (13/11/2018). Gratefully received soon after.	23.71	17,910,663	74			
+2018-02-02	MTBLS620	UPLC-QTOF-MS	Homo sapiens	2018-07-16	Public	Santosh Lamichhane			Mark	Done	Yes - Full		Pubmed link	30006587	Full	2018-07-16	MTBLS620 - 20180516	Passes	In contact		1					38,454.42	17,949,118	74			
+2018-02-03	MTBLS621	NMR	Bos taurus	2018-04-15	Dormant	BÃ©nÃ©dict Yanibada		PML	Mark							2018-02-03									Previous version of MTBLS623	57.64	17,949,175	74			
+2018-02-05	MTBLS622	NMR	Rhopalosiphum padi	2019-01-16	Public	Simone Vassiliadis			Mark	Done	Yes - No data		DOI	10.1007/s11306-018-1425-x	Full	2019-01-16	MTBLS622-20190115	Passes			1					58.76	17,949,234	74			
+2018-02-05	MTBLS623	NMR	Bos taurus	2018-04-22	In Curation	BÃ©nÃ©dict Yanibada		P	Mark				Pubmed link	30364606		2018-05-22						1			Updated version of MTBLS621	58.21	17,949,292	74			
+2018-02-06	MTBLS624	LC-LTQ-MS	Trypanosoma brucei	2018-04-01	Submitted	Fiona Achcar		PML								2018-02-06										1,920.42	17,951,213	74			
+2018-02-08	MTBLS625	UPLC-LTQ-MS	Homo sapiens	2018-02-15	Submitted	Mariska Kerstholt		R					Pubmed link	29444855		2018-02-08										0.53	17,951,213	74			
+2018-02-11	MTBLS626	NMR	Mus musculus	2018-07-10	Public	wei yan			Mark	Done	Yes - No data				Full	2018-07-10	MTBLS626 - 20180704	Passes	In contact		1				Waiting for another batch of data to be uploaded. Moved back to SUBMITTED.	4,511.92	17,955,725	74			
+2018-02-12	MTBLS627	GC-Q-MS	Kunming White outbred strain mice	2018-08-01	Submitted	Ting-Li Han		LP								2018-02-12										173.70	17,955,899	74			
+2018-02-12	MTBLS628	UPLC-QTOF-MS	Populus tremula;Populus tremuloides	2018-02-26	In Curation	Ilka N Abreu		L	Mark							2018-05-22						1				12,527.34	17,968,426	74			
+2018-02-15	MTBLS629	UPLC-QTOF-MS	Mus musculus	2018-11-06	Public	Aleksandra Binek		M	Mark	Done	Yes - Full		Pubmed link	30362351	Full	2018-11-06	MTBLS629-20181031	Passes	In contact		1					4,530.70	17,972,957	74			
+2018-02-16	MTBLS630	HPLC-LTQ-MS	Pseudomonas aeruginosa	2018-02-28	Public	Yan Zhu		M	Mark	Done	Yes - Full		Pubmed link	29688451	Full	2018-02-28	MTBLS630 - 20180228	Passes	In contact		1					6,943.26	17,979,900	74			
+2018-02-19	MTBLS631	UPLC-QTOF-MS	Mus musculus	2018-11-06	Public	Aleksandra Binek		M	Mark	Done	Yes - Full		Pubmed link	30362351	Full	2018-11-06	MTBLS631-20181031	Passes	In contact		1					17,360.02	17,997,260	74			
+2018-02-19	MTBLS632	Insufficient data supplied		2018-02-26	Submitted	Yu-Heng Lai										2018-02-19										0.11	17,997,260	74			
+2018-02-19	MTBLS633	CE-TOF-MS	Mus musculus	2018-11-06	Public	Aleksandra Binek		M	Mark	Done	Yes - Full		Pubmed link	30362351	Full	2018-11-06	MTBLS633-20181031	Passes	In contact		1					6,453.25	18,003,714	74			
+2018-02-19	MTBLS634	GC-Q-MS	Mus musculus	2018-11-06	Public	Aleksandra Binek			Mark	Done	Yes - Full		Pubmed link	30362351	Full	2018-11-06	MTBLS634-20181031	Passes	In contact		1					36.63	18,003,750	74			
+2018-02-21	MTBLS635	Insufficient data supplied		2018-03-28	Submitted	Patrick Giavalisco										2018-02-21										237.34	18,003,987	74			
+2018-02-27	MTBLS636	HPLC-IT-MS	Pseudomonas putida	2018-04-01	In Curation	Gregor Ãmer		LM	Keeva				Pubmed link	29618609		2018-05-17						1				24,285.83	18,028,273	74			
+2018-02-28	MTBLS637	Insufficient data supplied		2018-05-31	Submitted	Miriam Reverter										2018-02-28										1,449.01	18,029,722	74			
+2018-03-01	MTBLS638	UPLC-QTOF-MS	Haliclona fulva	2018-07-31	In Curation	Miriam Reverter			Mark				DOI	10.1007/s11306-018-1401-5		2018-05-22						1				8,975.40	18,038,698	75			
+2018-03-02	MTBLS639	NMR	Chlorocebus sp.	2018-03-09	In Curation	Fabio Rogerio de Moraes		L	Mark							2018-05-22						1				10.52	18,038,708	75			
+2018-03-12	MTBLS640	NMR		2019-02-07	Public	Ali Yilmaz			Mark	Done	Yes - No data		DOI	10.1021/acs.jproteome.8b00224	Full	2019-02-07	MTBLS640-20190205	Passes			1				NMR assay of MTBLS674	84.07	18,038,792	75			
+2018-03-12	MTBLS641	UPLC-QTOF-MS/MS	Reference compound	2018-06-26	Public	Lucia Faccioli			Mark	Done	Yes - Full		Pubmed link	30129930	Full	2018-06-26	MTBLS641 - 20180326	Passes	In contact		1					325.97	18,039,118	75			
+2018-03-12	MTBLS642	GCxGC-TOF-MS	Escherichia coli	2018-03-30	In Curation	April Miguez			Keeva				Pubmed link	29774011		2018-03-26						1				165,772.08	18,204,890	75			
+2018-03-12	MTBLS643	NMR	Sus scrofa	2018-09-10	Public	JÃ©rÃ©my MARCHAND			Mark	Done	Yes - No data		DOI	10.1007/s11306-018-1360-x	Full	2018-09-10	MTBLS643-20180907	Passes			1					22,543.41	18,227,434	75			
+2018-03-14	MTBLS644	REI-QTOF-MS	Pseudomonas aeruginosa	2018-07-01	In Curation	Simon Cameron		M	Mark				Pubmed link	30026575		2018-11-15						1				25,999.80	18,253,434	75			
+2018-03-16	MTBLS645	3D MALDI imaging MS		2018-03-22	Submitted	Katherine Zink		All bar L					Pubmed link	29629858		2018-03-16										404.04	18,253,838	75			
+2018-03-17	MTBLS646	NMR	Homo sapiens	2019-03-01	Submitted	Manuja Kaluarachchi		Too much to document								2018-03-20										364.05	18,254,202	75			
+2018-03-20	MTBLS647	LC-TQ-MS	Caenorhabditis elegans	2018-03-27	Dormant	Tesfahun Dessale Admasu										2018-03-20										204.95	18,254,407	75			
+2018-03-20	MTBLS648	UPLC-TQ-MS	Caenorhabditis elegans	2018-06-08	Public	Tesfahun Dessale Admasu		L	Mark	Done	Yes - Full				Full	2018-06-08	MTBLS648 - 20180606	Passes	In contact		1				An update of MTBLS647?	206.65	18,254,613	75			
+2018-03-21	MTBLS649	Insufficient data supplied		2018-03-28	Submitted	Se Hee Lee										2018-03-21										0.30	18,254,614	75			
+2018-03-21	MTBLS650	UPLC-LTQ-MS;UPLC-LTQ-MS/MS	Mus musculus	2019-03-12	Public	SIMONA CODREANU			Mark	Done	Yes - No data		Pubmed link	29868674	Full	2019-03-12	MTBLS650-20190308		In contact		1				PDF requested on ResearchGate and by e-mail (13/11/18). Paper received by e-mail.	28,313.14	18,282,927	75			
+2018-03-23	MTBLS651	UPLC-QTOF-MS/MS	Homo sapiens	2018-08-01	Submitted	Randi Gant-branum		All bar L	Mark				Pubmed link	30114907		2018-03-23										87,996.27	18,370,923	75			
+2018-03-23	MTBLS652	UFLC-LTQ-MS/MS	Homo sapiens	2018-10-22	Public	Pierre Jean Beltran			Keeva	Done	Yes - Full		No		Full	2018-10-22	MTBLS652 - 20180326	Passes	In contact							2,593.06	18,373,516	75			
+2018-03-27	MTBLS653	GC-Q-MS	Homo sapiens	2018-07-01	In Curation	VÃ©ronique PELLOUX		L	Keeva							2018-05-22						1				1,593.56	18,375,110	75			
+2018-03-28	MTBLS654	NMR	Bacteria	2019-02-07	Public	Se Hee Lee			Mark	Done	Yes - Full		Pubmed link	29884364	Full	2019-02-07	MTBLS654 - 20180409	Passes			1					18.42	18,375,128	75			
+2018-03-30	MTBLS655	UPLC-QTOF-MS	Homo sapiens	2019-03-19	Submitted	Steffen Neumann										2018-06-11										7,786.96	18,382,915	75			
+2018-04-02	MTBLS656	UPLC-TQ-MS	Homo sapiens	2018-05-16	Public	Seth Rhoades			Mark	Done	Yes - Full		Pubmed link		Full	2018-05-16	MTBLS656 - 20180508	Passes	In contact		1					14,781.68	18,397,697	76			
+2018-07-25	MTBLS657		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25	MTBLS657 - 20180409									0.02	18,397,697	79			
+2018-04-06	MTBLS658	NMR	Homo sapiens	2018-12-06	Public	Marie Margaret Phelan		L	Mark	Done	Yes - Full				Full	2018-12-06	MTBLS658-20180720_LEG	Passes	In contact		1					24.46	18,397,721	76			
+2018-07-25	MTBLS659		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25	MTBLS659 - 20180409									0.02	18,397,721	79			
+2018-07-25	MTBLS660		Homo sapiens	2019-07-25	Submitted	MRC-NIHR National Phenome Centre	1									2018-07-25	MTBLS660 - 20180409									0.02	18,397,721	79			
+2018-04-07	MTBLS661	UPLC-TQ-MS/MS	Mycobacterium bovis	2018-07-05	Public	CARINE SAO			Mark	Done	Yes - Full		Pubmed link	30251996	Full	2018-07-05	MTBLS661 - 20180412	Passes	In contact		1					405.93	18,398,127	76			
+2018-04-10	MTBLS662	GC-Q-MS	Arabidopsis thaliana	2018-05-23	In Curation	Cantonny Valerie		L	Mark							2018-05-22						1				264.41	18,398,391	76			
+2018-04-10	MTBLS663	UPLC-QTOF-MS/MS	Seminavis robusta 85B Sex	2018-05-14	Submitted	Martina KlÃ¼nemann		PML	Keeva							2018-04-10									EMBRIC study	2,049.60	18,400,441	76			
+2018-04-13	MTBLS664	LC-LTQ-MS		2018-09-05	Public	Jessica Kissinger			Keeva	Done	Yes - Partial				Full	2018-09-05	MTBLS664 - 20180831	Passes	In contact						MaHPIC study - metabolites complete in attached xls file	141,864.14	18,542,305	76			
+2018-04-13	MTBLS665	LC-LTQ-MS	Homo sapiens;Plasmodium vivax	2018-06-19	Public	Jessica Kissinger			Keeva	Done	Yes - Partial		DOI		Full	2018-06-19	MTBLS665 - 20180531	Passes	In contact						MaHPIC study - metabolites complete in attached xls file	56,177.94	18,598,483	76			
+2018-04-15	MTBLS666	UPLC-QTOF-MS/MS	Sus scrofa	2018-06-30	In Curation	zheng Ao		L	Mark							2018-05-22						1				23,985.01	18,622,468	76			
+2018-04-18	MTBLS667	NMR	Mus musculus	2018-06-20	Public	Jeremy Everett		R (KO data)	Mark	Done	Yes - No data		DOI		Full	2018-06-20	MTBLS667 - 20180419	Passes	In contact		1				Only WT raw data submitted so far. KO data to be submitted further down the line.	152.91	18,622,621	76			
+2018-04-23	MTBLS668	HPLC-QTOF-MS	Homo sapiens	2018-07-01	Submitted	Anna Marco-Ramell		RPM					Pubmed link	29905079		2018-04-23										0.16	18,622,621	76			
+2018-04-24	MTBLS669	NMR	Homo sapiens	2019-02-08	Public	Suehelay Acevedo			Mark	Done	Yes - Full		DOI	10.1016/j.ebiom.2018.10.046	Full	2019-02-08	MTBLS669-20190208	Passes	In contact		1					6.11	18,622,627	76			
+2018-04-24	MTBLS670	HPLC-TOF-MS	Homo sapiens	2018-05-01	In Curation	Szymon Macioszek		PM	Mark				Pubmed link	29934622		2018-11-15						1				82.41	18,622,710	76			
+2018-04-26	MTBLS671	LC-QTOF-MS	Da.gl.	2020-02-12	In Curation	Steffen Neumann		LD	Keeva	Done	Yes - Full					2019-02-14		Passes	In contact						Missing 2 Raw data files. DO NOT RELEASE UNTIL 30.06.2021	37,595.48	18,660,305	76			
+2018-04-28	MTBLS672	GC-TOF-MS	Sulfolobus acidocaldarius	2018-10-01	In Review	Jacqueline Wolf		L	Mark	Done	Yes - Full				Full	2018-06-13	MTBLS672 - 20180611	Passes			1					605.87	18,660,911	76			
+2018-05-03	MTBLS673	UPLC-QTOF-MS/MS	Ctenopharyngodon idella	2018-08-17	Public	Dapeng Li			Mark	Done	Yes - Full		DOI	10.1093/gigascience/giy111	Full	2018-08-28	MTBLS673-20180814	Passes	In contact		1					49,126.57	18,710,038	77			
+2018-05-04	MTBLS674	DI-TQ-MS/MS;UPLC-TQ-MS/MS		2019-02-07	Public	Ali Yilmaz			Mark	Done	Yes - No data		DOI	10.1021/acs.jproteome.8b00224	Full	2019-02-07	MTBLS674-20190205	Passes			1				DI/UPLC-MS assay of MTBLS640	219.85	18,710,258	77			
+2018-05-09	MTBLS675	NMR	Trotter horse	2019-02-12	Public	Luca Laghi			Mark	Done	Yes - No data		DOI	10.1007/s11306-018-1403-3	Full	2019-02-12	MTBLS675-20190212	Passes	In contact		1				PDF requested on ResearchGate (14/11/2018)	41.64	18,710,299	77			
+2018-05-09	MTBLS676	MALDI-TOF/TOF-MS/MS		2018-08-31	Submitted	Stephanie Holst										2018-08-24										827.22	18,711,126	77			
+2018-05-13	MTBLS677	Insufficient data supplied		2018-05-31	Submitted	Ana Sofia Henriques da Costa										2018-05-13										0.01	18,711,126	77			
+2018-05-21	MTBLS678	NMR	cell media	2018-06-29	In Curation	Sara Samino		P	Mark				Pubmed link	30373788		2018-11-15						1			Only NMR assay for published paper	9.09	18,711,136	77			
+2018-05-22	MTBLS679	UPLC-QTOF-MS	Centaurea jacea;Festuca rubra;Holcus lanatus;Knautia arvensis;Geranium pratense;Poa pratensis;Leucanthemum vulgare;Reference;Dactylis glomerata;Phleum pratense;Plantago lanceolata;Anthoxanthum odoratum;Avenula pubescens;Ranunculus acris	2019-05-17	Submitted	Steffen Neumann		PMT								2018-05-22										7.02	18,711,143	77			
+2018-05-23	MTBLS680	UPLC-TQ-MS	Mus musculus	2019-05-24	Submitted	Cecilia Castro		PA					Pubmed link	29930022		2018-05-25									See also MTBLS6805	926.38	18,712,069	77			
+2018-05-25	MTBLS681	HPLC-QTOF-MS	Homo sapiens	2018-09-02	Submitted	Magali Palau Rodriguez		PMR					Pubmed link	29893570		2018-05-25										0.16	18,712,069	77			
+2018-05-28	MTBLS682	LC-LTQ-MS	Homo sapiens	2018-06-30	Submitted	Giovanny Rodriguez Blanco		PML	Mark							2018-05-28										17,093.71	18,729,163	77			
+2018-05-29	MTBLS683	UPLC-QTOF-MS	Homo sapiens	2018-06-05	In Curation	Ke-Shiuan Lynn			Mark				Pubmed link	30517004		2019-03-13						1				8,591.71	18,737,754	77			
+2018-05-29	MTBLS684	Insufficient data supplied		2018-06-30	Submitted	Kevin Calabro										2018-05-29										0.02	18,737,755	77			
+2018-05-30	MTBLS685	UPLC-TQ-MS		2019-05-31	Submitted	Cecilia Castro		PA					Pubmed link	29930022		2018-07-04									See also MTBLS680	1,304.07	18,739,059	77			
+2018-05-31	MTBLS686	GC-TQ-MS		2018-06-07	Submitted	weiwei li		ML								2018-05-31									Duplicate of MTBLS689 <= REMOVE	2,190.45	18,741,249	78			
+2018-05-31	MTBLS687	GC-Q-MS	Alopecurus pratensis;Arrhenatherum elatius;Galium verum;Reference;Ranunculus acris;Lolium perenne;Dactylis glomerata;Achillea millefolium;Poa pratensis;Galium mollugo;Plantago lanceolata	2019-02-08	In Review	Steffen Neumann			Keeva	Done	Yes - Full		Pubmed link	30281675	Full	2019-02-08	MTBLS687 - 20181016	Passes	In contact						DO NOT RELEASE UNTIL 30.06.2021	5.26	18,741,254	78			
+2018-05-31	MTBLS688	UPLC-IT-TOF-MS	Viola tricolor;Mentha x piperita;Origanum vulgare;Potentilla erecta;Convallaria keiskei;Ginkgo biloba;Fragaria vesca;Asarum europaeum;Inula helenium;Valeriana officinalis;Angelica archangelica;Eleutherococcus senticosus;Hedysarum neglectum;Bupleurum aureum;Equisetum arvense;Pimpinella anisum;Acorus calamus;Eleutherococcus sessiliflorus;Daucus carota;Anethum graveolens;Aerva lanata;Melilotus officinalis;Arctium lappa;Echinacea purpurea;Astragalus propinquus;Sambucus nigra;Viburnum opulus;Tanacetum vulgare;Althaea officinalis;Rhodiola rosea;Aegopodium podagraria;Aralia elata;Rosa majalis;Heracleum sibiricum;Thymus serpyllum;Tilia cordata;Betula pendula;Hypericum perforatum;Tussilago farfara;Taraxacum officinale;Urtica dioica;Silybum marianum;Populus balsamifera;Panax ginseng;Foeniculum vulgare;Salvia officinalis;Glycyrrhiza glabra;Cichorium intybus;Polemonium caeruleum;Humulus lupulus;Calendula officinalis;Helianthus tuberosus;Aronia melanocarpa;Pimpinella saxifraga;Rhamnus cathartica;Helichrysum arenarium;Petroselinum crispum;Artemisia absinthium;Juniperus communis;Pinus sylvestris;Senna alexandrina;Coriandrum sativum;Leonurus quinquelobatus;Prunus padus;Matricaria chamomilla;Linum usitatissimum;Vaccinium myrtillus;Dioscorea caucasica;Oplopanax elatus;Plantago major;Levisticum officinale;Bidens tripartita;Bergenia crassifolia;Frangula alnus	2018-10-20	In Curation	Dmitry Nazarenko		PM					Pubmed link	30451976		2018-10-13										36,900.43	18,778,155	78			
+2018-06-01	MTBLS689	GC-TQ-MS	Homo sapiens	2018-06-16	Submitted	weiwei li		M	Mark				Pubmed link	30830373		2018-06-01									PDF requested on ResearchGate (14/11/2018)	2,189.07	18,780,344	78			
+2018-06-01	MTBLS690	GC-TOF-MS;UPLC-QTOF-MS/MS	Homo sapiens	2018-10-08	Public	Klev Diamanti		L	Keeva	Done	Yes - Full		DOI (preprint)	10.1101/413203	Full	2018-10-08		Passes	In contact							77,446.17	18,857,790	78			
+2018-06-05	MTBLS691	LC-LTQ-MS	Macaca mulatta;Plasmodium coatneyi,Homo sapiens;Reference	2018-09-05	Public	Jessica Kissinger		L	Keeva	Done	Yes - Full				Full	2018-09-18	MTBLS691 - 20180815	Passes	In contact						MaHPIC study	69.70	18,857,860	78			
+2018-06-07	MTBLS692	UPLC-QTOF-MS	Arabidopsis thaliana	2019-01-31	Submitted	Ruben Vanholme		PLM								2018-08-30										11,369.60	18,869,229	78			
+2018-06-08	MTBLS693	UPLC-LTQ-MS	Solanum lycopersicum x Solanum pennellii	2018-07-16	Public	Karolina Garbowicz			Mark	Done	Yes - Full		Pubmed link	29960108	Full	2018-07-16	MTBLS693 - 20180711	Passes	In contact		1					256,330.61	19,125,560	78			
+2018-06-14	MTBLS694	NMR;UPLC-QTOF-MS	Homo sapiens;Reference	2018-08-31	Public	Jake Pearce, MRC-NIHR National Phenome Centre		L	Keeva	Done	Yes - Full				Full	2018-08-31	MTBLS694 - 20180831	Passes	In contact							312,010.77	19,437,571	78			
+2018-06-15	MTBLS695	UPLC-LTQ-MS/MS	Mus musculus	2018-06-23	Submitted	Emilio Rivera										2018-06-16									Appears to be a duplicate of MTBLS696	7,483.09	19,445,054	78			
+2018-06-16	MTBLS696	UPLC-LTQ-MS/MS	Mus musculus	2018-09-24	In Review	Emilio Rivera		L	Mark	Done	Yes - Full				Full	2018-07-10	MTBLS696 - 20180704	Passes	In contact		1				26 spectra in a 27 row assay. 180126_ESR_Wilson_AlainRepeat_MurineCellPellet_Exp1_AOAA_3.raw is missing	7,483.62	19,452,537	78			
+2018-06-25	MTBLS697	LC-LTQ-MS		2019-06-01	Submitted	Jessica Kissinger			Keeva																	53.68	19,452,591	78			
+2018-06-28	MTBLS698	LC-LTQ-MS		2018-09-14	Public	Timothy R Fallon			Mark	Done	Yes - No data		DOI	10.1101/237586	Full		MTBLS698-20180817	Passes	In contact		1					13,680.25	19,466,271	78			
+2018-07-04	MTBLS699	GC-TOF-MS		2018-09-27	Public	Mikiko Takahashi			Mark	Done	Yes - No data				Full		MTBLS699-20180906	Passes	In contact		1					22,745.95	19,489,017	79			
+2018-07-05	MTBLS700	UPLC-QTOF-MS;UPLC-TQ-MS/MS		2018-07-12	Submitted	Fazheng Ren		TDML	Mark																	3,419.18	19,492,436	79			
+2018-07-06	MTBLS701	UPLC-TOF-MS;UPLC-LTQ-MS/MS		2019-07-01	Submitted	Shuaizhen Zhou		PL																		6,346.25	19,498,783	79			
+2018-07-06	MTBLS702			2019-07-06	Submitted	Katherine Heal																				0.01	19,498,783	79			
+2018-07-06	MTBLS703	LC-LTQ-MS/MS		2019-07-24	In Review	Katherine Heal		L	Mark	Done					Full		MTBLS703-20181107	Passes	In contact		1					4,087.00	19,502,870	79			
+2018-07-11	MTBLS704	DI-LTQ-MS		2018-08-20	Submitted	Marat Kasakin		PRML																		5.35	19,502,875	79			
+2018-07-16	MTBLS705	NMR		2018-07-23	In Curation	Gregory Medlock			Keeva				Pubmed link	30195437								1				406.45	19,503,281	79			
+2018-07-17	MTBLS706	LC-LTQ-MS	Trypanosoma brucei	2018-12-10	Public	Julie Kovarova		LM	Keeva																	5,866.37	19,509,148	79			
+2018-07-23	MTBLS707	UPLC-QTOF-MS		2018-08-23	Submitted	Julie GAUBERT		M					Pubmed link	30700781												4,528.26	19,513,676	79			
+2018-07-24	MTBLS708	LC-LTQ-MS/MS		2019-07-26	In Review	Katherine Heal		L	Mark	Done					Full		MTBLS708-20181107	Passes	In contact		1					2,214.48	19,515,891	79			
+2018-07-24	MTBLS709	UPLC-QTOF-MS		2019-12-01	Submitted	Kristian Peters		DLRM																		3,658.16	19,519,549	79			
+2018-07-25	MTBLS710	UPLC-LTQ-MS		2018-07-31	Submitted	Jeremy Koelmel		PLM																		6,997.79	19,526,546	79			
+2018-07-25	MTBLS711			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS712			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS713			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS714			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS715			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS716			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS717			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS718			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS719			2019-07-31	Submitted	MRC-NIHR National Phenome Centre	1																			0.02	19,526,547	79			
+2018-07-25	MTBLS720	NMR	Bos taurus	2018-10-08	Public	Kuai Yu			Mark	Done	Yes - Partial				Full		MTBLS720-20180810	Passes			1				Awaiting reference for 'Extraction' protocol.	6.57	19,526,553	79			
+2018-07-28	MTBLS721	HPLC-QTOF-MS		2019-07-27	In Curation	Xiaoming Cai		FM	Mark				Pubmed link	30356046								1				5,419.96	19,531,973	79			
+2018-07-29	MTBLS722	Insufficient data supplied		2019-07-29	Submitted	Lucas Chibli																				0.08	19,531,973	79			
+2018-08-01	MTBLS723	NMR	Mus musculus	2018-10-11	Public	Justine Leenders			Mark	Done	Yes - No data		DOI	10.1038/s41467-018-06094-4	Full		MTBLS723-20180809	Passes	In contact		1				Awaiting reference for 'Sample collection' protocol.	9.75	19,531,983	80			
+2018-08-03	MTBLS724	GC-Q-MS	Drosophila melanogaster	2018-11-07	Public	Russell Pickford			Mark	Done	Yes - No data				Full		MTBLS724-20180824	Passes	In contact		1				GC instrumentation needs to be confirmed.	90.36	19,532,073	80			
+2018-08-07	MTBLS725	Insufficient data supplied		2019-08-01	Submitted	Mahmoud Al-Majdoub																				84.02	19,532,157	80			
+2018-08-07	MTBLS726		Arabidopsis thaliana	2019-08-07	Submitted	Tom Metz																				0.04	19,532,157	80			
+2018-08-10	MTBLS727	UPLC-IT-TOF-MS/MS	Oryctolagus cuniculus	2018-09-10	In Curation	Ksenia Shestakova		AM	Mark	Done	Yes - Full		DOI	10.1007/s11306-018-1413-1	Full		MTBLS727-20180903	Passes	In contact			1				1,661.36	19,533,819	80			
+2018-08-10	MTBLS728	UPLC-IT-TOF-MS/MS	Oryctolagus cuniculus	2018-09-10	In Curation	Ksenia Shestakova		AMP	Mark	Done	Yes - Full		DOI	10.1007/s11306-018-1413-1	Full		MTBLS728-20180903	Passes	In contact			1				3,114.15	19,536,933	80			
+2018-08-11	MTBLS729	UPLC-QTOF-MS	Homo sapiens	2019-03-31	Submitted	Partho Sarathi Sen		L	Keeva				DOI (preprint)	10.1101/419416								1				2,463.03	19,539,396	80			
+2019-02-27	MTBLS730	Insufficient data supplied		2020-02-27	Submitted	Placeholder Placeholder																				0.01	19,539,396	86			
+2018-08-20	MTBLS731	HPLC-QTOF-MS	Homo sapiens	2018-08-27	Submitted	Amelia Palermo		RPM					Pubmed link	25959674												0.04	19,539,396	80			
+2018-08-21	MTBLS732	UPLC-QTOF-MS	Vitis vinifera	2018-08-28	Submitted	Mirko De Rosso		RP					Pubmed link	30830408												0.29	19,539,396	80			
+2018-08-24	MTBLS733	UPLC-LTQ-MS		2018-09-06	In Curation	yan lu		PFM	Mark				Pubmed link	29907290								1			MTBLS733 and MTBLS736 are part of the same study.	7,015.82	19,546,412	80			
+2018-08-27	MTBLS734	NMR	Homo sapiens	2019-08-28	Submitted	Kevin Mendez		R					Pubmed link	26645240												2.18	19,546,414	80			
+2018-08-28	MTBLS735	UPLC-QTOF-MS	Colletotrichum sp	2018-09-30	In Curation	Fidele Tugizimana		L	Mark										In contact			1				75,635.41	19,622,050	80			
+2018-08-28	MTBLS736	UPLC-QTOF-MS		2018-09-04	In Curation	yan lu		FM	Mark				Pubmed link	29907290								1			MTBLS733 and MTBLS736 are part of the same study.	32.29	19,622,082	80			
+2018-08-31	MTBLS737	UPLC-QTOF-MS	Homo sapiens	2018-11-14	Public	Malena Manzi			Keeva	Done	Yes - Partial		Pubmed link	30260228	Full		MTBLS737 - 20181113	Passes	In contact			1				595,100.68	20,217,183	81			
+2018-09-05	MTBLS738	UPLC-QTOF-MS	Solanum dulcamara	2019-06-30	In Curation	Onno W. Calf		PM	Keeva				Pubmed link	29383505								1			Steffen is helping out with this 	21,071.57	20,238,254	81			
+2018-09-05	MTBLS739	GC-Q-MS	Homo sapiens	2018-09-12	Submitted	Gabriela Venturini		PL																		301.70	20,238,556	81			
+2018-09-06	MTBLS740	NMR		2019-04-01	In Curation	Vadim Yanshole		PL	Mark													1				28.64	20,238,585	81			
+2018-09-06	MTBLS741	GC-Q-MS		2018-12-06	Submitted	Eduardo Medina		RML	Mark																	0.66	20,238,585	81			
+2018-09-10	MTBLS742	UPLC-QTOF-MS		2019-09-10	Submitted	Zhiwu Dan		L	Mark													1				126,258.56	20,364,844	81			
+2018-09-12	MTBLS743	UPLC-QTOF-MS		2018-02-12	In Curation	Aneesh Kumar		L	Keeva													1				1,079,174.32	21,444,018	81			
+2018-09-12	MTBLS744	3D MALDI imaging MS		2019-02-28	In Curation	Manuel Liebeke		RPML					DOI (preprint)	10.1101/555045											MTBLS744, MTBLS746, MTBLS805, MTBLS811 are part of the same study	1,173.68	21,445,192	81			
+2018-09-12	MTBLS745	LC-LTQ-MS		2018-10-31	In Curation	Yue Qi		P	Mark				Pubmed link	30393775								1				1,268.43	21,446,460	81			
+2018-09-12	MTBLS746	UPLC-LTQ-MS/MS		2019-02-28	In Curation	Manuel Liebeke		MFL					DOI (preprint)	10.1101/555045											MTBLS744, MTBLS746, MTBLS805, MTBLS811 are part of the same study	4,629.90	21,451,090	81			
+2018-09-13	MTBLS747	Insufficient data supplied		2018-09-20	Submitted	Alvaro Mena																				1.86	21,451,092	81			
+2018-09-14	MTBLS748	GC-Q-MS		2019-09-01	In Curation	Hayley Abbiss		PM	Mark				Thesis	http://researchrepository.murdoch.edu.au/id/eprint/41472								1				8,904.08	21,459,996	81			
+2018-09-18	MTBLS749	HPLC-LTQ-MS/MS		2019-09-19	In Curation	Stephanie Herman		PL	Keeva				Pubmed link	30858393												26,048.63	21,486,045	81			
+2018-09-19	MTBLS750	UPLC-LTQ-MS		2019-01-07	Public	Ivan Nemazanyy			Mark	Done	Yes - No data		Pubmed link	30420558	Full		MTBLS750-20190107	Passes	In contact		1					1,561.49	21,487,606	81			
+2018-09-20	MTBLS751	HPLC-LTQ-MS		2018-11-14	Public	Mei-Ling Han		L	Keeva	Done	Yes - Full		No		Full		MTBLS751 - 20181114	Passes	In contact							34,058.47	21,521,665	81			
+2018-09-20	MTBLS752	UPLC-TOF-MS		2018-10-26	Public	Mathieu Cladiere			Mark	Done	Yes - No data		DOI	10.1016/j.foodchem.2018.10.089	Full		MTBLS752-20181025	Passes	In contact		1					27,825.55	21,549,490	81			
+2018-09-20	MTBLS753	UPLC-LTQ-MS/MS		2019-09-20	In Curation	Caitlin Keller			Keeva				Pubmed link	30401779								1				35,197.85	21,584,688	81			
+2018-09-21	MTBLS754	UPLC-TOF-MS		2018-10-26	Public	Mathieu Cladiere			Mark	Done	Yes - No data		DOI	10.1016/j.foodchem.2018.10.089	Full		MTBLS754-20181025	Passes	In contact		1					34,008.83	21,618,697	81			
+2018-09-22	MTBLS755	UPLC-LTQ-MS/MS		2018-12-31	In Curation	Alejandro Villar-Briones		P	Mark				Pubmed link	30261630								1				2,236.80	21,620,934	81			
+2018-09-23	MTBLS756	UPLC-TOF-MS		2019-01-18	Public	Adlin Afzan		L	Mark	Done	Yes - No data				Full		MTBLS756-20190114	Passes	In contact			1				4,869.97	21,625,804	81			
+2018-09-24	MTBLS757	LC-LTQ-MS/MS		2018-12-01	In Review	Martijn Molenaar		LM	Mark	Done	Yes - Full		DOI (preprint)	10.1101/398040 	Full		MTBLS757-20181010	Passes	In contact		1				Over 700 lipids in MAF so will have to be done in future.	3,160.83	21,628,964	81			
+2018-09-27	MTBLS758	GC-Q-MS		2018-12-31	In Curation	Constanze Kuhlisch		L	Mark												1					1,980.77	21,630,945	81			
+2018-09-30	MTBLS759	UPLC-IT-TOF-MS		2018-10-07	Submitted	Dmitry Nazarenko		PL																		360.54	21,631,306	81			
+2018-10-02	MTBLS760	TD-GC-Q-MS		2018-12-18	In Curation	Ravindra Taware		L	Mark				Pubmed link	30531924								1				2,241.55	21,633,547	82			
+2018-10-05	MTBLS761	MAS-NMR		2018-10-19	In Review	Damian Hertig		L	Mark	Done	Yes - No data				Full		MTBLS761-20181011	Passes	In contact		1					174.22	21,633,722	82			
+2018-10-06	MTBLS762	UPLC-TOF-MS		2018-11-26	Public	Yan Bingpeng		ML	Keeva	Done	Yes - Full		No		Full		MTBLS762 - 20181126	Passes	In contact							7,206.61	21,640,928	82			
+2018-10-08	MTBLS763	GC-Q-MS;UPLC-LTQ-MS	Gallus gallus	2019-04-01	In Review	Stephane Beauclercq		ML	Keeva	Done	Yes - Full		No				MTBLS763 - 20190107	Passes	In contact			1				41,060.00	21,681,988	82			
+2018-10-09	MTBLS764	NMR		2018-10-16	In Curation	Gregory Medlock		P	Keeva				Pubmed link	30195437								1				406.45	21,682,395	82			
+2018-10-10	MTBLS765	3D LAESI imaging MS		2018-12-31	In Curation	Sylwia Stopka		LT	Mark				DOI	doi:10.3389/fpls.2018.01646								1				10,575.45	21,692,970	82			
+2019-02-27	MTBLS766			2020-02-27	Submitted	Placeholder Placeholder																				0.01	21,692,970	86			
+2018-10-14	MTBLS767	GC-TOF-MS;UPLC-QTOF-MS/MS		2018-11-29	Public	Guy Schleyer		ML	Mark	Done			DOI (preprint)	10.1101/317206	Full		MTBLS767-20181121	Passes	In contact		1				LC- and GC- parts of MTBLS769	20,067.77	21,713,038	82			
+2018-10-22	MTBLS768	GC-Q-MS;HPLC-QTOF-MS		2018-11-05	In Curation	unnikrishnan Kuzhiumparambil		PM(LC)L	Mark																	1,654.36	21,714,692	82			
+2018-10-24	MTBLS769	LMJ-SSP/ESI imaging MS;MALDI imaging MS		2018-11-29	Public	Guy Schleyer		MAL	Mark	Complete			DOI (preprint)	10.1101/317206	Full		MTBLS769-20181121	Passes	In contact		1				Imaging part of MTBLS767	10,849.74	21,725,542	82			
+2018-10-24	MTBLS770	UPLC-QTOF-MS/MS		2018-12-31	In Review	Junjun He		M	Mark	Done	Yes - No data				Full		MTBLS770-20181129		In contact		1				Small number of Metabolites need adding to CHEBI from MAF	35,992.21	21,761,534	82			
+2018-10-25	MTBLS771	UPLC-TOF-MS;UPLC-LTQ-MS		2019-02-12	Public	Mathieu Cladiere			Mark	Done	Yes - No data		DOI	10.1016/j.foodcont.2018.12.004	Full		MTBLS771-20181112		In contact		1					11,449.88	21,772,984	82			
+2018-10-25	MTBLS772	UPLC-TOF-MS;UPLC-LTQ-MS		2019-02-12	Public	Mathieu Cladiere			Mark	Done	Yes - No data		DOI	10.1016/j.foodcont.2018.12.004	Full		MTBLS772-20181112		In contact		1					10,744.57	21,783,729	82			
+2018-10-25	MTBLS773	HPLC-LTQ-MS/MS		2019-02-12	Public	James William Allwood		ML	Mark	Done	Yes - Full				Full		MTBLS773-20181026	Passes	In contact		1					9,485.51	21,793,214	82			
+2018-10-28	MTBLS774			2019-03-29	In Curation	Fereshteh Zandkarimi			Keeva																	7,354.09	21,800,568	82			
+2018-10-28	MTBLS775	UPLC-LTQ-MS		2020-01-30	In Review	Marine Vallet		M	Keeva	Done	Yes - Partial				Full		MTBLS775 - 20190301	Passes	In contact					Full	Has MSMS data that could be added to compound library 	4,978.34	21,805,547	82			
+2018-10-30	MTBLS776	UPLC-QTOF-MS		2018-12-31	Submitted	Yan Ren		Everything																		1.17	21,805,548	82			
+2018-11-02	MTBLS777	UPLC-QTOF-MS		2018-11-08	Submitted	liliana santacruz		PML					Pubmed link	30634471												373.86	21,805,922	83			
+2018-11-04	MTBLS778	Insufficient data supplied		2018-11-12	Submitted	Ruiqun Chen																				0.05	21,805,922	83			
+2018-11-04	MTBLS779	GC-TOF-MS		2019-11-04	Submitted	feng liu		L														1				1,403.26	21,807,325	83			
+2018-11-05	MTBLS780	GC-Q-MS		2019-01-16	Public	Kang Kang		L	Keeva	Done	Yes - Full		No		Full		MTBLS780 - 20190116	Passes	In contact							4,830.77	21,812,156	83			
+2018-11-06	MTBLS781	NMR		2018-12-04	Submitted	William Joesten		MPL																		155.86	21,812,311	83			
+2018-11-08	MTBLS782	Insufficient data supplied		2019-01-03	Submitted	Mingyong Zhang																				17.82	21,812,329	83			
+2018-11-09	MTBLS783	HPLC-LTQ-MS		2018-11-16	Submitted	Ric de Vos		RM					DOI	10.1007/s11306-018-1443-8												0.11	21,812,329	83			
+2018-11-09	MTBLS784	UPLC-QTOF-MS		2019-11-09	Submitted	LaÃ­s Moro		RL																		0.15	21,812,330	83			
+2018-11-12	MTBLS785	UPLC-QTOF-MS		2019-03-01	Submitted	Jan Lisec		RM																		0.10	21,812,330	83			
+2018-11-14	MTBLS786	UPLC-TOF-MS		2018-12-18	Submitted	Clayton Birkett		RML	Mark																	0.63	21,812,330	83			
+2018-11-14	MTBLS787	LC-QTOF-MS/MS		2019-12-31	In Curation	Romanas Chaleckis			Mark																	11,455.19	21,823,785	83			
+2018-11-15	MTBLS788	LC-LTQ-MS		2019-11-15	In Review	Isabel Vincent		L	Mark	Done	Yes - No data				Full		MTBLS788-20190109	Passes	In contact		1					9,830.64	21,833,616	83			
+2018-11-15	MTBLS789	GC-TOF-MS	Homo sapiens	2018-12-04	Public	Magnus Sellstedt		L	Keeva	Done	Yes - Partial		No		Full		MTBLS789 - 20181122	Passes	In contact				Y	Full		2,246.16	21,835,862	83			
+2018-11-18	MTBLS790			2018-12-19	Submitted	Metabolon Submission, Placeholder Placeholder																				0.01	21,835,862	83			
+2018-11-18	MTBLS791	UPLC-QTOF-MS		2018-12-31	Submitted	Fidele Tugizimana			Mark																	0.51	21,835,863	83			
+2018-11-19	MTBLS792	HPLC-LTQ-MS		2018-11-26	Submitted	Andrea F. Lopez-Clavijo																				2,940.17	21,838,803	83			
+2018-11-23	MTBLS793	LC-LTQ-MS		2019-11-23	In Review	Isabel Vincent		L	Mark	Done	Yes - Full				Full		MTBLS793-20190109	Passes	In contact		1					3,655.30	21,842,458	83			
+2018-11-27	MTBLS794	NMR;LC-LTQ-MS		2019-02-28	Submitted	Antonia Piazzesi			Keeva																	10.60	21,842,469	83			
+2018-11-28	MTBLS795	Insufficient data supplied		2019-11-28	Submitted	Ruiqun Chen																				0.04	21,842,469	83			
+2018-11-29	MTBLS796	NMR;UPLC-QTOF-MS		2019-06-01	Submitted	Brian Goodfellow																				39.50	21,842,508	83			
+2018-11-30	MTBLS797	HPLC-LTQ-MS		2018-12-31	Submitted	RuAngelie Edrada-Ebel																				7,501.13	21,850,010	83			
+2018-12-05	MTBLS798	NMR		2019-02-28	Submitted	Wolfram Gronwald																				9,655.73	21,859,665	84			
+2018-12-05	MTBLS799	UPLC-QTOF-MS		2019-12-05	Submitted	Rodrigo de Faria																				670.17	21,860,335	84			
+2018-12-10	MTBLS800	NMR		2019-01-14	Submitted	Yaqian Jin																				0.38	21,860,336	84			
+2018-12-10	MTBLS801	GC-TOF-MS		2019-01-14	In Curation	Lovely Mae Lawas																				442,955.68	22,303,291	84			
+2018-12-14	MTBLS802	GCxGC-TOF-MS		2019-12-01	Submitted	Santosh Lamichhane																				4.22	22,303,296	84			
+2018-12-16	MTBLS803	GC-Q-MS		2019-01-04	Public	Darshan Dhakan		L	Mark	Done	Yes - Full				Full		MTBLS803-20181218	Passes	In contact		1					5,765.46	22,309,061	84			
+2018-12-17	MTBLS804	Insufficient data supplied		2019-01-07	Submitted	James William Allwood			Mark																	0.01	22,309,061	84			
+2018-12-17	MTBLS805	MALDI-LTQ-MS/MS		2019-02-28	In Curation	Manuel Liebeke							DOI (preprint)	10.1101/555045											MTBLS744, MTBLS746, MTBLS805, MTBLS811 are part of the same study	3,300.41	22,312,362	84			
+2018-12-18	MTBLS806	NMR		2018-12-25	Submitted	Vadim Yanshole																				26.47	22,312,388	84			
+2018-12-18	MTBLS807	GC-Q-MS		2019-02-05	In Curation	Manuel Liebeke																				2,048.03	22,314,436	84			
+2018-12-19	MTBLS808	GC-Q-MS;GC-FID;PTR-TOF-MS		2019-04-11	Submitted	Federico Vita			Mark																	4,114.26	22,318,550	84			
+2018-12-19	MTBLS809	UPLC-QTOF-MS		2019-12-22	In Curation	zhengzhong luo			Mark																	5,460.16	22,324,011	84			
+2018-12-19	MTBLS810	UPLC-QTOF-MS		2019-02-07	In Curation	Adriana Zardini Buzatto																				341,677.39	22,665,688	84			
+2018-12-20	MTBLS811	DI-FT-ICR-MS		2019-02-28	In Curation	Manuel Liebeke							DOI	10.1101/555045											MTBLS744, MTBLS746, MTBLS805, MTBLS811 are part of the same study	780.58	22,666,468	84			
+2018-12-20	MTBLS812	UPLC-QTOF-MS		2020-01-04	In Curation	Simon Lagies																				29,072.79	22,695,541	84			
+2018-12-20	MTBLS813	UPLC-TQ-MS		2019-02-28	Submitted	Mariana Sponchiado																				0.28	22,695,542	84			
+2018-12-21	MTBLS814	UPLC-TQ-MS		2019-03-12	In Curation	Guodong Rao			Mark																	8.14	22,695,550	84			
+2018-12-23	MTBLS815	GC-Q-MS		2018-12-31	Submitted	Kang Kang																				4,823.19	22,700,373	84			
+2018-12-25	MTBLS816	LC-QTOF-MS		2019-12-31	In Curation	Romanas Chaleckis			Mark																	53,378.41	22,753,751	84			
+2018-12-25	MTBLS817	UPLC-QTOF-MS		2019-01-07	Submitted	Fidele Tugizimana			Mark																	0.35	22,753,752	84			
+2018-12-27	MTBLS818	Insufficient data supplied		2019-01-03	Submitted	Mingyong Zhang																				7.24	22,753,759	84			
+2018-12-29	MTBLS819	UPLC-QTOF-MS/MS		2019-09-02	Submitted	jia tu																				2,268.32	22,756,027	84			
+2019-01-01	MTBLS820	UPLC-QTOF-MS/MS		2019-09-02	Submitted	jia tu																				2,964.52	22,758,992	85			
+2019-01-04	MTBLS821	LC-LTQ-MS	Macaca mulatta;Plasmodium knowlesi	2019-01-11	Public	Jessica Kissinger		L	Keeva	Complete	Yes - Full		No		Full		MTBLS821 - 20190111	Passes	In contact							121.84	22,759,114	85			
+2019-01-04	MTBLS822	LC-LTQ-MS	Macaca fascicularis;Plasmodium knowlesi	2019-01-11	Public	Jessica Kissinger		L	Keeva	Complete	Yes - Full		No		Full		MTBLS821 - 20190111	Passes	In contact							152.17	22,759,266	85			
+2019-01-05	MTBLS823	HPLC-QTOF-MS/MS		2019-09-02	Submitted	jia tu																				2,230.65	22,761,496	85			
+2019-01-07	MTBLS824	LC-LTQ-MS	Macaca mulatta;Plasmodium knowlesi	2019-01-14	Public	Jessica Kissinger		L	Keeva	Complete	Yes - Full		No		Full		MTBLS821 - 20190111	Passes	In contact							79.11	22,761,575	85			
+2019-01-08	MTBLS825	UPLC-LTQ-MS		2019-02-05	In Curation	Kristaps Klavins			Keeva																	31,339.30	22,792,915	85			
+2019-01-10	MTBLS826	GC-Q-MS		2019-02-05	In Review	Manuel Liebeke		L	Mark		Yes - No data		DOI (preprint)	10.1101/528307	Full		MTBLS826-20190129		In contact		1					160.76	22,793,076	85			
+2019-01-10	MTBLS827	UPLC-LTQ-MS		2019-03-28	Submitted	Kristine Werling																				4.28	22,793,080	85			
+2019-01-13	MTBLS828	LC-QTOF-MS		2019-12-31	Submitted	Romanas Chaleckis			Mark																	1.11	22,793,081	85			
+2019-01-14	MTBLS829	UPLC-QTOF-MS		2019-02-07	Submitted	Adriana Zardini Buzatto																				0.07	22,793,081	85			
+2019-01-15	MTBLS830	Insufficient data supplied		2019-07-31	Submitted	Yang Wang																				0.03	22,793,081	85			
+2019-01-16	MTBLS831	Insufficient data supplied		2019-01-23	Submitted	Joerg Ziegler																				0.07	22,793,081	85			
+2019-01-16	MTBLS832	NMR		2020-01-21	In Curation	Mariana Palma			Mark																	54.46	22,793,136	85			
+2019-03-04	MTBLS833			2020-03-04	Submitted	Placeholder Placeholder			Mark																	0.01	22,793,136	87			
+2019-01-19	MTBLS834	UPLC-QTOF-MS/MS		2019-09-01	Submitted	Placeholder Placeholder			Mark																	0.01	22,793,136	85			
+2019-01-19	MTBLS835	UPLC-QTOF-MS/MS		2019-09-03	Submitted	jia tu			Mark																	2,540.28	22,795,676	85			
+2019-01-21	MTBLS836	FIA-LTQ-MS		2019-03-20	In Review	Yuya Hidoh		L	Mark	Done	Yes - Full				Full		MTBLS836-20190304	Passes	In contact		1					633.29	22,796,309	85			
+2019-01-21	MTBLS837	SPME-GC-Q-MS		2019-02-01	Submitted	Thy Truong			Mark																	33.25	22,796,342	85			
+2019-01-22	MTBLS838	UPLC-QTOF-MS/MS		2020-01-23	Submitted	Wenhe Zhu																				3,839.64	22,800,182	85			
+2019-01-29	MTBLS839	GC-Q-MS		2019-02-05	In Review	Manuel Liebeke		L	Mark		Yes - No data		DOI (preprint)	10.1101/528307	Full		MTBLS839-20190129		In contact		1					104.26	22,800,286	85			
+2019-01-23	MTBLS840	UPLC-LTQ-MS		2019-04-20	Submitted	Guillermo Padilla-Gonzalez																				11,972.88	22,812,259	85			
+2019-01-23	MTBLS841	NMR		2020-01-23	Submitted	Luca Laghi																				5.80	22,812,265	85			
+2019-01-24	MTBLS842	SESI-LTQ-MS		2019-05-01	In Review	Kapil Dev Singh, Georgi Tancev		L	Mark	Done	No				Full		MTBLS842-20190305	Passes	In contact		1					12,441.23	22,824,706	85			
+2019-01-25	MTBLS843	GC-Q-MS		2019-02-05	In Review	Manuel Liebeke		L	Mark		Yes - No data		DOI (preprint)	10.1101/528307	Full		MTBLS843-20190129		In contact		1					202.37	22,824,909	85			
+2019-01-25	MTBLS844	GC-Q-MS		2019-02-05	In Review	Manuel Liebeke		L	Mark		Yes - No data		DOI (preprint)	10.1101/528307	Full		MTBLS844-20190129		In contact		1					167.54	22,825,076	85			
+2019-01-28	MTBLS845	HPLC-QTOF-MS/MS		2019-02-04	Submitted	Mariona Jove																				0.20	22,825,076	85			
+2019-01-28	MTBLS846	LC-TQ-MS/MS		2019-05-18	Submitted	Charles Berdan																				251.11	22,825,327	85			
+2019-01-29	MTBLS847	NMR		2019-02-28	Submitted	Olga Snytnikova			Mark																	38.24	22,825,366	85			
+2019-01-29	MTBLS848	GC-Q-MS		2019-02-05	In Review	Manuel Liebeke		L	Mark		Yes - No data		DOI (preprint)	10.1101/528307	Full		MTBLS848-20190129		In contact		1					451.84	22,825,817	85			
+2019-01-29	MTBLS849	GC-Q-MS		2019-02-05	In Review	Manuel Liebeke		L	Mark		Yes - No data		DOI (preprint)	10.1101/528307	Full		MTBLS849-20190129		In contact		1					71.18	22,825,889	85			
+2019-01-29	MTBLS850	UPLC-LTQ-MS/MS		2019-06-15	Submitted	Placeholder Placeholder																				0.02	22,825,889	85			
+2019-01-30	MTBLS851	UPLC-QTOF-MS		2019-12-31	Submitted	Kristian Peters																				68,148.44	22,894,037	85			
+2019-01-30	MTBLS852	UPLC-QTOF-MS/MS		2019-02-20	Submitted	Chun-Xue Zhou																				0.31	22,894,037	85			
+2019-01-30	MTBLS853	UPLC-LTQ-MS/MS		2019-06-15	Submitted	Placeholder Placeholder																				0.01	22,894,037	85			
+2019-01-30	MTBLS854	UPLC-LTQ-MS/MS		2019-06-15	Submitted	Charandeep Singh																				1,142.82	22,895,180	85			
+2019-01-31	MTBLS855	GC-Q-MS		2019-03-19	Submitted	Guodong Rao			Mark																	4.48	22,895,185	86			
+2019-01-31	MTBLS856	UPLC-LTQ-MS/MS		2019-06-15	In Curation	Charandeep Singh																				4,259.58	22,899,444	86			
+2019-02-07	MTBLS857	UPLC-LTQ-MS		2019-03-01	Submitted	Ivan Nemazanyy																				1,550.66	22,900,995	86			
+2019-02-07	MTBLS858	LC-LTQ-MS		2020-02-13	In Curation	Isabel Vincent			Mark								MTBLS858-20190211									8,316.85	22,909,312	86			
+2019-02-08	MTBLS859	NMR		2019-10-31	Submitted	Suehelay Acevedo			Mark																	16.07	22,909,328	86			
+2019-02-09	MTBLS860			2019-02-28	Submitted	Ali Yilmaz			Mark																	118.20	22,909,446	86			
+2019-02-12	MTBLS861	HPLC-QTOF-MS		2019-04-30	Submitted	Ming Lei																				5,606.68	22,915,053	86			
+2019-02-13	MTBLS862	NMR		2019-03-18	In Curation	Erik Andersson			Mark																	50.53	22,915,103	86			
+2019-02-13	MTBLS863			2019-03-15	Submitted	Ali Yilmaz			Mark																	172.82	22,915,276	86			
+2019-02-14	MTBLS864			2020-02-14	Submitted	Venkata Chandrasekhar Nainala																				1,769.76	22,917,046	86			
+2019-02-18	MTBLS865	UPLC-QTOF-MS		2020-02-02	Submitted	Steffen Neumann																				0.05	22,917,046	86			
+2019-02-18	MTBLS866	GC-Q-MS		2020-02-02	Submitted	Steffen Neumann																				0.06	22,917,046	86			
+2019-02-20	MTBLS867	UPLC-QTOF-MS/MS		2019-04-30	In Curation	Aneesh Kumar			Keeva																	64,276.57	22,981,323	86			
+2019-02-20	MTBLS868	LC-LTQ-MS		2020-02-20	In Curation	Clement Regnault			Mark																	4,526.38	22,985,849	86			
+2019-02-22	MTBLS869	MAS-NMR		2020-02-22	In Review	Caroline Bund		L	Mark	Done	Yes - Full				Full		MTBLS869-20190226	Passes	In contact		1					37.55	22,985,887	86			
+2019-02-25	MTBLS870			2020-02-25	In Curation	Mariana Palma			Mark																	5.18	22,985,892	86			
+2019-02-26	MTBLS871			2019-03-30	In Curation	Anjaritha Aulia Rizky Parijadi			Mark																	1,707.33	22,987,599	86			
+2019-02-27	MTBLS872			2019-03-22	In Curation	Anjaritha Aulia Rizky Parijadi			Mark																	3,417.98	22,991,017	86			
+2019-02-27	MTBLS873			2019-05-31	Submitted	Rodrigo Lopez-MuÃ±oz																				671.24	22,991,688	86			
+2019-02-28	MTBLS874			2020-02-28	Submitted	Olivier Thomas																				0.04	22,991,688	86			
+2019-02-28	MTBLS875			2019-07-01	Submitted	Aidan McGlinchey																				0.53	22,991,689	86			
+2019-03-01	MTBLS876			2019-03-29	Submitted	Yi Yang																				57.99	22,991,747	87			
+2019-03-07	MTBLS877			2020-03-07	Submitted	User Cochrane																				154.76	22,991,902	87			
+2019-03-07	MTBLS878			2020-03-07	Submitted	Ananda Antonio																				0.03	22,991,902	87			
+2019-03-08	MTBLS879			2019-03-31	Submitted	liliana santacruz																				0.74	22,991,902	87			
+2019-03-09	MTBLS880			2020-03-09	Submitted	kang huang																				0.02	22,991,902	87			
+2019-03-12	MTBLS881			2020-03-12	Submitted	Raluca Maltesen																				0.03	22,991,902	87			
+2019-03-12	MTBLS882			2019-03-19	Submitted	Federica Giordani																				4,554.84	22,996,457	87			
+2019-03-12	MTBLS883			2019-04-23	Submitted	Ronan Daly																				23,647.41	23,020,105	87			
+	MTBLS884																										23,020,105				
+	MTBLS885																										23,020,105				
+	MTBLS886																										23,020,105				
+	MTBLS887																										23,020,105				
+	MTBLS888																										23,020,105				
+	MTBLS889																										23,020,105				
+	MTBLS890																										23,020,105				
+	MTBLS891																										23,020,105				
+	MTBLS892																										23,020,105				
+	MTBLS893																										23,020,105				
+	MTBLS894																										23,020,105				
+	MTBLS895																										23,020,105				
+	MTBLS896																										23,020,105				
+	MTBLS897																										23,020,105				
+	MTBLS898																										23,020,105				
+	MTBLS899																										23,020,105				
+	MTBLS900																										23,020,105				
+	MTBLS901																										23,020,105				
+	MTBLS902																										23,020,105				
+	MTBLS903																										23,020,105				
+	MTBLS904																										23,020,105				
+	MTBLS905																										23,020,105				
+	MTBLS906																										23,020,105				
+	MTBLS907																										23,020,105				
+	MTBLS908																										23,020,105				
+	MTBLS909																										23,020,105				
+	MTBLS910																										23,020,105				
+	MTBLS911																										23,020,105				
+	MTBLS912																										23,020,105				
+	MTBLS913																										23,020,105				
+	MTBLS914																										23,020,105				
+	MTBLS915																										23,020,105				
+	MTBLS916																										23,020,105				
+	MTBLS917																										23,020,105				
+	MTBLS918																										23,020,105				
+	MTBLS919																										23,020,105				
+	MTBLS920																										23,020,105				
+	MTBLS921																										23,020,105				
+	MTBLS922																										23,020,105				
+	MTBLS923																										23,020,105				
+	MTBLS924																										23,020,105				
+	MTBLS925																										23,020,105				
+	MTBLS926																										23,020,105				
+	MTBLS927																										23,020,105				
+	MTBLS928																										23,020,105				
+	MTBLS929																										23,020,105				
+	MTBLS930																										23,020,105				
+	MTBLS931																										23,020,105				
+	MTBLS932																										23,020,105				
+	MTBLS933																										23,020,105				
+	MTBLS934																										23,020,105				
+	MTBLS935																										23,020,105				
+	MTBLS936																										23,020,105				
+	MTBLS937																										23,020,105				
+	MTBLS938																										23,020,105				
+	MTBLS939																										23,020,105				
+	MTBLS940																										23,020,105				
+	MTBLS941																										23,020,105				
+	MTBLS942																										23,020,105				
+	MTBLS943																										23,020,105				
+	MTBLS944																										23,020,105				
+	MTBLS945																										23,020,105				
+	MTBLS946																										23,020,105				
+	MTBLS947																										23,020,105				
+	MTBLS948																										23,020,105				
+	MTBLS949																										23,020,105				
+	MTBLS950																										23,020,105				
+	MTBLS951																										23,020,105				
+	MTBLS952																										23,020,105				
+	MTBLS953																										23,020,105				
+	MTBLS954																										23,020,105				
+	MTBLS955																										23,020,105				
+	MTBLS956																										23,020,105				
+	MTBLS957																										23,020,105				
+	MTBLS958																										23,020,105				
+	MTBLS959																										23,020,105				
+	MTBLS960																										23,020,105				
+	MTBLS961																										23,020,105				
+	MTBLS962																										23,020,105				
+	MTBLS963																										23,020,105				
+	MTBLS964																										23,020,105				
+	MTBLS965																										23,020,105				
+	MTBLS966																										23,020,105				
+	MTBLS967																										23,020,105				
+	MTBLS968																										23,020,105				
+	MTBLS969																										23,020,105				
+	MTBLS970																										23,020,105				
+	MTBLS971																										23,020,105				
+	MTBLS972																										23,020,105				
+	MTBLS973																										23,020,105				
+	MTBLS974																										23,020,105				
+	MTBLS975																										23,020,105				
+	MTBLS976																										23,020,105				
+	MTBLS977																										23,020,105				
+	MTBLS978																										23,020,105				
+	MTBLS979																										23,020,105				
+	MTBLS980																										23,020,105				
+	MTBLS981																										23,020,105				
+	MTBLS982																										23,020,105				
+	MTBLS983																										23,020,105				
+	MTBLS984																										23,020,105				
+	MTBLS985																										23,020,105				
+	MTBLS986																										23,020,105				
+	MTBLS987																										23,020,105				
+	MTBLS988																										23,020,105				
+	MTBLS989																										23,020,105				
+	MTBLS990																										23,020,105				
+	MTBLS991																										23,020,105				
+	MTBLS992																										23,020,105				
+	MTBLS993																										23,020,105				
+	MTBLS994																										23,020,105				
+	MTBLS995																										23,020,105				
+	MTBLS996																										23,020,105				
+	MTBLS997																										23,020,105				
+	MTBLS998																										23,020,105				
+	MTBLS999																										23,020,105				
+	MTBLS1000	Party Time - landmark event																									23,020,105				
