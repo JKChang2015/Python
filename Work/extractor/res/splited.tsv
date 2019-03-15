@@ -1,0 +1,597 @@
+MTBLS ID	Study Type	Full name	Classify
+MTBLS1	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS2	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS3	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS4	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS5	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS6	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS7	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS8	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS10	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS11	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS12	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS13	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS14	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS15	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS16	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS17	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS18	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS18	UPLC-DAD	Ultra Performance Liquid Chromatography Diode Array Detection	LC-MS
+MTBLS19	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS20	FIA-LTQ-MS/MS	Flow Injection Analysis Linear Trap Quadrupole Tandem MS	Direct Infusion
+MTBLS20	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS21	GC-QIT-MS	Gas Chromatography Quadrupole Ion Trap MS	GC-MS
+MTBLS22	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS23	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS24	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS25	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS26	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS26	UPLC-LTQ-FT-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform MS	LC-MS
+MTBLS27	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS28	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS29	MALDI-TOF/TOF-MS	Matrix Assisted Laser Desorption/Ionization Time-Of-Flight MS	MALDI MS
+MTBLS31	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS32	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS33	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS34	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS35	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS36	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS37	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS38	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS39	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS40	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS41	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS42	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS43	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS44	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS45	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS46	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS47	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS48	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS49	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS52	UPLC-DAD	Ultra Performance Liquid Chromatography Diode Array Detection	LC-MS
+MTBLS52	HPLC-QIT-MS	High Performance Liquid Chromatography Quadrupole Ion Trap MS	LC-MS
+MTBLS53	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS54	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS55	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS56	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS57	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS58			
+MTBLS59	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS61	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS62	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS63	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS64	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS65	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS66	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS66	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS67	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS68	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS69	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS71	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS72	FIA-TQ-MS/MS	Flow Injection Analysis Triple Quadrupole Tandem MS	Direct Infusion
+MTBLS72	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS73	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS74	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS75	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS76	DI-LTQ-MS	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MTBLS77	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS79	DI-FT-ICR-MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+MTBLS81	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS81	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS83	UPLC-MS/MS	Ultra Performance Liquid Chromatography Tandem MS	LC-MS
+MTBLS85	UPLC-DAD	Ultra Performance Liquid Chromatography Diode Array Detection	LC-MS
+MTBLS86	UPLC-DAD	Ultra Performance Liquid Chromatography Diode Array Detection	LC-MS
+MTBLS87	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS88	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS89	UPLC-MS/MS	Ultra Performance Liquid Chromatography Tandem MS	LC-MS
+MTBLS90	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS91	DI-FT-ICR-MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+MTBLS92	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS93	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS94	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS95	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS96	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS98	DI-LTQ-MS	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MTBLS99	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS100	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS102	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS103	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS103	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS104	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS105	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS105	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS106			
+MTBLS107	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS108	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS109	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS110	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS111	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS112	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS113	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS114	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS115	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS116	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS117	DI-LTQ-MS/MS	Direct Infusion Linear Trap Quadrupole Tandem MS	Direct Infusion
+MTBLS118	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS119	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS120	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS123	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS124	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS125	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS126	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS127	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS128	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS129	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS129	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS131	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS132	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS133	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS134	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS135	UPLC-MS/MS	Ultra Performance Liquid Chromatography Tandem MS	LC-MS
+MTBLS136			
+MTBLS137	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS140	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS142	HPLC-QTOF-MS/MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS143	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS144	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS144	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS145			
+MTBLS146	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS147	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS148	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS149	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS150	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS151	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS152	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS154	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS154	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS154	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS155	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS155	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS155	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS156	MAS-NMR	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
+MTBLS157	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS157	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS157	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS158			
+MTBLS159			
+MTBLS160	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS161	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS162	DI-LTQ-MS	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MTBLS163	LC-TQ-MS/MS	Liquid Chromatography Triple Quadrupole Tandem MS	LC-MS
+MTBLS164	PTR-MS	Proton Transfer Reaction MS	PTR
+MTBLS165	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS166	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS168	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS169	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS170	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS171	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS172	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS173	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS173	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS173	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS174	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS175	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS175	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS176	3D MALDI imaging MS	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS	MS
+MTBLS176	3D DESI imaging MS	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+MTBLS177	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS178	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS179			
+MTBLS182	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS183	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS184	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS185	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS187	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS188	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS189	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS191	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS193	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS194	HPLC-FT-ICR-MS	High Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS196	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS196	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS197	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS198	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS200	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS200	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS203	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS208	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS209	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS209	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS210	DI-FT-ICR-MS/MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance Tandem MS	Direct Infusion
+MTBLS212	SPME-GCxGC-TOF-MS	Solid-Phase-Micro-Extraction Tandem Gas Chromatography Time-Of-Flight MS	SPE
+MTBLS213	UPLC-MS	Ultra Performance Liquid Chromatography MS	LC-MS
+MTBLS214	UFLC-QTOF-MS/MS	Ultra Fast Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS215	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS216	LC-QTOF-MS	Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS217	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS218	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS219	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS225	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS225	HPLC-TQ-MS/MS	High Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS226	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS227	HPLC-IT-MS	High Performance Liquid Chromatography Ion Trap MS	LC-MS
+MTBLS227	MALDI-TOF/TOF-MS/MS	Matrix Assisted Laser Desorption/Ionization Time-Of-Flight Tandem MS	MALDI MS
+MTBLS228	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS229	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS230	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS233	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS234	LC-QTOF-MS	Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS235	LC-MS simulation	Liquid Chromatography MS simulation	LC-MS
+MTBLS237	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS240	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS241	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS242	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS243	HPLC-TQ-MS/MS	High Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS244	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS247	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS249	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS253	HPLC-TQ-MS	High Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS256	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS259	DI-FT-ICR-MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+MTBLS260	DI-FT-ICR-MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+MTBLS261	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS263	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS264	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS265	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS266	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS267	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS269	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS270	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS272	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS273	3D DESI imaging MS	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+MTBLS274	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS275	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS276	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS277	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS278	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS279	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS280	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS281	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS281	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS281	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS282	3D DESI imaging MS	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+MTBLS283	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS283	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS286	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS287	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS288	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS289	3D DESI imaging MS	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+MTBLS290	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS291	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS292	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS293	LC-FT-ICR-MS	Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS293	LC-LTQ-FT-MS/MS	Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS293	LC-TQ-MS	Liquid Chromatography Triple Quadrupole MS	LC-MS
+MTBLS295	UPLC-FT-ICR-MS	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS295	UPLC-LTQ-FT-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS295	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS296	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS297	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS298	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS303	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS304	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS306	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS307	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS309	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS309	GC-TQ-MS	Gas Chromatography Triple Quarupole MS	GC-MS
+MTBLS309	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS311	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS311	GC-TQ-MS	Gas Chromatography Triple Quarupole MS	GC-MS
+MTBLS312	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS312	GC-TQ-MS	Gas Chromatography Triple Quarupole MS	GC-MS
+MTBLS312	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS313	3D MALDI imaging MS	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS	MS
+MTBLS315	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS315	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS315	LC-QTOF-MS	Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS316	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS317	3D MALDI imaging MS simulation	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS simulation	MS
+MTBLS319	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS320	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS321	GC-QTOF-MS	Gas Chromatography Quadrupole Time-Of-Flight MS	GC-MS
+MTBLS322	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS323	DI-LTQ-MS/MS	Direct Infusion Linear Trap Quadrupole Tandem MS	Direct Infusion
+MTBLS326	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS327	DI-LTQ-MS	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MTBLS328	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS330	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS331	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS332	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS333	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS334	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS335	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS336	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS336	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS337	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS338	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS338	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS340	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS341	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS341	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS342	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS343	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS345	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS346	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS349	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS350	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS352	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS354	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS355	DI-FT-ICR-MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+MTBLS355	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS356	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS358	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS358	DI-LTQ-MS	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MTBLS359	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS360	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS361	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS362	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS363	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS364	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS366	DI-FT-ICR-MS	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+MTBLS367	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS368	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS368	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS370	GC-LTQ-MS	Gas Chromatography Linear Trap Quadrupole MS	GC-MS
+MTBLS372	HPLC-QTOF-MS/MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS373	FIA-QTOF-MS	Flow Injection Analysis Quadrupole Time-Of-Flight MS	Direct Infusion
+MTBLS374	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS375	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS376	CE-TOF-MS	Capillary Electrophoresis Time-Of-Flight MS	Direct Infusion
+MTBLS378	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS379	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS380	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS381	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS382	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS383	REI-QTOF-MS	Rapid Evaporative Ionisation Quadrupole Time-Of-Flight MS	REI
+MTBLS384	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS385	3D DESI imaging MS	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+MTBLS386	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS387	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS389	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS390	GC-FID	Gas Chromatography Flame Ionisation Detector	GC-MS
+MTBLS391	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS391	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS391	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS392	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS393	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS394	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS394	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS394	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS394	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS395	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS396	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS396	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS396	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS396	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS397	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS398	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS398	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS398	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS399	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS400	MAS-NMR	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
+MTBLS401	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS402	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS403	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS404	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS405	HPLC-TQ-MS/MS	High Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS408	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS409	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS410	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS411	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS412	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS413	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS414	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS415	3D DESI imaging MS	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+MTBLS417	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS418	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS419	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS420	GC-QIT-MS	Gas Chromatography Quadrupole Ion Trap MS	GC-MS
+MTBLS422	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS423	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS424	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS425	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS426	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS427	SPE-IMS-MS	Solid-Phase Extraction Ion Mobility Spectrometry MS	SPE
+MTBLS428	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS429	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS430	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS431	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS432	UPLC-IT-TOF-MS/MS	Ultra Performance Liquid Chromatography Ion Trap Time-Of-Flight Tandem MS	LC-MS
+MTBLS433	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS434	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS435	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS436	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS437	GC-QTOF-MS	Gas Chromatography Quadrupole Time-Of-Flight MS	GC-MS
+MTBLS441	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS444	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS445	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS447	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS449	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS450	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS451	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS452	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS453	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS454	HPLC-QTOF-MS/MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS455	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS456	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS457	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS459	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS460	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS461	LC-FT-ICR-MS	Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+MTBLS461	LC-LTQ-FT-MS/MS	Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+MTBLS461	LC-TQ-MS	Liquid Chromatography Triple Quadrupole MS	LC-MS
+MTBLS462	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS463	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS464	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS465	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS470	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS471	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS472	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS473	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS478	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS479	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS481	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS482	In vivo MRS	In vivo Magnetic Resonance Spectroscopy	LC-MS
+MTBLS483	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS484	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS487	3D MALDI imaging MS	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS	MS
+MTBLS488	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS492	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS492	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS493	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS494	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS495	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS496	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS497	TD-GC-TOF-MS	Thermal Desorption-Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS516	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS517	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS518	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS519	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS520	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS522	GC-TQ-MS	Gas Chromatography Triple Quarupole MS	GC-MS
+MTBLS523	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS524	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS525	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS526	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS527	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS527	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS528	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS529	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS530	LC-TOF-MS	Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS531	HPLC-QTOF-MS/MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS532	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS535	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS535	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS536	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS538	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS539	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS539	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS539	MAS-NMR	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
+MTBLS540	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS541	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS542	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS543	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS545	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS546	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS547	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS548	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS549	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS552	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS552	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS553	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS554	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS555	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS558	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS559	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS560	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS561	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS562	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS564	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS566	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS567	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS570	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS571	HPLC-QTOF-MS/MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS572	HPLC-QTOF-MS/MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS573	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS574	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS575	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS576	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS577	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS578	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS579	GCxGC-TOF-MS	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS581	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS582	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS591	HPLC-QTOF-MS	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS597	3D MALDI imaging MS	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS	MS
+MTBLS598	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS602	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS614	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS616	DI-LTQ-MS	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MTBLS618	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS619	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS619	MAS-NMR	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
+MTBLS620	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS622	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS626	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS629	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS630	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS631	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS633	CE-TOF-MS	Capillary Electrophoresis Time-Of-Flight MS	Direct Infusion
+MTBLS634	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS640	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS641	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS643	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS648	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS650	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS650	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS652	UFLC-LTQ-MS/MS	Ultra Fast Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS654	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS656	UPLC-TQ-MS	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MTBLS658	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS661	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS664	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS665	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS667	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS669	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS672	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS673	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS674	DI-TQ-MS/MS	Direct Infusion Triple Quadrupole Tandem MS	Direct Infusion
+MTBLS674	UPLC-TQ-MS/MS	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+MTBLS675	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS687	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS690	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS690	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS691	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS693	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS694	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS694	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS696	UPLC-LTQ-MS/MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS698	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS699	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS703	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS706	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS708	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS720	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS723	NMR	Nuclear Magnetic Resonance	NMR
+MTBLS724	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS737	UPLC-QTOF-MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+MTBLS750	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS751	HPLC-LTQ-MS	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS752	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS754	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS756	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS757	LC-LTQ-MS/MS	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS761	MAS-NMR	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
+MTBLS762	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS763	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS763	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS767	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS767	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS769	LMJ-SSP/ESI imaging MS	Liquid Microjunction-Surface Sampling Probe/Electrospray Ionization imaging MS	LC-MS
+MTBLS769	MALDI imaging MS	Matrix Assisted Laser Desorption/Ionization imaging MS	Imaging
+MTBLS770	UPLC-QTOF-MS/MS	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+MTBLS771	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS771	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS772	UPLC-TOF-MS	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+MTBLS772	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS773	HPLC-LTQ-MS/MS	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+MTBLS775	UPLC-LTQ-MS	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS780	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS788	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS789	GC-TOF-MS	Gas Chromatography Time-Of-Flight MS	GC-MS
+MTBLS793	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS803	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS821	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS822	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS824	LC-LTQ-MS	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+MTBLS826	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS836	FIA-LTQ-MS	Flow Injection Analysis Linear Trap Quadrupole MS	Direct Infusion
+MTBLS839	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS842	SESI-LTQ-MS	Secondary Electrospray Ionization Mass Spectrometry	LC-MS
+MTBLS843	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS844	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS848	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS849	GC-Q-MS	Gas Chromatography Quadrupole MS	GC-MS
+MTBLS869	MAS-NMR	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
