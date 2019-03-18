@@ -27,7 +27,7 @@ def drawSimpleGraph(dataFrame, title):
     plt.show()
 
 
-df = pd.read_csv('./dimensions.tsv', sep='\t')
+df = pd.read_csv('./DEM.tsv', sep='\t')
 df = df['1D/2D'].value_counts().to_frame().reset_index()
 df.columns = ['NMR 1D/2D', 'Count']
 drawSimpleGraph(df, 'NMR Techniques')
