@@ -1,0 +1,70 @@
+Study Type	Counts	Full name	Classify
+NMR	89	Nuclear Magnetic Resonance	NMR
+UPLC-QTOF-MS	72	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+GC-Q-MS	52	Gas Chromatography Quadrupole MS	GC-MS
+GC-TOF-MS	42	Gas Chromatography Time-Of-Flight MS	GC-MS
+UPLC-LTQ-MS	42	Ultra Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+HPLC-LTQ-MS	34	High Performance Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+UPLC-QTOF-MS/MS	33	Ultra Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+UPLC-LTQ-MS/MS	22	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+HPLC-LTQ-MS/MS	19	High Performance Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+UPLC-TQ-MS	14	Ultra Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+LC-LTQ-MS/MS	13	Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+LC-LTQ-MS	12	Liquid Chromatography Linear Trap Quadrupole MS	LC-MS
+UPLC-TOF-MS	9	Ultra Performance Liquid Chromatography Time-Of-Flight MS	LC-MS
+HPLC-QTOF-MS	9	High Performance Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+UPLC-TQ-MS/MS	8	Ultra Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+UPLC-FT-ICR-MS	8	Ultra Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+	7		
+UPLC-LTQ-FT-MS/MS	7	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+GCxGC-TOF-MS	7	Tandem Gas Chromatography Time-Of-Flight MS	GC-MS
+DI-LTQ-MS	6	Direct Infusion Linear Trap Quadrupole MS	Direct Infusion
+MAS-NMR	6	Magic Angle Spinning-Nuclear Magnetic Resonance	NMR
+3D DESI imaging MS	6	3-Dimensional Desorption Electrospray Ionization imaging MS (3D DESI imaging MS)	Imaging
+HPLC-QTOF-MS/MS	6	High Performance Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+DI-FT-ICR-MS	6	Direct Infusion Fourier Transform Ion Cyclotron Resonance MS	Direct Infusion
+UPLC-DAD	4	Ultra Performance Liquid Chromatography Diode Array Detection	LC-MS
+3D MALDI imaging MS	4	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS	MS
+GC-TQ-MS	4	Gas Chromatography Triple Quarupole MS	GC-MS
+UPLC-MS/MS	3	Ultra Performance Liquid Chromatography Tandem MS	LC-MS
+HPLC-TQ-MS/MS	3	High Performance Liquid Chromatography Triple Quarupole Tandem MS	LC-MS
+LC-QTOF-MS	3	Liquid Chromatography Quadrupole Time-Of-Flight MS	LC-MS
+CE-TOF-MS	2	Capillary Electrophoresis Time-Of-Flight MS	Direct Infusion
+GC-QIT-MS	2	Gas Chromatography Quadrupole Ion Trap MS	GC-MS
+LC-TQ-MS	2	Liquid Chromatography Triple Quadrupole MS	LC-MS
+LC-FT-ICR-MS	2	Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+DI-LTQ-MS/MS	2	Direct Infusion Linear Trap Quadrupole Tandem MS	Direct Infusion
+LC-LTQ-FT-MS/MS	2	Liquid Chromatography Linear Trap Quadrupole Fourier Transform Tandem MS	LC-MS
+GC-QTOF-MS	2	Gas Chromatography Quadrupole Time-Of-Flight MS	GC-MS
+DI-TQ-MS/MS	1	Direct Infusion Triple Quadrupole Tandem MS	Direct Infusion
+SPME-GCxGC-TOF-MS	1	Solid-Phase-Micro-Extraction Tandem Gas Chromatography Time-Of-Flight MS	SPE
+GC-LTQ-MS	1	Gas Chromatography Linear Trap Quadrupole MS	GC-MS
+FIA-LTQ-MS/MS	1	Flow Injection Analysis Linear Trap Quadrupole Tandem MS	Direct Infusion
+MALDI-TOF/TOF-MS	1	Matrix Assisted Laser Desorption/Ionization Time-Of-Flight MS	MALDI MS
+LC-TQ-MS/MS	1	Liquid Chromatography Triple Quadrupole Tandem MS	LC-MS
+DI-FT-ICR-MS/MS	1	Direct Infusion Fourier Transform Ion Cyclotron Resonance Tandem MS	Direct Infusion
+UPLC-IT-TOF-MS/MS	1	Ultra Performance Liquid Chromatography Ion Trap Time-Of-Flight Tandem MS	LC-MS
+UPLC-MS	1	Ultra Performance Liquid Chromatography MS	LC-MS
+UFLC-LTQ-MS/MS	1	Ultra Fast Liquid Chromatography Linear Trap Quadrupole Tandem MS	LC-MS
+HPLC-IT-MS	1	High Performance Liquid Chromatography Ion Trap MS	LC-MS
+UPLC-LTQ-FT-MS	1	Ultra Performance Liquid Chromatography Linear Trap Quadrupole Fourier Transform MS	LC-MS
+MALDI-TOF/TOF-MS/MS	1	Matrix Assisted Laser Desorption/Ionization Time-Of-Flight Tandem MS	MALDI MS
+GC-FID	1	Gas Chromatography Flame Ionisation Detector	GC-MS
+HPLC-QIT-MS	1	High Performance Liquid Chromatography Quadrupole Ion Trap MS	LC-MS
+LC-TOF-MS	1	Liquid Chromatography Time-Of-Flight MS	LC-MS
+LMJ-SSP/ESI imaging MS	1	Liquid Microjunction-Surface Sampling Probe/Electrospray Ionization imaging MS	LC-MS
+SESI-LTQ-MS	1	Secondary Electrospray Ionization Mass Spectrometry	LC-MS
+In vivo MRS	1	In vivo Magnetic Resonance Spectroscopy	LC-MS
+FIA-LTQ-MS	1	Flow Injection Analysis Linear Trap Quadrupole MS	Direct Infusion
+3D MALDI imaging MS simulation	1	3-Dimensional Matrix Assisted Laser Desorption/Ionization Imaging MS simulation	MS
+FIA-TQ-MS/MS	1	Flow Injection Analysis Triple Quadrupole Tandem MS	Direct Infusion
+FIA-QTOF-MS	1	Flow Injection Analysis Quadrupole Time-Of-Flight MS	Direct Infusion
+SPE-IMS-MS	1	Solid-Phase Extraction Ion Mobility Spectrometry MS	SPE
+HPLC-FT-ICR-MS	1	High Performance Liquid Chromatography Fourier Transform Ion Cyclotron Resonance MS	LC-MS
+UFLC-QTOF-MS/MS	1	Ultra Fast Liquid Chromatography Quadrupole Time-Of-Flight Tandem MS	LC-MS
+LC-MS simulation	1	Liquid Chromatography MS simulation	LC-MS
+PTR-MS	1	Proton Transfer Reaction MS	PTR
+HPLC-TQ-MS	1	High Performance Liquid Chromatography Triple Quarupole MS	LC-MS
+MALDI imaging MS	1	Matrix Assisted Laser Desorption/Ionization imaging MS	Imaging
+REI-QTOF-MS	1	Rapid Evaporative Ionisation Quadrupole Time-Of-Flight MS	REI
+TD-GC-TOF-MS	1	Thermal Desorption-Gas Chromatography Time-Of-Flight MS	GC-MS
