@@ -22,4 +22,4 @@ def get_def(ontoName, iri):
         return ''
 
 
-print(get_def('NCIT', 'http://purl.obolibrary.org/obo/NCIT_C34808'))
+print(get_def('iao', 'http://purl.obolibrary.org/obo/PATO_0000125'))
