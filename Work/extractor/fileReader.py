@@ -22,10 +22,20 @@ def investigation_reader(studyID, prefix):
     address = '/net/isilonP/public/rw/homes/tc_cm01/metabolights/prod/studies/stage/private/' + studyID + '/i_Investigation.txt'
     try:
         with sftp_client.open(address) as f:
+            res = []
             for line in f.readlines():
-                if line.startswith(prefix + '\t'):
+                if line.startswith(tuple([ x +'\t' for x in prefix])):
                     content = list(re.findall(r'"([^"]*)"', line))  # extract content after prefix in " "
-                    return content
+                    res.append(content)
+
+            res = list(zip(*res))
+
+            result = []
+            for pair in res:
+                d = dict(zip(prefix,pair))
+                d['studyID'] = studyID
+                result.append(d)
+            return result
     except:
         print('Fail to read investigation file from ' + studyID)
 
@@ -41,3 +51,7 @@ def assay_reader(filePath, colName, dropna=True):
 
 def MAF_reader(filePath, colName):
     pass
+
+
+# r = investigation_reader("MTBLS6", ['Study Factor Name','Study Factor Type','Study Factor Type Term Accession Number'])
+# print()

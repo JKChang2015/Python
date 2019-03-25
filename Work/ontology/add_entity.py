@@ -12,7 +12,14 @@ definition = 'kind of green fruit'
 superclass = 'fruit'
 
 onto = get_ontology('../resources/plant.owl').load()
-print(type(onto))
+# onto = get_ontology('../resources/Metabolights.owl').load()
+
+with onto:
+    cls = onto.search_one(label = 'apple')
+    d = cls.isDefinedBy
+    print(d)
+
+
 with onto:
     cls = onto.search_one(label=superclass)
 

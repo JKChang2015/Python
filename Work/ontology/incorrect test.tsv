@@ -1,0 +1,100 @@
+studyID	Study Factor Name	Study Factor Type	Study Factor Type Term Accession Number
+MTBLS1	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357
+MTBLS2	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS3	gene knockout	gene knock out	http://www.ebi.ac.uk/efo/EFO_0000506
+MTBLS4	blood plasma	mixture	http://purl.obolibrary.org/obo/CHEBI_60004
+MTBLS5	CarbonDioxide_Quantity_after_initiation	air carbon dioxide content	http://purl.obolibrary.org/obo/XCO_0000012
+MTBLS5	CarbonDioxide_Quantity_after_01d	air carbon dioxide content	http://purl.obolibrary.org/obo/XCO_0000012
+MTBLS6	Sample type	Sample plate type	
+MTBLS6	Spike in volume	Spike in volume	
+MTBLS6	Gap Penalty	Gap Penalty	
+MTBLS6	Retention Time Modulation	Retention Time Modulation	
+MTBLS6	Threshold	Threshold	
+MTBLS6	Min Number Ions	Min Number Ions	
+MTBLS6	Relative Intensity	Relative Intensity	
+MTBLS6	Skewing	Skewing	
+MTBLS6	Window	Window	
+MTBLS7	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS7	Container_after_14d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS7	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS7	Total Light_100pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS7	Total Light_0pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS7	Total Light_100pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS7	Total Light_0pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS7	Total Light_100pc_after_28d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS7	Total Light_0pc_after_28d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS7	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS7	Medium_after_14d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS8	growth rate	Events per hour	http://mimi.case.edu/ontologies/2009/1/UnitsOntology#events_per_hour
+MTBLS10	Treatment	response to wounding	http://purl.obolibrary.org/obo/GO_0009611
+MTBLS11	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS11	Container_after_14d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS11	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS11	Total Light_100pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS11	Total Light_0pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS11	Total Light_100pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS11	Total Light_0pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS11	Total Light_100pc_after_28d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS11	Total Light_0pc_after_28d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS11	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS11	Medium_after_14d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS12	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS12	Container_after_14d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS12	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS12	Total Light_100pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS12	Total Light_0pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS12	Total Light_100pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS12	Total Light_0pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS12	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS12	Medium_after_14d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS13	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS13	Container_after_14d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS13	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS13	Total Light_100pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS13	Total Light_0pc_after_initiation	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS13	Total Light_100pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS13	Total Light_0pc_after_07d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS13	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS13	Medium_after_14d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS14	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS14	Container_after_04d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS14	RelativeHumidity_after_04d	Relative humidity	http://purl.bioontology.org/ontology/SNOMEDCT/250829009
+MTBLS14	Salt_Quantity_after_initiation	Concentration	
+MTBLS14	Salt_Quantity_after_08d	Concentration	
+MTBLS14	Salt_Quantity_after_12d	Concentration	
+MTBLS14	Salt_Quantity_after_16d	Concentration	
+MTBLS14	Temperature_after_04d	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
+MTBLS14	Total Light_On_after_04d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS14	Total Light_Off_after_04d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS14	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS14	Medium_after_04d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS14	Watering_after_04d	Watering	http://purl.obolibrary.org/obo/XEO_00124
+MTBLS15	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS15	Container_after_04d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS15	RelativeHumidity_after_04d	Relative humidity	http://purl.bioontology.org/ontology/SNOMEDCT/250829009
+MTBLS15	Salt_Quantity_after_initiation	Concentration	
+MTBLS15	Salt_Quantity_after_08d	Concentration	
+MTBLS15	Salt_Quantity_after_12d	Concentration	
+MTBLS15	Salt_Quantity_after_16d	Concentration	
+MTBLS15	Temperature_after_04d	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
+MTBLS15	Total Light_On_after_04d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS15	Total Light_Off_after_04d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS15	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS15	Medium_after_04d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS15	Watering_after_04d	Watering	http://purl.obolibrary.org/obo/XEO_00124
+MTBLS16	Container_after_initiation	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS16	Container_after_04d	Container	http://purl.obolibrary.org/obo/XEO_00040
+MTBLS16	RelativeHumidity_after_04d	Relative humidity	http://purl.bioontology.org/ontology/SNOMEDCT/250829009
+MTBLS16	Salt_Quantity_after_initiation	Concentration	
+MTBLS16	Salt_Quantity_after_08d	Concentration	
+MTBLS16	Salt_Quantity_after_12d	Concentration	
+MTBLS16	Salt_Quantity_after_16d	Concentration	
+MTBLS16	Temperature_after_04d	temperature	http://www.ebi.ac.uk/efo/EFO_0001702
+MTBLS16	Total Light_On_after_04d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS16	Total Light_Off_after_04d	duration	http://www.ebi.ac.uk/efo/EFO_0000433
+MTBLS16	Medium_after_initiation	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS16	Medium_after_04d	media	http://www.ebi.ac.uk/efo/EFO_0000579
+MTBLS16	Watering_after_04d	Watering	http://purl.obolibrary.org/obo/XEO_00124
+MTBLS17	Injection	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090
+MTBLS17	Experiment	block	http://www.ebi.ac.uk/efo/EFO_0005067
+MTBLS18	Treatment	plant treatment	http://purl.obolibrary.org/obo/EO_0001001

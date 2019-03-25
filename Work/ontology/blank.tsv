@@ -1,0 +1,123 @@
+studyID	Study Factor Name	Study Factor Type	Study Factor Type Term Accession Number
+MTBLS6	Sample type	Sample plate type	
+MTBLS6	Spike in volume	Spike in volume	
+MTBLS6	Gap Penalty	Gap Penalty	
+MTBLS6	Retention Time Modulation	Retention Time Modulation	
+MTBLS6	Threshold	Threshold	
+MTBLS6	Min Number Ions	Min Number Ions	
+MTBLS6	Relative Intensity	Relative Intensity	
+MTBLS6	Skewing	Skewing	
+MTBLS6	Window	Window	
+MTBLS7	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS11	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS12	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS13	Plants/Container_Quantity_after_14d	Quantity	
+MTBLS14	Salt_Quantity_after_initiation	Concentration	
+MTBLS14	Salt_Quantity_after_08d	Concentration	
+MTBLS14	Salt_Quantity_after_12d	Concentration	
+MTBLS14	Salt_Quantity_after_16d	Concentration	
+MTBLS15	Salt_Quantity_after_initiation	Concentration	
+MTBLS15	Salt_Quantity_after_08d	Concentration	
+MTBLS15	Salt_Quantity_after_12d	Concentration	
+MTBLS15	Salt_Quantity_after_16d	Concentration	
+MTBLS16	Salt_Quantity_after_initiation	Concentration	
+MTBLS16	Salt_Quantity_after_08d	Concentration	
+MTBLS16	Salt_Quantity_after_12d	Concentration	
+MTBLS16	Salt_Quantity_after_16d	Concentration	
+MTBLS22	Salt_Quantity_after_initiation	Quantity	
+MTBLS22	Salt_Quantity_after_04d	Quantity	
+MTBLS22	Salt_Quantity_after_08d	Quantity	
+MTBLS22	Salt_Quantity_after_12d	Quantity	
+MTBLS22	Salt_Quantity_after_16d	Quantity	
+MTBLS23	Treatment	Lipopolysaccharide stimulation	
+MTBLS29	Level measurement type	Level measurement type	
+MTBLS41	Salt_Quantity_after_initiation	Quantity	
+MTBLS41	Salt_Quantity_after_04d	Quantity	
+MTBLS41	Salt_Quantity_after_08d	Quantity	
+MTBLS41	Salt_Quantity_after_12d	Quantity	
+MTBLS41	Salt_Quantity_after_16d	Quantity	
+MTBLS42	Salt_Quantity_after_initiation	Quantity	
+MTBLS42	Salt_Quantity_after_04d	Quantity	
+MTBLS42	Salt_Quantity_after_08d	Quantity	
+MTBLS42	Salt_Quantity_after_12d	Quantity	
+MTBLS42	Salt_Quantity_after_16d	Quantity	
+MTBLS43	Salt_Quantity_after_initiation	Quantity	
+MTBLS43	Salt_Quantity_after_08d	Quantity	
+MTBLS43	Salt_Quantity_after_12d	Quantity	
+MTBLS43	Salt_Quantity_after_16d	Quantity	
+MTBLS44	Salt_Quantity_after_initiation	Quantity	
+MTBLS44	Salt_Quantity_after_08d	Quantity	
+MTBLS44	Salt_Quantity_after_12d	Quantity	
+MTBLS44	Salt_Quantity_after_16d	Quantity	
+MTBLS46	cardiovascular risk status	cardiovascular risk status	
+MTBLS46	gender	gender	
+MTBLS54	Salt_Quantity_after_initiation	Quantity	
+MTBLS54	Salt_Quantity_after_08d	Quantity	
+MTBLS54	Salt_Quantity_after_12d	Quantity	
+MTBLS54	Salt_Quantity_after_16d	Quantity	
+MTBLS81	Total Protein in LD	Total Protein in LD	
+MTBLS81	Total acylglycerol in LD	Total acylglycerol in LD	
+MTBLS83	eg. gender		
+MTBLS89	OSMO		
+MTBLS89	Challenge Time of Day		
+MTBLS93	Cluster effect	Cluster effect	
+MTBLS120	Chemotype	Chemotype	
+MTBLS146	Run order	Run order	
+MTBLS148	Injection order	Injection order	
+MTBLS168	Deletion	Deletion	
+MTBLS227	CDX1/Villin	CDX1/Villin	
+MTBLS235	simulated detector noise	detector noise	
+MTBLS235	simulated mass error	mass error	
+MTBLS235	simulated error profile distortion	error profile distortion	
+MTBLS249	complex index b/t	complex index	
+MTBLS249	complex index a/t	complex index	
+MTBLS249	IC/TLC ratio	Inspiratory capacity to Total Lung capacity ratio	
+MTBLS276	Pulldown	Pulldown	
+MTBLS277	Time point	timepoint	
+MTBLS277	Nano material	nanomaterial	
+MTBLS277	Replicate	replicate	
+MTBLS286	rice seed developmental stage	days after flowering	
+MTBLS287	rice seed developmental stage	days after flowering	
+MTBLS288	rice seed developmental stage	days after flowering	
+MTBLS298	low dose insulin infusion	low dose insulin infusion	
+MTBLS315	diff_basophils	basophils differential	
+MTBLS315	diff_eosinophils	eosinophils differential	
+MTBLS315	diff_monocytes	monocytes differential	
+MTBLS315	diff_lymphocytes	lymphocytes differential	
+MTBLS315	diff_neutrophils	neutrophils differential	
+MTBLS315	platelet count	number density	
+MTBLS315	total red blood cell count	number density	
+MTBLS315	total white blood cell count	number density	
+MTBLS315	P. falciparum parasite density	number density	
+MTBLS342	Spectral Normalization	Extract Weight	
+MTBLS370	Extract	Extraction	
+MTBLS399	Plant	Plant	
+MTBLS399	Location	geographic location	
+MTBLS404	Sampling	Sampling	
+MTBLS404	Injection order	Injection order	
+MTBLS404	Subset	Subset	
+MTBLS408	Run order	Run order	
+MTBLS432	inflammation	colitis score	
+MTBLS437	Cultivation technique	Cultivation technique	
+MTBLS437	Postharvest handling	Postharvest handling	
+MTBLS493	Run order	Run order	
+MTBLS520	Exposition		
+MTBLS532	Run order	Run order	
+MTBLS567	Light	photon flux density	
+MTBLS579	Analytical run order	Run order	
+MTBLS579	Gall stones	Number of gallstones	
+MTBLS591	COPD GOLD Stage	FEV1 Stage	
+MTBLS664	Freeze-Thaw		
+MTBLS687	Fertilized / unfertilized		
+MTBLS687	Plant	Functional group	
+MTBLS687	Plot type	Land use	
+MTBLS687	Plot type_Explo_fert		
+MTBLS687	Species explo		
+MTBLS691	Timepoint	timepoint	
+MTBLS691	Well Position	position	
+MTBLS691	Arthemeter Treatment	treatment	
+MTBLS699	LED PPF	photosynthetic photon flux density	
+MTBLS771	Injection order	Injection order	
+MTBLS772	Injection order	Injection order	
+MTBLS862	Subsampling Method	Subsampling Method	
+MTBLS869	Tumour grade	Tumour grade	

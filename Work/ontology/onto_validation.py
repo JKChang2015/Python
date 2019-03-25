@@ -17,9 +17,74 @@ Steps:
 
 '''
 
-from Work.extractor.fileReader import investigation_reader
-from Work.extractor.studyList import getStudyIDs
+# =============================================================================
+#                               STE 1 -2
+# =============================================================================
 
-studyIDs = getStudyIDs(publicStudy=True)
-print()
+# from Work.extractor.fileReader import investigation_reader
+# from Work.extractor.studyList import getStudyIDs
+#
+# import pandas as pd
+#
+# studyIDs = getStudyIDs(publicStudy=True)
+#
+#
+# count = 0
+# res =[]
+# for studyID in studyIDs:
+#     print(studyID)
+#     pair = investigation_reader(studyID,prefix=['Study Factor Name','Study Factor Type','Study Factor Type Term Accession Number'])
+#     res += pair
+#
+#
+# df = pd.DataFrame(res)
+# df = df[['StudyID','Study Factor Name','Study Factor Type','Study Factor Type Term Accession Number']]
+# df.to_csv('factors.tsv', sep='\t', index=False)
+
+# =============================================================================
+#                               STEP 2
+# =============================================================================
+
+# 1. Data cleaning
+
+import pandas as pd
+#
+df = pd.read_csv('factors.tsv', sep='\t')
+df = df.dropna(subset=['Study Factor Name'])
+df = df.reset_index(drop=True)
+# res = df[df[['Study Factor Type','Study Factor Type Term Accession Number']].isnull().any(axis=1)]
+
+# 2. check if exact correct
+def OLS_validation(iri):
+    from urllib.parse import quote_plus
+    from owlready2 import urllib
+    import json
+
+    try:
+        print(iri)
+        ir = quote_plus(quote_plus(iri))
+        url = 'http://www.ebi.ac.uk/ols/api/terms/findByIdAndIsDefiningOntology/' + ir
+        fp = urllib.request.urlopen(url)
+        content = fp.read().decode('utf-8')
+        j_content = json.loads(content)
+
+        label = j_content['_embedded']['terms'][0]['label']
+        return label
+
+
+    except:
+        return ''
+
+df['IRI_label'] = df['Study Factor Type Term Accession Number'].apply(OLS_validation)
+
+# 3. Check
+
+# df = pd.read_csv('label.tsv',sep='\t')
+correct = df[(df['Study Factor Name'].str.lower() == df['IRI_label'].str.lower()) &  (df['IRI_label'].str.lower() == df['Study Factor Type'].str.lower())]
+# cor_index = correct.index
+incorrect = df.drop(index=correct.index)
+correct.to_csv('correct.tsv', sep='\t', index=False)
+incorrect.to_csv('incorrect.tsv', sep='\t', index=False)
+
+
 

@@ -1,0 +1,259 @@
+studyID	Study Factor Name	Study Factor Type	Study Factor Type Term Accession Number	IRI_label
+MTBLS1	Metabolic syndrome	metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195	metabolic syndrome
+MTBLS2	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS8	nutrient	nutrient	http://purl.obolibrary.org/obo/CHEBI_33284	nutrient
+MTBLS10	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS17	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408	disease
+MTBLS18	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS19	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408	disease
+MTBLS20	Material sample	material sample	http://purl.obolibrary.org/obo/OBI_0000747	material sample
+MTBLS26	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS27	Disease staging	disease staging	http://www.ebi.ac.uk/efo/EFO_0000410	disease staging
+MTBLS27	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS29	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS29	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS31	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS31	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS32	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS32	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS33	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS33	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS34	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS34	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS37	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135	strain
+MTBLS39	Vineyard	vineyard	http://purl.obolibrary.org/obo/ENVO_00000116	vineyard
+MTBLS40	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS45	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS47	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS57	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS57	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS69	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS71	sample treatment protocol	sample treatment protocol	http://www.ebi.ac.uk/efo/EFO_0003809	sample treatment protocol
+MTBLS77	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS77	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS81	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS87	material sample	material sample	http://purl.obolibrary.org/obo/OBI_0000747	material sample
+MTBLS88	material sample	material sample	http://purl.obolibrary.org/obo/OBI_0000747	material sample
+MTBLS90	spectrum type	spectrum type	http://purl.obolibrary.org/obo/MS_1000559	spectrum type
+MTBLS90	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS91	temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	temperature
+MTBLS93	Spectrum type	spectrum type	http://purl.obolibrary.org/obo/MS_1000559	spectrum type
+MTBLS95	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS95	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS98	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS105	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408	disease
+MTBLS112	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS113	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	temperature
+MTBLS119	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS123	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS124	Spectrum type	spectrum type	http://purl.obolibrary.org/obo/MS_1000559	spectrum type
+MTBLS128	strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135	strain
+MTBLS128	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS129	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS135	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS135	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS140	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS144	control	control	http://www.ebi.ac.uk/efo/EFO_0001461	control
+MTBLS145	Time	time	http://www.ebi.ac.uk/efo/EFO_0000721	time
+MTBLS148	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS148	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	temperature
+MTBLS150	Cell Type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324	cell type
+MTBLS151	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS151	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS152	Cell Type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324	cell type
+MTBLS154	control	control	http://www.ebi.ac.uk/efo/EFO_0001461	control
+MTBLS155	control	control	http://www.ebi.ac.uk/efo/EFO_0001461	control
+MTBLS156	cell type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324	cell type
+MTBLS157	control	control	http://www.ebi.ac.uk/efo/EFO_0001461	control
+MTBLS158	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS162	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS165	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS168	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS169	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS173	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS173	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS173	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS174	Metabolic syndrome	metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195	metabolic syndrome
+MTBLS174	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS177	dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS178	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS179	Age	age	http://purl.obolibrary.org/obo/PATO_0000011	age
+MTBLS182	Tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204	tracer
+MTBLS183	Tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204	tracer
+MTBLS184	Tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204	tracer
+MTBLS188	matrix	matrix	http://purl.obolibrary.org/obo/CHMO_0002743	matrix
+MTBLS197	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS198	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS200	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS200	Overall survival	overall survival	http://www.ebi.ac.uk/efo/EFO_0000638	overall survival
+MTBLS203	Collision energy	collision energy	http://purl.obolibrary.org/obo/MS_1000045	collision energy
+MTBLS210	Infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544	infection
+MTBLS225	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS226	dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS233	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS237	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS240	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS241	tracer	tracer	http://purl.obolibrary.org/obo/CHEBI_35204	tracer
+MTBLS249	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS256	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS261	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS264	timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS272	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS278	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS292	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS297	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS303	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS307	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS309	Cell type	cell type	http://www.ebi.ac.uk/efo/EFO_0000324	cell type
+MTBLS315	temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	temperature
+MTBLS315	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS316	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS321	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408	disease
+MTBLS327	diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS327	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS330	Life cycle stage	life cycle stage	http://purl.obolibrary.org/obo/UBERON_0000105	life cycle stage
+MTBLS330	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS333	Cultivar	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	cultivar
+MTBLS336	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	temperature
+MTBLS345	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135	strain
+MTBLS346	Cultivar	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	cultivar
+MTBLS350	Cultivar	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	cultivar
+MTBLS358	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS364	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS367	Material sample	material sample	http://purl.obolibrary.org/obo/OBI_0000747	material sample
+MTBLS372	Phenotype	phenotype	http://www.ebi.ac.uk/efo/EFO_0000651	phenotype
+MTBLS372	Geographic location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	geographic location
+MTBLS373	gene	gene	http://purl.obolibrary.org/obo/SO_0000704	gene
+MTBLS374	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS375	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS375	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS380	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS382	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS389	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS390	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS393	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS400	Body weight	body weight	http://www.ebi.ac.uk/efo/EFO_0004338	body weight
+MTBLS400	Liver weight	liver weight	http://purl.obolibrary.org/obo/CMO_0000092	liver weight
+MTBLS400	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS401	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS404	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS405	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS409	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS411	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS412	Isotopic tracer	isotopic tracer	http://purl.obolibrary.org/obo/CHEBI_35206	isotopic tracer
+MTBLS412	Biological replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	biological replicate
+MTBLS412	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS418	infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544	infection
+MTBLS422	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS422	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS430	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS432	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS432	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS441	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS444	Disease	disease	http://www.ebi.ac.uk/efo/EFO_0000408	disease
+MTBLS445	Elevation	elevation	http://purl.obolibrary.org/obo/ENVO_00000176	elevation
+MTBLS445	Season	season	http://purl.obolibrary.org/obo/ENVO_03000096	season
+MTBLS449	dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS451	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS451	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS452	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS459	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS459	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS460	Biological replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	biological replicate
+MTBLS464	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS464	Timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS471	Infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544	infection
+MTBLS471	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS472	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS472	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS484	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS488	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS493	Biological replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	biological replicate
+MTBLS494	Plant component	plant component	http://www.ebi.ac.uk/efo/EFO_0000789	plant component
+MTBLS496	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS496	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS497	Bacteria	Bacteria	http://purl.obolibrary.org/obo/NCBITaxon_2	Bacteria
+MTBLS516	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS520	season	season	http://purl.obolibrary.org/obo/ENVO_03000096	season
+MTBLS520	Substrate	substrate	http://www.ebi.ac.uk/efo/EFO_0005061	substrate
+MTBLS527	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS528	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS528	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS530	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS532	Dose	dose	http://www.ebi.ac.uk/efo/EFO_0000428	dose
+MTBLS539	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS545	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS546	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS547	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS553	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS554	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS558	phenotype	phenotype	http://www.ebi.ac.uk/efo/EFO_0000651	phenotype
+MTBLS558	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS559	timepoint	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	timepoint
+MTBLS561	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS567	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135	strain
+MTBLS567	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS567	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS571	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS573	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS575	Biological Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	biological replicate
+MTBLS575	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS576	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS577	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS577	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS578	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS581	Plant Growth Regulator	plant growth regulator	http://purl.obolibrary.org/obo/CHEBI_26155	plant growth regulator
+MTBLS582	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS582	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS598	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS602	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS602	age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS614	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS614	diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS618	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS619	Diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS619	Material sample	material sample	http://purl.obolibrary.org/obo/OBI_0000747	material sample
+MTBLS620	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS622	Carbon dioxide treatment	carbon dioxide treatment	http://purl.obolibrary.org/obo/EO_0001020	carbon dioxide treatment
+MTBLS626	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS630	Strain	strain	http://www.ebi.ac.uk/efo/EFO_0005135	strain
+MTBLS630	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS648	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS654	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS656	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS661	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS661	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS664	Anticoagulant	Anticoagulant	http://purl.obolibrary.org/obo/CHEBI_50249	anticoagulant
+MTBLS667	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS667	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS675	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS675	Exercise	exercise	http://www.ebi.ac.uk/efo/EFO_0000483	exercise
+MTBLS690	Age	age	http://purl.obolibrary.org/obo/PATO_0000011	age
+MTBLS693	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS693	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS696	Biological Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	biological replicate
+MTBLS696	Technical Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	technical replicate
+MTBLS724	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS724	diet	diet	http://www.ebi.ac.uk/efo/EFO_0002755	diet
+MTBLS737	clear cell renal cell carcinoma	Clear cell renal cell carcinoma	http://purl.obolibrary.org/obo/HP_0006770	Clear cell renal cell carcinoma
+MTBLS751	genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS751	treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS751	time	time	http://www.ebi.ac.uk/efo/EFO_0000721	time
+MTBLS757	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS761	Genotype	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	genotype
+MTBLS761	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS770	Infection	infection	http://www.ebi.ac.uk/efo/EFO_0000544	infection
+MTBLS770	replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS771	Technical replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	technical replicate
+MTBLS772	Technical replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	technical replicate
+MTBLS773	Temperature	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	temperature
+MTBLS773	Light	light	http://www.ebi.ac.uk/efo/EFO_0000568	light
+MTBLS773	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS788	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
+MTBLS788	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS793	Symbiont	symbiont	http://purl.obolibrary.org/obo/IDO_0000522	symbiont
+MTBLS793	Replicate	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	replicate
+MTBLS803	Age	age	http://www.ebi.ac.uk/efo/EFO_0000246	age
+MTBLS844	Habitat	habitat	http://purl.obolibrary.org/obo/ENVO_01000739	habitat
+MTBLS848	Matrix	matrix	http://purl.obolibrary.org/obo/CHMO_0002743	matrix
+MTBLS867	Treatment	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	treatment
