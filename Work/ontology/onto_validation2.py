@@ -31,7 +31,7 @@ def searchOLS(term, onto_list="*"):
         url = 'https://www.ebi.ac.uk/ols/api/search?q=' + term.replace(' ', "+") + \
               '&groupField=true' \
               '&ontology=' + onto + \
-              '&queryFields=label' \
+              '&queryFields=label,synonym' \
               '&fieldList=iri,label,ontology_name,description,ontology_prefix' \
               '&exact=true'
         # print(url)
@@ -93,8 +93,8 @@ count = len(df_split)-(df_split['studyID'].isnull().sum())
 df_split = df_split.replace(np.nan, '', regex=True)
 df_rest = df_rest.replace(np.nan, '', regex=True)
 
-df_split.to_csv('OLS mapped all onto.tsv', sep='\t', index=False)
-df_rest.to_csv('OLS unmapped all onto.tsv', sep='\t', index=False)
+df_split.to_csv('OLS all onto fuzzy.tsv', sep='\t', index=False)
+df_rest.to_csv('OLS unmapped all onto fuzzy.tsv', sep='\t', index=False)
 
 print()
 
