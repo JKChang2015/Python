@@ -6,21 +6,26 @@
 
 import json
 
+import numpy as np
 import pandas as pd
 from owlready2 import urllib
-import numpy as np
 
 # 1. exact mapping
 df = pd.read_csv('incorrect.tsv', sep='\t')
 
 # 'studyID', 'Study Factor Name', 'Study Factor Type', 'Study Factor Type Term Accession Number'
 
-onto_list = ['EFO', 'NCIT', 'CHEBI', 'CHEMO', 'OBI', 'BAO']
+onto_list = ['EFO', 'NCIT', 'CHEBI', 'CHEMO', 'OBI', 'BAO','OMIT','SIO','MICRO']
 
-def searchOLS(term, onto_list):
+
+def searchOLS(term, onto_list="*"):
+
     res = []
     print('Seaching ' + term + ' ...')
-    onto = ','.join([x.lower() for x in onto_list])
+    if type(onto_list) == list:
+        onto = ','.join([x.lower() for x in onto_list])
+    else:
+        onto = '*'
 
     try:
         url = 'https://www.ebi.ac.uk/ols/api/search?q=' + term.replace(' ', "+") + \
@@ -29,7 +34,7 @@ def searchOLS(term, onto_list):
               '&queryFields=label' \
               '&fieldList=iri,label,ontology_name,description,ontology_prefix' \
               '&exact=true'
-        print(url)
+        # print(url)
 
         fp = urllib.request.urlopen(url)
         content = fp.read().decode('utf-8')
@@ -62,7 +67,6 @@ def searchOLS(term, onto_list):
         pass
 
 
-
 df_split = pd.DataFrame(
     columns=['studyID', 'Study Factor Name', 'Study Factor Type', 'Study Factor Type Term Accession Number',
              'Definition'])
@@ -72,8 +76,9 @@ df_rest = pd.DataFrame(columns=df.columns)
 for index, row in df.iterrows():
     try:
         temp = row.copy()
-        respo = searchOLS(temp['Study Factor Name'], onto_list)
-        if len(respo) >0:
+        respo = searchOLS(temp['Study Factor Name'])
+        # respo = searchOLS(temp['Study Factor Name'], onto_list)
+        if len(respo) > 0:
             df_split.loc[len(df_split)] = temp
             cat = pd.DataFrame(respo)
             df_split = df_split.append(cat, sort=False)
@@ -82,11 +87,14 @@ for index, row in df.iterrows():
     except:
         pass
 
+
+count = len(df_split)-(df_split['studyID'].isnull().sum())
+
 df_split = df_split.replace(np.nan, '', regex=True)
 df_rest = df_rest.replace(np.nan, '', regex=True)
 
-df_split.to_csv('OLS mapped.tsv', sep='\t', index=False)
-df_rest.to_csv('OLS unmapped.tsv', sep = '\t', index = False)
+df_split.to_csv('OLS mapped all onto.tsv', sep='\t', index=False)
+df_rest.to_csv('OLS unmapped all onto.tsv', sep='\t', index=False)
 
 print()
 

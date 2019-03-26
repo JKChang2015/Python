@@ -1,0 +1,1170 @@
+studyID	Study Factor Name	Study Factor Type	Study Factor Type Term Accession Number	Definition
+MTBLS1	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS2	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS3	gene knockout	gene knock out	http://www.ebi.ac.uk/efo/EFO_0000506	
+		gene knockout	http://www.bioassayontology.org/bao#BAO_0002441	"A gene knockout is a genetic technique in which an organism is engineered to carry genes that have been made inoperative (have been ""knocked out"" of the organism)."
+		Gene Knockout	http://purl.obolibrary.org/obo/NCIT_C18143	Refers to the targeted disruption of a gene within its normal biological context.  Utilized to examine the involvement of a gene in a complex biological process.
+MTBLS4	blood plasma	mixture	http://purl.obolibrary.org/obo/CHEBI_60004	
+		blood plasma	http://purl.obolibrary.org/obo/UBERON_0001969	The liquid component of blood, in which erythrocytes are suspended.
+MTBLS6	Threshold	Threshold		
+		Threshold	http://purl.obolibrary.org/obo/NCIT_C48228	The lowest limit at which something becomes detectable or relevant.
+MTBLS6	Window	Window		
+		Window	http://purl.obolibrary.org/obo/NCIT_C48051	A part of a computer screen that contains a display different from the rest of the screen.
+		Window	http://purl.obolibrary.org/obo/NCIT_C48921	A time period, or other type of interval, during which something may be achieved, obtained or observed.
+MTBLS10	Treatment	response to wounding	http://purl.obolibrary.org/obo/GO_0009611	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS17	Injection	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		injection	http://purl.obolibrary.org/obo/OBI_0000426	injection is process which aims at introducing a compound or a mixture into a material entity (either biological entity or instrument) by relying on devices such as syringe or injector connection, attached or forced into a vascular system (veins of an organism or tubes of a machine) or in a tissue.
+MTBLS17	Experiment	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Experiment	http://purl.obolibrary.org/obo/NCIT_C42790	A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing.
+MTBLS18	Treatment	plant treatment	http://purl.obolibrary.org/obo/EO_0001001	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS18	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS18	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS19	Batch	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS19	Experiment	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Experiment	http://purl.obolibrary.org/obo/NCIT_C42790	A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing.
+MTBLS23	Treatment	Lipopolysaccharide stimulation		
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS24	Acute Kidney Injury	injury	http://www.ebi.ac.uk/efo/EFO_0000546	
+		Acute kidney injury	http://purl.obolibrary.org/obo/HP_0001919	Sudden loss of renal function, as manifested by decreased urine production, and a rise in serum creatinine or blood urea nitrogen concentration (azotemia).
+MTBLS26	Nutritional status	Nutritional Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17993	
+		Nutritional Status	http://purl.obolibrary.org/obo/NCIT_C17993	The state of the body as influenced by the diet and the ability of the diet to maintain an overall healthy condition.
+MTBLS27	Sex	sex	http://www.ebi.ac.uk/efo/EFO_0000695	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS28	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS28	Race	Race	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17049	
+		Race	http://purl.obolibrary.org/obo/NCIT_C17049	An arbitrary classification of a taxonomic group that is a division of a species. It usually arises as a consequence of geographical isolation within a species and is characterized by shared heredity, physical attributes and behavior, and in the case of humans, by common history, nationality, or geographic distribution.
+MTBLS28	Smoking	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796	
+		Smoking	http://purl.obolibrary.org/obo/NCIT_C154329	The act of puffing and/or inhaling the combustion products of a substance so as to be tasted and absorbed into the bloodstream.
+MTBLS29	Cell line	Cell Lineage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17895	
+		cell line	http://purl.obolibrary.org/obo/CLO_0000031	A cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history (i.e. has been successively passaged together in culture). 
+		Cell Line	http://purl.obolibrary.org/obo/NCIT_C16403	A permanently established cell culture that will proliferate indefinitely given appropriate fresh medium and space.
+MTBLS31	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS32	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS33	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS34	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS36	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS39	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS46	gender	gender		
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS47	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS49	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504	
+		Medium	http://purl.obolibrary.org/obo/NCIT_C48164	A substance holding another substance in solution or suspension.
+		Medium	http://purl.obolibrary.org/obo/NCIT_C49507	Mid-way between small and large in number, quantity, magnitude or extent.
+MTBLS49	Cell density	Cell Density	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120538	
+		Cell Density	http://purl.obolibrary.org/obo/NCIT_C120538	A measurement of the number of cells per unit volume or area.
+MTBLS52	variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709	
+		Variety	http://purl.obolibrary.org/obo/NCIT_C62709	In botanical nomenclature, a rank below subspecies but above forma.
+MTBLS56	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS57	stress	drought tolerance	http://purl.obolibrary.org/obo/TO_0000276	
+		Stress	http://purl.obolibrary.org/obo/NCIT_C35041	The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities.
+MTBLS58	Condition	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Condition	http://purl.obolibrary.org/obo/NCIT_C25457	A state of being, such as a state of health.
+MTBLS61	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS62	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS62	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS62	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS63	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS63	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS63	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS64	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS64	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS64	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS65	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS65	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS65	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS66	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS66	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS66	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS68	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS68	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS68	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS71	gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS73	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS76	Batch Number	Batch Number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504	
+		Batch Number	http://purl.obolibrary.org/obo/NCIT_C104504	A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product that is produced in a manner that is expected to render it homogeneous.
+MTBLS77	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS79	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS81	Nutritional status	Nutritional Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17993	
+		Nutritional Status	http://purl.obolibrary.org/obo/NCIT_C17993	The state of the body as influenced by the diet and the ability of the diet to maintain an overall healthy condition.
+MTBLS85	Storage	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		storage	http://purl.obolibrary.org/obo/OBI_0302893	A maintenance process by which material entities that are not actively metabolizing are placed in well identified location and possibly under controlled environment in ad-hoc devices/structures in order to preserve and protect them from decay/alteration and maintain availability
+		Storage	http://purl.obolibrary.org/obo/NCIT_C60824	The act of safekeeping goods in a depository.
+MTBLS89	Subject Identifier	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364	
+		Subject Identifier	http://purl.obolibrary.org/obo/NCIT_C83083	A sequence of characters used to identify, name, or characterize the study subject.
+MTBLS89	Challenge	Challenge	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C78166	
+		Challenge	http://purl.obolibrary.org/obo/NCIT_C78166	The administration of a substance in order to assess for a response.
+MTBLS90	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS92	Series	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Series	http://purl.obolibrary.org/obo/NCIT_C25674	A group or succession of objects, substances, or events arranged in regular order in space or time, connected by a like relation, or forming a kind of chain.
+MTBLS92	Timepoint	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Timepoint	http://purl.obolibrary.org/obo/NCIT_C68568	A specific point in the time continuum, including those established relative to an event.
+		timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	Time point at which a sample or observation is made or taken from a biomaterial as measured from some reference point.
+MTBLS92	Grade	Tumor Regression Grade	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C106304	
+		Grade	http://purl.obolibrary.org/obo/NCIT_C48309	A position on a scale of intensity or amount or quality.
+MTBLS92	Menopause	Menopausal Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16151	
+		Menopause	http://purl.obolibrary.org/obo/NCIT_C3231	The permanent cessation of menses, usually defined by 6 to 12 months of amenorrhea in a woman over 45 years of age.
+		menopause	http://www.ebi.ac.uk/efo/EFO_0003922	The last menstrual period. Permanent cessation of menses (MENSTRUATION) is usually defined after 6 to 12 months of AMENORRHEA in a woman over 45 years of age. In the United States, menopause generally occurs in women between 48 and 55 years of age.
+MTBLS93	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS93	Age	Age	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150	
+		age	http://purl.obolibrary.org/obo/PATO_0000011	A time quality inhering in a bearer by virtue of how long the bearer has existed.
+		Age	http://purl.obolibrary.org/obo/NCIT_C25150	How long something has existed; elapsed time since birth.
+		age	http://www.ebi.ac.uk/efo/EFO_0000246	A temporal measurement of the time period elapsed since an identifiable point in the life cycle of an organism. If a developmental stage is specified, the identifiable point would be the beginning of that stage. Otherwise the identifiable point must be specified such as planting (e.g. 3 days post planting).
+MTBLS94	Arabidopsis	Plant cell	http://purl.obolibrary.org/obo/PO_0009002	
+		Arabidopsis	http://purl.obolibrary.org/obo/NCBITaxon_3701	
+MTBLS94	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS96	Infection	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147	
+		infection	http://purl.obolibrary.org/obo/IDO_0000586	A part of an extended organism that itself has as part a population of one or more infectious agents and that (1) exists as a result of processes initiated by members of the infectious agent population and is (2) clinically abnormal in virtue of the presence of this infectious agent population, or (3) has a disposition to bring clinical abnormality to immunocompetent organisms of the same Species as the host (the organism corresponding to the extended organism) through transmission of a member or offspring of a member of the infectious agent population.
+		Infection	http://purl.obolibrary.org/obo/NCIT_C128320	The invasion of an organism's body tissues by disease-causing agents and their multiplication, as well as the reaction by the host to these organisms and/or toxins that the organisms produce.
+		infection	http://www.ebi.ac.uk/efo/EFO_0000544	The state of being infected such as from the introduction of a foreign agent such as serum, vaccine, antigenic substance or organism.
+MTBLS99	Replicate	Replicate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28038	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS99	Batch	Batch Number	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C104504	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS105	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS106	Cell line	cell line	http://purl.obolibrary.org/obo/CLO_0000031	
+		cell line	http://purl.obolibrary.org/obo/CLO_0000031	A cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history (i.e. has been successively passaged together in culture). 
+		Cell Line	http://purl.obolibrary.org/obo/NCIT_C16403	A permanently established cell culture that will proliferate indefinitely given appropriate fresh medium and space.
+MTBLS112	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS116	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS117	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		infection	http://purl.obolibrary.org/obo/IDO_0000586	A part of an extended organism that itself has as part a population of one or more infectious agents and that (1) exists as a result of processes initiated by members of the infectious agent population and is (2) clinically abnormal in virtue of the presence of this infectious agent population, or (3) has a disposition to bring clinical abnormality to immunocompetent organisms of the same Species as the host (the organism corresponding to the extended organism) through transmission of a member or offspring of a member of the infectious agent population.
+		Infection	http://purl.obolibrary.org/obo/NCIT_C128320	The invasion of an organism's body tissues by disease-causing agents and their multiplication, as well as the reaction by the host to these organisms and/or toxins that the organisms produce.
+		infection	http://www.ebi.ac.uk/efo/EFO_0000544	The state of being infected such as from the introduction of a foreign agent such as serum, vaccine, antigenic substance or organism.
+MTBLS117	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS118	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		infection	http://purl.obolibrary.org/obo/IDO_0000586	A part of an extended organism that itself has as part a population of one or more infectious agents and that (1) exists as a result of processes initiated by members of the infectious agent population and is (2) clinically abnormal in virtue of the presence of this infectious agent population, or (3) has a disposition to bring clinical abnormality to immunocompetent organisms of the same Species as the host (the organism corresponding to the extended organism) through transmission of a member or offspring of a member of the infectious agent population.
+		Infection	http://purl.obolibrary.org/obo/NCIT_C128320	The invasion of an organism's body tissues by disease-causing agents and their multiplication, as well as the reaction by the host to these organisms and/or toxins that the organisms produce.
+		infection	http://www.ebi.ac.uk/efo/EFO_0000544	The state of being infected such as from the introduction of a foreign agent such as serum, vaccine, antigenic substance or organism.
+MTBLS118	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS123	Survival	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Survival	http://purl.obolibrary.org/obo/NCIT_C17177	Continuance of life or existence especially under adverse conditions; includes methods and philosophy of survival.
+MTBLS123	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS124	Age	Age	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150	
+		age	http://purl.obolibrary.org/obo/PATO_0000011	A time quality inhering in a bearer by virtue of how long the bearer has existed.
+		Age	http://purl.obolibrary.org/obo/NCIT_C25150	How long something has existed; elapsed time since birth.
+		age	http://www.ebi.ac.uk/efo/EFO_0000246	A temporal measurement of the time period elapsed since an identifiable point in the life cycle of an organism. If a developmental stage is specified, the identifiable point would be the beginning of that stage. Otherwise the identifiable point must be specified such as planting (e.g. 3 days post planting).
+MTBLS124	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS125	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS125	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS126	Base	base	http://purl.bioontology.org/ontology/HL7/C1550601	
+		base	http://purl.obolibrary.org/obo/CHEBI_22695	
+		Base	http://purl.obolibrary.org/obo/NCIT_C48055	The most important or necessary part of something.
+		Base	http://purl.obolibrary.org/obo/NCIT_C48056	A substance that dissociates to give hydroxide ions in aqueous solutions; a substance capable of donating a pair of electrons (to an acid) for the formation of a coordinate covalent bond; a substance whose molecule or ion can combine with a proton (hydrogen ion); a substance that combines with acids to form salts.
+		Base	http://purl.obolibrary.org/obo/NCIT_C92955	The underlying or supportive part of an anatomic structure.
+MTBLS126	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS127	Cell line	cell line	http://www.ebi.ac.uk/efo/EFO_0000322	
+		cell line	http://purl.obolibrary.org/obo/CLO_0000031	A cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history (i.e. has been successively passaged together in culture). 
+		Cell Line	http://purl.obolibrary.org/obo/NCIT_C16403	A permanently established cell culture that will proliferate indefinitely given appropriate fresh medium and space.
+MTBLS129	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS135	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS135	Age	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		age	http://purl.obolibrary.org/obo/PATO_0000011	A time quality inhering in a bearer by virtue of how long the bearer has existed.
+		Age	http://purl.obolibrary.org/obo/NCIT_C25150	How long something has existed; elapsed time since birth.
+		age	http://www.ebi.ac.uk/efo/EFO_0000246	A temporal measurement of the time period elapsed since an identifiable point in the life cycle of an organism. If a developmental stage is specified, the identifiable point would be the beginning of that stage. Otherwise the identifiable point must be specified such as planting (e.g. 3 days post planting).
+MTBLS136	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS136	Secondary identifier	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364	
+		Secondary Identifier	http://purl.obolibrary.org/obo/NCIT_C101703	
+MTBLS137	Variety	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		Variety	http://purl.obolibrary.org/obo/NCIT_C62709	In botanical nomenclature, a rank below subspecies but above forma.
+MTBLS137	Country	Country	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25464	
+		Country	http://purl.obolibrary.org/obo/NCIT_C25464	A collective generic term that refers here to a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states.
+		country	http://purl.obolibrary.org/obo/HANCESTRO_0003	A collective generic term that refers here to a wide variety of dependencies, areas of special sovereignty, uninhabited islands, and other entities in addition to the traditional countries or independent states.
+MTBLS140	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS144	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS146	Batch number	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch Number	http://purl.obolibrary.org/obo/NCIT_C104504	A distinctive alpha-numeric identification code assigned by the manufacturer or distributor to a specific quantity of manufactured material or product that is produced in a manner that is expected to render it homogeneous.
+MTBLS146	Weight	body weight	http://www.ebi.ac.uk/efo/EFO_0004338	
+		Weight	http://purl.obolibrary.org/obo/NCIT_C25208	The vertical force exerted by a mass as a result of gravity.
+MTBLS146	Height	body height	http://www.ebi.ac.uk/efo/EFO_0004339	
+		Height	http://purl.obolibrary.org/obo/NCIT_C25347	The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension.
+MTBLS148	Experiment	replicate	http://www.ebi.ac.uk/efo/EFO_0000683	
+		Experiment	http://purl.obolibrary.org/obo/NCIT_C42790	A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing.
+MTBLS148	Polarity	scan polarity	http://purl.obolibrary.org/obo/MS_1000465	
+		Polarity	http://purl.obolibrary.org/obo/NCIT_C48048	The positive or negative direction of an electrical, acoustical, or magnetic force.
+MTBLS149	cholestasis	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		cholestasis	http://purl.obolibrary.org/obo/DOID_13580	
+		Cholestasis	http://purl.obolibrary.org/obo/NCIT_C83006	Impairment of the bile flow caused by obstruction within the liver, or outside the liver in the bile duct system.
+MTBLS154	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS154	inorganic phosphate	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		inorganic phosphate	http://purl.obolibrary.org/obo/CHEBI_24838	Any  phosphate that contains no carbon atom.
+MTBLS155	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS157	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS158	Group	Group	http://purl.bioontology.org/ontology/STY/T096	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS158	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS160	Genotype	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS160	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS161	Chronic Fatigue Syndrome	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		chronic fatigue syndrome	http://purl.obolibrary.org/obo/DOID_8544	A syndrome that involves prolonged and severe tiredness or weariness that is unrelated to exertion, is not relieved by rest and for a minimum of six months and is not directly caused by other conditions.
+		Chronic Fatigue Syndrome	http://purl.obolibrary.org/obo/NCIT_C3037	A syndrome of unknown etiology. Chronic fatigue syndrome (CFS) is a clinical diagnosis characterized by an unexplained persistent or relapsing chronic fatigue that is of at least six months' duration, is not the result of ongoing exertion, is not substantially alleviated by rest, and results in substantial reduction of previous levels of occupational, educational, social, or personal activities. Common concurrent symptoms of at least six months duration include impairment of memory or concentration, diffuse pain, sore throat, tender lymph nodes, headaches of a new type, pattern, or severity, and nonrestorative sleep. The etiology of CFS may be viral or immunologic. Neurasthenia and fibromyalgia may represent related disorders. Also known as myalgic encephalomyelitis.
+		chronic fatigue syndrome	http://www.ebi.ac.uk/efo/EFO_0004540	A syndrome characterized by persistent or recurrent fatigue, diffuse musculoskeletal pain, sleep disturbances, and subjective cognitive impairment of 6 months duration or longer. Symptoms are not caused by ongoing exertion; are not relieved by rest; and result in a substantial reduction of previous levels of occupational, educational, social, or personal activities. Minor alterations of immune, neuroendocrine, and autonomic function may be associated with this syndrome. There is also considerable overlap between this condition and FIBROMYALGIA. (From Semin Neurol 1998;18(2):237-42; Ann Intern Med 1994 Dec 15;121(12): 953-9)
+MTBLS162	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS163	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS164	Exercise	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Exercise	http://purl.obolibrary.org/obo/NCIT_C16567	Activity that requires physical or mental exertion, especially when performed to develop or maintain fitness.
+		exercise	http://www.ebi.ac.uk/efo/EFO_0000483	Activity that requires physical or mental exertion, especially when performed to develop or maintain fitness.
+MTBLS164	Day	Day	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25301	
+		day	http://purl.obolibrary.org/obo/UO_0000033	A time unit which is equal to 24 hours.
+		Day	http://purl.obolibrary.org/obo/NCIT_C25301	The time for Earth to make a complete rotation on its axis; ordinarily divided into twenty-four hours, equal to 86 400 seconds. This also refers to a specific day.
+MTBLS168	Deletion	Deletion		
+		Deletion	http://purl.obolibrary.org/obo/NCIT_C61330	Elimination, especially by blotting out, cutting out, or erasing.
+		deletion	http://www.ebi.ac.uk/efo/EFO_0004014	
+MTBLS174	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS176	Colorectal Adenocarcinoma	Colorectal adenocarcinoma	http://purl.bioontology.org/ontology/MEDDRA/10052360	
+		Colorectal Adenocarcinoma	http://purl.obolibrary.org/obo/NCIT_C5105	The most common type of colorectal carcinoma.  It is characterized by the presence of malignant glandular epithelial cells invading through the muscularis mucosa into the submucosa.  Histologic variants include mucinous adenocarcinoma, signet ring cell carcinoma, medullary carcinoma, serrated adenocarcinoma, cribriform comedo-type adenocarcinoma, and micropapillary adenocarcinoma.
+		colorectal adenocarcinoma	http://www.ebi.ac.uk/efo/EFO_0000365	Tumors or cancer of the COLON or the RECTUM or both. Risk factors for colorectal cancer include chronic ULCERATIVE COLITIS; FAMILIAL POLYPOSIS COLI; exposure to ASBESTOS; and irradiation of the CERVIX UTERI.
+MTBLS176	Mouse kidney	Mouse Kidney	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22730	
+		Mouse Kidney	http://purl.obolibrary.org/obo/NCIT_C22730	
+MTBLS176	Mouse pancreas	Mouse Pancreas	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C24044	
+		Mouse Pancreas	http://purl.obolibrary.org/obo/NCIT_C24044	
+MTBLS177	compound	Cancer Therapeutic Procedure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16212	
+		Compound	http://purl.obolibrary.org/obo/NCIT_C43366	A substance formed by chemical union of two or more elements or ingredients in definite proportion by weight.
+MTBLS178	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS179	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS179	Sedation	Sedation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C21097	
+		Sedation	http://purl.obolibrary.org/obo/NCIT_C21097	The process of allaying nervous excitement or the state of being calmed. (Taber's)
+MTBLS183	Oligomycin	Qualitative Concept	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92722	
+		oligomycin	http://purl.obolibrary.org/obo/CHEBI_25675	Any of the 26-membered ring macrolides produced by Streptomyces species that can be toxic to other organisms through their ability to inhibit mitochondrial membrane-bound ATP synthases.
+MTBLS183	Glutamine	Qualitative Concept	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C92722	
+		Glutamine	http://purl.obolibrary.org/obo/NCIT_C522	A nonessential amino acid. Glutamine can donate the ammonia on its side chain to the formation of urea (for eventual excretion by the kidneys) and to purines (necessary for the synthesis of nucleic acids). Glutamic acid-to-glutamine conversion, in which an ammonia group is added to glutamic acid (catalyzed by glutamine synthase), is of central importance in the regulation of toxic levels of ammonia in the body. This agent is a substrate for the production of both excitatory and inhibitory neurotransmitters (glutamate and GABA) and is also an important source of energy for the nervous system. Glutamine may become a conditionally essential amino acid during certain catabolic states.
+		glutamine	http://purl.obolibrary.org/obo/CHEBI_28300	An alpha-amino acid that consists of butyric acid bearing an amino substituent at position 2 and a carbamoyl substituent at position 4.
+MTBLS189	area	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		area	http://purl.obolibrary.org/obo/PATO_0001323	A 2-D extent quality inhering in a bearer by virtue of the bearer's two dimensional extent.
+		Area	http://purl.obolibrary.org/obo/NCIT_C25244	The extent of a 2-dimensional surface enclosed within a boundary.
+		area	http://www.ebi.ac.uk/efo/EFO_0001696	An area is a size quality which describes the two dimensional extent of a material entity.
+MTBLS191	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS193	Time	Phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS193	Origin	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341	
+		Origin	http://purl.obolibrary.org/obo/NCIT_C42703	The place where something begins or comes from in either the sense of a physical location or a metaphysical source.
+MTBLS193	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS196	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS196	Virus	Virus	http://purl.obolibrary.org/obo/NCBITaxon_10239	
+		virus	http://www.bioassayontology.org/bao#BAO_0000232	Viruses are small infectious agents that depend on the host cells to reproduce. Outside the host, they contain a protein coat called capsid that encloses their genetic material (either DNA or RNA). Viruses can infect bacteria, plants and animals and cause a number of diseases, e.g. smallpox, chickenpox, influenza, polio, rabies, etc.
+		Virus	http://purl.obolibrary.org/obo/NCIT_C14283	An infectious agent which consists of two parts, genetic material and a protein coat. These organisms lack independent metabolism, and they must infect the cells of other types of organisms to reproduce. Most viruses are capable of passing through fine filters that retain bacteria, and are not visible through a light microscope.
+		Virus	http://purl.obolibrary.org/obo/NCBITaxon_10239	Minute infectious agents whose genomes are composed of DNA or RNA, but not both. They are characterized by a lack of independent metabolism and the inability to replicate outside living host cells.
+MTBLS198	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS198	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS200	Outcome	Disease Outcome	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18226	
+		Outcome	http://purl.obolibrary.org/obo/NCIT_C20200	The result of an action.
+MTBLS200	Staging	Staging	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15608	
+		Staging	http://purl.obolibrary.org/obo/NCIT_C15608	The process of defining at what point in the natural history of a malignant disease a patient is when a diagnosis is made.
+MTBLS209	tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS209	species	species design	http://www.ebi.ac.uk/efo/EFO_0001753	
+		Species	http://purl.obolibrary.org/obo/NCIT_C45293	A group of organisms that differ from all other groups of organisms and that are capable of breeding and producing fertile offspring.
+MTBLS212	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS212	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS213	D-glucose	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		D-glucose	http://purl.obolibrary.org/obo/CHEBI_17634	A glucose with D-configuration.
+MTBLS213	Label	Isotope	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C47933	
+		label	http://www.w3.org/2000/01/rdf-schema#label	
+		label	http://purl.obolibrary.org/obo/CHEBI_35209	
+		Label	http://purl.obolibrary.org/obo/NCIT_C45561	A brief description given for purposes of identification; an identifying or descriptive marker that is attached to an object.
+		label	http://purl.obolibrary.org/obo/IAO_0000009	A label is a symbol that is part of some other datum and is used to either partially define the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label.
+MTBLS214	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS218	Time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS218	Visit	Patient Visit	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C39564	
+		Visit	http://purl.obolibrary.org/obo/NCIT_C25716	The act of going to see some person or place or thing; it can cover a short or long period but refers to a non-permanent arrangement.
+MTBLS219	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS225	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS225	Dose	Unit of Dose Calculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C66973	
+		dose	http://purl.obolibrary.org/obo/OBI_0000984	A measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to. Quantities of nutrients, drugs, vaccines and toxins are referred to as doses.
+		Dose	http://purl.obolibrary.org/obo/NCIT_C25488	A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.
+		dose	http://www.ebi.ac.uk/efo/EFO_0000428	The total quantity or strength of a substance administered at one time.
+MTBLS226	compound	Compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366	
+		Compound	http://purl.obolibrary.org/obo/NCIT_C43366	A substance formed by chemical union of two or more elements or ingredients in definite proportion by weight.
+MTBLS227	Stage	disease stage	http://purl.obolibrary.org/obo/OBI_0000278	
+		Stage	http://purl.obolibrary.org/obo/NCIT_C48308	Any distinct time period in a sequence of events.
+		Stage	http://purl.obolibrary.org/obo/NCIT_C16899	
+MTBLS233	Dose	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		dose	http://purl.obolibrary.org/obo/OBI_0000984	A measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to. Quantities of nutrients, drugs, vaccines and toxins are referred to as doses.
+		Dose	http://purl.obolibrary.org/obo/NCIT_C25488	A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.
+		dose	http://www.ebi.ac.uk/efo/EFO_0000428	The total quantity or strength of a substance administered at one time.
+MTBLS234	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS237	Diagnosis	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		diagnosis	http://purl.obolibrary.org/obo/OGMS_0000073	The representation of a conclusion of a diagnostic process.
+		Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220	The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.
+MTBLS237	age at diagnosis	age	http://www.ebi.ac.uk/efo/EFO_0000246	
+		Age at Diagnosis	http://purl.obolibrary.org/obo/NCIT_C156420	The age of an individual at the time of initial pathologic diagnosis.
+		age at diagnosis	http://www.ebi.ac.uk/efo/EFO_0004918	The age, measured from some defined time point e.g. birth at which a subject (e.g. a human patient) is diagnosed with some disease e.g. breast cancer.
+MTBLS237	Smoker	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Smoker	http://purl.obolibrary.org/obo/NCIT_C68751	A person who inhales or has inhaled combustible products of organic material during their lifetime.
+MTBLS243	Control	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147	
+		Control	http://purl.obolibrary.org/obo/NCIT_C61299	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+		control	http://www.ebi.ac.uk/efo/EFO_0001461	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+MTBLS244	tracer	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		tracer	http://purl.obolibrary.org/obo/CHEBI_35204	
+		Tracer	http://purl.obolibrary.org/obo/NCIT_C2480	A substance that is identifiable by virtue of its radioactive signature, color, or other distinguishing physical property, such as a dye, radioactive isotope, or inert chemical, that is introduced into a biological or mechanical system and can be followed through the course of a process, providing information on the pattern of events in the process or on the redistribution of the parts, elements, or events involved.
+MTBLS247	Substrate	Substrate	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C120264	
+		substrate	http://www.bioassayontology.org/bao#BAO_0003063	The role of a molecular entity to serve as the input for an enzymatic reaction that generates a product, e.g. ATP has the role of a substrate for ATPase, which hydrolyzes it to produce ADP and Pi.
+		Substrate	http://purl.obolibrary.org/obo/NCIT_C120264	Any chemical that can be modified or consumed during a chemical reaction or biological process.
+		substrate	http://www.ebi.ac.uk/efo/EFO_0005061	A substrate is the surface on which material, such as an organism, is grown or attached.
+MTBLS247	Labeling	labelling	http://www.ebi.ac.uk/efo/EFO_0000562	
+		Labeling	http://purl.obolibrary.org/obo/NCIT_C54694	All written, printed, or graphic matter accompanying an article at any time while such article is in interstate commerce or held for sale after shipment or delivery in interstate commerce.
+MTBLS249	Smoking Status	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796	
+		Smoking Status	http://purl.obolibrary.org/obo/NCIT_C19796	An indication of a person's current tobacco and nicotine consumption as well as some indication of smoking history.
+MTBLS249	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS253	control	True False Response Terminology	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105761	
+		Control	http://purl.obolibrary.org/obo/NCIT_C61299	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+		control	http://www.ebi.ac.uk/efo/EFO_0001461	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+MTBLS253	phase	phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257	
+		Phase	http://purl.obolibrary.org/obo/NCIT_C25257	A distinguishable part, a stage in a series of events or in a process of development, e.g. any of the varying aspects or stages in course of a disease; a fraction of a cycle.
+MTBLS260	Concentration	concentration of	http://purl.obolibrary.org/obo/PATO_0000033	
+		Concentration	http://purl.obolibrary.org/obo/NCIT_C41185	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.
+MTBLS261	genotype	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS265	Subject	Clinical Trial Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70668	
+		Subject	http://purl.obolibrary.org/obo/NCIT_C48910	Some matter, situation, or event that is thought about, written about, or discussed.
+MTBLS265	Age group	Age Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20587	
+		Age Group	http://purl.obolibrary.org/obo/NCIT_C20587	Subgroups of populations based on age.
+MTBLS266	Subject	Clinical Trial Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70668	
+		Subject	http://purl.obolibrary.org/obo/NCIT_C48910	Some matter, situation, or event that is thought about, written about, or discussed.
+MTBLS266	Age group	Age Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20587	
+		Age Group	http://purl.obolibrary.org/obo/NCIT_C20587	Subgroups of populations based on age.
+MTBLS267	Subject	Clinical Trial Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70668	
+		Subject	http://purl.obolibrary.org/obo/NCIT_C48910	Some matter, situation, or event that is thought about, written about, or discussed.
+MTBLS267	Age group	Age Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C20587	
+		Age Group	http://purl.obolibrary.org/obo/NCIT_C20587	Subgroups of populations based on age.
+MTBLS270	Variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709	
+		Variety	http://purl.obolibrary.org/obo/NCIT_C62709	In botanical nomenclature, a rank below subspecies but above forma.
+MTBLS272	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS273	Adipose tissue	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		adipose tissue	http://purl.obolibrary.org/obo/UBERON_0001013	Portion of connective tissue composed of adipocytes enmeshed in areolar tissue
+		Adipose Tissue	http://purl.obolibrary.org/obo/NCIT_C12472	A specialized form of connective tissue consisting primarily of adipocytes (fat cells), surrounded by a meshwork of collagen fibers.
+MTBLS273	Connective tissue	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Connective Tissue	http://purl.obolibrary.org/obo/NCIT_C12374	The supporting or framework tissue of the animal body, formed of fibrous and ground substance with more or less numerous cells of various kinds; it is derived from the mesenchyme, and this in turn from the mesoderm; the varieties of connective tissue are: areolar or loose; adipose; dense, regular or irregular, white fibrous; elastic; mucous; and lymphoid tissue; cartilage; and bone; the blood and lymph may be regarded as connective tissues the ground substance of which is a liquid.
+		connective tissue	http://purl.obolibrary.org/obo/CL_0000388	Tissue which consists of fibroblasts, osteocytes or chondrocytes and intercellular matrix produced by these cells. Examples: bone (tissue), dense regular elastic tissue, areolar tissue, neuroglia, adipose tissue.
+MTBLS275	Chemical exposure	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Chemical Exposure	http://purl.obolibrary.org/obo/NCIT_C36290	Contact with a chemical substance through touch, inhalation, or ingestion.
+MTBLS276	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS277	Replicate	replicate		
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS278	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS279	control	True False Response Terminology	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C105761	
+		Control	http://purl.obolibrary.org/obo/NCIT_C61299	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+		control	http://www.ebi.ac.uk/efo/EFO_0001461	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+MTBLS279	phase	phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257	
+		Phase	http://purl.obolibrary.org/obo/NCIT_C25257	A distinguishable part, a stage in a series of events or in a process of development, e.g. any of the varying aspects or stages in course of a disease; a fraction of a cycle.
+MTBLS280	control	Yes or No Response	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C38147	
+		Control	http://purl.obolibrary.org/obo/NCIT_C61299	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+		control	http://www.ebi.ac.uk/efo/EFO_0001461	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+MTBLS280	phase	phase	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25257	
+		Phase	http://purl.obolibrary.org/obo/NCIT_C25257	A distinguishable part, a stage in a series of events or in a process of development, e.g. any of the varying aspects or stages in course of a disease; a fraction of a cycle.
+MTBLS281	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS283	Timepoint	time	http://www.ebi.ac.uk/efo/EFO_0000721	
+		Timepoint	http://purl.obolibrary.org/obo/NCIT_C68568	A specific point in the time continuum, including those established relative to an event.
+		timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	Time point at which a sample or observation is made or taken from a biomaterial as measured from some reference point.
+MTBLS283	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS289	Specimen	Biospecimen	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70699	
+		specimen	http://purl.obolibrary.org/obo/OBI_0100051	A material entity that has the specimen role.
+		Specimen	http://purl.obolibrary.org/obo/NCIT_C19157	A part of a thing, or of several things, taken to demonstrate or to determine the character of the whole, e.g. a substance, or portion of material obtained for use in testing, examination, or study; particularly, a preparation of tissue or bodily fluid taken for examination or diagnosis.
+MTBLS291	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS292	siRNA	gene knockdown by siRNA transfection	http://www.bioassayontology.org/bao#BAO_0002438	
+		siRNA	http://www.bioassayontology.org/bao#BAO_0000324	In the RNAi pathway,  the double stranded RNAs first get processed into 20-25 nucleotide small interfering RNAs (siRNAs) by an RNase III-like enzyme called Dicer. The siRNAs enter into endoribonuclease-containing complexes known as RNA-induced silencing complexes (RISCs), and bring about the cleavage of the target mRNAs to achieve gene silencing.
+MTBLS293	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS297	Organ	plant organ	http://purl.obolibrary.org/obo/PO_0009008	
+		Organ	http://purl.obolibrary.org/obo/NCIT_C13018	A unique macroscopic (gross) anatomic structure that performs specific functions. It is composed of various tissues.  An organ is part of an anatomic system or a body region. Representative examples include the heart, lung, liver, spleen, and uterus.
+MTBLS298	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS298	Patient	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189	
+		Patient	http://purl.obolibrary.org/obo/NCIT_C16960	A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary.
+MTBLS303	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS304	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS306	Participant	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189	
+		Participant	http://purl.obolibrary.org/obo/NCIT_C29867	Someone who takes part in an activity.
+MTBLS306	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS307	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS309	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS311	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS312	Carbon dioxide treatment	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		carbon dioxide treatment	http://purl.obolibrary.org/obo/EO_0001020	An inorganic gas treatment (EO:0001055) that involves the application of carbon dioxide (CHEBI:16526).
+MTBLS312	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS315	blood glucose	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		Blood Glucose	http://purl.obolibrary.org/obo/NCIT_C94312	
+MTBLS315	platelet count	number density		
+		Platelet Count	http://purl.obolibrary.org/obo/NCIT_C51951	The determination of the number of platelets in a blood sample, usually expressed as platelets per cubic millimeter (cmm) of whole blood.
+		platelet count	http://www.ebi.ac.uk/efo/EFO_0004309	The number of PLATELETS per unit volume in a sample of venous BLOOD.
+MTBLS315	mean corpuscular hemoglobin concentration	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		mean corpuscular hemoglobin concentration	http://www.ebi.ac.uk/efo/EFO_0004528	The mean corpuscular hemoglobin concentration is a measure of the concentration of hemoglobin in a given volume of packed red blood cell
+MTBLS315	mean corpuscular hemoglobin	mass	http://purl.obolibrary.org/obo/PATO_0000125	
+		mean corpuscular hemoglobin	http://www.ebi.ac.uk/efo/EFO_0004527	The MCH is  the average mass of hemoglobin per red blood cell in a sample of blood and is calculated by dividing the total mass of hemoglobin by the RBC count
+MTBLS315	mean corpuscular volume	volume	http://www.ebi.ac.uk/efo/EFO_0001715	
+		mean corpuscular volume	http://www.ebi.ac.uk/efo/EFO_0004526	A mean corpuscular volume is the result of calculation of the mean volume of erythrocytes in a blood sample.
+MTBLS315	hematocrit	volume per unit volume	http://purl.obolibrary.org/obo/UO_0000205	
+		hematocrit	http://www.ebi.ac.uk/efo/EFO_0004348	The volume of packed RED BLOOD CELLS in a blood specimen. The volume is measured by centrifugation in a tube with graduated markings, or with automated blood cell counters. It is an indicator of erythrocyte status in disease. For example, ANEMIA shows a low value; POLYCYTHEMIA, a high value.
+MTBLS315	hemoglobin	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		Hemoglobin	http://purl.obolibrary.org/obo/NCIT_C16676	The red respiratory protein of erythrocytes, consisting of approximately 3.8% heme and 96.2% globin (64.5 KD), which as oxyhemoglobin (HbO2) transports oxygen from the lungs to the tissues where the oxygen is readily released and HbO2 becomes Hb.
+		hemoglobin	http://purl.obolibrary.org/obo/CHEBI_35143	
+MTBLS315	height	body height	http://www.ebi.ac.uk/efo/EFO_0004339	
+		Height	http://purl.obolibrary.org/obo/NCIT_C25347	The vertical measurement or distance from the base to the top of an object; the vertical dimension of extension.
+MTBLS315	weight	body weight	http://www.ebi.ac.uk/efo/EFO_0004338	
+		Weight	http://purl.obolibrary.org/obo/NCIT_C25208	The vertical force exerted by a mass as a result of gravity.
+MTBLS315	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS316	glucose	concentration	http://purl.obolibrary.org/obo/CHMO_0002820	
+		glucose	http://purl.obolibrary.org/obo/CHEBI_17234	An aldohexose used as a source of energy and metabolic intermediate.
+		Glucose	http://www.bioassayontology.org/bao#BAO_0000924	
+		Glucose	http://purl.obolibrary.org/obo/NCIT_C2831	A simple sugar monosaccharide having two isoforms, alpha and beta, with a chemical structure of C6H12O6 that acts as an energy source for both plants and animals by reacting with oxygen, generating carbon dioxide and water, and releasing energy.
+MTBLS317	status	wild type	http://www.bioassayontology.org/bao#BAO_0000089	
+		Status	http://purl.obolibrary.org/obo/NCIT_C25688	A condition or state at a particular time.
+MTBLS319	Gene knockout	gene knock out	http://www.ebi.ac.uk/efo/EFO_0000506	
+		gene knockout	http://www.bioassayontology.org/bao#BAO_0002441	"A gene knockout is a genetic technique in which an organism is engineered to carry genes that have been made inoperative (have been ""knocked out"" of the organism)."
+		Gene Knockout	http://purl.obolibrary.org/obo/NCIT_C18143	Refers to the targeted disruption of a gene within its normal biological context.  Utilized to examine the involvement of a gene in a complex biological process.
+MTBLS319	Stress	environmental stress	http://www.ebi.ac.uk/efo/EFO_0000470	
+		Stress	http://purl.obolibrary.org/obo/NCIT_C35041	The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities.
+MTBLS319	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS320	stress	Drug Exposure	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41362	
+		Stress	http://purl.obolibrary.org/obo/NCIT_C35041	The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities.
+MTBLS320	time	sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS328	anaerobic	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Anaerobic	http://purl.obolibrary.org/obo/NCIT_C103137	A chemical process that does not require oxygen or occurs in the absence of oxygen.
+MTBLS328	control	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Control	http://purl.obolibrary.org/obo/NCIT_C61299	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+		control	http://www.ebi.ac.uk/efo/EFO_0001461	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+MTBLS328	Bacteroides caccae	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Bacteroides caccae	http://purl.obolibrary.org/obo/NCIT_C86168	A species of anaerobic, Gram-negative, rod shaped bacteria assigned to the phylum Bacteroidetes. This species is nonmotile, non-spore forming, catalase negative, resistant to penicillin, hydrolyzes esculin, indole negative and does not produce hydrogen sulfide. B. caccae is commensal and part of the normal human gastrointestinal tract flora, but may become pathogenic in other body regions.
+MTBLS330	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS331	Purity	Purity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62352	
+		purity	http://www.bioassayontology.org/bao#BAO_0002618	
+		Purity	http://purl.obolibrary.org/obo/NCIT_C62352	A quantitative assessment of the homogeneity or uniformity of a mixture. Alternatively, purity refers to the degree of being free of contaminants or heterogeneous components.
+MTBLS333	Location	Location	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25341	
+		Location	http://purl.obolibrary.org/obo/NCIT_C25341	A position, site, or point in space where something can be found.
+MTBLS338	Genotype	genotype	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000513	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS338	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS341	Replicate	replicate	http://purl.obolibrary.org/http///www.ebi.ac.uk/efo/EFO_0000683	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS341	Treatment	Fungi	http://purl.obolibrary.org/obo/NCBITaxon_4751	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS343	cultivar	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	A cultivated plant variety selected and given a name because it has desirable characteristics that distinguish it from otherwise similar plants of the same species.
+MTBLS345	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS345	Facility	Place	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25319	
+		Facility	http://purl.obolibrary.org/obo/NCIT_C62574	Services and space and equipment provided for a particular purpose; a building or place that provides a particular service or is used for a particular industry.
+MTBLS345	Food	Food	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62695	
+		food	http://purl.obolibrary.org/obo/CHEBI_33290	
+		Food	http://purl.obolibrary.org/obo/NCIT_C62695	A group of materials of either plant, animal or artificial origin containing essential body nutrients that can be ingested by an organism to produce energy, stimulate growth, and maintain life.
+MTBLS346	Transgene	Transgene	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C22190	
+		Transgene	http://purl.obolibrary.org/obo/NCIT_C22190	An engineered gene consisting at least of a regulatory element and a coding sequence; regulatory element and coding sequence can come from different species.
+MTBLS349	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS350	Extract	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		extract	http://purl.obolibrary.org/obo/OBI_0000423	an extract is a material entity which results from an extraction process
+		extract	http://www.bioassayontology.org/bao#BAO_0003070	
+		Extract	http://purl.obolibrary.org/obo/NCIT_C82948	A solution of essential constituents of a complex material; a substance removed from another substance.
+MTBLS350	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS352	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS355	genotype	genotype design	http://www.ebi.ac.uk/efo/EFO_0001748	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS355	stimulus	stimulus or stress design	http://www.ebi.ac.uk/efo/EFO_0001762	
+		Stimulus	http://purl.obolibrary.org/obo/NCIT_C41210	An environmental event, agent, act, or influence that can be detected by a receptor in the body and will invariably produce a reaction in a living organism, e.g. change in the behavior, functional or trophic reaction.
+MTBLS358	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS358	Pack year	Pack Year	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C73993	
+		Pack Year	http://purl.obolibrary.org/obo/NCIT_C73993	A quantification of lifetime tobacco exposure defined as (number of cigarettes smoked per day x number of years smoked)/20. One pack-year is smoking 20 cigarettes a day for one year.
+MTBLS359	treatment	antibacterial agent	http://purl.obolibrary.org/obo/CHEBI_33282	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS359	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS359	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS363	Elapsed time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		Elapsed Time	http://purl.obolibrary.org/obo/NCIT_C82572	The interval between two reference points in time.
+MTBLS363	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS364	smoking status	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796	
+		Smoking Status	http://purl.obolibrary.org/obo/NCIT_C19796	An indication of a person's current tobacco and nicotine consumption as well as some indication of smoking history.
+MTBLS364	gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS366	station	Station	http://sweet.jpl.nasa.gov/2.3/matrFacility.owl#Station	
+		Station	http://purl.obolibrary.org/obo/NCIT_C67102	A facility or location equipped with special equipment and/or personnel for a particular purpose.
+MTBLS366	depth	Depth	http://sweet.jpl.nasa.gov/2.3/propSpaceHeight.owl#Depth	
+		Depth	http://purl.obolibrary.org/obo/NCIT_C25333	The extent downward or inward; the perpendicular measurement from the surface downward to determine deepness.
+MTBLS368	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS368	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS370	Species	organism	http://purl.obolibrary.org/obo/OBI_0100026	
+		Species	http://purl.obolibrary.org/obo/NCIT_C45293	A group of organisms that differ from all other groups of organisms and that are capable of breeding and producing fertile offspring.
+MTBLS370	Extract	Extraction		
+		extract	http://purl.obolibrary.org/obo/OBI_0000423	an extract is a material entity which results from an extraction process
+		extract	http://www.bioassayontology.org/bao#BAO_0003070	
+		Extract	http://purl.obolibrary.org/obo/NCIT_C82948	A solution of essential constituents of a complex material; a substance removed from another substance.
+MTBLS373	extract	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		extract	http://purl.obolibrary.org/obo/OBI_0000423	an extract is a material entity which results from an extraction process
+		extract	http://www.bioassayontology.org/bao#BAO_0003070	
+		Extract	http://purl.obolibrary.org/obo/NCIT_C82948	A solution of essential constituents of a complex material; a substance removed from another substance.
+MTBLS373	replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS374	smoking status	Smoking Status	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C19796	
+		Smoking Status	http://purl.obolibrary.org/obo/NCIT_C19796	An indication of a person's current tobacco and nicotine consumption as well as some indication of smoking history.
+MTBLS374	gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS380	sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS382	sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS383	Species	Species	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45293	
+		Species	http://purl.obolibrary.org/obo/NCIT_C45293	A group of organisms that differ from all other groups of organisms and that are capable of breeding and producing fertile offspring.
+MTBLS384	Experiment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Experiment	http://purl.obolibrary.org/obo/NCIT_C42790	A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing.
+MTBLS385	Patient	Patient	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C16960	
+		Patient	http://purl.obolibrary.org/obo/NCIT_C16960	A person who receives medical attention, care, or treatment, or who is registered with medical professional or institution with the purpose to receive medical care when necessary.
+MTBLS385	Sex	Sex	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C28421	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS385	Age	Age	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25150	
+		age	http://purl.obolibrary.org/obo/PATO_0000011	A time quality inhering in a bearer by virtue of how long the bearer has existed.
+		Age	http://purl.obolibrary.org/obo/NCIT_C25150	How long something has existed; elapsed time since birth.
+		age	http://www.ebi.ac.uk/efo/EFO_0000246	A temporal measurement of the time period elapsed since an identifiable point in the life cycle of an organism. If a developmental stage is specified, the identifiable point would be the beginning of that stage. Otherwise the identifiable point must be specified such as planting (e.g. 3 days post planting).
+MTBLS389	Stress	temperature	http://www.ebi.ac.uk/efo/EFO_0001702	
+		Stress	http://purl.obolibrary.org/obo/NCIT_C35041	The negative mental, emotional, and physical reactions that occur when environmental stressors are perceived as exceeding the individual's adaptive capacities.
+MTBLS390	sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS392	matrix	grape fruit product	http://purl.jp/bio/11/meo/MEO_0002322	
+		Matrix	http://purl.obolibrary.org/obo/NCIT_C45805	Ground substance in which things are embedded or that fills a space (e.g., extracellular matrix or nuclear matrix).
+		Matrix	http://purl.obolibrary.org/obo/NCIT_C45802	A rectangular array of elements (or entries) set out by rows and columns.
+MTBLS399	Plant	Plant		
+		plant	http://www.bioassayontology.org/bao#BAO_0000605	They are living organisms which derive their energy from photosynthesis, with the exception of parasitic plants. Plants include herbs, shrubs, trees, grasses, vines, etc.
+		Plant	http://purl.obolibrary.org/obo/NCIT_C14258	Any living organism that typically synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion. (EPA Terminology Reference System)
+MTBLS399	Location	geographic location		
+		Location	http://purl.obolibrary.org/obo/NCIT_C25341	A position, site, or point in space where something can be found.
+MTBLS400	Metabolic syndrome	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Metabolic Syndrome	http://purl.obolibrary.org/obo/NCIT_C84442	A combination of medical conditions that, when present, increase the risk of heart attack, stroke, and diabetes mellitus. It includes the following medical conditions: increased blood pressure, central obesity, abnormal cholesterol levels, and elevated fasting glucose.
+		metabolic syndrome	http://www.ebi.ac.uk/efo/EFO_0000195	A cluster of metabolic risk factors for CARDIOVASCULAR DISEASES and TYPE 2 DIABETES MELLITUS. The major components of metabolic syndrome X include excess ABDOMINAL FAT; atherogenic DYSLIPIDEMIA; HYPERTENSION; HYPERGLYCEMIA; INSULIN RESISTANCE; a proinflammatory state; and a prothrombotic (THROMBOSIS) state. (from AHA/NHLBI/ADA Conference Proceedings, Circulation 2004; 109:551-556)
+MTBLS400	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS401	batch	sample batch	http://purl.obolibrary.org/obo/MS_1000053	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS402	infertility	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		infertility	http://purl.obolibrary.org/obo/DOID_5223	
+		Infertility	http://purl.obolibrary.org/obo/NCIT_C3836	Inability to conceive for at least one year after trying and having unprotected sex. Causes of female infertility include endometriosis, fallopian tubes obstruction, and polycystic ovary syndrome. Causes of male infertility include abnormal sperm production or function, blockage of the epididymis, blockage of the ejaculatory ducts, hypospadias, exposure to pesticides, and health related issues.
+		infertility	http://www.ebi.ac.uk/efo/EFO_0000545	Inability to reproduce after a specified period of unprotected intercourse. Reproductive sterility is permanent infertility.
+MTBLS404	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS404	Role	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		role	http://purl.obolibrary.org/obo/BFO_0000023	A realizable entity  the manifestation of which brings about some result or end that is not essential to a continuant  in virtue of the kind of thing that it is but that can be served or participated in by that kind of continuant  in some kinds of natural, social or institutional contexts.
+		role	http://www.bioassayontology.org/bao#BAO_0002929	
+		Role	http://purl.obolibrary.org/obo/NCIT_C48835	The usual or expected function of something; the part something plays in an action or event.
+		role	http://purl.obolibrary.org/obo/CHEBI_50906	A role is particular behaviour which a material entity may exhibit.
+		role	http://www.ifomis.org/bfo/1.1/snap#Role	A role is an entity which is borne in a material entity in some kinds of natural, social or institutional contexts, but which is not essential to the fundamental definition of that material entity (i.e. the material entity exists with or without the role).  For example, the role of a person as a surgeon, the role of an artificial heart in pumping blood, the role of a chemical compound in an experiment, the role of a drug in the treatment of a disease.
+MTBLS404	Sampling	Sampling		
+		Sampling	http://purl.obolibrary.org/obo/NCIT_C25662	The selection and obtaining of small representative quantities of biological material for the purpose of analysis; also, in biomedical statistics, sampling is the selection and implementation of statistical observations in order to estimate properties of an underlying population; also, in environmental science, the collection of representative specimens analyzed to characterize site conditions.
+MTBLS404	Osmolality	Osmolality	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89824	
+		Osmolality	http://purl.obolibrary.org/obo/NCIT_C89824	The concentration of osmoles of solute per kilogram of solvent present in a sample.
+MTBLS404	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS404	Subset	Subset		
+		Subset	http://www.geneontology.org/formats/oboInOwl#Subset	
+MTBLS405	Medium	HeLa medium	http://purl.org/obo/owl/IEV#IEV_0000312	
+		Medium	http://purl.obolibrary.org/obo/NCIT_C48164	A substance holding another substance in solution or suspension.
+		Medium	http://purl.obolibrary.org/obo/NCIT_C49507	Mid-way between small and large in number, quantity, magnitude or extent.
+MTBLS408	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS409	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS410	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS411	Lactating	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Lactating	http://purl.obolibrary.org/obo/NCIT_C82463	An indication that the subject is currently producing milk.
+MTBLS412	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504	
+		Medium	http://purl.obolibrary.org/obo/NCIT_C48164	A substance holding another substance in solution or suspension.
+		Medium	http://purl.obolibrary.org/obo/NCIT_C49507	Mid-way between small and large in number, quantity, magnitude or extent.
+MTBLS412	Abundance	Abundance	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70589	
+		Abundance	http://purl.obolibrary.org/obo/NCIT_C70589	Relative degree of plentifulness.
+MTBLS414	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS414	Subject	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189	
+		Subject	http://purl.obolibrary.org/obo/NCIT_C48910	Some matter, situation, or event that is thought about, written about, or discussed.
+MTBLS417	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS419	compound	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	
+		Compound	http://purl.obolibrary.org/obo/NCIT_C43366	A substance formed by chemical union of two or more elements or ingredients in definite proportion by weight.
+MTBLS422	Sex	sex	http://purl.obolibrary.org/obo/PATO_0000047	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS425	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS426	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS426	Diet	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Diet	http://purl.obolibrary.org/obo/NCIT_C15222	The customary allowance of food and drink taken by a person or an animal from day to day, particularly one especially planned to meet specific requirements of the individual, including or excluding certain items of food; a prescribed course of eating and drinking in which the amount and kind of food, as well as the times at which it is to be taken, are regulated for therapeutic purposes or selected with reference to a particular state of health.
+		diet	http://www.ebi.ac.uk/efo/EFO_0002755	The customary allowance of food and drink taken by a person or an animal from day to day, particularly one especially planned to meet specific requirements of the individual, including or excluding certain items of food; a prescribed course of eating and drinking in which the amount and kind of food, as well as the times at which it is to be taken, are regulated for therapeutic purposes or selected with reference to a particular state of health.
+MTBLS432	inflammation	colitis score		
+		Inflammation	http://purl.obolibrary.org/obo/NCIT_C3137	A localized protective response resulting from injury or destruction of tissues. Inflammation serves to destroy, dilute, or wall off both the injurious agent and the injured tissue. In the acute phase, inflammation is characterized by the signs of pain, heat, redness, swelling, and loss of function. Histologically, inflammation involves a complex series of events, including dilatation of arterioles, capillaries, and venules, with increased permeability and blood flow; exudation of fluids, including plasma proteins; and leukocyte migration into the site of inflammation.
+		inflammation	http://purl.obolibrary.org/obo/MP_0001845	Aberrant reaction of the microcirculation characterized by movement of fluid and leukocytes from the blood into extravascular tissues.
+MTBLS433	Region	Region	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41129	
+		region	http://purl.obolibrary.org/obo/SO_0000001	A sequence_feature with an extent greater than zero. A nucleotide region is composed of bases and a polypeptide region is composed of amino acids.
+		Region	http://purl.obolibrary.org/obo/NCIT_C41129	An area or portion of something with more or less definite boundaries designed or specified according to some established biological, administrative, economic, demographic, etc. criteria.
+MTBLS433	Variety	Variety	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C62709	
+		Variety	http://purl.obolibrary.org/obo/NCIT_C62709	In botanical nomenclature, a rank below subspecies but above forma.
+MTBLS434	identifier	identifier	http://ontodm.com/OntoDT#OntoDT_184436	
+		Identifier	http://purl.obolibrary.org/obo/NCIT_C25364	One or more characters used to identify, name, or characterize the nature, properties, or contents of a thing.
+MTBLS434	batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS435	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS435	label	Tracer	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C2480	
+		label	http://www.w3.org/2000/01/rdf-schema#label	
+		label	http://purl.obolibrary.org/obo/CHEBI_35209	
+		Label	http://purl.obolibrary.org/obo/NCIT_C45561	A brief description given for purposes of identification; an identifying or descriptive marker that is attached to an object.
+		label	http://purl.obolibrary.org/obo/IAO_0000009	A label is a symbol that is part of some other datum and is used to either partially define the denotation of that datum or to provide a means for identifying the datum as a member of the set of data with the same label.
+MTBLS437	Protein overexpression	Protein Overexpression	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18211	
+		Protein Overexpression	http://purl.obolibrary.org/obo/NCIT_C18211	Synthesis of excess polypeptide within the cell. Overexpression is often due to the amplification or deregulation of the gene which encodes the gene product.
+MTBLS444	Tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS445	Location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		Location	http://purl.obolibrary.org/obo/NCIT_C25341	A position, site, or point in space where something can be found.
+MTBLS447	Mutant	mutant gene	http://www.bootstrep.eu/ontology/GRO#MutantGene	
+		Mutant	http://purl.obolibrary.org/obo/NCIT_C25360	An altered form of an individual, organism, population, or genetic character that differs from the corresponding wild type due to one or more alterations (mutations).
+MTBLS447	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS449	control	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Control	http://purl.obolibrary.org/obo/NCIT_C61299	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+		control	http://www.ebi.ac.uk/efo/EFO_0001461	The act of directing or determining; regulation or maintenance of a function or action; a relation of constraint of one entity (thing or person or group) by another.
+MTBLS449	Birth Weight	Birth Weight	http://purl.bioontology.org/ontology/MESH/D001724	
+		Birth Weight	http://purl.obolibrary.org/obo/NCIT_C76325	The first weight of a newborn obtained after birth.
+		birth weight	http://www.ebi.ac.uk/efo/EFO_0004344	The mass or quantity of heaviness of an individual at BIRTH. It is expressed by units of pounds or kilograms.
+MTBLS449	Antiretroviral Therapy	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Antiretroviral Therapy	http://purl.obolibrary.org/obo/NCIT_C94631	Treatment of retroviral infections with medications that target the virus directly, limiting the ability of infected cells to produce new virus particles.
+MTBLS449	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS449	ethnic group	ethnic group	http://www.ebi.ac.uk/efo/EFO_0003156	
+		Ethnic Group	http://purl.obolibrary.org/obo/NCIT_C16564	A social group characterized by a distinctive social and cultural tradition that is maintained from generation to generation. Members share a common history and origin and a sense of identification with the group. They have similar and distinctive features in their lifestyle habits and shared experiences. They often have a common genetic heritage which may be reflected in their experience of health and disease.
+		ethnic group	http://www.ebi.ac.uk/efo/EFO_0001799	An ethnic group is a population whose members have a common heritage that is real or presumed such as common culture, language, religion, behaviour or biological trait.
+MTBLS449	compound	compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366	
+		Compound	http://purl.obolibrary.org/obo/NCIT_C43366	A substance formed by chemical union of two or more elements or ingredients in definite proportion by weight.
+MTBLS452	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS452	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS456	Vaccination	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		vaccination	http://purl.obolibrary.org/obo/VO_0000002	a process of administering substance in vivo that involves in adding a vaccine into a host (e.g., human) in vivo with the intent to invoke a protective or therapeutic adaptive immune response.
+		Vaccination	http://purl.obolibrary.org/obo/NCIT_C15346	Administration of vaccines to stimulate the host's immune response. This includes any preparation intended for active immunological prophylaxis or treatment.
+		vaccination	http://www.ebi.ac.uk/efo/EFO_0004292	Vaccination is: a process' that involves in adding vaccine into a host (e.g., human, mouse) in vivo with the intend to invoke a protective immune response.
+MTBLS456	Replicate	technical replicate	http://www.ebi.ac.uk/efo/EFO_0002090	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS457	Site	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		site	http://purl.obolibrary.org/obo/BFO_0000029	
+		Site	http://purl.obolibrary.org/obo/NCIT_C37901	A position in relation to its surroundings.
+		site	http://www.ifomis.org/bfo/1.1/snap#Site	A site is an entity which consists of a characteristic spatial shape in relation to some arrangement of other material entities.
+MTBLS457	Sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS459	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS459	Experiment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Experiment	http://purl.obolibrary.org/obo/NCIT_C42790	A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing.
+MTBLS460	Inoculation	Inoculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68774	
+		Inoculation	http://purl.obolibrary.org/obo/NCIT_C68774	To implant microbes or infective materials, introduce immune serum, vaccines of various kinds, and other antigenic materials for preventive, curative, or experimental purposes.
+MTBLS461	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS461	Filtration	Filter	http://sweet.jpl.nasa.gov/2.3/reprDataServiceAnalysis.owl#Filter	
+		filtration	http://purl.obolibrary.org/obo/OBI_0302885	filtration is a process which separates components suspended in a fluid based on granularity properties relying on a filter device
+		Filtration	http://purl.obolibrary.org/obo/NCIT_C16583	The process of passing a liquid or gas through a filter.
+MTBLS464	Batch	sample batch	http://purl.obolibrary.org/obo/MS_1000053	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS464	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS472	treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS473	Meal	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Meal	http://purl.obolibrary.org/obo/NCIT_C80248	Any of the occasions for eating food that occur by custom or habit at more or less fixed times.
+MTBLS473	Person	Study Subject	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41189	
+		Person	http://purl.obolibrary.org/obo/NCIT_C25190	A human being.
+MTBLS478	Gene	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	
+		gene	http://www.bioassayontology.org/bao#BAO_0000582	A genomic sequence, which is the unit of heredity of a living organism. It consists of regulatory regions and transcribed regions.
+		Gene	http://purl.obolibrary.org/obo/NCIT_C16612	A functional unit of heredity which occupies a specific position on a particular chromosome and serves as the template for a product that contributes to a phenotype or a biological function.
+		gene	http://purl.obolibrary.org/obo/SO_0000704	A region (or regions) that includes all of the sequence elements necessary to encode a functional transcript. A gene may include regulatory regions, transcribed regions and/or other functional sequence regions.
+MTBLS481	inoculation	Inoculation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C68774	
+		Inoculation	http://purl.obolibrary.org/obo/NCIT_C68774	To implant microbes or infective materials, introduce immune serum, vaccines of various kinds, and other antigenic materials for preventive, curative, or experimental purposes.
+MTBLS482	Treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS483	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS492	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS493	Cell line	cell line	http://www.ebi.ac.uk/efo/EFO_0000322	
+		cell line	http://purl.obolibrary.org/obo/CLO_0000031	A cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history (i.e. has been successively passaged together in culture). 
+		Cell Line	http://purl.obolibrary.org/obo/NCIT_C16403	A permanently established cell culture that will proliferate indefinitely given appropriate fresh medium and space.
+MTBLS495	aging	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		Aging	http://purl.obolibrary.org/obo/NCIT_C16269	The process of change in the structure and function of an organism that occurs with the passage of time.
+		aging	http://purl.obolibrary.org/obo/GO_0007568	The gradual irreversible changes in structure and function of an organism that occur as a result of the passage of time.
+MTBLS495	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS497	Media	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504	
+		Media	http://purl.obolibrary.org/obo/NCIT_C19442	Any mechanism of mass communication.
+		media	http://www.ebi.ac.uk/efo/EFO_0000579	The physical state or matrix used to provide nutrients to the organism (e.g., liquid, agar, soil).
+MTBLS497	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS519	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS520	species	Species	http://www.owl-ontologies.com/BiodiversityOntologyFull.owl#Species	
+		Species	http://purl.obolibrary.org/obo/NCIT_C45293	A group of organisms that differ from all other groups of organisms and that are capable of breeding and producing fertile offspring.
+MTBLS520	Species code	Identifier	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25364	
+		Species Code	http://purl.obolibrary.org/obo/NCIT_C93672	A coded value specifying one of the basic units of biological classification and taxonomic rank that specifies a group of organisms that share similar characteristics and can interbreed with one another to produce fertile offspring.
+MTBLS525	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS525	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS526	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS529	Genotype	germline genotype	http://www.ebi.ac.uk/efo/EFO_0004973	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS529	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS529	Type	cultivar	http://www.ebi.ac.uk/efo/EFO_0005136	
+		type	http://www.w3.org/1999/02/22-rdf-syntax-ns#type	
+		Type	http://purl.obolibrary.org/obo/NCIT_C25284	Something distinguishable as an identifiable class based on common qualities.
+MTBLS531	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS532	Compound	Compound	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43366	
+		Compound	http://purl.obolibrary.org/obo/NCIT_C43366	A substance formed by chemical union of two or more elements or ingredients in definite proportion by weight.
+MTBLS535	Species	organism	http://purl.obolibrary.org/obo/OBI_0100026	
+		Species	http://purl.obolibrary.org/obo/NCIT_C45293	A group of organisms that differ from all other groups of organisms and that are capable of breeding and producing fertile offspring.
+MTBLS538	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS543	Diagnosis	Diagnosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220	
+		diagnosis	http://purl.obolibrary.org/obo/OGMS_0000073	The representation of a conclusion of a diagnostic process.
+		Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220	The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.
+MTBLS548	Diet	high fat diet	http://www.ebi.ac.uk/efo/EFO_0002757	
+		Diet	http://purl.obolibrary.org/obo/NCIT_C15222	The customary allowance of food and drink taken by a person or an animal from day to day, particularly one especially planned to meet specific requirements of the individual, including or excluding certain items of food; a prescribed course of eating and drinking in which the amount and kind of food, as well as the times at which it is to be taken, are regulated for therapeutic purposes or selected with reference to a particular state of health.
+		diet	http://www.ebi.ac.uk/efo/EFO_0002755	The customary allowance of food and drink taken by a person or an animal from day to day, particularly one especially planned to meet specific requirements of the individual, including or excluding certain items of food; a prescribed course of eating and drinking in which the amount and kind of food, as well as the times at which it is to be taken, are regulated for therapeutic purposes or selected with reference to a particular state of health.
+MTBLS552	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS555	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS560	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS562	aging	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		Aging	http://purl.obolibrary.org/obo/NCIT_C16269	The process of change in the structure and function of an organism that occurs with the passage of time.
+		aging	http://purl.obolibrary.org/obo/GO_0007568	The gradual irreversible changes in structure and function of an organism that occur as a result of the passage of time.
+MTBLS562	replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS564	Diagnosis	Diagnosis	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C15220	
+		diagnosis	http://purl.obolibrary.org/obo/OGMS_0000073	The representation of a conclusion of a diagnostic process.
+		Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220	The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.
+MTBLS566	tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS567	Light	photon flux density		
+		Light	http://purl.obolibrary.org/obo/NCIT_C64650	Of comparatively little physical weight or density.
+		light	http://www.ebi.ac.uk/efo/EFO_0000568	The photoperiod and type (e.g., natural, restricted wavelength) of light exposure.
+MTBLS570	Inflammation	inflammation	http://purl.obolibrary.org/obo/MP_0001845	
+		Inflammation	http://purl.obolibrary.org/obo/NCIT_C3137	A localized protective response resulting from injury or destruction of tissues. Inflammation serves to destroy, dilute, or wall off both the injurious agent and the injured tissue. In the acute phase, inflammation is characterized by the signs of pain, heat, redness, swelling, and loss of function. Histologically, inflammation involves a complex series of events, including dilatation of arterioles, capillaries, and venules, with increased permeability and blood flow; exudation of fluids, including plasma proteins; and leukocyte migration into the site of inflammation.
+		inflammation	http://purl.obolibrary.org/obo/MP_0001845	Aberrant reaction of the microcirculation characterized by movement of fluid and leukocytes from the blood into extravascular tissues.
+MTBLS571	time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS574	site	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		site	http://purl.obolibrary.org/obo/BFO_0000029	
+		Site	http://purl.obolibrary.org/obo/NCIT_C37901	A position in relation to its surroundings.
+		site	http://www.ifomis.org/bfo/1.1/snap#Site	A site is an entity which consists of a characteristic spatial shape in relation to some arrangement of other material entities.
+MTBLS579	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS579	Fever	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		Fever	http://purl.obolibrary.org/obo/NCIT_C3038	Elevation of body temperature above normal due to inflammatory or immune responses.
+		fever	http://purl.obolibrary.org/obo/HP_0001945	Elevated body temperature due to failed thermoregulation.
+MTBLS579	Pancreatitis	Boolean	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C45254	
+		pancreatitis	http://purl.obolibrary.org/obo/DOID_4989	
+		Pancreatitis	http://purl.obolibrary.org/obo/NCIT_C3306	Inflammation of the pancreas.
+		pancreatitis	http://www.ebi.ac.uk/efo/EFO_0000278	Inflammation of the pancreas.
+MTBLS579	Alkaline phosphatase	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185	
+		Alkaline Phosphatase	http://purl.obolibrary.org/obo/NCIT_C16276	An enzyme that catalyses the cleavage of inorganic phosphate non-specifically from a wide variety of phosphate esters and having a high (greater than 8) pH optimum.
+MTBLS579	Amylase	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185	
+		Amylase	http://purl.obolibrary.org/obo/NCIT_C16284	Amylase is an enzyme which helps digest glycogen and starch. It is produced mainly in the pancreas and salivary glands.
+MTBLS598	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS602	sex	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS602	treatment	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS616	Sampling time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		sampling time	http://www.ebi.ac.uk/efo/EFO_0000689	
+MTBLS643	Experiment	Population Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17005	
+		Experiment	http://purl.obolibrary.org/obo/NCIT_C42790	A coordinated set of actions and observations designed to generate data, with the ultimate goal of discovery or hypothesis testing.
+MTBLS648	Drug	treatment	http://www.ebi.ac.uk/efo/EFO_0000727	
+		drug	http://purl.obolibrary.org/obo/CHEBI_23888	
+MTBLS650	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS656	Collection Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		Collection Time	http://purl.obolibrary.org/obo/NCIT_C81287	The hour, minute, and/or second at which the sample or data was collected.
+MTBLS658	Neutrophil Activation	Neutrophil Activation	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C26281	
+		Neutrophil Activation	http://purl.obolibrary.org/obo/NCIT_C26281	Neutrophil Activation involves cell interaction and cell signaling mechanisms that recognize or respond to the presence of foreign antigen and that stimulate phagocytosis, degranulation, or generation of reactive oxygen products by neutrophils to destroy invading pathogens or to induce acute inflammatory reactions.
+MTBLS661	Genotype	Gene Knockout	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C18143	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS661	Batch	block	http://www.ebi.ac.uk/efo/EFO_0005067	
+		Batch	http://purl.obolibrary.org/obo/NCIT_C67073	A quantity of people or things treated or regarded as a group, especially when subdivided from a larger group.
+MTBLS664	Diagnosis	Diagnosis	http://purl.bioontology.org/ontology/SNOMEDCT/439401001	
+		diagnosis	http://purl.obolibrary.org/obo/OGMS_0000073	The representation of a conclusion of a diagnostic process.
+		Diagnosis	http://purl.obolibrary.org/obo/NCIT_C15220	The investigation, analysis and recognition of the presence and nature of disease, condition, or injury from expressed signs and symptoms; also, the scientific determination of any kind; the concise results of such an investigation.
+MTBLS669	Tumor microenvironment	Tumor Microenvironment	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C94498	
+		Tumor Microenvironment	http://purl.obolibrary.org/obo/NCIT_C94498	
+MTBLS673	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS673	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS674	Stereotactic Injection	Stereotactic Injection	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C93194	
+		Stereotactic Injection	http://purl.obolibrary.org/obo/NCIT_C93194	
+MTBLS675	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS687	Site	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		site	http://purl.obolibrary.org/obo/BFO_0000029	
+		Site	http://purl.obolibrary.org/obo/NCIT_C37901	A position in relation to its surroundings.
+		site	http://www.ifomis.org/bfo/1.1/snap#Site	A site is an entity which consists of a characteristic spatial shape in relation to some arrangement of other material entities.
+MTBLS687	Plant	Functional group		
+		plant	http://www.bioassayontology.org/bao#BAO_0000605	They are living organisms which derive their energy from photosynthesis, with the exception of parasitic plants. Plants include herbs, shrubs, trees, grasses, vines, etc.
+		Plant	http://purl.obolibrary.org/obo/NCIT_C14258	Any living organism that typically synthesizes its food from inorganic substances, possesses cellulose cell walls, responds slowly and often permanently to a stimulus, lacks specialized sense organs and nervous system, and has no powers of locomotion. (EPA Terminology Reference System)
+MTBLS687	Species	genotype	http://www.ebi.ac.uk/efo/EFO_0000513	
+		Species	http://purl.obolibrary.org/obo/NCIT_C45293	A group of organisms that differ from all other groups of organisms and that are capable of breeding and producing fertile offspring.
+MTBLS690	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS691	Timepoint	timepoint		
+		Timepoint	http://purl.obolibrary.org/obo/NCIT_C68568	A specific point in the time continuum, including those established relative to an event.
+		timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	Time point at which a sample or observation is made or taken from a biomaterial as measured from some reference point.
+MTBLS693	tissue	Tissue	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C12801	
+		tissue	http://purl.obolibrary.org/obo/UBERON_0000479	Multicellular anatomical structure that consists of many cells of one or a few types, arranged in an extracellular matrix such that their long-range organisation is at least partly a repetition of their short-range organisation.
+		Tissue	http://purl.obolibrary.org/obo/NCIT_C12801	An anatomical structure consisting of similarly specialized cells and intercellular matrix, aggregated according to genetically determined spatial relationships, performing a specific function.
+MTBLS693	season	Date	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25164	
+		Season	http://purl.obolibrary.org/obo/NCIT_C94729	Any of the four periods into which the year is divided by the equinoxes and solstices.
+MTBLS698	life stage	Life Stage	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C89335	
+		Life Stage	http://purl.obolibrary.org/obo/NCIT_C89335	A designation assigned to a particular period during a life cycle, generally defined by chronological parameters.
+MTBLS698	gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS703	Cobalamin	Quantity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25256	
+		Cobalamin	http://purl.obolibrary.org/obo/NCIT_C939	An essential nutrient and natural water-soluble vitamin of the B-complex family that must combine with an intrinsic factor for absorption by the intestine, Vitamin B12 (cyanocobalamin) is necessary for hematopoiesis, neural metabolism, DNA and RNA production, and carbohydrate, fat, and protein metabolism. B12 improves iron functions in the metabolic cycle and assists folic acid in choline synthesis. B12 metabolism is interconnected with that of folic acid. Vitamin B12 deficiency causes pernicious anemia, megaloblastic anemia, and neurologic lesions.
+		cobalamin	http://purl.obolibrary.org/obo/CHEBI_30411	A cobalt-corrinoid hexaamide that is cobalamin with the oxidation state of the central cobalt atom unspecified.
+MTBLS703	Light	Brightness	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70753	
+		Light	http://purl.obolibrary.org/obo/NCIT_C64650	Of comparatively little physical weight or density.
+		light	http://www.ebi.ac.uk/efo/EFO_0000568	The photoperiod and type (e.g., natural, restricted wavelength) of light exposure.
+MTBLS703	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS708	Cobalamin	Quantity	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25256	
+		Cobalamin	http://purl.obolibrary.org/obo/NCIT_C939	An essential nutrient and natural water-soluble vitamin of the B-complex family that must combine with an intrinsic factor for absorption by the intestine, Vitamin B12 (cyanocobalamin) is necessary for hematopoiesis, neural metabolism, DNA and RNA production, and carbohydrate, fat, and protein metabolism. B12 improves iron functions in the metabolic cycle and assists folic acid in choline synthesis. B12 metabolism is interconnected with that of folic acid. Vitamin B12 deficiency causes pernicious anemia, megaloblastic anemia, and neurologic lesions.
+		cobalamin	http://purl.obolibrary.org/obo/CHEBI_30411	A cobalt-corrinoid hexaamide that is cobalamin with the oxidation state of the central cobalt atom unspecified.
+MTBLS708	Light	Brightness	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C70753	
+		Light	http://purl.obolibrary.org/obo/NCIT_C64650	Of comparatively little physical weight or density.
+		light	http://www.ebi.ac.uk/efo/EFO_0000568	The photoperiod and type (e.g., natural, restricted wavelength) of light exposure.
+MTBLS708	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS737	Cell line	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002	
+		cell line	http://purl.obolibrary.org/obo/CLO_0000031	A cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history (i.e. has been successively passaged together in culture). 
+		Cell Line	http://purl.obolibrary.org/obo/NCIT_C16403	A permanently established cell culture that will proliferate indefinitely given appropriate fresh medium and space.
+MTBLS743	Gender	Gender	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C17357	
+		Gender	http://purl.obolibrary.org/obo/NCIT_C17357	The assemblage of properties that distinguish people on the basis of the societal roles expected for the two sexes.
+MTBLS750	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
+MTBLS756	variety	bio-variety	http://purl.obolibrary.org/obo/TAXRANK_0000032	
+		Variety	http://purl.obolibrary.org/obo/NCIT_C62709	In botanical nomenclature, a rank below subspecies but above forma.
+MTBLS756	location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		Location	http://purl.obolibrary.org/obo/NCIT_C25341	A position, site, or point in space where something can be found.
+MTBLS762	Replicate	biological replicate	http://www.ebi.ac.uk/efo/EFO_0002091	
+		Replicate	http://purl.obolibrary.org/obo/NCIT_C28038	
+		replicate	http://www.ebi.ac.uk/efo/EFO_0000683	A role played by a a biological sample in the context of an experiment where the intent is that biological or technical variation is measured.
+MTBLS762	Cell line	immortal cell line cell	http://purl.obolibrary.org/obo/CL_0000002	
+		cell line	http://purl.obolibrary.org/obo/CLO_0000031	A cultured cell population that represents a genetically stable and homogenous population of cultured cells that shares a common propagation history (i.e. has been successively passaged together in culture). 
+		Cell Line	http://purl.obolibrary.org/obo/NCIT_C16403	A permanently established cell culture that will proliferate indefinitely given appropriate fresh medium and space.
+MTBLS763	Genotype	breed	http://www.ebi.ac.uk/efo/EFO_0005238	
+		Genotype	http://purl.obolibrary.org/obo/NCIT_C16631	The genetic constitution of an organism or cell, as distinct from its expressed features or phenotype.
+		genotype	http://www.ebi.ac.uk/efo/EFO_0000513	The total sum of the genetic information of an organism that is known and relevant to the experiment being performed, including chromosomal, plasmid, viral or other genetic material which has been introduced into the organism either prior to or during the experiment.
+MTBLS763	Sex	Sex	http://purl.bioontology.org/ontology/MESH/D012723	
+		Sex	http://purl.obolibrary.org/obo/NCIT_C28421	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+		sex	http://purl.obolibrary.org/obo/PATO_0000047	The assemblage of physical properties or qualities by which male is distinguished from female; the physical difference between male and female; the distinguishing peculiarity of male or female.
+MTBLS767	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		infection	http://purl.obolibrary.org/obo/IDO_0000586	A part of an extended organism that itself has as part a population of one or more infectious agents and that (1) exists as a result of processes initiated by members of the infectious agent population and is (2) clinically abnormal in virtue of the presence of this infectious agent population, or (3) has a disposition to bring clinical abnormality to immunocompetent organisms of the same Species as the host (the organism corresponding to the extended organism) through transmission of a member or offspring of a member of the infectious agent population.
+		Infection	http://purl.obolibrary.org/obo/NCIT_C128320	The invasion of an organism's body tissues by disease-causing agents and their multiplication, as well as the reaction by the host to these organisms and/or toxins that the organisms produce.
+		infection	http://www.ebi.ac.uk/efo/EFO_0000544	The state of being infected such as from the introduction of a foreign agent such as serum, vaccine, antigenic substance or organism.
+MTBLS767	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504	
+		Medium	http://purl.obolibrary.org/obo/NCIT_C48164	A substance holding another substance in solution or suspension.
+		Medium	http://purl.obolibrary.org/obo/NCIT_C49507	Mid-way between small and large in number, quantity, magnitude or extent.
+MTBLS769	Infection	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		infection	http://purl.obolibrary.org/obo/IDO_0000586	A part of an extended organism that itself has as part a population of one or more infectious agents and that (1) exists as a result of processes initiated by members of the infectious agent population and is (2) clinically abnormal in virtue of the presence of this infectious agent population, or (3) has a disposition to bring clinical abnormality to immunocompetent organisms of the same Species as the host (the organism corresponding to the extended organism) through transmission of a member or offspring of a member of the infectious agent population.
+		Infection	http://purl.obolibrary.org/obo/NCIT_C128320	The invasion of an organism's body tissues by disease-causing agents and their multiplication, as well as the reaction by the host to these organisms and/or toxins that the organisms produce.
+		infection	http://www.ebi.ac.uk/efo/EFO_0000544	The state of being infected such as from the introduction of a foreign agent such as serum, vaccine, antigenic substance or organism.
+MTBLS769	Medium	Growth Medium	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C85504	
+		Medium	http://purl.obolibrary.org/obo/NCIT_C48164	A substance holding another substance in solution or suspension.
+		Medium	http://purl.obolibrary.org/obo/NCIT_C49507	Mid-way between small and large in number, quantity, magnitude or extent.
+MTBLS789	Dose	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185	
+		dose	http://purl.obolibrary.org/obo/OBI_0000984	A measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to. Quantities of nutrients, drugs, vaccines and toxins are referred to as doses.
+		Dose	http://purl.obolibrary.org/obo/NCIT_C25488	A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.
+		dose	http://www.ebi.ac.uk/efo/EFO_0000428	The total quantity or strength of a substance administered at one time.
+MTBLS789	Treatment	Inhibitor	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C154898	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS803	Location	geographic location	http://purl.obolibrary.org/obo/GAZ_00000448	
+		Location	http://purl.obolibrary.org/obo/NCIT_C25341	A position, site, or point in space where something can be found.
+MTBLS843	Time	timepoint	http://www.ebi.ac.uk/efo/EFO_0000724	
+		time	http://purl.obolibrary.org/obo/PATO_0000165	A quality in which events occur in sequence.
+		Time	http://purl.obolibrary.org/obo/NCIT_C25207	The continuum of experience in which events pass from the future through the present to the past.
+		time	http://www.ebi.ac.uk/efo/EFO_0000721	
+MTBLS848	Concentration	Concentration	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C41185	
+		Concentration	http://purl.obolibrary.org/obo/NCIT_C41185	The quantity of a substance per unit volume or weight; a measure of the amount of substance present in a unit amount of mixture, particularly, the amount of solute dissolved in a solvent. The amounts can be expressed as moles, masses, volumes, or parts.
+MTBLS849	Treatment	Solid Phase Extraction	http://purl.bioontology.org/ontology/MESH/D052616	
+		treatment	http://purl.obolibrary.org/obo/OGMS_0000090	A processual entity whose completion is hypothesized (by a healthcare provider) to alleviate the signs and symptoms associated with a disorder
+		treatment	http://www.ebi.ac.uk/efo/EFO_0000727	A process in which the act is intended to modify or alter some other material entity,
+MTBLS867	Dose	Dose	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C25488	
+		dose	http://purl.obolibrary.org/obo/OBI_0000984	A measurement datum that measures the quantity of something that may be administered to an organism or that an organism may be exposed to. Quantities of nutrients, drugs, vaccines and toxins are referred to as doses.
+		Dose	http://purl.obolibrary.org/obo/NCIT_C25488	A quantity of an agent (such as substance or energy) administered, taken, or absorbed at one time.
+		dose	http://www.ebi.ac.uk/efo/EFO_0000428	The total quantity or strength of a substance administered at one time.
+MTBLS867	Group	Group	http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C43359	
+		Group	http://purl.obolibrary.org/obo/NCIT_C43359	Any number of entities (members) considered as a unit.
+		group	http://purl.obolibrary.org/obo/CHEBI_24433	A defined linked collection of atoms or a single atom within a molecular entity.
