@@ -1,0 +1,355 @@
+term	count
+Gender	26
+Age	20
+Replicate	15
+Sample Type	14
+Time Point	14
+Incubation Time	7
+Treatment	7
+Run Order	7
+Batch	6
+Dose	6
+Bmi	6
+Control	5
+Disease	5
+Cell Line	5
+Time Post Exposure	5
+Time	5
+Batch Run Order	5
+Timepoint	5
+Tracer	4
+Compound	4
+Subject	4
+Rmsd	3
+Cell Type	3
+Age Group	3
+Diagnosis	3
+Analysis Date	3
+Injection Number	3
+Experiment	3
+Artemether Treatment	3
+Diabetes	3
+Material Sample	3
+Disease State	3
+Smoking Status	3
+Phase	3
+	3
+Spectrum Type	3
+Plate Position	2
+Injection Order	2
+Medium	2
+Temperature	2
+Well Position	2
+Sampling Time	2
+Metabolic Syndrome	2
+Batch Number	2
+Weight	2
+Height	2
+Genotype	2
+Group	2
+Sex	2
+Tissue Type	2
+Human State	2
+Patient	2
+Collection Time	1
+Carriage Status	1
+Harvesting Time	1
+Smoker	1
+Resveratrol Concentration	1
+Antibody Status	1
+Run Day	1
+Family Disposition	1
+Mvv Pred B/T	1
+Mean Corpuscular Hemoglobin	1
+Diff_Neutrophils	1
+Duration Illness Prior To Hospital Admission	1
+Freeze-Thaw	1
+Platelet Count	1
+Lymphocytes	1
+Treatment With Inj. Cefazoline	1
+Microbial Interaction	1
+Workload A/T	1
+Overall Survival	1
+Pancreatitis	1
+Copd Status	1
+Dis-Free Survival	1
+Parturition	1
+Isotopic Tracer	1
+Infertility	1
+Time Of Day	1
+Drug Treatment Local Steroids	1
+Fev Pred	1
+Drug Treatment	1
+Her2	1
+Conjugated Bilirubin	1
+Race	1
+Ns	1
+P. Falciparum Parasite Density	1
+Tlc Pred B/T	1
+Staging	1
+Maternal Viral Load	1
+Mvv A/T	1
+Lactate B/T B/E	1
+Tumour Grade	1
+Material Type	1
+Breast Cancer Relapse	1
+Total White Blood Cell Count	1
+Previous Hospital Due To Cholecystitis	1
+Serum Type	1
+Diff_Basophils	1
+Previous History Of Typhoid	1
+B3 Vitamin	1
+Cardiovascular Risk Status	1
+Ic Pred B/T	1
+Human Oscc	1
+Lifestyle Intervention	1
+Osmolarity	1
+Dlco Pred B/T	1
+Ectonucleotidase Inhibition	1
+Oligomycin	1
+Biological Replicate	1
+Biofluid	1
+Subset	1
+Vo2 Peak B/T Ml/Min	1
+Challenge Time Of Day	1
+Coculture	1
+Drug Treatment Asetylsalicylic Acid	1
+Diabetes Status	1
+Participant Type	1
+Ic B/T	1
+Dosage	1
+Acute Kidney Injury	1
+Patient Group	1
+Currentpmh	1
+Treatment With Human Fecal Suspension	1
+Nano Material	1
+Ip3R Expression	1
+Ethinicity	1
+Heart Rate A/T	1
+Tumor Microenvironment	1
+Total Red Blood Cell Count	1
+Diff_Monocytes	1
+Previous Jaundice	1
+Current Chronological Age	1
+Sasang Constitution	1
+Cluster Effect	1
+Clear Cell Renal Cell Carcinoma	1
+Walk B/T	1
+Chemotherapy Response	1
+Substrate	1
+Severe Malnutrition	1
+Hiae	1
+Control Sample Group	1
+Gene Transfection	1
+Section Location	1
+Heart Rate Pred B/T	1
+Spike-In Concentration	1
+Anticoagulant	1
+Visit	1
+Most Recent Treatment	1
+Participant	1
+Paco2	1
+Extraintestinal Manifestations	1
+Fasting Time	1
+Sample Group	1
+Mvv B/T	1
+Challenge	1
+Neutrophil Activation	1
+Person	1
+Prior Antibiotic Treatment	1
+Copd Diagnosis	1
+Eg. Gender	1
+Bmi A/T	1
+Day	1
+Aspartate Transaminase	1
+Antibiotics 15 Days	1
+Analytical Run Order	1
+Cdx1/Villin	1
+Incubation	1
+Amylase	1
+Ageatblooddraw	1
+Endocannabinoid Class	1
+Sampling	1
+Bacteroides Caccae	1
+Previous Malaria Infection	1
+Colorectal Adenocarcinoma	1
+Lactate A/T A/E	1
+Plate Number	1
+Neuropeptide Y And Y2 Receptorblocker Treatment	1
+Gall Stones	1
+Rv Pred B/T	1
+Exercise Set	1
+Glandular Tissue	1
+Malaria Rapid Diagnostic Test	1
+Outcome	1
+Preparation Replicate	1
+Pregnancy Duration	1
+Plate Effect	1
+Fever 5 Days On Entry	1
+Complex Index B/T	1
+Season Of Sample Collection	1
+Hb-Score	1
+Workload B/T	1
+Ms Format	1
+Column Number	1
+Antiretroviral Therapy	1
+Role	1
+Labeling	1
+Glutamine	1
+Label	1
+Monocytes	1
+Sample Collection Time	1
+Vo2 Peak A/T	1
+Connective Tissue	1
+Vo2 Peak Pred B/T	1
+Nonobstructive Azoospermia	1
+Pack Year	1
+Time To Relapse	1
+Plate Surface Area	1
+Cell Number	1
+Tlc B/T	1
+Pao2	1
+Mers-Cov Infection	1
+Right Upper Quadrant Pain	1
+Diff_Lymphocytes	1
+Mouse Pancreas	1
+Injection	1
+Preservative	1
+Drug Treatment Systemic Steroids	1
+Low Dose Insulin Infusion	1
+Frailty Index Score	1
+Adipose Tissue	1
+Grade	1
+Birth Weight	1
+Diet	1
+Clinical Outcome	1
+Blood Plasma	1
+Right Upper Quadrand Tenderness	1
+Maternal Age	1
+Vo2 Peak Pred A/T	1
+Jaundice At Admission	1
+Plasma Fraction	1
+Cm Source	1
+Fev/Fvc Ratio	1
+Cognitive Status	1
+Parp Inhibitor Concentration	1
+Peturbation	1
+Secondary Identifier	1
+Dis. Prog	1
+Group Name	1
+Heart Rate Pred A/T	1
+Osmo	1
+Infection Stage	1
+Liver Fat	1
+Ethnic Group	1
+Stage	1
+Tumour Site	1
+Time Elapsed Between Last Radiation Therapy And Serum Collection	1
+Remote Ischemic Conditioning	1
+Dilution	1
+Sample Treatment Protocol	1
+Pre Or Post Training Visit	1
+Fever	1
+Volunteer	1
+Histological Grade	1
+Drug Treatment Salazopurine	1
+Previous Acute Cholecystitis	1
+Cell Or Tumour	1
+Abundance	1
+Study Group	1
+Complex Index A/T	1
+Injection Replicate	1
+Anaerobic	1
+Drug Treatment Local Asetylsalicylic Acid	1
+Ffmi B/T	1
+Drug Treatment Infliximab 	1
+Pre Or Post-Exercise	1
+Ic/Tlc Ratio	1
+Abcc6 Genotype	1
+Steroid Response	1
+Disease Characterisation 	1
+Stroma Tissue	1
+Tech. Replicate	1
+T-Stage	1
+Mean Corpuscular Volume	1
+Exercise	1
+Smoking	1
+Prior Antimalaria Treatment	1
+Rv B/T	1
+Walk A/T	1
+Polarity	1
+Cell Seeding Density	1
+Challenge Day	1
+Steroid Dependency	1
+Mean Corpuscular Hemoglobin Concentration	1
+Fetal Exposure During Pregnancy	1
+Location	1
+Renal Cancer Cells	1
+Disease Status	1
+Lactate B/T A/E	1
+Caco2	1
+Age At Diagnosis	1
+Mzxml Conversion Mode	1
+Vo2 Peak B/T	1
+Mayo-Score	1
+Meal	1
+Blood Glucose	1
+Neutrophils	1
+Gestation Period	1
+Breast Cancer Diagnosis	1
+Protein Challenge	1
+Sample Material	1
+Time Collected Urine Sample	1
+Ca Type	1
+Sirna	1
+Phenotype	1
+Oxygen Level	1
+Mean Pearsons Correlation	1
+Total Bilirubin	1
+Time Elapsed Between Last Chemotherapy And Serum Collection	1
+Hematocrit	1
+Biol. Replicate	1
+Lactate A/T B/E	1
+Mvv Pred A/T	1
+Drug Treatment Azathioprine	1
+Gallbladder Tissue Thickness	1
+Cd4-Positive T-Lymphocytes	1
+Scan Range	1
+Radiation	1
+Subject Identifier	1
+Extension	1
+Mouse Kidney	1
+Osmolality	1
+Alanine Transaminase	1
+Dlco B/T	1
+Drug Treatment 6-Mercaptopurine	1
+Cell Culture Media	1
+Fev	1
+Chronic Fatigue Syndrome	1
+Client Identifier	1
+Concentration Of Willow Bark Extract	1
+Years With Disease 	1
+Am580-Treatment	1
+Er	1
+N-Stage	1
+Tumour	1
+Disease Staging	1
+Heart Rate B/T	1
+Death Within 2 Years From Acs	1
+Menopause	1
+Total Cell Count	1
+Lactobacillus Rhamnosus Lgg	1
+Hemoglobin	1
+Steatosis 	1
+Ffmi A/T	1
+Copd Gold Stage	1
+Tumor And Non Tumor Renal Cell Line	1
+Eosiniphils	1
+Series	1
+D-Glucose	1
+Bmi B/T	1
+Vo2 Peak A/T Ml/Min	1
+Arthemeter Treatment	1
+Alkaline Phosphatase	1
+Tissue	1
+Diff_Eosinophils	1

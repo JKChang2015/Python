@@ -19,7 +19,7 @@ res = []
 
 
 for studyID in studyIDs:
-    # print(studyID)
+    print(studyID)
     studyPath = folderPath + studyID + '/'
     sample_list = fileReader.investigation_reader(studyID,['Study File Name'])
     organism = []
@@ -38,11 +38,28 @@ for studyID in studyIDs:
         temp = ','.join(organism)
         res.append({'studyID':studyID, 'organism': temp})
     else:
-        print(studyID)
+        print(studyID + '《=========')
 
 
 df = pd.DataFrame(res)
+
 df = df[['studyID','organism']]
 
-df.to_csv('organism.tsv',sep='\t',index=False)
+df_split = pd.DataFrame(columns=['studyID', 'organism'])
+
+# split the Techniques into different rows
+for index, row in df.iterrows():
+    try:
+        temp = row.copy()
+        organisms = row['organism'].split(',')
+        for organism in organisms:
+            temp['organism'] = organism
+            df_split.loc[len(df_split)] = temp
+    except:
+        pass
+
+df_split = df_split.drop(index = df_split[df_split['organism'].isin(['blank','reference compound'])].index)
+
+
+df_split.to_csv('organism.tsv',sep='\t',index=False)
 
