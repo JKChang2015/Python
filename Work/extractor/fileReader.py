@@ -53,5 +53,12 @@ def MAF_reader(filePath, colName):
     pass
 
 
+def sample_reader(filePath, colName, dropna= True):
+    df = pd.read_csv(filePath,sep='\t')
+    if dropna:
+        return  df[colName].dropna().tolist()
+    else:
+        return df[colName].tolist()
+
 # r = investigation_reader("MTBLS6", ['Study Factor Name','Study Factor Type','Study Factor Type Term Accession Number'])
 # print()

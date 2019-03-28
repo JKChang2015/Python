@@ -7,14 +7,11 @@
 from owlready2 import IRIS
 from owlready2 import get_ontology
 
-from Work.ontology.ontology_info import entity
-from Work.ontology.ontology_info import onto_information
-
 
 
 onto = get_ontology('../resources/Metabolights.owl').load()
-c = list(onto.classes())
-# start_cls = onto.search_one(iri='http://www.w3.org/2002/07/owl#Thing')
-start_cls = onto.search_one(label='factors')
-res = onto.search(is_a = start_cls)
+
+# c = list(onto.classes())
+c = onto.search_one(label = 'Investigator')
+d = c.isDefinedBy[0]
 print()
