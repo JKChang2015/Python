@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
     <group id="Folder Repository, directory=, recursive=true, Auto-Update=true, version=2" prefer="public" xml:base="">
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="./abbc.owl" uri="abbc%20old.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="http://www.co-ode.org/ontologies/pizza/pizza.owl" uri="pizza.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="http://www.ebi.ac.uk/efo/efo.owl" uri="efo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="http://www.ebi.ac.uk/metabolights/jkchang/ontologies/untitled-ontology-174" uri="plant.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="http://www.ebi.ac.uk/metabolights/ontologies/" uri="demo.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="duplicate:http://www.ebi.ac.uk/metabolights/ontology" uri="acc.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="duplicate:http://www.ebi.ac.uk/metabolights/ontology" uri="Metabolights.owl"/>
-        <uri id="Automatically generated entry, Timestamp=1552390194122" name="http://www.semanticweb.org/jkchang/ontologies/" uri="infor.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="./abbc.owl" uri="abbc%20old.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="http://www.co-ode.org/ontologies/pizza/pizza.owl" uri="pizza.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="http://www.ebi.ac.uk/efo/efo.owl" uri="efo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="http://www.ebi.ac.uk/metabolights/jkchang/ontologies/untitled-ontology-174" uri="plant.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="http://www.ebi.ac.uk/metabolights/ontologies/" uri="demo.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="duplicate:http://www.ebi.ac.uk/metabolights/ontology" uri="Metabolights%202.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="duplicate:http://www.ebi.ac.uk/metabolights/ontology" uri="acc.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="duplicate:http://www.ebi.ac.uk/metabolights/ontology" uri="Metabolights%20old.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="duplicate:http://www.ebi.ac.uk/metabolights/ontology" uri="Metabolights.owl"/>
+        <uri id="Automatically generated entry, Timestamp=1554895424962" name="http://www.semanticweb.org/jkchang/ontologies/" uri="infor.owl"/>
     </group>
 </catalog>

@@ -29,6 +29,7 @@ with onto:
     MTBLS100.label = label
     MTBLS100.isDefinedBy = definition
 
+
 onto.save(file='fruit added.owl',format='rdfxml')
 
 # print(cls.isDefinedBy)
