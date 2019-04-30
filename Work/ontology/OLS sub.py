@@ -12,10 +12,6 @@ from owlready2 import urllib
 from Work.ontology.ontology_info import entity
 
 
-
-
-
-
 def OLSbranchSearch(query, branchName, ontoName):
     def getStartIRI(start, ontoName):
         url = 'https://www.ebi.ac.uk/ols/api/search?q=' + start + '&ontology=' + ontoName  # + '&exact=true&queryFields=label'
@@ -26,6 +22,7 @@ def OLSbranchSearch(query, branchName, ontoName):
         res = json_str['response']['docs'][0]['iri']
         # return res
         return urllib.parse.quote_plus(res)
+
     res = []
     branchIRI = getStartIRI(branchName, ontoName)
     query = query.replace(' ', '%20')
