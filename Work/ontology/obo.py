@@ -6,9 +6,8 @@
 
 import pronto
 
-onto = pronto.Ontology('../resources/psi-ms.obo')
-
-cl = onto['CHEBI:24867']
-print(cl.name)
+onto = pronto.Ontology('./resources/chebi_lite.obo')
+parents = onto['CHEBI:24867'].rparents()
+print(parents.name)
 
 
