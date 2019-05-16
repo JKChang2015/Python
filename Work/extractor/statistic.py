@@ -11,7 +11,7 @@ from oauth2client.service_account import ServiceAccountCredentials
 
 # Load spreadsheet from Google sheet
 scope = ['https://spreadsheets.google.com/feeds', 'https://www.googleapis.com/auth/drive']
-credentials = ServiceAccountCredentials.from_json_keyfile_name('../instance/metabolights-d3c2b1b419d0.json', scope)
+credentials = ServiceAccountCredentials.from_json_keyfile_name('../instance/metabolights-a804a09729cc.json', scope)
 gc = gspread.authorize(credentials)
 wks = gc.open('MTBLS Curation Status Log').sheet1
 content = wks.get_all_records()

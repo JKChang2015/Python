@@ -11,23 +11,36 @@ label = 'kiwi'
 definition = 'kind of green fruit'
 superclass = 'fruit'
 
-onto = get_ontology('../resources/plant.owl').load()
+onto = get_ontology('./resources/metabolights.owl').load()
 # onto = get_ontology('../resources/Metabolights.owl').load()
 
-with onto:
-    cls = onto.search_one(label = 'apple')
-    d = cls.isDefinedBy
-    print(d)
-
-
-with onto:
-    cls = onto.search_one(label=superclass)
-
-    class MTBLS100(cls):
+namespace = onto.get_namespace('http://www.ebi.ac.uk/metabolights/ontology/')
+with namespace:
+    cls = onto.search_one(label='role')
+    class MTBLS1001(cls):
         pass
-    print(type(MTBLS100))
-    MTBLS100.label = label
-    MTBLS100.isDefinedBy = definition
+    print(type(MTBLS1001))
+    MTBLS1001.label = 'papaya'
+    MTBLS1001.isDefinedBy = 'papaya def'
+
+
+for c in onto.classes():
+    print(c)
+
+# with onto:
+#     cls = onto.search_one(label = 'apple')
+#     d = cls.isDefinedBy
+#     print(d)
+#
+#
+# with onto:
+#     cls = onto.search_one(label=superclass)
+#
+#     class MTBLS100(cls):
+#         pass
+#     print(type(MTBLS100))
+#     MTBLS100.label = label
+#     MTBLS100.isDefinedBy = definition
 
 
 onto.save(file='fruit added.owl',format='rdfxml')
