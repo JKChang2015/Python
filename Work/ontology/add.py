@@ -1,8 +1,9 @@
-from owlready2 import get_ontology
 import types
 
+from owlready2 import get_ontology
 
-def addEntity(ontoPath,new_term, supclass, definition = None):
+
+def addEntity(ontoPath, new_term, supclass, definition=None):
     try:
         onto = get_ontology(ontoPath).load()
         id = getid(onto)
@@ -10,13 +11,12 @@ def addEntity(ontoPath,new_term, supclass, definition = None):
 
         with namespace:
             try:
-                cls = onto.search_one(label = supclass)
+                cls = onto.search_one(label=supclass)
             except:
                 try:
-                    cls = onto.search_one(iri= supclass)
-                except Exception as e :
+                    cls = onto.search_one(iri=supclass)
+                except Exception as e:
                     print(e)
-
 
             newEntity = types.new_class(id, (cls,))
             newEntity.label = new_term
@@ -29,7 +29,6 @@ def addEntity(ontoPath,new_term, supclass, definition = None):
 
     except Exception as e:
         print(e)
-
 
 
 def getid(onto):
@@ -45,4 +44,4 @@ def getid(onto):
     return id
 
 
-addEntity('./resources/metabolights.owl','papapa','role','papap def')
+# addEntity('./resources/metabolights.owl', 'papapa', 'role', 'papap def')
