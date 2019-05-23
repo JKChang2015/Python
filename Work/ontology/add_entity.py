@@ -64,3 +64,5 @@ def getid(onto):
     return id
 
 # addEntity('./resources/metabolights.owl', 'papapa', 'role', 'papap def')
+
+
