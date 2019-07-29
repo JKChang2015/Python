@@ -1,0 +1,82 @@
+StudyID	name	type	iri	Matching
+MTBLS544	chemical diversity	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS738	Chemical diversity	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS874	marine	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS885	preterm	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/efo/EFO_0003917
+MTBLS890	Ancient pipe	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS890	Caffeine	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/CHEBI_27732
+MTBLS890	Psychoactive metabolite	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS890	Residue analysis	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS890	Tobacco	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C891
+MTBLS891	untargeted metabolites	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279
+MTBLS893	Pisum	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCBITaxon_3887
+MTBLS894	"Acute coronary syndromes, Metabolomics, Biomarkers, non-targeted liquid-chromatography coupled with tandem mass spectrometry"	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS896	Medical Drugs	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS906	conditioning	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C41258
+MTBLS915	dksk	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS916	biomarker	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000194
+MTBLS916	systemic lupus erythematosus	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/DOID_9074
+MTBLS916	liquid chromatography	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C16435
+MTBLS916	mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/OBI_0000470
+MTBLS928	targeted metabolite quantification	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/MSIO_0000100
+MTBLS928	dietary biomarkers	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS928	urine biomarkers	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS930	lipidomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000069
+MTBLS930	Candida auris	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCBITaxon_498019
+MTBLS930	Candida albicans	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCBITaxon_5476
+MTBLS930	Antifungal resistance	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS933	toxicology	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://edamontology.org/topic_2840
+MTBLS937	mechanism of action	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C54680
+MTBLS937	proteomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	" ""http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000225"""
+MTBLS937	antimalarial drug discovery	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS937	2-aminomethylphenol	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS938	Arabidopsis	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCBITaxon_3701
+MTBLS938	glucosinolates	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/OMIT_0007150
+MTBLS938	carbohydrate metabolism	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://opendata.inra.fr/ATOL/ATOL_0000827
+MTBLS938	glycolysis	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C28152
+MTBLS938	Metabolic profiling	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS942	untargeted metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279
+MTBLS945	SLC10A1	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/OGG_3000006554
+MTBLS945	Hepatoblastoma	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C3728
+MTBLS946	ultra-performance liquid chromatography-mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000062
+MTBLS946	Congenital Heart Disease	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C95834
+MTBLS946	 Newborns	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/efo/EFO_0001372
+MTBLS946	 Kynurenine	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C129555
+MTBLS947	microgravity	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS952	untargeted metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279
+MTBLS952	depression	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/SYMP_0000022
+MTBLS952	UPLC-Q/TOF-MS	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS952	Platycodins Folium	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS954	matrix	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/efo/EFO_0008466
+MTBLS954	Adducts	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS954	Annotations	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C44272
+MTBLS963	Caenorhabditis elegans	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCBITaxon_6239
+MTBLS965	 Sex difference	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS965	Antibiotic exposure	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/PECO_0007041
+MTBLS965	NMR-based metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS970	Camelina	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/VTO_9011653
+MTBLS975	NMR	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://edamontology.org/topic_0593
+MTBLS983	Metabolite profiling	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/OBI_0000366
+MTBLS983	neuromodulation	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/XCO_0000520
+MTBLS983	Untargeted metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279
+MTBLS993	hypertension	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C3117
+MTBLS993	polyphenols	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/OMIT_0027668
+MTBLS993	renal damage	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS993	high salt intake	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS993	metabolic alterations	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS994	Ostreococcus lucimarinus	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS994	unterageted metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279
+MTBLS994	RCC802	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS994	Microalgae	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/OMIT_0027107
+MTBLS994	LC-MS	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/CHMO_0000524
+MTBLS997	HR-MAS NMR	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/CHMO_0002341
+MTBLS1015	lipidomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000069
+MTBLS1021	hypertension	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C3117
+MTBLS1021	lisinopril	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/CHEBI_43755
+MTBLS1042	Leishmania	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/NCIT_C123421
+MTBLS1042	Drug resistance	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/IDOMAL_0000027
+MTBLS1047	gas chromatography–mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS1047	external immune defensive secretion	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS1047	red palm weevil	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS1050	spectral deconvolution	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	
+MTBLS1050	metabolite identification	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/placeholder	http://purl.obolibrary.org/obo/MI_2131

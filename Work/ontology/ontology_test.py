@@ -9,6 +9,7 @@ import json
 
 import requests
 
+
 with open('../resources/ontology test URLs dev.txt') as fp:
     lines = fp.readlines()
 

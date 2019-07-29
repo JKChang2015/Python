@@ -6,36 +6,30 @@
 
 
 from owlready2 import *
-import multiprocessing as mp
-from fuzzywuzzy import fuzz
-from fuzzywuzzy import process
 
 onto = get_ontology('file://./resources/Metabolights.owl').load()
 
-labels =[]
+labels = []
 
 query = 'Lipid'
 
 for cls in onto.classes():
     labels.append(cls.label[0])
 
+print(labels)
 
 l = sorted(set(labels))
 
 duplicated = []
 
 for i in range(len(l)):
-    if(labels.count(l[i])>1):
+    if (labels.count(l[i]) > 1):
         duplicated.append(l[i])
 
 print(duplicated)
-
 
 # print(labels)
 # print('--'*20)
 #
 # res = process.extract(query,labels,scorer=fuzz.token_sort_ratio)
 # print(res)
-
-
-
