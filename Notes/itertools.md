@@ -5,6 +5,7 @@ https://docs.python.org/3/library/itertools.html
 
 * [1.Merging and Splitting Iterators](#1)
     * [1.1 chain()](#1.1)
+    * [1. 2 chain.from_iterable()](#1.2)
 * [2.Coverting Inputs](#2)
 * [3.Producing New Values](#3)
 * [4.Filtering](#4)
@@ -59,14 +60,27 @@ chain 接收多个可迭代对象作为参数，将它们『连接』起来，�
 from itertools import chain
 
 for item in chain([1,2,3],['a','b','c']):
-    print(item)
+    print(item, end = ' ')
 ```
 ```
-1
-2
-3
-a
-b
-c
+1 2 3 a b c
 ```
+<h5 id="1.2">1. 2 chain.from_iterable</h5>
 
+```python
+chain.from_iterable(iterable)
+```
+如果要组合的迭代不是全部事先声明的，或者需要延迟评估（evaluated ），可以使用chain.from_iterable（）来构造链.
+
+```python
+from itertools import chain
+def make_interable_to_chain():
+    yield[1,2,3]
+    yield['a','b','c']
+
+for i in chain.from_iterable(make_interable_to_chain()):
+    print(i,end=' ')
+```
+```
+1 2 3 a b c
+```
