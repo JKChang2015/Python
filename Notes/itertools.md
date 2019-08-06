@@ -52,6 +52,7 @@ _tee_dataobject
 ```python
 chain(iterable1, iterable2, iterable3, ...)
 ```
+
 chain 接收多个可迭代对象作为参数，将它们『连接』起来，作为一个新的迭代器返回。 迭代器按照顺序一一运行.
 
 ``` python
@@ -60,7 +61,7 @@ from itertools import chain
 for item in chain([1,2,3],['a','b','c']):
     print(item)
 ```
->>>
+>
 ```
 1
 2
