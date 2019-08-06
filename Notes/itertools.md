@@ -116,9 +116,23 @@ for i in zip([1,2,3,4,5],['a','b']):
 
 <br>
 如果想要处理所有数据（以长迭代器为准），使用zip_longest():
+
 ```python
 itertools.zip_longest(*iterables, fillvalue=None)
 ```
+
 默认情况下，zip_longest（）将任何缺失值替换为None。 使用fillvalue参数来使用不同的替代值。
 
+```python
+from itertools import zip_longest
+for i in zip_longest([1,2,3,4,5],['a','b','c']):
+    print(i)
+```
+```
+(1, 'a')
+(2, 'b')
+(3, 'c')
+(4, None)
+(5, None)
+```
 
