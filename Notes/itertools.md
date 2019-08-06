@@ -6,6 +6,7 @@ https://docs.python.org/3/library/itertools.html
 * [1.Merging and Splitting Iterators](#1)
     * [1.1 chain()](#1.1)
     * [1. 2 chain.from_iterable()](#1.2)
+    * [1. 3 zip() and zip_longest()](#1.3)
 * [2.Coverting Inputs](#2)
 * [3.Producing New Values](#3)
 * [4.Filtering](#4)
@@ -66,7 +67,7 @@ for item in chain([1,2,3],['a','b','c']):
 ```
 1 2 3 a b c
 ```
-
+<br><br>
 <h6 id="1.2">1. 2 chain.from_iterable</h6>
 
 ```python
@@ -86,3 +87,38 @@ for i in chain.from_iterable(make_interable_to_chain()):
 ```
 1 2 3 a b c
 ```
+<br><br>
+<h6 id="1.3">1. 3 zip() and zip_longest()</h6>
+
+```python
+zip(*iterables)
+```
+zip是python内置函数，返回一个迭代器，它将几个迭代器的元素组合成***元组***. 返回值是一个可以迭代的对象，每次遍历产生一个值。
+
+```python
+for i in zip([1,2,3],['a','b','c']):
+    print(i)
+```
+```
+(1, 'a')
+(2, 'b')
+(3, 'c')
+```
+当第一个输入迭代器耗尽时，zip（）停止。
+```python
+for i in zip([1,2,3,4,5],['a','b']):
+    print(i)
+```
+```
+(1, 'a')
+(2, 'b')
+```
+
+<br>
+如果想要处理所有数据（以长迭代器为准），使用zip_longest():
+```python
+itertools.zip_longest(*iterables, fillvalue=None)
+```
+默认情况下，zip_longest（）将任何缺失值替换为None。 使用fillvalue参数来使用不同的替代值。
+
+
