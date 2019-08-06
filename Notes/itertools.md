@@ -49,11 +49,9 @@ _tee_dataobject
 
 <h4 id="1">1.Merging and Splitting Iterators</h4>
 <h5 id="1.1">1. 1 chain 链式迭代</h5>
-
 ```python
 chain(iterable1, iterable2, iterable3, ...)
 ```
-
 chain 接收多个可迭代对象作为参数，将它们『连接』起来，作为一个新的迭代器返回。 迭代器按照顺序一一运行.
 
 ```python
