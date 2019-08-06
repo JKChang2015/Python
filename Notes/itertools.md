@@ -49,7 +49,8 @@ _tee_dataobject
 ----
 
 <h4 id="1">1.Merging and Splitting Iterators</h4>
-<h5 id="1.1">1. 1 chain 链式迭代</h5>
+
+<h5 style="color:blue" id="1.1">1. 1 chain 链式迭代</h5>
 
 ```python
 chain(iterable1, iterable2, iterable3, ...)
@@ -65,7 +66,8 @@ for item in chain([1,2,3],['a','b','c']):
 ```
 1 2 3 a b c
 ```
-<h5 id="1.2">1. 2 chain.from_iterable</h5>
+
+<h5 style="color:blue" id="1.2">1. 2 chain.from_iterable</h5>
 
 ```python
 chain.from_iterable(iterable)
