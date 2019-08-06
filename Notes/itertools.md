@@ -48,7 +48,7 @@ _tee_dataobject
 ----
 
 <h4 id="1">1.Merging and Splitting Iterators</h4>
-<h6 id="1.1">1. 1 chain 链式迭代</h6>
+<h5 id="1.1">1. 1 chain 链式迭代</h5>
 ```python
 chain(iterable1, iterable2, iterable3, ...)
 ```
@@ -60,7 +60,7 @@ from itertools import chain
 for item in chain([1,2,3],['a','b','c']):
     print(item)
 ```
->
+>>>
 ```
 1
 2
