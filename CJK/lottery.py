@@ -7,7 +7,7 @@
 import random
 
 a = 0
-while (a<7):
+while (a<6):
     num = random.sample(range(1,48),5)
     star = random.sample(range(1,11),1)
     print(sorted(num) + sorted(star))

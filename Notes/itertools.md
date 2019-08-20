@@ -5,9 +5,12 @@ https://docs.python.org/3/library/itertools.html
 
 * [1.Merging and Splitting Iterators](#1)
     * [1.1 chain()](#1.1)
-    * [1. 2 chain.from_iterable()](#1.2)
-    * [1. 3 zip() and zip_longest()](#1.3)
+    * [1.2 chain.from_iterable()](#1.2)
+    * [1.3 zip() and zip_longest()](#1.3)
+    * [1.4 islice()](#1.4)
+    * [1.5 tee()](#1.5)
 * [2.Coverting Inputs](#2)
+    * [2. 1 map() and starmap()](#2.1)
 * [3.Producing New Values](#3)
 * [4.Filtering](#4)
 * [5.Grouping Data](#5)
@@ -134,5 +137,77 @@ for i in zip_longest([1,2,3,4,5],['a','b','c']):
 (3, 'c')
 (4, None)
 (5, None)
+```
+
+<br><br>
+<h6 id="1.4">1. 4 islice</h6>
+
+``` python
+itertools.islice(iterable, stop)
+
+itertools.islice(iterable, start, stop[, step])
+```
+islice()函数返回一个迭代器，通过**索引**从输入迭代器中挑选结果输出
+
+```python
+from itertools import islice
+
+for i in islice(range(10),5):
+    print(i,end= ' ')
+    
+for i in islice(range(10),5,10):
+    print(i,end= ' ')
+
+for i in islice(range(100), 0,100,10):
+    print(i,end= ' ')
+```
+```
+0 1 2 3 4 
+5 6 7 8 9 
+0 10 20 30 40 50 60 70 80 90 
+```
+<br><br>
+<h6 id="1.5">1. 5 tee</h6>
+
+``` python
+itertools.tee(iterable, n=2)
+```
+tee() 函数根据单个原始输入返回几个独立的迭代器。当复制到输出迭代后，原来的迭代器会被视为“消耗”掉。
+```python
+from itertools import tee,islice,count
+
+r = islice(count(),5)
+i1,i2 = tee(r)
+print('i1:', list(i1))
+print('i2:', list(i2))
+print('r:',list(r))
+```
+```
+i1: [0, 1, 2, 3, 4]
+i2: [0, 1, 2, 3, 4]
+r: []
+```
+----
+
+
+----
+
+<h3 id="2">2.Coverting Inputs</h3>
+
+<h6 id="2.1">2. 1 map and starmap</h6>
+
+```python
+map(function_to_apply, list_of_inputs)
+```
+
+
+```python
+from itertools import chain
+
+for item in chain([1,2,3],['a','b','c']):
+    print(item, end = ' ')
+```
+```
+1 2 3 a b c
 ```
 

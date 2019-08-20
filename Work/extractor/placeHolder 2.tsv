@@ -1,0 +1,139 @@
+StudyID	name	matched to	matched type	matched iri
+MTBLS891	untargeted metabolites	untargeted metabolites	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000279
+MTBLS946	ultra-performance liquid chromatography-mass spectrometry	ultra-performance liquid chromatography-mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000062
+MTBLS1077	tracer-based metabolomics	tracer-based metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000274
+MTBLS1091	inflammation	inflammation	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000105
+MTBLS1094	inflammation	inflammation	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000105
+MTBLS1066	high-performance liquid chromatography-mass spectrometry	high-performance liquid chromatography-mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000042
+MTBLS1066	Breast Cancer	breast cancer	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000075
+MTBLS1117	zinc	Zinc	DRON	http://purl.obolibrary.org/obo/DRON_00723191
+MTBLS1066	Xenograft	Xenograft	NCIT	http://purl.obolibrary.org/obo/NCIT_C12932
+MTBLS1118	vagina	Vagina	BTO	http://purl.obolibrary.org/obo/BTO_0000243
+MTBLS933	toxicology	Toxicology	SWO	http://edamontology.org/topic_2840
+MTBLS916	systemic lupus erythematosus	Systemic lupus erythematosus	BAO	http://purl.obolibrary.org/obo/DOID_9074
+MTBLS1099	systemic acquired resistance	Systemic acquired resistance	GO	http://purl.obolibrary.org/obo/GO_0009627
+MTBLS945	SLC10A1	Slc10a1	OGG	http://purl.obolibrary.org/obo/OGG_3000006554
+MTBLS937	proteomics	Proteomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000225
+MTBLS993	polyphenols	Polyphenols	OMIT	http://purl.obolibrary.org/obo/OMIT_0027668
+MTBLS1063	plasma	Plasma	UBERON	http://purl.obolibrary.org/obo/UBERON_0001969
+MTBLS893	Pisum	Pisum	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_3887
+MTBLS1086	Parmotrema	Parmotrema	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_172634
+MTBLS1104	osmolyte	Osmolyte	PECO	http://purl.obolibrary.org/obo/CHEBI_25728
+MTBLS1085	organ preservation	Organ preservation	OMIT	http://purl.obolibrary.org/obo/OMIT_0010938
+MTBLS1104	Orbitrap	Orbitrap	MS	http://purl.obolibrary.org/obo/MS_1000484
+MTBLS983	neuromodulation	Neuromodulation	XCO	http://purl.obolibrary.org/obo/XCO_0000520
+MTBLS994	Microalgae	Microalgae	OMIT	http://purl.obolibrary.org/obo/OMIT_0027107
+MTBLS719	Metabolomics	Metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000270
+MTBLS1050	metabolite identification	Metabolite identification	MI	http://purl.obolibrary.org/obo/MI_2131
+MTBLS937	mechanism of action	Mechanism of action	NCIT	http://purl.obolibrary.org/obo/NCIT_C54680
+MTBLS916	mass spectrometry	Mass spectrometry	OBI	http://purl.obolibrary.org/obo/OBI_0000470
+MTBLS1075	mass spectrometry	Mass spectrometry	OBI	http://purl.obolibrary.org/obo/OBI_0000470
+MTBLS1076	Mass Spectrometry	Mass spectrometry	OBI	http://purl.obolibrary.org/obo/OBI_0000470
+MTBLS1021	lisinopril	Lisinopril	DRON	http://purl.obolibrary.org/obo/CHEBI_43755
+MTBLS930	lipidomics	Lipidomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000069
+MTBLS1015	lipidomics	Lipidomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000069
+MTBLS1059	Lipidomics	Lipidomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000069
+MTBLS993	hypertension	Hypertension	NCIT	http://purl.obolibrary.org/obo/NCIT_C3117
+MTBLS1021	hypertension	Hypertension	NCIT	http://purl.obolibrary.org/obo/NCIT_C3117
+MTBLS1090	hydrolysis	Hydrolysis	REX	http://purl.obolibrary.org/obo/REX_0000414
+MTBLS945	Hepatoblastoma	Hepatoblastoma	NCIT	http://purl.obolibrary.org/obo/NCIT_C3728
+MTBLS1085	heart transplantation	Heart transplantation	NCIT	http://purl.obolibrary.org/obo/NCIT_C15246
+MTBLS938	glycolysis	Glycolysis	NCIT	http://purl.obolibrary.org/obo/NCIT_C28152
+MTBLS1145	Glycerol	Glycerol	SIBO	http://purl.obolibrary.org/obo/SIBO_0000001
+MTBLS938	glucosinolates	Glucosinolates	OMIT	http://purl.obolibrary.org/obo/OMIT_0007150
+MTBLS1104	GC-MS	Gc-ms	CHMO	http://purl.obolibrary.org/obo/CHMO_0000497
+MTBLS1090	fingerprinting	Fingerprinting	AFO	http://purl.allotrope.org/ontologies/process#AFP_0002691
+MTBLS1076	Faeces	Faeces	IDOMAL	http://purl.obolibrary.org/obo/IDOMAL_0002049
+MTBLS1042	Drug resistance	Drug resistance	IDOMAL	http://purl.obolibrary.org/obo/IDOMAL_0000027
+MTBLS952	depression	Depression	ONTONEO	http://purl.obolibrary.org/obo/SYMP_0000022
+MTBLS946	Congenital Heart Disease	Congenital heart disease	NCIT	http://purl.obolibrary.org/obo/NCIT_C95834
+MTBLS906	conditioning	Conditioning	NCIT	http://purl.obolibrary.org/obo/NCIT_C41258
+MTBLS938	carbohydrate metabolism	Carbohydrate metabolism	ATOL	http://opendata.inra.fr/ATOL/ATOL_0000827
+MTBLS930	Candida albicans	Candida albicans	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_5476
+MTBLS970	Camelina	Camelina	VTO	http://purl.obolibrary.org/obo/VTO_9011653
+MTBLS890	Caffeine	Caffeine	EO	http://purl.obolibrary.org/obo/EO_0007524
+MTBLS916	biomarker	Biomarker	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000194
+MTBLS956	Bacterial Meningitis	Bacterial meningitis	NCIT	http://purl.obolibrary.org/obo/NCIT_C118297
+MTBLS1145	Aquaculture	Aquaculture	OMIT	http://purl.obolibrary.org/obo/OMIT_0018055
+MTBLS965	Antibiotic exposure	Antibiotic exposure	PECO	http://purl.obolibrary.org/obo/PECO_0007041
+MTBLS954	matrix	*matrix-assisted laser desorption-ionisation time-of-flight mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000049
+MTBLS874	marine	*marine sponge reef	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000127
+MTBLS916	liquid chromatography	*liquid chromatography-tandem mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000045
+MTBLS1104	gas chromatography	*gas chromatography time-of-flight mass spectrometry	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000041
+MTBLS890	Tobacco	*Tobacco Smoke	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000229
+MTBLS1075	Species Identification	*Species identification method	MIRO	http://purl.obolibrary.org/obo/MIRO_30000005
+MTBLS885	preterm	*Preterm infant	GENEPIO	http://purl.obolibrary.org/obo/NCIT_C49642
+MTBLS994	Ostreococcus lucimarinus	*Ostreococcus lucimarinus virus olv3	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_754062
+MTBLS975	NMR	*Nmr spectroscopy	OBI	http://purl.obolibrary.org/obo/OBI_0000623
+MTBLS983	Metabolite profiling	*Metabolite profiling assay	ENM	http://purl.obolibrary.org/obo/OBI_0000366
+MTBLS1042	Leishmania	*Leishmania infantum	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_5671
+MTBLS994	LC-MS	*LC-MS label-free quantitation analysis	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000180
+MTBLS1086	fatty acid	*Fatty Acid Metabolism	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000210
+MTBLS938	Arabidopsis	*Arabidopsis thaliana	NCBITAXON	http://purl.obolibrary.org/obo/NCBITaxon_3702
+MTBLS180	high sucrose diet	 	 	 
+MTBLS544	chemical diversity	 	 	 
+MTBLS600	Mitofusin 2 (Mfn2)	 	 	 
+MTBLS738	Chemical diversity	 	 	 
+MTBLS890	Ancient pipe	 	 	 
+MTBLS890	Psychoactive metabolite	 	 	 
+MTBLS890	Residue analysis	 	 	 
+MTBLS894	Acute coronary syndromes, Metabolomics, Biomarkers, non-targeted liquid-chromatography coupled with tandem mass spectrometry	 	 	 
+MTBLS896	Medical Drugs	 	 	 
+MTBLS915	dksk	 	 	 
+MTBLS928	targeted metabolite quantification	 	 	 
+MTBLS928	dietary biomarkers	 	 	 
+MTBLS928	urine biomarkers	 	 	 
+MTBLS930	Candida auris	 	 	 
+MTBLS930	Antifungal resistance	 	 	 
+MTBLS937	antimalarial drug discovery	 	 	 
+MTBLS937	2-aminomethylphenol	 	 	 
+MTBLS938	Metabolic profiling	 	 	 
+MTBLS942	untargeted metabolomics	 	 	 
+MTBLS946	 Newborns	 	 	 
+MTBLS946	 Kynurenine	 	 	 
+MTBLS947	microgravity	 	 	 
+MTBLS952	untargeted metabolomics	 	 	 
+MTBLS952	UPLC-Q/TOF-MS	 	 	 
+MTBLS952	Platycodins Folium	 	 	 
+MTBLS954	Adducts	 	 	 
+MTBLS954	Annotations	 	 	 
+MTBLS965	 Sex difference	 	 	 
+MTBLS965	NMR-based metabolomics	 	 	 
+MTBLS983	Untargeted metabolomics	 	 	 
+MTBLS993	renal damage	 	 	 
+MTBLS993	high salt intake	 	 	 
+MTBLS993	metabolic alterations	 	 	 
+MTBLS994	unterageted metabolomics	 	 	 
+MTBLS994	RCC802	 	 	 
+MTBLS997	HR-MAS NMR	 	 	 
+MTBLS1050	spectral deconvolution	 	 	 
+MTBLS1063	UHPLC	 	 	 
+MTBLS1066	Untargeted Metabolomics	 	 	 
+MTBLS1066	reversed phase chromatography	 	 	 
+MTBLS1066	hydrophilic interaction liquid chromatography	 	 	 
+MTBLS1075	Faecal analysis	 	 	 
+MTBLS1075	Rodents	 	 	 
+MTBLS1076	Faecal analysis	 	 	 
+MTBLS1076	Rodents	 	 	 
+MTBLS1079	GCxGC-MS	 	 	 
+MTBLS1085	ischaemia reperfusion injury	 	 	 
+MTBLS1086	chemotaxonomy	 	 	 
+MTBLS1090	feature analysis	 	 	 
+MTBLS1090	glycosylated flavonoids	 	 	 
+MTBLS1092	LCPUFA	 	 	 
+MTBLS1092	childhood asthma	 	 	 
+MTBLS1099	 Solanum lycopersicum	 	 	 
+MTBLS1099	 Engineering defense	 	 	 
+MTBLS1104	salt stress	 	 	 
+MTBLS1117	Simplisetia aequisetis	 	 	 
+MTBLS1117	estuarine polychaete	 	 	 
+MTBLS1117	boscolid	 	 	 
+MTBLS1121	Colon cancer, Sex-differences, Metabolomics	 	 	 
+MTBLS1122	Colon cancer, Sex-differences, Metabolomics	 	 	 
+MTBLS1124	Colon cancer, Sex-differences, Metabolomics	 	 	 
+MTBLS1129	Colon cancer, Sex-differences, Metabolomics	 	 	 
+MTBLS1130	Colon cancer, Sex-differences, Metabolomics	 	 	 
+MTBLS1145	Aquafeed	 	 	 
+MTBLS1145	European seabass	 	 	 
+MTBLS1145	NMR-Metabolomics	 	 	 
+MTBLS1150	 untargeted metabolomics	 	 	 
