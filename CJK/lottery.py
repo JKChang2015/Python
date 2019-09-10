@@ -6,19 +6,19 @@
 
 import random
 
-a = 0
-while (a<6):
-    num = random.sample(range(1,48),5)
-    star = random.sample(range(1,11),1)
-    print(sorted(num) + sorted(star))
-    a += 1
-
-
 # a = 0
-# while (a<5):
-#     num = random.sample(range(1,60),6)
-#     print(sorted(num))
+# while (a<6):
+#     num = random.sample(range(1,48),5)
+#     star = random.sample(range(1,11),1)
+#     print(sorted(num) + sorted(star))
 #     a += 1
+
+
+a = 0
+while (a<5):
+    num = random.sample(range(1,60),6)
+    print(sorted(num))
+    a += 1
 
 
 # a = 0

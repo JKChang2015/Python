@@ -14,7 +14,7 @@ from Work.extractor import studyList
 
 
 def matchOnto(term):
-    url = 'http://localhost:5005/metabolights/ws/ebi-internal/ontology?term=' + term.replace(' ', "+")
+    url = 'https://wwwdev.ebi.ac.uk/metabolights/ws/ebi-internal/ontology?term=' + term.replace(' ', "+")
     request = urllib.request.Request(url)
     response = urllib.request.urlopen(request)
     content = response.read().decode('utf-8')
@@ -24,8 +24,8 @@ def matchOnto(term):
         if res['annotationValue'].lower() == term.lower():
             return res['annotationValue'], res['termSource']['name'], res['termAccession']
 
-        if res['annotationValue'].lower().startswith(term.lower()):
-            return "*" + res['annotationValue'], res['termSource']['name'], res['termAccession']
+        # if res['annotationValue'].lower().startswith(term.lower()):
+        #     return "*" + res['annotationValue'], res['termSource']['name'], res['termAccession']
 
     return ' ', ' ', ' '
 
@@ -93,6 +93,6 @@ for r in res:
     df = df.append(temp, ignore_index=True)
     df = df.sort_values(by=['matched to', 'matched type', 'matched iri'], ascending=False)
 #
-df.to_csv('placeHolder 2.tsv', sep='\t', index=False)
+df.to_csv('placeHolder 3.tsv', sep='\t', index=False)
 #
 # print()

@@ -1,0 +1,96 @@
+StudyID	name	matched to	matched type	matched iri
+MTBLS1077	tracer-based metabolomics	tracer-based metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000274
+MTBLS1168	high fat diet	high fat diet	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000101
+MTBLS1161	priming	Priming	MFOMD	http://purl.obolibrary.org/obo/NBO_0000200
+MTBLS1159	Mixture	Mixture	NCIT	http://purl.obolibrary.org/obo/NCIT_C45305
+MTBLS994	Microalgae	Microalgae	OMIT	http://purl.obolibrary.org/obo/OMIT_0027107
+MTBLS1161	metabolomics	Metabolomics	MTBLS	http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000270
+MTBLS1168	hypercholesterolemia	Hypercholesterolemia	NCIT	http://purl.obolibrary.org/obo/NCIT_C37967
+MTBLS1165	Glufosinate	Glufosinate	TO	http://purl.obolibrary.org/obo/CHEBI_52136
+MTBLS1161	glucosinolates	Glucosinolates	OMIT	http://purl.obolibrary.org/obo/OMIT_0007150
+MTBLS1161	GC-MS	Gc-ms	CHMO	http://purl.obolibrary.org/obo/CHMO_0000497
+MTBLS1165	GC-MS	Gc-ms	CHMO	http://purl.obolibrary.org/obo/CHMO_0000497
+MTBLS896	Drug metabolism	Drug metabolism	NCIT	http://purl.obolibrary.org/obo/NCIT_C26633
+MTBLS1161	Brassica nigra	Brassica nigra	NCIT	http://purl.obolibrary.org/obo/NCIT_C73949
+MTBLS180	high sucrose diet	 	 	 
+MTBLS544	chemical diversity	 	 	 
+MTBLS600	Mitofusin 2 (Mfn2)	 	 	 
+MTBLS738	Chemical diversity	 	 	 
+MTBLS874	marine	 	 	 
+MTBLS885	preterm	 	 	 
+MTBLS890	Ancient pipe	 	 	 
+MTBLS890	Psychoactive metabolite	 	 	 
+MTBLS890	Residue analysis	 	 	 
+MTBLS890	Tobacco	 	 	 
+MTBLS894	Non-Targeted Liquid-Chromatography Coupled With Tandem Mass Spectrometry	 	 	 
+MTBLS915	dksk	 	 	 
+MTBLS916	liquid chromatography	 	 	 
+MTBLS928	targeted metabolite quantification	 	 	 
+MTBLS928	dietary biomarkers	 	 	 
+MTBLS928	urine biomarkers	 	 	 
+MTBLS930	Candida auris	 	 	 
+MTBLS930	Antifungal resistance	 	 	 
+MTBLS937	antimalarial drug discovery	 	 	 
+MTBLS937	2-aminomethylphenol	 	 	 
+MTBLS938	Arabidopsis	 	 	 
+MTBLS938	Metabolic profiling	 	 	 
+MTBLS942	untargeted metabolomics	 	 	 
+MTBLS946	 Newborns	 	 	 
+MTBLS946	 Kynurenine	 	 	 
+MTBLS947	microgravity	 	 	 
+MTBLS952	UPLC-Q/TOF-MS	 	 	 
+MTBLS952	Platycodins Folium	 	 	 
+MTBLS954	matrix	 	 	 
+MTBLS954	Adducts	 	 	 
+MTBLS954	Annotations	 	 	 
+MTBLS965	 Sex difference	 	 	 
+MTBLS965	NMR-based metabolomics	 	 	 
+MTBLS975	NMR	 	 	 
+MTBLS983	Metabolite profiling	 	 	 
+MTBLS983	Untargeted metabolomics	 	 	 
+MTBLS993	renal damage	 	 	 
+MTBLS993	high salt intake	 	 	 
+MTBLS993	metabolic alterations	 	 	 
+MTBLS994	Ostreococcus lucimarinus	 	 	 
+MTBLS994	RCC802	 	 	 
+MTBLS997	HR-MAS NMR	 	 	 
+MTBLS1042	Leishmania	 	 	 
+MTBLS1050	spectral deconvolution	 	 	 
+MTBLS1063	UHPLC	 	 	 
+MTBLS1066	reversed phase chromatography	 	 	 
+MTBLS1066	hydrophilic interaction liquid chromatography	 	 	 
+MTBLS1075	Faecal analysis	 	 	 
+MTBLS1075	Species Identification	 	 	 
+MTBLS1075	Rodents	 	 	 
+MTBLS1076	Faecal analysis	 	 	 
+MTBLS1076	Rodents	 	 	 
+MTBLS1079	GCxGC-MS	 	 	 
+MTBLS1085	ischaemia reperfusion injury	 	 	 
+MTBLS1086	fatty acid	 	 	 
+MTBLS1086	chemotaxonomy	 	 	 
+MTBLS1090	feature analysis	 	 	 
+MTBLS1090	glycosylated flavonoids	 	 	 
+MTBLS1092	LCPUFA	 	 	 
+MTBLS1092	childhood asthma	 	 	 
+MTBLS1099	 Solanum lycopersicum	 	 	 
+MTBLS1099	 Engineering defense	 	 	 
+MTBLS1104	gas chromatography	 	 	 
+MTBLS1104	salt stress	 	 	 
+MTBLS1117	Simplisetia aequisetis	 	 	 
+MTBLS1117	estuarine polychaete	 	 	 
+MTBLS1117	boscolid	 	 	 
+MTBLS1121	sex-difference	 	 	 
+MTBLS1122	Sex-Differences	 	 	 
+MTBLS1124	Sex-Differences	 	 	 
+MTBLS1129	Sex-Differences	 	 	 
+MTBLS1130	Sex-Differences	 	 	 
+MTBLS1161	methyl jasmonate	 	 	 
+MTBLS1161	growth-defence allocation	 	 	 
+MTBLS1161	herbivore-induced responses	 	 	 
+MTBLS1161	leaf ontogeny	 	 	 
+MTBLS1161	LC-MS	 	 	 
+MTBLS1165	Buffalo grass	 	 	 
+MTBLS1165	herbicide-resistance	 	 	 
+MTBLS1168	Bacillus sp. DU-106	 	 	 
+MTBLS1168	rattus norregicus	 	 	 
+MTBLS1168	colonic contents	 	 	 
