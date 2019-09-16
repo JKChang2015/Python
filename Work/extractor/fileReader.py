@@ -8,9 +8,10 @@ import pandas as pd
 
 import config
 
+import re
+
 
 def investigation_reader(studyID, prefix):
-    import re
     import paramiko
 
     client = paramiko.SSHClient()
@@ -22,6 +23,29 @@ def investigation_reader(studyID, prefix):
     address = '/net/isilonP/public/rw/homes/tc_cm01/metabolights/prod/studies/stage/private/' + studyID + '/i_Investigation.txt'
     try:
         with sftp_client.open(address) as f:
+            res = []
+            for line in f.readlines():
+                if line.startswith(tuple([ x +'\t' for x in prefix])):
+                    content = list(re.findall(r'"([^"]*)"', line))  # extract content after prefix in " "
+                    res.append(content)
+
+            res = list(zip(*res))
+
+            result = []
+            for pair in res:
+                d = dict(zip(prefix,pair))
+                d['studyID'] = studyID
+                result.append(d)
+            return result
+    except:
+        print('Fail to read investigation file from ' + studyID)
+
+
+
+def investigation_local_reader(studyID, prefix):
+    address = r'/Volumes/GoogleDrive/My Drive/study_metadata_backup/' + studyID + '/i_Investigation.txt'
+    try:
+        with open(address) as f:
             res = []
             for line in f.readlines():
                 if line.startswith(tuple([ x +'\t' for x in prefix])):

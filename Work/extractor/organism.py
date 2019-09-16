@@ -9,7 +9,7 @@
 from Work.extractor import fileReader, studyList
 import pandas as pd
 
-studyIDs = studyList.getStudyIDs(publicStudy=True)
+studyIDs = studyList.getStudyIDs()
 
 print(len(studyIDs))
 
@@ -21,24 +21,27 @@ res = []
 for studyID in studyIDs:
     print(studyID)
     studyPath = folderPath + studyID + '/'
-    sample_list = fileReader.investigation_reader(studyID,['Study File Name'])
-    organism = []
+    try:
+        sample_list = fileReader.investigation_local_reader(studyID,['Study File Name'])
+        organism = []
 
-    for sample in sample_list:
-        filename = sample['Study File Name']
-        filePath = studyPath + filename
-        try:
-            organism += list(set(fileReader.sample_reader(filePath,'Characteristics[Organism]')))
-        except:
-            organism += list(set(fileReader.sample_reader(filePath, 'Characteristics[organism]')))
-        organism = list(set(organism))
+        for sample in sample_list:
+            filename = sample['Study File Name']
+            filePath = studyPath + filename
+            try:
+                organism += list(set(fileReader.sample_reader(filePath,'Characteristics[Organism]')))
+            except:
+                organism += list(set(fileReader.sample_reader(filePath, 'Characteristics[organism]')))
+            organism = list(set(organism))
 
 
-    if len(organism) >= 1:
-        temp = ','.join(organism)
-        res.append({'studyID':studyID, 'organism': temp})
-    else:
-        print(studyID + '《=========')
+        if len(organism) >= 1:
+            temp = ','.join(organism)
+            res.append({'studyID':studyID, 'organism': temp})
+        else:
+            print(studyID + '《=========')
+    except:
+        print('fail to open ' + studyID)
 
 
 df = pd.DataFrame(res)
@@ -61,5 +64,5 @@ for index, row in df.iterrows():
 df_split = df_split.drop(index = df_split[df_split['organism'].isin(['blank','reference compound'])].index)
 
 
-df_split.to_csv('organism.tsv',sep='\t',index=False)
+df_split.to_csv('organismss.tsv',sep='\t',index=False)
 
