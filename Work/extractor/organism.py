@@ -5,9 +5,9 @@
 # Description: extract organism from each of study sample file
 
 
+import pandas as pd
 
 from Work.extractor import fileReader, studyList
-import pandas as pd
 
 studyIDs = studyList.getStudyIDs()
 
@@ -16,37 +16,33 @@ print(len(studyIDs))
 folderPath = r'/Volumes/GoogleDrive/My Drive/study_metadata_backup/'
 res = []
 
-
-
 for studyID in studyIDs:
     print(studyID)
     studyPath = folderPath + studyID + '/'
     try:
-        sample_list = fileReader.investigation_local_reader(studyID,['Study File Name'])
+        sample_list = fileReader.investigation_local_reader(studyID, ['Study File Name'])
         organism = []
 
         for sample in sample_list:
             filename = sample['Study File Name']
             filePath = studyPath + filename
             try:
-                organism += list(set(fileReader.sample_reader(filePath,'Characteristics[Organism]')))
+                organism += list(set(fileReader.sample_reader(filePath, 'Characteristics[Organism]')))
             except:
                 organism += list(set(fileReader.sample_reader(filePath, 'Characteristics[organism]')))
             organism = list(set(organism))
 
-
         if len(organism) >= 1:
             temp = ','.join(organism)
-            res.append({'studyID':studyID, 'organism': temp})
+            res.append({'studyID': studyID, 'organism': temp})
         else:
             print(studyID + '《=========')
     except:
         print('fail to open ' + studyID)
 
-
 df = pd.DataFrame(res)
 
-df = df[['studyID','organism']]
+df = df[['studyID', 'organism']]
 
 df_split = pd.DataFrame(columns=['studyID', 'organism'])
 
@@ -61,8 +57,6 @@ for index, row in df.iterrows():
     except:
         pass
 
-df_split = df_split.drop(index = df_split[df_split['organism'].isin(['blank','reference compound'])].index)
+df_split = df_split.drop(index=df_split[df_split['organism'].isin(['blank', 'reference compound'])].index)
 
-
-df_split.to_csv('organismss.tsv',sep='\t',index=False)
-
+df_split.to_csv('organismss.tsv', sep='\t', index=False)

@@ -10,7 +10,7 @@ import json
 import requests
 
 
-with open('../resources/ontology test URLs dev.txt') as fp:
+with open('../resources/ontology test URLs.txt') as fp:
     lines = fp.readlines()
 
     for line in lines:
