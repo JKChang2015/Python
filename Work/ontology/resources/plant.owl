@@ -23,6 +23,62 @@
     
 
 
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000001 -->
+
+    <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000001">
+        <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000005"/>
+        <rdfs:isDefinedBy>red apple flower def</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">apple red flower</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000002 -->
+
+    <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000002">
+        <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000005"/>
+        <rdfs:isDefinedBy>yellow apple flower def</rdfs:isDefinedBy>
+        <rdfs:label xml:lang="en">apple yellow flower</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000003 -->
+
+    <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000003">
+        <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/apple"/>
+        <rdfs:label xml:lang="en">green apple</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000004 -->
+
+    <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000004">
+        <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/apple"/>
+        <rdfs:label xml:lang="en">red apple</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000005 -->
+
+    <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000005">
+        <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/flower"/>
+        <rdfs:label xml:lang="en">apple</rdfs:label>
+    </owl:Class>
+    
+
+
+    <!-- http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000006 -->
+
+    <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000006">
+        <rdfs:subClassOf rdf:resource="http://www.ebi.ac.uk/metabolights/ontology/MTBLS_000005"/>
+        <rdfs:label xml:lang="en">beatiful apple flower</rdfs:label>
+    </owl:Class>
+    
+
+
     <!-- http://www.ebi.ac.uk/metabolights/ontology/apple -->
 
     <owl:Class rdf:about="http://www.ebi.ac.uk/metabolights/ontology/apple">
