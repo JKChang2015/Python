@@ -1,3 +1,3 @@
 # Python
 ---
-![Alt text](/resources/python.jpg)
+![Alt text](/resources/python2.jpg)
