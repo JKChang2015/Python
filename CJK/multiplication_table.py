@@ -97,37 +97,43 @@
 # # print none is none
 # print(c)
 
+#
+# def extract_extension(fileName):
+#     # write your code here
+#     if fileName.rfind(".") > 0:
+#         rindex = fileName.rfind(".")
+#         return fileName[rindex + 1:]
+#     else:
+#         return " "
+#
+#
+# def extract_extension2(fileName):
+#     l = fileName.split('.')
+#     last = l[-1]
+#     if last == fileName:
+#         return " "
+#     else:
+#         return last
+#
+#
+# def extract_extension3(fileName):
+#     try:
+#         r_index = fileName.rindex('.')
+#         return fileName[r_index + 1:]
+#     except:
+#         return ' '
+#
+#
+# print(extract_extension3('information.txt'))
+# # output should be: txt
+# print(extract_extension3('My.heart.will.go.on.mp3'))
+# # output should be: mp3
+# print(extract_extension3('data.md'))
+# # output should be: md
+# print(extract_extension3('data'))
 
-def extract_extension(fileName):
-    # write your code here
-    if fileName.rfind(".") > 0:
-        rindex = fileName.rfind(".")
-        return fileName[rindex + 1:]
-    else:
-        return " "
+def now():
+    print('2019-12-04')
 
-
-def extract_extension2(fileName):
-    l = fileName.split('.')
-    last = l[-1]
-    if last == fileName:
-        return " "
-    else:
-        return last
-
-
-def extract_extension3(fileName):
-    try:
-        r_index = fileName.rindex('.')
-        return fileName[r_index + 1:]
-    except:
-        return ' '
-
-
-print(extract_extension3('information.txt'))
-# output should be: txt
-print(extract_extension3('My.heart.will.go.on.mp3'))
-# output should be: mp3
-print(extract_extension3('data.md'))
-# output should be: md
-print(extract_extension3('data'))
+f = now
+f()
