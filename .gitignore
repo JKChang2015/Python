@@ -92,8 +92,7 @@ ENV/
 large file/
 
 #.idea
-.idea/workspace.xml 
-.DS_Store
+.idea
 .DS_Store
 
 #config
