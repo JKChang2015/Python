@@ -9,10 +9,6 @@ import numpy as np
 import pandas as pd
 
 
-
-
-
-
 def func(pct, allvals):
     absolute = int(pct / 100. * np.sum(allvals))
     return "{:.1f}%\n({:d})".format(pct, absolute)
