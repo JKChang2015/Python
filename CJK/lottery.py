@@ -23,7 +23,7 @@ def euromillions():
 
 a = 0
 while (a < 3):
-    num, star = set_for_life()
+    num, star = euromillions()
     print(num + star)
     a += 1
 # a = 0
