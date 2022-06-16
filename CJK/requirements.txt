@@ -135,7 +135,7 @@ neotime==1.7.4
 networkx==2.4
 nltk==3.4.5
 nose==1.3.7
-notebook==6.0.2
+notebook==6.4.12
 notion==0.0.24
 numba==0.46.0
 numexpr==2.7.0
