@@ -127,7 +127,7 @@ multipledispatch==0.6.0
 mysqlclient==1.4.6
 mzml2isa==1.0.3
 navigator-updater==0.2.1
-nbconvert==5.6.1
+nbconvert==6.5.1
 nbformat==4.4.0
 neo4j-driver==1.7.6
 neobolt==1.7.17
